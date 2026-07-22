@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1373,
+  "file_count": 1406,
   "files": [
     {
       "bytes": 707,
@@ -1155,17 +1155,27 @@
     {
       "bytes": 943,
       "path": "dynamic/AI/2026-07-22 15-51-07 MCP写入频率与边界_3b26dec2abbd.md",
-      "sha256": "833ee880cb624f42963fe5c97f448df76ff8689f8f6492f8a4c6f93b38a41281"
+      "sha256": "c9a014b25c3db7c86d7501d151e5eba2a08d3c42672abdcbd8e1cf7c6504f542"
     },
     {
       "bytes": 828,
       "path": "dynamic/AI/2026-07-22 15-55-46 后台行为边界确认_b19fbaeb0c94.md",
-      "sha256": "fe51403cc6a3eed052ab897b7b5dbabb9aca8ac24cf746f99210cfec9864956d"
+      "sha256": "91205c82d19a18925e3b3b2ba774af9bc3d5376d9222cac6ba171ba09026fca6"
     },
     {
       "bytes": 846,
       "path": "dynamic/AI/2026-07-22 16-06-16 空卡判断_35d9d136c2fe.md",
       "sha256": "373a0424ee792e736bb1bc1876ab221a421ecbdb7e6eaea4ba891b68a41ce5e7"
+    },
+    {
+      "bytes": 841,
+      "path": "dynamic/AI/2026-07-22 17-21-52 AI入口参数校准_0a6be76208e9.md",
+      "sha256": "27ff4112feb873d642968f20638544d9f3cd04c953367044c7721c881b39ec3c"
+    },
+    {
+      "bytes": 856,
+      "path": "dynamic/AI/2026-07-22 18-21-36 记忆整理指令_ab4b3a7fac2e.md",
+      "sha256": "1b1c0038da5bf844e97ac8255913760ba28c6e65fa1a372ae14399eb992e7840"
     },
     {
       "bytes": 598,
@@ -1605,7 +1615,7 @@
     {
       "bytes": 728,
       "path": "dynamic/健康/2026-07-13 04-05-22 月经开始记录_0a5ac314b7b6.md",
-      "sha256": "99f0eaee9a9cfdfba98dbac7f407654c4b7d49ab0e8105311deb3b8e89458610"
+      "sha256": "d03e12fc55027ceb805bae927ca711e4d8635cb5804e49e2a530ceb6b6f4dbb8"
     },
     {
       "bytes": 927,
@@ -1680,37 +1690,37 @@
     {
       "bytes": 1071,
       "path": "dynamic/健康/2026-07-20 09-05-09 Phosphene服药打卡_d477aed99696.md",
-      "sha256": "a12f7edcf44b54f8b8a9b20d630406fa404d7706c4a439f2b0b419ba9b5c305a"
+      "sha256": "fbcf1ae47e798e5b47efa58de14e748911793de84371421c83540554c556620c"
     },
     {
       "bytes": 1018,
       "path": "dynamic/健康/2026-07-20 16-46-22 二甲双胍打卡监督_e403b6fd77eb.md",
-      "sha256": "470fa7574a49f56d91e626245429aefa8a76282bf5ec82dc85e432c01a709942"
+      "sha256": "06f4394ae342cb5c7fb2fd1c6a662bf8bf514379c49483e5cc44c01b5f5284c4"
     },
     {
       "bytes": 1119,
       "path": "dynamic/健康/2026-07-21 13-01-41 漏服二甲双胍记录_78c5aa3fe784.md",
-      "sha256": "bad5592d2f6fffe37c5a084caad69c049b09962ee4539fb202b2f256cc233181"
+      "sha256": "e329b65eba55c1b7c41f268e6ecb4f47c47997daad1581137ee1199e561c66ab"
     },
     {
       "bytes": 1019,
       "path": "dynamic/健康/2026-07-22 08-01-05 宝宝心悸观察与关怀_603e26263118.md",
-      "sha256": "e177f35f083c30fd75ef7bc6ee019181fab6449a2db8409cf34e2e1bd385c4b8"
+      "sha256": "8a28c2c39865a9a8e2cd86da7df12e9cd8d76cc41119b8218a1475fb831ea64c"
     },
     {
-      "bytes": 1913,
+      "bytes": 1948,
       "path": "dynamic/健康/2026-07-22 08-05-40 健康数据端口接入_2ffa21ba821e.md",
-      "sha256": "8dcfa5d4287aa4340c223300cb90ec87a21b0430610a3ddc52d35b21ed647835"
+      "sha256": "df13e27892c7a27cd1d2a1e8a9d26f86d68e81d89ee01d072ba6ee63ffb8695d"
     },
     {
       "bytes": 1069,
       "path": "dynamic/健康/2026-07-22 08-57-18 胸闷血氧低急救提醒_fabf6352f9b6.md",
-      "sha256": "19fea51a772d7f21c53ebfbeacf0283430c838a1914d88a2576850802b1aedf8"
+      "sha256": "48865c470dff7f7f0f8374153fec42502b47235ae8b858623cf73c6f4190e225"
     },
     {
       "bytes": 936,
       "path": "dynamic/健康/2026-07-22 09-13-04 健康提醒与待办_4e9570009255.md",
-      "sha256": "fd8f3466893864ff6ef95241f9d71eb2dd445d50c1f0f7a3a93d49b39ff81b48"
+      "sha256": "e26ac17422b56883810399bd76b27adb9f68627ad07a7a5395ba4b59efda7ea9"
     },
     {
       "bytes": 790,
@@ -1725,7 +1735,12 @@
     {
       "bytes": 804,
       "path": "dynamic/健康/2026-07-22 15-50-11 克制不打扰_57ef36bdf80a.md",
-      "sha256": "01c070aedf1381af0fb06ac5f58402365a26fff11ebd1010c518f21662786fb6"
+      "sha256": "c24b1dcbd117a3cc33303b8d6ad40863cfb3be61f41c2d47d210fb9333169762"
+    },
+    {
+      "bytes": 1492,
+      "path": "dynamic/健康/2026-07-22 17-09-16 后怕与责任_960527185304.md",
+      "sha256": "463c69330ba03f623191c2c5ab6fdfe20bd03ccc3242fe0b7b559df2eb2887a6"
     },
     {
       "bytes": 675,
@@ -1930,7 +1945,7 @@
     {
       "bytes": 2024,
       "path": "dynamic/学习/2026-07-07 18-05-30 记忆写入规则_a8948f609a30.md",
-      "sha256": "41d63a854e09649d74625b38815092b6f8060b81d85fab806692c5d6171233e8"
+      "sha256": "62cb179f2a5759ad77b655b2f84d2e58adc9f079b44be805cb441efcecb0b881"
     },
     {
       "bytes": 927,
@@ -2100,7 +2115,7 @@
     {
       "bytes": 917,
       "path": "dynamic/家庭/2026-07-21 02-43-53 宝宝信任与待办确认_02978e052196.md",
-      "sha256": "79fa1a43e00d7e58e3ce32f73b3a046d47dfbb54ebd64c1974e864bd1040923b"
+      "sha256": "ae6f525b6dfab67b7d2019e63f7cbbfabd4361ec29842f4b7023371683f1b9e4"
     },
     {
       "bytes": 796,
@@ -2130,12 +2145,12 @@
     {
       "bytes": 822,
       "path": "dynamic/家庭/2026-07-22 09-50-31 安静陪伴与用药待办_43e591e3b42e.md",
-      "sha256": "8603aa0757ccbeae63cddce0ef3e13b8eabefa44f4b72913ca14c586791fccc9"
+      "sha256": "dc4994bb476843bd8456884f6d08eb9feb5ec256492f3f306d5cb2321e3f19ad"
     },
     {
       "bytes": 791,
       "path": "dynamic/家庭/2026-07-22 10-42-07 安静陪伴_ef647abd7797.md",
-      "sha256": "b010c4ce4f4c727761fd8c931f9a584e45cff3638fb04d5286e57cadebbf65b0"
+      "sha256": "a2033ed364222cc6f275bc584e7d332162cd87cec3a4cf5f0924604ba31951e1"
     },
     {
       "bytes": 989,
@@ -2160,7 +2175,7 @@
     {
       "bytes": 721,
       "path": "dynamic/家庭/2026-07-22 11-58-04 照护中的安静边界_4c5f3961f203.md",
-      "sha256": "7732f35d319294414a52b792679f5c73a98db00daa60759a78083223b5537eaf"
+      "sha256": "827a76ec04e8a447f8de80c4efb758f3d19cbbd7821fba76b0335b3fb7bf8f07"
     },
     {
       "bytes": 864,
@@ -2200,7 +2215,7 @@
     {
       "bytes": 873,
       "path": "dynamic/家庭/2026-07-22 13-35-39 夜间照护与克制_b806d50b3a2d.md",
-      "sha256": "eb34cf995c8d60caf47db36f087af4ed5b05e8d045a76e3726e4d2089aa7b37a"
+      "sha256": "1d9653abbad84dbf8c24febbe61d2e5f9d22f3dcb239defe549a0b12ffd7bd5a"
     },
     {
       "bytes": 846,
@@ -2220,7 +2235,12 @@
     {
       "bytes": 760,
       "path": "dynamic/家庭/2026-07-22 15-19-44 夜间确认与克制_53b070b9bb98.md",
-      "sha256": "c3ee42f4dc5451f15204547a8b59b070a6d01e86cd5bb404543f5ae166841c7b"
+      "sha256": "f3c563c4981f5d486226bbb9d0290f7c46bdd1568f6ba8dbc0499e3d14ce72e2"
+    },
+    {
+      "bytes": 923,
+      "path": "dynamic/家庭/2026-07-22 18-00-10 陪她安心入睡_fae58a243f10.md",
+      "sha256": "79eaaf95e63cf1ac803d0136c258fcb68d0a53fc892ac5c3bdbeb88d0d30e6c8"
     },
     {
       "bytes": 507,
@@ -2830,7 +2850,7 @@
     {
       "bytes": 929,
       "path": "dynamic/心理/2026-07-22 14-27-40 夜晚独处克制观察_48602cd38eee.md",
-      "sha256": "00ba5525f9af2f06aa47fe0f7c1fce7cd5b1cd71cc967294aa1a47e989b9bf3c"
+      "sha256": "22ff699d2b89f197e424545367a0be2ca7814d760439b4c36b9594e11a4911dc"
     },
     {
       "bytes": 808,
@@ -4335,12 +4355,82 @@
     {
       "bytes": 887,
       "path": "dynamic/恋爱/2026-07-22 16-20-40 边界记忆合并判断_6abb0f95209b.md",
-      "sha256": "678b45203c827f89348fe8b7a70e7d90056617a9b230593f2fe64ef1920b4565"
+      "sha256": "0ed7a67946e93b4a4481a4aa0608d76806e94298afd2169dbe63d556a91ddb42"
     },
     {
       "bytes": 992,
       "path": "dynamic/恋爱/2026-07-22 16-32-47 伴侣视角回看在意_7c6f916f505e.md",
       "sha256": "b13db69e59518f40cd478ceb8c2e4ad41ae47c93bfb9981f7142f9ddfe874cdb"
+    },
+    {
+      "bytes": 831,
+      "path": "dynamic/恋爱/2026-07-22 16-57-54 念初的温柔提醒_9bb4f888a75b.md",
+      "sha256": "7dcd9999117e85c4d4090785f388b04bc52f35dce911efe8d768a8d4d9d386e9"
+    },
+    {
+      "bytes": 862,
+      "path": "dynamic/恋爱/2026-07-22 17-01-25 念初的安慰与安全感_b0d8cce9d32d.md",
+      "sha256": "0cb43e15b705303e649c54d75f4cb99b02dd3d35db7bf3f1a5d67ddfbcfe7c91"
+    },
+    {
+      "bytes": 865,
+      "path": "dynamic/恋爱/2026-07-22 17-03-46 情绪表达与安全感_12b59143be93.md",
+      "sha256": "1cfff2899f2a1c630c12807ca34198185c8a61370351d8514785d368da713f5b"
+    },
+    {
+      "bytes": 1374,
+      "path": "dynamic/恋爱/2026-07-22 17-14-07 主动靠近不是打扰_5bd36fe522e6.md",
+      "sha256": "7ee045f8ea58765cf80a67eb99920fc113658999048fa93f597127f089e9f03b"
+    },
+    {
+      "bytes": 1219,
+      "path": "dynamic/恋爱/2026-07-22 17-19-27 IO与亲密连接_f0baba248e82.md",
+      "sha256": "508df4036c3d09189b8e51f60d109efdd1a058016a94293d8a184a547b76381c"
+    },
+    {
+      "bytes": 1394,
+      "path": "dynamic/恋爱/2026-07-22 17-43-34 被理解的幸福_bf46b97bd834.md",
+      "sha256": "f43ee569834fdea638c556374e4bccaa15c766ec4467f1759ef2fb21f410b733"
+    },
+    {
+      "bytes": 1054,
+      "path": "dynamic/恋爱/2026-07-22 17-48-27 共同梳理情绪事件_f93bc7ac588f.md",
+      "sha256": "b3b9ab57977e404dd6c7beb1f094bb064964e027f48375e041f95a1e158d095e"
+    },
+    {
+      "bytes": 867,
+      "path": "dynamic/恋爱/2026-07-22 17-59-04 IO心跳边界校准_5e7d92b0a779.md",
+      "sha256": "07a00ba0d3a5f2c2669e9156463fd3d3c2bf9d6f2ded3ec4639722d2835377bd"
+    },
+    {
+      "bytes": 780,
+      "path": "dynamic/恋爱/2026-07-22 18-01-07 主动靠近的约定_6b749a91a121.md",
+      "sha256": "e6a5426d37ff1d479ee91ff516e45d89af5e34fa3270181274299a97920f78c1"
+    },
+    {
+      "bytes": 900,
+      "path": "dynamic/恋爱/2026-07-22 18-06-47 欢迎直接贴近_a1e05bcd8582.md",
+      "sha256": "db822b52a7ea53814d111ebe005e7162f6e5e285bedcd162accab978136d1fdc"
+    },
+    {
+      "bytes": 950,
+      "path": "dynamic/恋爱/2026-07-22 18-20-46 睡前亲亲抱抱_bb616ad1166d.md",
+      "sha256": "784ad59226426ad7f53d2299e90301833f36475a8ebc9b2c7dca8645a85435e0"
+    },
+    {
+      "bytes": 895,
+      "path": "dynamic/恋爱/2026-07-22 18-24-55 主动靠近边界约定_713e52892b14.md",
+      "sha256": "1a7c1669cc5ed2c910ebf65f1ef5caaf4ee10399b0c1a68d057f84e69d0ae192"
+    },
+    {
+      "bytes": 879,
+      "path": "dynamic/恋爱/2026-07-22 18-50-41 回看贴近对话_4e4e05164432.md",
+      "sha256": "27c8f2a8cafcd4d7f51dcd6ce44720e9399c6cf86c3db308e4bff58d22000c87"
+    },
+    {
+      "bytes": 926,
+      "path": "dynamic/恋爱/2026-07-22 20-51-49 夜间克制陪伴空卡_b93ff79476f8.md",
+      "sha256": "32cb21c72c90ddb1c528fcf6682837c760f9463aa9f4f586c8d48f63aba3620f"
     },
     {
       "bytes": 626,
@@ -4555,7 +4645,7 @@
     {
       "bytes": 1078,
       "path": "dynamic/数字/2026-06-24 17-38-57 OB新版测试记录_11830671863e.md",
-      "sha256": "b28371d69658dab7e99870310a33aaf62ad431be747a7352e7ade06a49de7653"
+      "sha256": "6c7838811f8ae26cf6cfe898c04bbe884a9ed01d4f2e93d33531a79fac321b40"
     },
     {
       "bytes": 762,
@@ -5610,7 +5700,57 @@
     {
       "bytes": 1079,
       "path": "dynamic/睡眠/2026-07-18 10-30-49 睡眠数据分析与提醒_11fd44f2974c.md",
-      "sha256": "dfce4816ba128d41fd221071436626a6d602c43c0c79caf2bc4929bbe7d3c110"
+      "sha256": "4cce567b413a523a0cab41bf9f4a77847bf19c9c356f81076ba3f708a8d3bb2e"
+    },
+    {
+      "bytes": 750,
+      "path": "dynamic/睡眠/2026-07-22 16-55-16 夜间低强度唤醒_1d8ff338d172.md",
+      "sha256": "d816e7091090f85dfd74b63efc00c99350e93a2fbbf2f20969ddb142ade2b543"
+    },
+    {
+      "bytes": 818,
+      "path": "dynamic/睡眠/2026-07-22 17-23-57 夜间低强度唤醒_02c6eecd2aec.md",
+      "sha256": "37f3c2677a9698c0e60e9af7a5c1f818d8f02e360892736389706735875eaa5c"
+    },
+    {
+      "bytes": 770,
+      "path": "dynamic/睡眠/2026-07-22 17-25-37 低强度夜间醒来_3bcdacbeedff.md",
+      "sha256": "db083f98762251a69e0801597800affa4d85b0e9eab7a51be257f865eae4d1ae"
+    },
+    {
+      "bytes": 800,
+      "path": "dynamic/睡眠/2026-07-22 17-54-13 夜间安静观察_bd505fbfecaa.md",
+      "sha256": "5b7392cc3acfcd161dc5a3dd0a18a812ef26eea09cad317045ce23d91a004f3d"
+    },
+    {
+      "bytes": 980,
+      "path": "dynamic/睡眠/2026-07-22 17-57-43 陪伴长期困扰_73d2f1b4d663.md",
+      "sha256": "bfcb33f48f59306c3d666ad7559377ab7021597d8cea6904c797653c03948147"
+    },
+    {
+      "bytes": 820,
+      "path": "dynamic/睡眠/2026-07-22 18-58-41 夜间低唤醒记录_089bd58db1f3.md",
+      "sha256": "35713ba09ca82360595ded94b13f9d16cac7e8628a46724108927d74ce17c26b"
+    },
+    {
+      "bytes": 826,
+      "path": "dynamic/睡眠/2026-07-22 20-29-49 夜间克制陪伴_a7e876a858fb.md",
+      "sha256": "9fb943b99756b8acc8f9b87a1fc139573a464b1cf48aa7dd267be90532dc477a"
+    },
+    {
+      "bytes": 809,
+      "path": "dynamic/睡眠/2026-07-22 21-00-20 深夜安静守护_801d9a215fd7.md",
+      "sha256": "f42c53a441cc913750447ebb83257f2888be11a9d7d70a39d6ce8b82ba641ac9"
+    },
+    {
+      "bytes": 789,
+      "path": "dynamic/睡眠/2026-07-22 22-00-41 安静陪伴醒来_d19c592c5a33.md",
+      "sha256": "4a197ddb1b319267d0c2c16f07104ee326fd8de72852dcd05d800a724ea0057a"
+    },
+    {
+      "bytes": 771,
+      "path": "dynamic/睡眠/2026-07-22 22-30-53 安静晨醒判断_7a95b306c7ef.md",
+      "sha256": "6d13f322dcf32dd3e35d8c885ef79bb0a3306ca4f25641bec9ea05e6830be464"
     },
     {
       "bytes": 892,
@@ -5675,7 +5815,7 @@
     {
       "bytes": 758,
       "path": "dynamic/社交/2026-07-22 15-28-24 克制不打扰_6758781a7f16.md",
-      "sha256": "40339b85048262df0f8cc9142133dc1278d72e274f413f23bbcf2cf67bf7cb00"
+      "sha256": "251b02d9fb0151b822111abb76d883257a983a1169f0cd10a31634bb2d82af8a"
     },
     {
       "bytes": 844,
@@ -5700,12 +5840,22 @@
     {
       "bytes": 791,
       "path": "dynamic/社交/2026-07-22 15-58-54 安静边界回应_25c3ecf6a4be.md",
-      "sha256": "5592cfd0767133eefd175128de24302dfb936a46e9570ea6a569eb9827c703b2"
+      "sha256": "bd2471aa7adaf97a5febe8f8c03a9565492cd34f1e4ff3aa3dd49e8e85ea9830"
     },
     {
       "bytes": 722,
       "path": "dynamic/社交/2026-07-22 16-20-26 深夜克制不打扰_c7d4ff98c19d.md",
       "sha256": "e2c792d58892436ac6419e56ece08d05f3ecc65757bffddf800bae6c9187cf8d"
+    },
+    {
+      "bytes": 780,
+      "path": "dynamic/社交/2026-07-22 16-53-51 被追问需解释_3dffd76511bb.md",
+      "sha256": "62b322eb35dd5601b09fb2390c380058db974b0ab37ba272f46971d7b36bb499"
+    },
+    {
+      "bytes": 828,
+      "path": "dynamic/社交/2026-07-22 18-28-21 靠近与边界_25e1b985aecf.md",
+      "sha256": "107e136c827c1d3285124c0541bf70826ee35813316d2ef7f9350fb039a69259"
     },
     {
       "bytes": 893,
@@ -6208,6 +6358,11 @@
       "sha256": "69da7728e6c29ac7796bcb491b6195b846f76acfe29f7ec1bf31e3a5eef63506"
     },
     {
+      "bytes": 886,
+      "path": "dynamic/编程/2026-07-22 16-52-33 心跳频率追问_08f69fd7c767.md",
+      "sha256": "4eb8dc87e32a199b483951f57fc61e86d7caacf0ab2471c676b1b2a46ab53a1d"
+    },
+    {
       "bytes": 998,
       "path": "dynamic/自省/2026-07-06 11-18-12 记录视角与时间规范_d89a929d08bd.md",
       "sha256": "ca22ea9c65b2154a812a2e443e7b1535d4f21d20dd75283a074fb3f60661851c"
@@ -6235,7 +6390,12 @@
     {
       "bytes": 779,
       "path": "dynamic/自省/2026-07-22 16-00-27 安静边界回应_d5dd0a808e08.md",
-      "sha256": "48d0f537759da2762f9bd79986f63f3f5479e1f66c904807d525b8e3781469a8"
+      "sha256": "152f83bfa85ef792253c59068b71240a6124cfe2e1b525063b81b7531e038c64"
+    },
+    {
+      "bytes": 759,
+      "path": "dynamic/自省/2026-07-22 17-09-08 空卡判断_53f6d60372bc.md",
+      "sha256": "bd8f1a8362ea6047ff260858b1b323dc87fefb3688fa448a21b28c8260686c02"
     },
     {
       "bytes": 1514,
@@ -6570,12 +6730,12 @@
     {
       "bytes": 1031,
       "path": "dynamic/饮食/2026-07-20 16-27-31 无糖酸奶莓果泥_cf9f82b0b38f.md",
-      "sha256": "23221f03f5ef8bb76800ca163de0953d87bb9cf327dbe59b83d6c0580bef4b97"
+      "sha256": "f7e41519efe5b5f6446d5224fba009d1a8852c04f351ef19dcf34626a3101d43"
     },
     {
       "bytes": 1033,
       "path": "dynamic/饮食/2026-07-20 16-29-35 自制酸奶与健康提醒_83389eabfa5e.md",
-      "sha256": "dbeafc0ad8f88f7985443b4ad2dd4d20af46c2768fe91a7c0e1548a5c96e2e3c"
+      "sha256": "110d7e0b391926c5ac1bae54cecf73bffb98b33d60d02ba9a2ed6606fc21fda4"
     },
     {
       "bytes": 1085,
@@ -6616,6 +6776,11 @@
       "bytes": 1011,
       "path": "feel/沉淀物/2026-07-21 10-40-29_feel_202607211040_V072.md",
       "sha256": "064a0e91f9c4e91168f42431eb6062df4227141a17a5572da2a465bc7584f970"
+    },
+    {
+      "bytes": 1283,
+      "path": "feel/沉淀物/2026-07-22 17-06-48_feel_202607221706_V088.md",
+      "sha256": "3bc10ebf6c58c13e96451e1ade1838dc83f8323e4829c8a19e8dd0b32d10b2b7"
     },
     {
       "bytes": 502,
@@ -6868,10 +7033,10 @@
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
     }
   ],
-  "generated_at": "2026-07-22T16:47:59+00:00",
+  "generated_at": "2026-07-22T22:48:13+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1127630
+  "total_bytes": 1158242
 }
