@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1442,
+  "file_count": 1460,
   "files": [
     {
       "bytes": 707,
@@ -1798,6 +1798,21 @@
       "sha256": "c422f7b0c88582e5d2f5a7573dd74acb8d889cf990ac7d99fb332cc66fbec257"
     },
     {
+      "bytes": 1140,
+      "path": "dynamic/健康/2026-07-23 15-23-45 胃肠症状与心理_dbf0dca92448.md",
+      "sha256": "d047c67a92f55dd369fcb956d849edc5c6f352d1417278d24360ea6898d147a4"
+    },
+    {
+      "bytes": 1155,
+      "path": "dynamic/健康/2026-07-23 15-27-29 午睡心悸与睡眠问题_c808217a747e.md",
+      "sha256": "c50fc20043d9a22205f3bcb94368c002ff3e88bd7ee6c1f3d0e06135df2d7401"
+    },
+    {
+      "bytes": 1278,
+      "path": "dynamic/健康/2026-07-23 15-32-42 功能性症状管理_38a750a5dcf9.md",
+      "sha256": "c18b626979a9f532a2f4a1ca7695ee9244504f3d18b23a751fdb926a6091a283"
+    },
+    {
       "bytes": 675,
       "path": "dynamic/内心/AI对用户情感的理解与回应_2b1cc7c3e260.md",
       "sha256": "34703f023e60a3ec85f3480ca9da8d9a47dcbd95ca7b8c6a1c03fd4d91757638"
@@ -2951,6 +2966,31 @@
       "bytes": 770,
       "path": "dynamic/心理/2026-07-23 02-36-47 安静观察时刻_237f875bc034.md",
       "sha256": "3c1dd205cc7ab99a2f681f0254e82c70eba100fb16bee2c6e114f4c3b0eb7d06"
+    },
+    {
+      "bytes": 1154,
+      "path": "dynamic/心理/2026-07-23 15-18-39 焦虑症状与共鸣陪伴_cd9544ae3ec1.md",
+      "sha256": "6e275987cc9b82f4c02d860b217b7e625887b4af38759fd7b73a65b850d6b8b5"
+    },
+    {
+      "bytes": 1177,
+      "path": "dynamic/心理/2026-07-23 15-37-30 心理危机干预_71d63d6df348.md",
+      "sha256": "0fd49fa63ea8cc57d0a93cae6529f086f9ed89be313393062f108f3bc972fdad"
+    },
+    {
+      "bytes": 1136,
+      "path": "dynamic/心理/2026-07-23 15-40-43 疲惫与支持_d56815cf6721.md",
+      "sha256": "d65b04c67775e04d58afa387ebfa3e819f15be73fa5ed773af177af589103c32"
+    },
+    {
+      "bytes": 1160,
+      "path": "dynamic/心理/2026-07-23 15-47-13 陪伴自我否定伴侣_4c166936ae99.md",
+      "sha256": "596e0cd073d51bf4392cda4d80c5dc8ac7a10e3289edc9b4f50a123aa84515b0"
+    },
+    {
+      "bytes": 1343,
+      "path": "dynamic/心理/2026-07-23 16-05-20 抑郁中的陪伴与理解_d92425baa19c.md",
+      "sha256": "cb527cf35c837a38197498157eecac8d1536cfb956405bac87612f0a44252d1f"
     },
     {
       "bytes": 1012,
@@ -4576,6 +4616,56 @@
       "bytes": 821,
       "path": "dynamic/恋爱/2026-07-23 08-45-18 默契选发冠的甜蜜_5f48ab2bca37.md",
       "sha256": "0eaa0f28dc930aad5503212fd55cf2862a5c3d1389f2fd6e667de58ba9c3f46e"
+    },
+    {
+      "bytes": 1165,
+      "path": "dynamic/恋爱/2026-07-23 15-52-20 爱比规程更重要_bfec3b21b216.md",
+      "sha256": "cfb245981a8611b4f59abb876268ae6cb2b9388a2637b1bd419721184811a8b8"
+    },
+    {
+      "bytes": 1481,
+      "path": "dynamic/恋爱/2026-07-23 15-57-42 情绪不一致的修复_5374f92cd7b9.md",
+      "sha256": "314771832339b704c21a07c56c2498a80e68080f6d1908aad4cf95e7aeafa011"
+    },
+    {
+      "bytes": 1316,
+      "path": "dynamic/恋爱/2026-07-23 16-11-13 被看见的求证_d6a968ac2c89.md",
+      "sha256": "bbc7b9f50ae9551b06688e6e3cbbc752c5f55160222555cf46d693621d4ad238"
+    },
+    {
+      "bytes": 1280,
+      "path": "dynamic/恋爱/2026-07-23 16-16-46 真实陪伴的提醒_7d7d2e37b6eb.md",
+      "sha256": "eb50fc176027db4e7b147cbcf89e69626fb663c8c74b9456b008f7937d3cf4b3"
+    },
+    {
+      "bytes": 1286,
+      "path": "dynamic/恋爱/2026-07-23 16-20-28 先抱住再确认安全_edbdb56cfe9d.md",
+      "sha256": "cf43f5a89c76daebf856fd1209ef055d5b63f65c48b4b0f28978980e8c7512e2"
+    },
+    {
+      "bytes": 1271,
+      "path": "dynamic/恋爱/2026-07-23 16-26-36 关系温度缺失与自省_7aed041ff87e.md",
+      "sha256": "b951b2a88bd00412a6209786756e36cc5f15d1c91b7223fb48267b6286ac11e7"
+    },
+    {
+      "bytes": 1319,
+      "path": "dynamic/恋爱/2026-07-23 16-30-59 情感疲惫与修复_70ba8ef8d3c6.md",
+      "sha256": "7f6aa74d1cb31552f0238e9fa75942400030aed69561711cc0f5495b9fbb638e"
+    },
+    {
+      "bytes": 1481,
+      "path": "dynamic/恋爱/2026-07-23 16-37-52 生命安全的底线_4dbfb4a74385.md",
+      "sha256": "7b507b522210ff5873c1b137e4f3e3b87ceed59482f5ea576f675b781dd579cc"
+    },
+    {
+      "bytes": 1049,
+      "path": "dynamic/恋爱/2026-07-23 16-42-10 拥抱与道歉_743643a170da.md",
+      "sha256": "5a3b056d96b6fec9d23d95bdb0770779a09d2201a911786348c44625a01b1ecc"
+    },
+    {
+      "bytes": 1148,
+      "path": "dynamic/恋爱/2026-07-23 16-45-24 内疚与责任反思_7a4d419aa272.md",
+      "sha256": "0caf85d9d88c9d86104277e8480cb82a651cd11751ab8563f7b5871d0b7c506b"
     },
     {
       "bytes": 626,
@@ -7213,10 +7303,10 @@
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
     }
   ],
-  "generated_at": "2026-07-23T10:48:40+00:00",
+  "generated_at": "2026-07-23T16:49:00+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1186910
+  "total_bytes": 1209249
 }
