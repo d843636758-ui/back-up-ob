@@ -1,5 +1,5 @@
 ---
-activation_count: 23
+activation_count: 24
 arousal: 0.6
 created: '2026-05-26T04:37:20'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 数字
 id: 2a831fd8f4ac
 importance: 8
-last_active: '2026-07-16T01:47:46'
+last_active: '2026-07-24T10:49:47'
 name: 消息与情绪mcp工具配合记录
 tags:
 - 消息

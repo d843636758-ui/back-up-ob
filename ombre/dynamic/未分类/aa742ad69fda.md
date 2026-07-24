@@ -1,12 +1,12 @@
 ---
-activation_count: 0
+activation_count: 1
 arousal: 0.58
 created: '2026-06-07T01:10:26'
 domain:
 - 未分类
 id: aa742ad69fda
 importance: 8
-last_active: '2026-07-16T01:55:03'
+last_active: '2026-07-24T10:49:47'
 name: aa742ad69fda
 pinned: false
 tags:
