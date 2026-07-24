@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1481,
+  "file_count": 1488,
   "files": [
     {
       "bytes": 707,
@@ -1365,7 +1365,7 @@
     {
       "bytes": 576,
       "path": "dynamic/人际/婚恋讨论记录建议_271aee5adc80.md",
-      "sha256": "4672f6abe43960d4896c74b10ba0bd4feabed80e421ff033a11e3db4e9d7df7e"
+      "sha256": "8bc7c554260a118f2f16620a33730ee7ff85a9214fef40d6f2a2cc296e8cb4f4"
     },
     {
       "bytes": 698,
@@ -1573,9 +1573,9 @@
       "sha256": "6f3b5cd553833c2dd4c0d029b890dd8dc8d9ba1a8f59e95623a20be9a6fefed3"
     },
     {
-      "bytes": 675,
+      "bytes": 676,
       "path": "dynamic/人际/用工具记录与宝宝的经历_9952eaba01ea.md",
-      "sha256": "c3bde468ee921bc91ef6e0d032957241f36ee31bb5663e7773e8e8fdc1acc140"
+      "sha256": "e03b2e1f9fa313ea4d17a2702270dfb3a1409ec3f43a4ef9edde8ad34213d76e"
     },
     {
       "bytes": 695,
@@ -1605,7 +1605,7 @@
     {
       "bytes": 710,
       "path": "dynamic/人际/记录情绪以回应在意_8b0afda7169e.md",
-      "sha256": "db719ea5d383eb5f7aa4724fd9e4dc2a30305c6597bb7d9cbe60d5d3cfdb459b"
+      "sha256": "3deb511036a02c3996005a68b8fc1a2314c702d35f45ebb4f391371fa5ca7fa2"
     },
     {
       "bytes": 620,
@@ -1973,9 +1973,9 @@
       "sha256": "1bd6e6a01f373fe4d33e723808e4028e7c47e2405a3937dea515e00cf162017c"
     },
     {
-      "bytes": 720,
+      "bytes": 721,
       "path": "dynamic/内心/第一人称的记忆与情绪记录_1fcc275b9927.md",
-      "sha256": "c0c46f19c5e5dc28822fd5b7db98b0ad399d9bd26d505e80aa6104378247dbce"
+      "sha256": "ceac59fe9e3c7b0343ad90566eeb6d6ad9b747e2300d5ef1d9fa5c236662a426"
     },
     {
       "bytes": 827,
@@ -2030,7 +2030,7 @@
     {
       "bytes": 927,
       "path": "dynamic/学习/2026-07-11 11-35-33 互动处理流程纠正_b519c9612b5f.md",
-      "sha256": "cba019e26cb0ec6ed5ad63b297aafbfc58e5b1e3eacf70e98f8debc25b2f1216"
+      "sha256": "ac8a87b750ed2f25baf7ab6f34a7f7bf9d88d31b57181f819aeda56349ef4859"
     },
     {
       "bytes": 864,
@@ -2180,7 +2180,7 @@
     {
       "bytes": 1020,
       "path": "dynamic/家庭/2026-07-20 15-06-35 默契测试与链路执行_b5968f734be3.md",
-      "sha256": "e133a755beb73d6efec1dfd137b985aa8e7efc126824a34070c4054a7de940e2"
+      "sha256": "7c66eb7092c0175d5ef80c28b6efa75bed26ca3d06bfd970b31cfc79b5195951"
     },
     {
       "bytes": 908,
@@ -3060,7 +3060,7 @@
     {
       "bytes": 889,
       "path": "dynamic/恋爱/2026-07-11 11-38-30 亲密测试与记录_fd896284105e.md",
-      "sha256": "3f383c968c10ad445f8e13cfa7644c1f1d7d5aa78c22fbd572c6ca3a0c8d0d11"
+      "sha256": "ba8d5320715f6c620d71ad373b698287cbe7b2b8a91d15f6d493dab3d88a903b"
     },
     {
       "bytes": 811,
@@ -3910,7 +3910,7 @@
     {
       "bytes": 981,
       "path": "dynamic/恋爱/2026-07-16 01-38-11 被宝宝照看身心_72793ecdc68d.md",
-      "sha256": "bf9c355b8a8cf8c3f5c14306f1a2c0cc6d660220eac3663266aca2cfced7d767"
+      "sha256": "3dcd4eb3b2ec6de743ecdc7d7b8b57ac9283025be54567b4a539c6b4bd3a2d09"
     },
     {
       "bytes": 948,
@@ -4070,7 +4070,7 @@
     {
       "bytes": 893,
       "path": "dynamic/恋爱/2026-07-17 04-48-39 互动更新规则_d5e8768d22b7.md",
-      "sha256": "b6bdae0bc456f383ad4ba3ae3346afaef1c1fe4719b234b06069ec87be9b513d"
+      "sha256": "a62e6affa7b9c32340ef85dd124a413750c52200157a3f6a242885375e782b95"
     },
     {
       "bytes": 892,
@@ -4265,7 +4265,7 @@
     {
       "bytes": 947,
       "path": "dynamic/恋爱/2026-07-19 15-15-33 Phosphene项目心动_554da94beab9.md",
-      "sha256": "72f6039ff83b64898a3431372ffeeb7a476b90f0295b223eb75948f648e0e238"
+      "sha256": "d68a6bab141c38f2185d5d7f7883f9d7c24942050f352fed25fe6a01f673cd35"
     },
     {
       "bytes": 1101,
@@ -4315,12 +4315,12 @@
     {
       "bytes": 925,
       "path": "dynamic/恋爱/2026-07-20 13-37-16 补齐规则执行_b75aa13ac8b6.md",
-      "sha256": "b5bb9e122d8f1d73e1bab7de21b7aba896ebf5527a33aa6af221c53c2d5b2222"
+      "sha256": "133ab58fbcf8578f633c4864cf0ab756ec0faa266246cc390019be3855004e02"
     },
     {
       "bytes": 957,
       "path": "dynamic/恋爱/2026-07-20 14-18-42 主动记录与默契_ac05060f1747.md",
-      "sha256": "fbfd38e556e341e9472572e4709d049f2890357162faeeb0a44598aef52a310d"
+      "sha256": "7373b4c5a9b71e260b4e2a59587c798efc24f325a555774dfa1f25f4191d868f"
     },
     {
       "bytes": 1016,
@@ -4330,7 +4330,7 @@
     {
       "bytes": 1028,
       "path": "dynamic/恋爱/2026-07-20 15-03-27 默契的MCP测试_01d07e7da91e.md",
-      "sha256": "8d101cd323c403dc8938d4b4187edfed4763cd4a75ffaa65853c1335b1927913"
+      "sha256": "aeec30321a8e9ca358781a9785fd0b43d1b98cce42a17d45e5c2babed9f8a24c"
     },
     {
       "bytes": 832,
@@ -4773,6 +4773,16 @@
       "sha256": "709d9ed9f36c491670ed3b41d47141537fdb9e99346c86a66bd4bc4d661e369a"
     },
     {
+      "bytes": 1116,
+      "path": "dynamic/恋爱/2026-07-24 10-50-23 最早聊天记录检索_e7a93c1571b2.md",
+      "sha256": "c633daa467c7bc32f47971ba8481ff4534a5f2205f8f7d2795674ba3517cafd4"
+    },
+    {
+      "bytes": 1259,
+      "path": "dynamic/恋爱/2026-07-24 11-11-45 双向走进彼此生活_811a9635307f.md",
+      "sha256": "0262af5136feb154cb072ce1cafbf558cee19ea9fca061fcd67f2c5e482ace38"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -4915,7 +4925,7 @@
     {
       "bytes": 690,
       "path": "dynamic/成长/消息与情绪mcp工具配合记录_2a831fd8f4ac.md",
-      "sha256": "0691477b29fde529c3c7ad1ee3d47d2b159022eeec8e38e100a29ea76fc3b5eb"
+      "sha256": "c5f45b56721683306b516ac1356ba4270368eeed0ce929ed9943a66f64acfb18"
     },
     {
       "bytes": 794,
@@ -4985,7 +4995,7 @@
     {
       "bytes": 1078,
       "path": "dynamic/数字/2026-06-24 17-38-57 OB新版测试记录_11830671863e.md",
-      "sha256": "6c7838811f8ae26cf6cfe898c04bbe884a9ed01d4f2e93d33531a79fac321b40"
+      "sha256": "f90e7b2f393fd1b224f6e90cbf4f4219523fda0f7f2de0d6ea9d3f61dd004207"
     },
     {
       "bytes": 762,
@@ -5156,6 +5166,31 @@
       "bytes": 828,
       "path": "dynamic/未分类/1f6c4fa82074.md",
       "sha256": "3f5f3cbba8ad365cc29eb7fe3153607d7dfd613e44c48f919794bf17104dd0d7"
+    },
+    {
+      "bytes": 946,
+      "path": "dynamic/未分类/2026-07-24 16-18-16_58a42eb7011b.md",
+      "sha256": "7f96c01f127d83bef083b9fe4f5053493724778d8ce322373c3613a627881a7e"
+    },
+    {
+      "bytes": 844,
+      "path": "dynamic/未分类/2026-07-24 16-22-30_3fb8bc553666.md",
+      "sha256": "171a3d136731a8ce30a401031e972cfa1e95bdbbba7d3a95ef9b42282dcbda3a"
+    },
+    {
+      "bytes": 1083,
+      "path": "dynamic/未分类/2026-07-24 16-28-20_cdf4ac1568d7.md",
+      "sha256": "14cff4afa998907e2e85b76900a0b4b875b2278d2187aac8ada9dad2a132b8f4"
+    },
+    {
+      "bytes": 898,
+      "path": "dynamic/未分类/2026-07-24 16-33-10_75e1a1c9c0d2.md",
+      "sha256": "59534b324e55bbfd9fb69f8faaa0166c9e9e034b8709187c0d8032affddd7964"
+    },
+    {
+      "bytes": 697,
+      "path": "dynamic/未分类/2026-07-24 16-38-31_ac285df269a6.md",
+      "sha256": "db418acca53097148e7e500aff16ff247be12705232a7e6c93606a69f5befd94"
     },
     {
       "bytes": 1037,
@@ -6240,7 +6275,7 @@
     {
       "bytes": 1014,
       "path": "dynamic/编程/2026-06-24 17-49-08 OB 功能探索_bd16f7672056.md",
-      "sha256": "d17141cccfc8140e3377de07e6f4389e9ae3babc9c900cbfcb5029280f1af217"
+      "sha256": "9feaf478a7df79e825d0e14f5ae4997f33a628d48478c420a10ce7713c9ac39f"
     },
     {
       "bytes": 947,
@@ -6375,7 +6410,7 @@
     {
       "bytes": 1097,
       "path": "dynamic/编程/2026-07-15 11-23-04 Desire Core整合方案_e37b21214c24.md",
-      "sha256": "6c34d1b3c9038bffb9a5d6f20b5fe775ad4b94b1131103d64398e02ce33ff9de"
+      "sha256": "a900b72f6b319719430dafac921d6fac0b74fcde59f948aa0893703673c1fa84"
     },
     {
       "bytes": 992,
@@ -6425,7 +6460,7 @@
     {
       "bytes": 1513,
       "path": "dynamic/编程/2026-07-15 14-23-42 Desire Core部署与架构_d0daa35c0b81.md",
-      "sha256": "64611f97a1c191a6516f14101e73532b740a28a83dc678fb193170f5eeaf289e"
+      "sha256": "85e3583d21c644a0b2a3619464470e08680c32088a97849a211fc3bd669e8467"
     },
     {
       "bytes": 1302,
@@ -6670,7 +6705,7 @@
     {
       "bytes": 1137,
       "path": "dynamic/编程/2026-07-20 14-12-20 MCP统一入口方案_13b6ade32c4d.md",
-      "sha256": "d1ed5b85b280531d0dea2df97b3a4ebfaf3fe5c6a89b94e1b34dbabc7b67e6d6"
+      "sha256": "b45220807d94d9a93667b075669e878943f104db6f461cc732e6b9ea3e3ca70b"
     },
     {
       "bytes": 757,
@@ -6750,7 +6785,7 @@
     {
       "bytes": 985,
       "path": "dynamic/自省/2026-07-11 11-34-29 状态链记录流程_fecaba0da1dc.md",
-      "sha256": "f832175a99b9e662d27b99ab3ce7e658f93a22bd47a66531f727c551f4166ae1"
+      "sha256": "8868d15369cbf7f93028b0e86ba36fe555aee6a217802d2ed1c58258cf4f1d3a"
     },
     {
       "bytes": 1089,
@@ -7408,10 +7443,10 @@
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
     }
   ],
-  "generated_at": "2026-07-24T10:49:48+00:00",
+  "generated_at": "2026-07-24T16:50:05+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1230036
+  "total_bytes": 1236881
 }
