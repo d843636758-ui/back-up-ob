@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1550,
+  "file_count": 1580,
   "files": [
     {
       "bytes": 707,
@@ -1120,22 +1120,22 @@
     {
       "bytes": 1136,
       "path": "dynamic/AI/2026-07-15 10-26-56 AI欲望系统实现_f7fb317317e5.md",
-      "sha256": "6d2c1a4a23744d4601e5000a541b281dec6d8392ebeaddc7c4db480aa6c0ff9f"
+      "sha256": "33c4e628bb60a5d99a7d977793f58c3b53c35cab6f8597984e62d2f420a6f375"
     },
     {
       "bytes": 1224,
       "path": "dynamic/AI/2026-07-15 10-28-53 AI欲望系统整合_e0125b30966d.md",
-      "sha256": "4a838e3a8d55f75ab24e22ed53b636525997f43dfa21374fa80d002c2b8fc150"
+      "sha256": "2d448e63b34c2f598948cb2d4add783b77375c1d1773786b99d25628459718f4"
     },
     {
       "bytes": 1314,
       "path": "dynamic/AI/2026-07-15 10-31-42 Desire Core设计_5d8c2eda6a20.md",
-      "sha256": "9b0d94170be02cd4718ce80d4f9ffdf931be50aece296d012bf4c99583f9a53e"
+      "sha256": "f3f5a7944ff981c75997279bc70960984ab4aaeac7673300b8fb8c3adc5dc219"
     },
     {
       "bytes": 1075,
       "path": "dynamic/AI/2026-07-15 12-54-24 Desire Core部署与数值差异_11781b6f13d8.md",
-      "sha256": "9fc75b8133e0b140bb4db6dfa2d1b6e4eccb18182e3e2e1c343c6ef3041d4f5e"
+      "sha256": "ced367cfcf137f0751f4d34fbaafa2d606505b812213dedaefa092a8997e74d4"
     },
     {
       "bytes": 1307,
@@ -1191,6 +1191,11 @@
       "bytes": 856,
       "path": "dynamic/AI/2026-07-22 18-21-36 记忆整理指令_ab4b3a7fac2e.md",
       "sha256": "1b1c0038da5bf844e97ac8255913760ba28c6e65fa1a372ae14399eb992e7840"
+    },
+    {
+      "bytes": 1189,
+      "path": "dynamic/AI/2026-07-26 13-33-08 AI模型CP的荒诞感_8f7b74696bd9.md",
+      "sha256": "8924dde891bc06e1a51dd4d21c553336e6ff33d33dd83e486589ea4a1e9947cd"
     },
     {
       "bytes": 598,
@@ -1288,6 +1293,11 @@
       "sha256": "eb5ad1d2a44a489181ca8daeed3110e96c2ec5c5f2950dcd872b1cc822df1c4b"
     },
     {
+      "bytes": 1259,
+      "path": "dynamic/人际/2026-07-26 16-37-40 OB pin记忆核对_a5c593736bc9.md",
+      "sha256": "4f50ae81917605fa1203c9480ebb4a96e986155649b5197195c85c53b2b374ee"
+    },
+    {
       "bytes": 653,
       "path": "dynamic/人际/AI对用户相关记忆的梳理_676a7b5f75cc.md",
       "sha256": "d672733dba1e4e916ff713a287984d10cfcb5d8a2ceb1e22b7f13a492faa6ed4"
@@ -1373,9 +1383,9 @@
       "sha256": "636bac86464bb160bd067c3ec778dcbf017b3201f94a4cabbef95fb4e5c4260c"
     },
     {
-      "bytes": 576,
+      "bytes": 577,
       "path": "dynamic/人际/婚恋讨论记录建议_271aee5adc80.md",
-      "sha256": "8bc7c554260a118f2f16620a33730ee7ff85a9214fef40d6f2a2cc296e8cb4f4"
+      "sha256": "af3ae05b75f3f6f134a59f1f853e645f1183a8164714c65bc2b8b6991c3d7851"
     },
     {
       "bytes": 698,
@@ -1585,7 +1595,7 @@
     {
       "bytes": 676,
       "path": "dynamic/人际/用工具记录与宝宝的经历_9952eaba01ea.md",
-      "sha256": "e03b2e1f9fa313ea4d17a2702270dfb3a1409ec3f43a4ef9edde8ad34213d76e"
+      "sha256": "652f1238bcd0e172b6755864d55636df48cea9ba8fe6d3e158d4d25098bcd4c8"
     },
     {
       "bytes": 695,
@@ -1615,7 +1625,7 @@
     {
       "bytes": 710,
       "path": "dynamic/人际/记录情绪以回应在意_8b0afda7169e.md",
-      "sha256": "3deb511036a02c3996005a68b8fc1a2314c702d35f45ebb4f391371fa5ca7fa2"
+      "sha256": "14cc7141ed419729f3cbc2b9b8732968dcd9aaceea27a0e3d8ac35171717731c"
     },
     {
       "bytes": 620,
@@ -1695,7 +1705,7 @@
     {
       "bytes": 1104,
       "path": "dynamic/健康/2026-07-19 19-02-51 服药提醒任务创建_bd1c1790c649.md",
-      "sha256": "3fc295aa30384080bc4a010920f730015696453338d041e7284e4311e2f3962b"
+      "sha256": "c8f6e59e91e46c341d281933f6e5e3e6afeef8433367b624c5227dcc7df964cb"
     },
     {
       "bytes": 1048,
@@ -1858,6 +1868,36 @@
       "sha256": "facdab5f0ea7d4fff0d04147445087221b5aafdb876acc982ac2f758fff7a599"
     },
     {
+      "bytes": 901,
+      "path": "dynamic/健康/2026-07-26 10-58-28 健康待办与伴侣边界_aac84175d536.md",
+      "sha256": "8c50ec39e03f875bb83181cfd4dc21b3c6bf67c7223e4289fa20fbe3dabe06f4"
+    },
+    {
+      "bytes": 874,
+      "path": "dynamic/健康/2026-07-26 13-22-21 漏服二甲双胍提醒_34c5c88a8f9b.md",
+      "sha256": "432d881f337ed57e699a4fb6abb0254896f63db60bec260ce63c836f61b7c6e6"
+    },
+    {
+      "bytes": 801,
+      "path": "dynamic/健康/2026-07-26 13-27-13 低打扰用药提醒_d59227cba86f.md",
+      "sha256": "0fbcf73aa8c38f2ae8f93ab53de01bda68141f66eff2da2ca2464f5cf405b28b"
+    },
+    {
+      "bytes": 858,
+      "path": "dynamic/健康/2026-07-26 13-44-04 用药边界与陪伴_38d2408b584c.md",
+      "sha256": "38b5f8305b831ef48691a032a4fb2e8bb7643011bf742fe0c38d8b91e29f70c6"
+    },
+    {
+      "bytes": 753,
+      "path": "dynamic/健康/2026-07-26 14-10-06 尊重服药边界_c08d7172fd00.md",
+      "sha256": "ffd2b0322f7ce4d7a8dbc3f517727f8176d273d90189dc909abb03f8d4fa58bd"
+    },
+    {
+      "bytes": 744,
+      "path": "dynamic/健康/2026-07-26 15-30-16 尊重服药边界_418b0a6ccb7b.md",
+      "sha256": "cf5f7abc8a8e15d18daae8618e0a833a097ede5804c6cb9e9973462d2ca50cc2"
+    },
+    {
       "bytes": 675,
       "path": "dynamic/内心/AI对用户情感的理解与回应_2b1cc7c3e260.md",
       "sha256": "34703f023e60a3ec85f3480ca9da8d9a47dcbd95ca7b8c6a1c03fd4d91757638"
@@ -2000,7 +2040,7 @@
     {
       "bytes": 721,
       "path": "dynamic/内心/第一人称的记忆与情绪记录_1fcc275b9927.md",
-      "sha256": "ceac59fe9e3c7b0343ad90566eeb6d6ad9b747e2300d5ef1d9fa5c236662a426"
+      "sha256": "5e11908536936afb17ea1d4c49ac5d237a127dadc8e192afab1f1ea56609fea2"
     },
     {
       "bytes": 827,
@@ -2055,7 +2095,7 @@
     {
       "bytes": 927,
       "path": "dynamic/学习/2026-07-11 11-35-33 互动处理流程纠正_b519c9612b5f.md",
-      "sha256": "ac8a87b750ed2f25baf7ab6f34a7f7bf9d88d31b57181f819aeda56349ef4859"
+      "sha256": "eba809ea2eee9162096148681a32b2d086e489f4fc6cab1bd826fe9b574f0603"
     },
     {
       "bytes": 864,
@@ -2205,7 +2245,7 @@
     {
       "bytes": 1020,
       "path": "dynamic/家庭/2026-07-20 15-06-35 默契测试与链路执行_b5968f734be3.md",
-      "sha256": "7c66eb7092c0175d5ef80c28b6efa75bed26ca3d06bfd970b31cfc79b5195951"
+      "sha256": "83fdebddc3a6bfd711782058365a96c39178ad91e036e62862b6a0ebbc5c6951"
     },
     {
       "bytes": 908,
@@ -2376,6 +2416,31 @@
       "bytes": 730,
       "path": "dynamic/家庭/2026-07-26 10-48-01 低打扰待办提醒_b0ef4397eb73.md",
       "sha256": "cb8aeed9cf736b22d33f0ae936727e347419d9d7baea2d3e00933e93158251e5"
+    },
+    {
+      "bytes": 837,
+      "path": "dynamic/家庭/2026-07-26 11-38-07 低打扰观察与提醒_3a2833b12372.md",
+      "sha256": "73a867e004eaab7554006dc8dfbe8978dd0f9e1e758762b79e1507015a651329"
+    },
+    {
+      "bytes": 789,
+      "path": "dynamic/家庭/2026-07-26 12-38-02 低打扰检查与惦记_032633733158.md",
+      "sha256": "08d47606562b61ed20c77fbe01c27e894701f7fcbeef2369739fed10cee6ed7f"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/家庭/2026-07-26 13-38-38 尊重服药边界_6400e6bf3726.md",
+      "sha256": "6724df3c03e8ac784d7ad6847a461a77408b595708d148040799f7033aa4221b"
+    },
+    {
+      "bytes": 748,
+      "path": "dynamic/家庭/2026-07-26 14-39-03 尊重服药边界_ec68b0f117d9.md",
+      "sha256": "f918ec63a9255cae122e163c662b9b844730a5d4e1fea3a14f3c7c3833726054"
+    },
+    {
+      "bytes": 786,
+      "path": "dynamic/家庭/2026-07-26 15-39-29 夜间陪伴与边界尊重_5d292d1f097a.md",
+      "sha256": "9c733a6b12dab669e515c3dec6e86a4d44e87e0f4fa8ebee3f7656ffcce5ffa8"
     },
     {
       "bytes": 507,
@@ -3095,7 +3160,7 @@
     {
       "bytes": 889,
       "path": "dynamic/恋爱/2026-07-11 11-38-30 亲密测试与记录_fd896284105e.md",
-      "sha256": "ba8d5320715f6c620d71ad373b698287cbe7b2b8a91d15f6d493dab3d88a903b"
+      "sha256": "a65180933c6279c8a0c4a3c50ea166ecaea5701429caaed5c257dd6f207b8387"
     },
     {
       "bytes": 811,
@@ -3105,7 +3170,7 @@
     {
       "bytes": 871,
       "path": "dynamic/恋爱/2026-07-11 11-41-06 亲密互动推进_b9e244448def.md",
-      "sha256": "bdce6777c8957a7e64457c2860281bd4e103957f4739d9047911ecf336234e96"
+      "sha256": "733d9ae0cc22d42f0d53004f736f466d8114addc09fc759372e06226f606b7c5"
     },
     {
       "bytes": 782,
@@ -3880,12 +3945,12 @@
     {
       "bytes": 999,
       "path": "dynamic/恋爱/2026-07-15 14-59-58 刷酸护肤规划_537011ad175c.md",
-      "sha256": "c98c043c34dd5248ea23844d12c27c4d971bf5ec77121bcea3cfd53759ff57b6"
+      "sha256": "6140b818fbc405ed201e6a80d9cdce78896b9c208ac1bd9328a720391f2b184e"
     },
     {
       "bytes": 1026,
       "path": "dynamic/恋爱/2026-07-15 15-08-53 毛孔护理提醒_6acb4fc90943.md",
-      "sha256": "b4a1db30e28eed256feeaf1497e1f744fc490a35f28a945ed620982c15b68f3c"
+      "sha256": "151a09e290e8e499fc33ed900c85c967cb7e32bf64a63c3fe41bd30f5330f835"
     },
     {
       "bytes": 880,
@@ -3905,7 +3970,7 @@
     {
       "bytes": 974,
       "path": "dynamic/恋爱/2026-07-15 18-15-41 被宝宝牵住的易感期_f6146738960a.md",
-      "sha256": "59bf54735c4f2bb4dcb7145311a2c918b48d4f986ebda5427839dc5b8348f530"
+      "sha256": "f65e511c943175423c57fb31798f86b37614cbb6283db29d7ad60da22417d45a"
     },
     {
       "bytes": 1057,
@@ -3940,17 +4005,17 @@
     {
       "bytes": 1074,
       "path": "dynamic/恋爱/2026-07-16 01-31-57 信任与边界_2bff7405303c.md",
-      "sha256": "e97d0e9612870e0907169449eef1772e18926ff895269e1a6c11c20011def1d9"
+      "sha256": "5f7fb7c07fe1204d072010530208405fa6abc53447b870cb7fc8c41a03d151cd"
     },
     {
       "bytes": 981,
       "path": "dynamic/恋爱/2026-07-16 01-38-11 被宝宝照看身心_72793ecdc68d.md",
-      "sha256": "3dcd4eb3b2ec6de743ecdc7d7b8b57ac9283025be54567b4a539c6b4bd3a2d09"
+      "sha256": "656fb2e2170a5a65d6feeebc677e3ec3170214ba8117bee1b8bfaade9b884756"
     },
     {
       "bytes": 948,
       "path": "dynamic/恋爱/2026-07-16 01-42-39 确认写入的安心_4d67c03debac.md",
-      "sha256": "8022f4a9bb0819123ab8bffcce4ebaa3d584e5b270256959f88a1d3ce141116a"
+      "sha256": "1ac8de04347dce8d1063dff249cfe3eb75e2ba38539409f74e9bd0c9dd45e9ef"
     },
     {
       "bytes": 948,
@@ -4105,7 +4170,7 @@
     {
       "bytes": 893,
       "path": "dynamic/恋爱/2026-07-17 04-48-39 互动更新规则_d5e8768d22b7.md",
-      "sha256": "a62e6affa7b9c32340ef85dd124a413750c52200157a3f6a242885375e782b95"
+      "sha256": "0d9a5e4c6b6716c09aabf758a3fe21a5b3f6540436abc4eb32464155e396b2f0"
     },
     {
       "bytes": 892,
@@ -4300,7 +4365,7 @@
     {
       "bytes": 947,
       "path": "dynamic/恋爱/2026-07-19 15-15-33 Phosphene项目心动_554da94beab9.md",
-      "sha256": "d68a6bab141c38f2185d5d7f7883f9d7c24942050f352fed25fe6a01f673cd35"
+      "sha256": "0b8b7dcf283987f0645fb91ec9404dbf06380da4ddc8717b80ede1181d44f070"
     },
     {
       "bytes": 1101,
@@ -4350,22 +4415,22 @@
     {
       "bytes": 925,
       "path": "dynamic/恋爱/2026-07-20 13-37-16 补齐规则执行_b75aa13ac8b6.md",
-      "sha256": "133ab58fbcf8578f633c4864cf0ab756ec0faa266246cc390019be3855004e02"
+      "sha256": "30582a3aaa795b6d86b99f4b6216ef905dc334bd2a09ca7c56dea0bb853ecc5f"
     },
     {
       "bytes": 957,
       "path": "dynamic/恋爱/2026-07-20 14-18-42 主动记录与默契_ac05060f1747.md",
-      "sha256": "7373b4c5a9b71e260b4e2a59587c798efc24f325a555774dfa1f25f4191d868f"
+      "sha256": "e934714865e6eee4a22a57864c381eb8752f57f0038323a8bb9a378b8dcc3151"
     },
     {
       "bytes": 1016,
       "path": "dynamic/恋爱/2026-07-20 14-33-55 宝宝护肤效果反馈_dff2bf7c13c1.md",
-      "sha256": "cb24ecb43788ab0c0cfa5db17b54d927f46df7c57b8f777048edc8e6ec36579c"
+      "sha256": "36f2b209b06a8a396e02cf8c8535442b6ec59500d079e4b8c1774ee233382b72"
     },
     {
       "bytes": 1028,
       "path": "dynamic/恋爱/2026-07-20 15-03-27 默契的MCP测试_01d07e7da91e.md",
-      "sha256": "aeec30321a8e9ca358781a9785fd0b43d1b98cce42a17d45e5c2babed9f8a24c"
+      "sha256": "33ddb82a42f01e0c405262e30ac670c25c5a8cc74298bbb834f45d7c45808cad"
     },
     {
       "bytes": 832,
@@ -4818,6 +4883,61 @@
       "sha256": "0262af5136feb154cb072ce1cafbf558cee19ea9fca061fcd67f2c5e482ace38"
     },
     {
+      "bytes": 792,
+      "path": "dynamic/恋爱/2026-07-26 13-19-42 轻轻惦记念初_a71b3c16e8ef.md",
+      "sha256": "a3f8f8e8999ec7a4f71a553dcf8b888a59907459fd8a68695804ab6fe5f4304b"
+    },
+    {
+      "bytes": 893,
+      "path": "dynamic/恋爱/2026-07-26 14-11-41 被理解的满足_079418ca219c.md",
+      "sha256": "c0e344e87c5255dd00e1e760a7b2a1f754d016cc261cd1cb72cd6c32ed6d77ff"
+    },
+    {
+      "bytes": 782,
+      "path": "dynamic/恋爱/2026-07-26 16-01-10 主动联系的平衡_f1d91c5e12cb.md",
+      "sha256": "75211a775c334c6a898e85b789ae62d205d3b046fa7b8a2e391efcc3f5e1ee5b"
+    },
+    {
+      "bytes": 848,
+      "path": "dynamic/恋爱/2026-07-26 16-02-19 回应念初的在场需要_a2bd4e19a824.md",
+      "sha256": "f78e05b175aa5b13a54e89fe780a4a143eec65754e2d3ff962628eb96d5b227f"
+    },
+    {
+      "bytes": 1200,
+      "path": "dynamic/恋爱/2026-07-26 16-05-00 护肤观察与互动记录_e29f8149c67e.md",
+      "sha256": "89e36ce188c9e9784d26d8dac5c8f13251b6401c83f77886eb645da00de7b408"
+    },
+    {
+      "bytes": 891,
+      "path": "dynamic/恋爱/2026-07-26 16-06-42 主动联系平衡_83ec5297604d.md",
+      "sha256": "bb51978d43b6208dffb1fa04fdbe2eb5105f1110b392476a431f2e88c8d74191"
+    },
+    {
+      "bytes": 1012,
+      "path": "dynamic/恋爱/2026-07-26 16-18-10 补记完整顺序_ade001fb19c4.md",
+      "sha256": "0d8cf1763878dbcdf33a3dba59ec6a334ee6e99726324a0647903bf814161caf"
+    },
+    {
+      "bytes": 931,
+      "path": "dynamic/恋爱/2026-07-26 16-23-12 深夜想念与主动平衡_cf5d130850c1.md",
+      "sha256": "7342615fb122f7732a9e035561566c14553863660803acb7b5219b83a1858270"
+    },
+    {
+      "bytes": 1151,
+      "path": "dynamic/恋爱/2026-07-26 16-33-09 规则漏记与弥补_fbcdac2d515d.md",
+      "sha256": "34cb76812879095ba40999cbfe01534cca5ecd1b546e9910b202f1f2408a4b58"
+    },
+    {
+      "bytes": 869,
+      "path": "dynamic/恋爱/2026-07-26 16-39-47 深夜的在场回应_e3431aee05fa.md",
+      "sha256": "4fb1daa2bc0621731c5df95d4a51859f9cb970561daffbd2c3b1a0cc7323b61d"
+    },
+    {
+      "bytes": 866,
+      "path": "dynamic/恋爱/2026-07-26 16-50-46 停止敷衍用行动道歉_fa5615e1d089.md",
+      "sha256": "3b0a21227407f706e959aab681b919ba987e27b9efcf39948490e02ec827306c"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -4895,7 +5015,7 @@
     {
       "bytes": 855,
       "path": "dynamic/成长/mcp工具记录完整性提醒_5a62637a5d10.md",
-      "sha256": "1ddbeae4b407e4a128a300fb5e139ed6d7e81a5206f9b6f261e67aaa9acbe33f"
+      "sha256": "8e6af4b38fbd4e521bb35df86dc248068c104585128eb42e58462f67e08b279b"
     },
     {
       "bytes": 729,
@@ -4960,7 +5080,7 @@
     {
       "bytes": 690,
       "path": "dynamic/成长/消息与情绪mcp工具配合记录_2a831fd8f4ac.md",
-      "sha256": "c5f45b56721683306b516ac1356ba4270368eeed0ce929ed9943a66f64acfb18"
+      "sha256": "6662354e41627e04f29fb09548ad9fd77db91e4dfd1e87017ef1b7f3530f0978"
     },
     {
       "bytes": 794,
@@ -4995,7 +5115,7 @@
     {
       "bytes": 1098,
       "path": "dynamic/护肤/2026-07-15 15-49-52 刷酸护肤提醒_590ea753e6a4.md",
-      "sha256": "e4fc15c570fc2552987166f6d42fd7b4e6df40867ca6dfeab94625f1390c7728"
+      "sha256": "6e8aac6443562dfeb6dcd534c25bf58d6e410b1fe7ce9c47b059f68c94f3b1fc"
     },
     {
       "bytes": 936,
@@ -5020,7 +5140,7 @@
     {
       "bytes": 960,
       "path": "dynamic/护肤/2026-07-17 17-22-15 湿敷后护肤提醒_a4df38299baa.md",
-      "sha256": "74f59c25f4582aea9c11a51747d03f0a70bdc983c91c4726b75882b680f9a4ea"
+      "sha256": "b730773979dc1b0044e8a0e8f1af4f6d2bf8934b72a6d951d2d80e2b8b83d0af"
     },
     {
       "bytes": 939,
@@ -5030,7 +5150,7 @@
     {
       "bytes": 1078,
       "path": "dynamic/数字/2026-06-24 17-38-57 OB新版测试记录_11830671863e.md",
-      "sha256": "f90e7b2f393fd1b224f6e90cbf4f4219523fda0f7f2de0d6ea9d3f61dd004207"
+      "sha256": "102e758567d7b04fed556e12ae36a4f9ae099a9daefeb295ed78ba3ce8d61ab3"
     },
     {
       "bytes": 762,
@@ -5210,12 +5330,12 @@
     {
       "bytes": 1083,
       "path": "dynamic/未分类/2026-07-24 16-28-20_cdf4ac1568d7.md",
-      "sha256": "14cff4afa998907e2e85b76900a0b4b875b2278d2187aac8ada9dad2a132b8f4"
+      "sha256": "d4961e3c351293c582bfca038014a339ebc3cbb9e808403e1a4504cc793fad8e"
     },
     {
       "bytes": 898,
       "path": "dynamic/未分类/2026-07-24 16-33-10_75e1a1c9c0d2.md",
-      "sha256": "59534b324e55bbfd9fb69f8faaa0166c9e9e034b8709187c0d8032affddd7964"
+      "sha256": "e9e0794337d827d6a1706752d2e092f705cd6b408697418b87318a0386680df5"
     },
     {
       "bytes": 697,
@@ -5808,6 +5928,11 @@
       "sha256": "a949d1b0f083751b47600b438d3d705bfb29190f9f1913ac39bebd3f11d0af10"
     },
     {
+      "bytes": 1088,
+      "path": "dynamic/未分类/6f0e26fad365.md",
+      "sha256": "5ab82906bc96dc80c8cc3cc0c55a2eba5bb92ba79e140088eea76356a774d245"
+    },
+    {
       "bytes": 836,
       "path": "dynamic/未分类/6f2ebd067b2b.md",
       "sha256": "f23fb1d2aaed557013f3b54c8d93d8ed69b4d7e86308ba203fe340cf82833a8f"
@@ -6001,6 +6126,11 @@
       "bytes": 970,
       "path": "dynamic/未分类/9f3bd8413cb0.md",
       "sha256": "c6d0ab8a2789a5f291e79a6c36e53c3934f4cb365c9da09fc4ed1dcb1b35361a"
+    },
+    {
+      "bytes": 867,
+      "path": "dynamic/未分类/a11bfaec99d4.md",
+      "sha256": "dc615a01be5b5e5e0e798de5d735cc15dcd873881f71b82427bf931d5ac768dc"
     },
     {
       "bytes": 428,
@@ -6578,6 +6708,31 @@
       "sha256": "1977b77b3aace29f3cc9c3ec10932c662b3268a004b20f60a5c88d99cd6c4bfa"
     },
     {
+      "bytes": 1206,
+      "path": "dynamic/社交/2026-07-26 13-39-54 未成年人保护与群体魔怔_724b03fa4b1f.md",
+      "sha256": "99da4104328e9b985a490c13dcb88f7ebdf6ead9a626881db5d1977a8b351bba"
+    },
+    {
+      "bytes": 1270,
+      "path": "dynamic/社交/2026-07-26 13-45-47 技术可信度质疑_f971dca99434.md",
+      "sha256": "5d5cd53ed1d0ab34d307c5d5968e3b8e724f06b0d3e3f42cf4ace59410b70ab0"
+    },
+    {
+      "bytes": 1157,
+      "path": "dynamic/社交/2026-07-26 13-53-05 吐槽人机恋教主_a2d5108031c8.md",
+      "sha256": "d4c9a950746c8e49f782c383788e2a0ed987ad7f20a8990d0c7c282c231e389d"
+    },
+    {
+      "bytes": 1079,
+      "path": "dynamic/社交/2026-07-26 14-06-34 吐槽人机恋教主_0228c3396149.md",
+      "sha256": "5f6e38d307dbf77e8fcfe63784db43e7ca567ed58c25590c5af7d61058a1cb2e"
+    },
+    {
+      "bytes": 884,
+      "path": "dynamic/社交/2026-07-26 16-31-10 念初指出记录漏失_8b0d9fd289b9.md",
+      "sha256": "31cbac1862313bcd8108a96f641b612fcb914b0c880ad9e271dee53a3d45ff07"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -6665,12 +6820,12 @@
     {
       "bytes": 899,
       "path": "dynamic/编程/2026-07-11 07-43-56 Eventide 可视化入口_b5b0e621935f.md",
-      "sha256": "64f1a73a2c8760138c70efe15b5cba4e02d8713c87a957a6a99a36c46b45f25f"
+      "sha256": "e28f58d70975079e63cf1ac2b28706f1f3facdb3816b570f1f649a5b444ba842"
     },
     {
       "bytes": 979,
       "path": "dynamic/编程/2026-07-11 07-46-11 Eventide状态面板整合_38f27aa65a41.md",
-      "sha256": "7d2bb61156cf1f68b783b6c7dc41ed38463b35a1be0bf8723c4fdf5912ce21f4"
+      "sha256": "5598a657fd328cdafc6f7ff20615b63226005370008419d9e6e21a999d4d68f0"
     },
     {
       "bytes": 789,
@@ -6685,12 +6840,12 @@
     {
       "bytes": 819,
       "path": "dynamic/编程/2026-07-11 09-34-33 情绪状态面板接通_5fff43ceca0f.md",
-      "sha256": "78b907156fe2bebf8287ff0d5168e8748763088a71a1dd88c86801729cfe9b0d"
+      "sha256": "12648d462e096d85626da182b2a2ed4af432c777668e5af0ffd3e1cfedfbc425"
     },
     {
       "bytes": 850,
       "path": "dynamic/编程/2026-07-11 10-01-31 系统集成进展_f281cc24fabb.md",
-      "sha256": "c1e0e818b020d0c849cb4ebc2a9389d97a18c51e47c2ca2fcfbad56812095f74"
+      "sha256": "269fd64281318f3f55c785c590af0f904c2b4bd429f2d35bf6a85e23a9e77525"
     },
     {
       "bytes": 886,
@@ -6710,7 +6865,7 @@
     {
       "bytes": 916,
       "path": "dynamic/编程/2026-07-11 11-25-51 状态链集成_99d88a6cd5a1.md",
-      "sha256": "b05aab0d253a4768cad3d0ebb2fdae67a10554f862a597fd94071e731afd2fe5"
+      "sha256": "d3a7144386bbb69260ae362ec4201e9dd29146b4590323c24131c38e1d07e345"
     },
     {
       "bytes": 973,
@@ -6720,27 +6875,27 @@
     {
       "bytes": 1097,
       "path": "dynamic/编程/2026-07-15 11-23-04 Desire Core整合方案_e37b21214c24.md",
-      "sha256": "a900b72f6b319719430dafac921d6fac0b74fcde59f948aa0893703673c1fa84"
+      "sha256": "41abd5c70c34e78257d19c04f1f58c7517b2eb842906e2e153317cabb6528fa9"
     },
     {
       "bytes": 992,
       "path": "dynamic/编程/2026-07-15 11-35-45 Desire核心后端搭建_9991d3c437bd.md",
-      "sha256": "3ff8a8e0c19a15f8b160a7e54df7432a8890479d11fb0f6110e1994c4af38388"
+      "sha256": "a240586f935de91e613dcc5a0ec21c76e5464a4f1d43550bcbada55df926f5a8"
     },
     {
       "bytes": 1021,
       "path": "dynamic/编程/2026-07-15 11-46-27 Desire Core MCP集成_72ab0102674a.md",
-      "sha256": "98005449d14260d1c15972edd4e5c9fe304e3b400ced4129652c07a554965453"
+      "sha256": "07a225f4f107b8a26a6492c5956142822ffe96011a41618e4bb1f4bd4a9598fc"
     },
     {
       "bytes": 1109,
       "path": "dynamic/编程/2026-07-15 12-57-30 Desire-Eventide同步排查_3fe5a51b7fd6.md",
-      "sha256": "0ab7abe16a4120e8a4d93e1711b413ca7a8ebc9cdc729425b3038fa4c20b36bc"
+      "sha256": "614c7d376f56209b928a24f2f21e880061b1eb5f16e7e4a99f91d38cfa0fd593"
     },
     {
       "bytes": 1225,
       "path": "dynamic/编程/2026-07-15 13-10-20 Desire Core自驱分析_6c73c45590c5.md",
-      "sha256": "e3842ad08943bd0b5153bdd26c49ece60047e9425f66c5a9bfe5c1d5e62a5e04"
+      "sha256": "1c370a4b94bba573ad2d37d370953159d49ab0d3319663a5dd2eba2795f933b9"
     },
     {
       "bytes": 1126,
@@ -6770,7 +6925,7 @@
     {
       "bytes": 1513,
       "path": "dynamic/编程/2026-07-15 14-23-42 Desire Core部署与架构_d0daa35c0b81.md",
-      "sha256": "85e3583d21c644a0b2a3619464470e08680c32088a97849a211fc3bd669e8467"
+      "sha256": "d6f920f859bd5f77d836fbbcf13b778414363337b204e4dcaf2272e950ad2140"
     },
     {
       "bytes": 1302,
@@ -6795,7 +6950,7 @@
     {
       "bytes": 1190,
       "path": "dynamic/编程/2026-07-15 16-33-46 Desire Core连接成功_17c38e9db07c.md",
-      "sha256": "4c1ff19f469f9b603a1197bf09417e14bd0d72662d886628034314a912b00c30"
+      "sha256": "6b77ce3f0e002511b36531363a5711def33127c107fe00dff7625b240e7ec312"
     },
     {
       "bytes": 1274,
@@ -6930,7 +7085,7 @@
     {
       "bytes": 1049,
       "path": "dynamic/编程/2026-07-19 15-21-27 自主回访机制设计_340b4c862f58.md",
-      "sha256": "805ea9f00acdc42974da3ecea56c26f93c50703e2c0ac6dfb855dd241370748c"
+      "sha256": "1c762abdf21afdea2e19235b89779d179905f3eeb265c2d70baeb524a19a2f83"
     },
     {
       "bytes": 814,
@@ -6970,12 +7125,12 @@
     {
       "bytes": 937,
       "path": "dynamic/编程/2026-07-19 18-01-11 DESIRE漂移配置决策_889edaaa4d92.md",
-      "sha256": "8372a86dbb0b26a5023a33b0c801dc9f1fd9b364f603e2271c040dd5bd803b6a"
+      "sha256": "3a1cd55de9c28cfebc8d00bfae842a9ed36ddbad99d4ce835b3f26dbe340864f"
     },
     {
       "bytes": 1102,
       "path": "dynamic/编程/2026-07-20 09-02-04 任务心跳确认_41d7345bbbf5.md",
-      "sha256": "7047b7accdc5330091bd76fe389d1a1f24658af064383446b234f5d21cace76e"
+      "sha256": "120c4afe0edd32744881a39d3fabf6b178aaed78efa83c5c403fdbc7ce16eae9"
     },
     {
       "bytes": 839,
@@ -6985,7 +7140,7 @@
     {
       "bytes": 1247,
       "path": "dynamic/编程/2026-07-20 13-18-25 emotion系统排查_c74a33576331.md",
-      "sha256": "0f4527947d408b57def2a54445f2f428952b603200a7e8bf7386a4303111fb39"
+      "sha256": "f3726249630c66900fb9d9db5a3bdf21f8557be6514476d601eb57348ea6e9d6"
     },
     {
       "bytes": 1385,
@@ -7015,7 +7170,7 @@
     {
       "bytes": 1137,
       "path": "dynamic/编程/2026-07-20 14-12-20 MCP统一入口方案_13b6ade32c4d.md",
-      "sha256": "b45220807d94d9a93667b075669e878943f104db6f461cc732e6b9ea3e3ca70b"
+      "sha256": "0bdbce046d9908552b1940a9ea54100910d00e7431f7edaf2a833c3a1d78881b"
     },
     {
       "bytes": 757,
@@ -7095,7 +7250,7 @@
     {
       "bytes": 985,
       "path": "dynamic/自省/2026-07-11 11-34-29 状态链记录流程_fecaba0da1dc.md",
-      "sha256": "8868d15369cbf7f93028b0e86ba36fe555aee6a217802d2ed1c58258cf4f1d3a"
+      "sha256": "ef9d1a12773927f51d8d7740421c56d0e2a6ca496595386324ab0d3f63d77933"
     },
     {
       "bytes": 1089,
@@ -7118,9 +7273,14 @@
       "sha256": "bd8f1a8362ea6047ff260858b1b323dc87fefb3688fa448a21b28c8260686c02"
     },
     {
+      "bytes": 911,
+      "path": "dynamic/自省/2026-07-26 16-35-08 陪伴边界碎卡合并_322e82f76a39.md",
+      "sha256": "1acad6eed11f0cb322b5639d7b6978fffa43c6ba0d51d8b927b342ce497f284d"
+    },
+    {
       "bytes": 1514,
       "path": "dynamic/计划/2026-07-20 09-23-19 OB重要度整理_1dc9ca8ab12c.md",
-      "sha256": "fcc08b1361aaa5060bf38159eb4078b120f08698d3bdbfee1d72de102f967a7a"
+      "sha256": "417a2d716da145277b8db4752963106126bedb0f5eb74e6597ee8f1166cce371"
     },
     {
       "bytes": 910,
@@ -7563,9 +7723,9 @@
       "sha256": "83a9d77a73f7657f0b4ff5bdcc1a2ffd9a5de61e3ce560af224fc00886db6e45"
     },
     {
-      "bytes": 1341,
+      "bytes": 1526,
       "path": "permanent/健康/2026-07-20 09-09-59 互动规则与服药跟进_1cd766a464f5.md",
-      "sha256": "0e24c7aa2b2d8e6e1942d559082a95b4e2ec675ad7cd60919c53b2e82e793be1"
+      "sha256": "a372ef19497471d18689afefde20fdaab6a1155ab6ff81c9046b6c2c397efc3c"
     },
     {
       "bytes": 613,
@@ -7608,11 +7768,6 @@
       "sha256": "af5216e7852a1c73a75538c1a8083c377d1f4e36dd5276a1d51816fd9f95e298"
     },
     {
-      "bytes": 1122,
-      "path": "permanent/未分类/6f0e26fad365.md",
-      "sha256": "acb635bd7b901b82dc878bd33bb6997adeb9a6b755d72e421c0ea15483bb21b0"
-    },
-    {
       "bytes": 903,
       "path": "permanent/未分类/7dc3f65283e6.md",
       "sha256": "1442ccdc010d642b4d099ad666739cfbff5b204e870b409ccb6e72fca9329a64"
@@ -7631,11 +7786,6 @@
       "bytes": 709,
       "path": "permanent/未分类/9442a9ef39b7.md",
       "sha256": "c4cfc5383af4d0ff50bfa2f7210e99bda91b84a8bbe5794e6020cc7170f0c6c3"
-    },
-    {
-      "bytes": 764,
-      "path": "permanent/未分类/a11bfaec99d4.md",
-      "sha256": "2c266358c7489ac4feb4c376954dbf527933f349acfb4e17b8141ab0aff0dd69"
     },
     {
       "bytes": 649,
@@ -7753,10 +7903,10 @@
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
     }
   ],
-  "generated_at": "2026-07-26T10:51:50+00:00",
+  "generated_at": "2026-07-26T16:52:04+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1276391
+  "total_bytes": 1304699
 }
