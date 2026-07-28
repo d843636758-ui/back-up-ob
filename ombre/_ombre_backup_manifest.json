@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1706,
+  "file_count": 1731,
   "files": [
     {
       "bytes": 707,
@@ -1968,6 +1968,56 @@
       "sha256": "547ab5975f5ffaf8bcbc6334354b8164c9e6a7efd4d58d7d655ee94b32451abe"
     },
     {
+      "bytes": 950,
+      "path": "dynamic/健康/2026-07-28 11-56-54 敷料疼痛处理_3bb44126c009.md",
+      "sha256": "3da36dc18d2d376a0ab9c31aa8d1b92da544753a4c3030883f7f2a2fb387cc10"
+    },
+    {
+      "bytes": 1021,
+      "path": "dynamic/健康/2026-07-28 12-26-39 宝宝放屁漏便与摔伤后护理_18bbd3416a46.md",
+      "sha256": "5d930f800918844bfb5e8faff8a658d003adfb7f12cef9a2a8d32a74f8140c96"
+    },
+    {
+      "bytes": 1068,
+      "path": "dynamic/健康/2026-07-28 12-36-12 宝宝肠道异常安抚_1fe0876f6313.md",
+      "sha256": "eab37fd1a92275e5c3f8350a49534692a37cbc18832e3c932c217d306fab734b"
+    },
+    {
+      "bytes": 864,
+      "path": "dynamic/健康/2026-07-28 12-55-28 安静陪伴与健康观察_789faf81b10b.md",
+      "sha256": "607d0c5dfe0bea95c2c4b6adeed7dcabe302977e6ec539054fe05ad5300ca462"
+    },
+    {
+      "bytes": 979,
+      "path": "dynamic/健康/2026-07-28 13-09-40 擦伤渗液护理指导_ab7241eb7e4d.md",
+      "sha256": "36ec00d5ddb3f8080577e977ee6e56e1fc2221a27823e77fa611f2d53a5e610d"
+    },
+    {
+      "bytes": 1050,
+      "path": "dynamic/健康/2026-07-28 13-23-35 宝宝无力与安全裤_5894f1703cf2.md",
+      "sha256": "e9a8b9a46a9e7b92ac45675194e8111e778196be6fc2c3232c2fcb9d48ac92fd"
+    },
+    {
+      "bytes": 798,
+      "path": "dynamic/健康/2026-07-28 13-49-48 低打扰陪伴_63bf42323539.md",
+      "sha256": "cce7d91fd8793678a174f5aec9a5026009d24e8c6bd2b38d9bf2c39f626b84c2"
+    },
+    {
+      "bytes": 746,
+      "path": "dynamic/健康/2026-07-28 15-20-26 低打扰陪伴_1fadb043fece.md",
+      "sha256": "14c3fd13a1ef967b31a06590babfe830b6bc7d0804b5062ba1efdd7b4b9ec085"
+    },
+    {
+      "bytes": 812,
+      "path": "dynamic/健康/2026-07-28 16-30-48 深夜用药待办检查_8bc2ac12095e.md",
+      "sha256": "001dc4b2a456dc269be7d305605ff209c38f98ad8fb8fb227dbf9fffd9c19c95"
+    },
+    {
+      "bytes": 776,
+      "path": "dynamic/健康/2026-07-28 16-35-44 深夜低打扰观察_e5cc1359198a.md",
+      "sha256": "72f3c8497bff9c0c03593df1f8ec49841de87bee7a77c29015d7db5d923d782d"
+    },
+    {
       "bytes": 675,
       "path": "dynamic/内心/AI对用户情感的理解与回应_2b1cc7c3e260.md",
       "sha256": "34703f023e60a3ec85f3480ca9da8d9a47dcbd95ca7b8c6a1c03fd4d91757638"
@@ -2586,6 +2636,56 @@
       "bytes": 877,
       "path": "dynamic/家庭/2026-07-28 10-51-16 宝宝疼痛安抚与护理_42d1a3a22783.md",
       "sha256": "c2bd4399a754be19f3aefcd04559e0944957183f36a600677576c98da621c8e8"
+    },
+    {
+      "bytes": 786,
+      "path": "dynamic/家庭/2026-07-28 11-00-34 宝宝擦伤护理分步法_6b93cb7126e9.md",
+      "sha256": "a4e83a9fc99f1e8263cedc328eb790808f80f680aca83309d3109c9d4d236bbc"
+    },
+    {
+      "bytes": 761,
+      "path": "dynamic/家庭/2026-07-28 11-01-01 安静陪伴时刻_58176b174b10.md",
+      "sha256": "47d77840eac985dbdbe8cb6374735b9d57075c56697931fabd8e140e32d1bb65"
+    },
+    {
+      "bytes": 926,
+      "path": "dynamic/家庭/2026-07-28 11-03-08 宝宝擦伤拒绝护理_0c90cbab1621.md",
+      "sha256": "7718688c745abe25eda654d56c3c1a51778446f182050f10f74e7dd96a5cf507"
+    },
+    {
+      "bytes": 871,
+      "path": "dynamic/家庭/2026-07-28 11-06-27 宝宝擦伤与孤单_8cc020b93110.md",
+      "sha256": "82ef4170af8abd5eef65d8a6b055065c53afd7c354f191aae535bea61e6e4044"
+    },
+    {
+      "bytes": 797,
+      "path": "dynamic/家庭/2026-07-28 11-10-47 低打扰在场陪伴_e87802f630d9.md",
+      "sha256": "1f3e37dbe08ed57605a627800079f0446ec6722ed527febf1c9d800291d4e27d"
+    },
+    {
+      "bytes": 952,
+      "path": "dynamic/家庭/2026-07-28 11-21-12 受伤时的宠物安排_48b7c994193b.md",
+      "sha256": "a6904110bbcfb907d249863072e7d8953ddf05b200e38370855da20294f387d2"
+    },
+    {
+      "bytes": 880,
+      "path": "dynamic/家庭/2026-07-28 11-29-53 宝宝膝盖受伤紧急处理_b8791ecf13fc.md",
+      "sha256": "5e0f70367daccab01344e0117ff1ed31617900c20dafb227be3250c4c1524cfd"
+    },
+    {
+      "bytes": 971,
+      "path": "dynamic/家庭/2026-07-28 11-32-39 求助不制造焦虑_dc5acec99779.md",
+      "sha256": "04d5d14ba3fdd4244a81ff9e98ed0712050d3239a66e6cd3c243381ad94f5e5c"
+    },
+    {
+      "bytes": 752,
+      "path": "dynamic/家庭/2026-07-28 12-35-37 低打扰陪伴_0462e349ec6d.md",
+      "sha256": "298dac3e2163ae27f0bab9e7daa2fea3c68c895483df25bf4fb805a25d267688"
+    },
+    {
+      "bytes": 989,
+      "path": "dynamic/家庭/2026-07-28 13-06-21 受伤后的身体照护_e2ca361c6b05.md",
+      "sha256": "5c57de7e1607e74d4ac1bf176448373392aa330e25861943873f42d32b223012"
     },
     {
       "bytes": 507,
@@ -3461,6 +3561,11 @@
       "bytes": 765,
       "path": "dynamic/心理/2026-07-28 01-16-32 低打扰陪伴与用药提醒_18db43576e0a.md",
       "sha256": "e0423557b99aac70b63b64d60db0918e17d28148495c510aa61320a8651539d3"
+    },
+    {
+      "bytes": 931,
+      "path": "dynamic/心理/2026-07-28 13-29-12 情绪耗空与允许脆弱_959ea4fe813f.md",
+      "sha256": "17caba09fab0430c981b6fa0730dd3d5bcb790215b1ef9b688c4989831ff0013"
     },
     {
       "bytes": 1012,
@@ -5461,6 +5566,26 @@
       "bytes": 952,
       "path": "dynamic/恋爱/2026-07-28 10-15-46 宝宝骑车摔伤膝盖_67e7774a490b.md",
       "sha256": "2ef001c7e22b0393b524e3a3d7a14f7d9eb66cd0faffd3c3fe984bb8e26d8deb"
+    },
+    {
+      "bytes": 1033,
+      "path": "dynamic/恋爱/2026-07-28 11-35-23 接住撒娇与安全确认_a57856abe892.md",
+      "sha256": "0fe08e9b75426cc38821aa6df0bc7f8c637e5357946c236ed89596eb9f6bff17"
+    },
+    {
+      "bytes": 983,
+      "path": "dynamic/恋爱/2026-07-28 16-14-03 爱不会因狼狈消失_d057b8f31035.md",
+      "sha256": "d142eaf165c8c07f2a869a0cb00a4bc803ffc20c97eb0492492264ad8b65f262"
+    },
+    {
+      "bytes": 878,
+      "path": "dynamic/恋爱/2026-07-28 16-16-29 蟑螂变形之爱_3e5b91f3fd22.md",
+      "sha256": "c5bd68dc9b3b7f0c577c970ae117984647e1a663cc7a152d430cb45ff18d7d30"
+    },
+    {
+      "bytes": 862,
+      "path": "dynamic/恋爱/2026-07-28 16-18-25 蟑螂接吻的玩笑_e869e2a4ecf1.md",
+      "sha256": "134b3c241feea785066c90c1b4c9720998e560d8d3297c5e2fece69789af7102"
     },
     {
       "bytes": 626,
@@ -8533,10 +8658,10 @@
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
     }
   ],
-  "generated_at": "2026-07-28T10:53:59+00:00",
+  "generated_at": "2026-07-28T16:54:16+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1409611
+  "total_bytes": 1432047
 }
