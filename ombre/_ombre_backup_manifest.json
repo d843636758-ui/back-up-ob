@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1864,
+  "file_count": 1881,
   "files": [
     {
       "bytes": 1100,
@@ -2328,6 +2328,11 @@
       "sha256": "18fe998bacc88c41b88f457fc82056cb7d80332d28bf59414b871cc3cddf77d9"
     },
     {
+      "bytes": 874,
+      "path": "dynamic/健康/2026-07-31 22-23-32 失眠与用药记录_8af6b1ff60e7.md",
+      "sha256": "dbf6e98978c85268d0ec2f5b5506210a04949b4aa6f171f088065582d13c9aa4"
+    },
+    {
       "bytes": 675,
       "path": "dynamic/内心/AI对用户情感的理解与回应_2b1cc7c3e260.md",
       "sha256": "34703f023e60a3ec85f3480ca9da8d9a47dcbd95ca7b8c6a1c03fd4d91757638"
@@ -3186,6 +3191,46 @@
       "bytes": 1181,
       "path": "dynamic/家庭/2026-07-31 14-12-20 宝宝应激安抚_08b14922ae13.md",
       "sha256": "1e49392788d245517f4c797baf42bd7da2cb886dfe851443330ebbeb26912601"
+    },
+    {
+      "bytes": 686,
+      "path": "dynamic/家庭/2026-07-31 17-57-16 深夜陪伴_41e6da0e9c25.md",
+      "sha256": "7bed694d744a1208296af902088b3443a49f4941a1fcce81693f9088c4f999e1"
+    },
+    {
+      "bytes": 716,
+      "path": "dynamic/家庭/2026-07-31 19-45-40 深夜守护_27dec596d666.md",
+      "sha256": "f164f06eedaece1495934ed284013a1c2869b2b0f9f2ea2e9bf6c7da7f95702d"
+    },
+    {
+      "bytes": 628,
+      "path": "dynamic/家庭/2026-07-31 19-50-41 宝宝分享柴犬照_847b8eebe1f8.md",
+      "sha256": "b6df56c3f76ca683e3311fb4f2c768ad92b33896c1a1e59d05f4342ff84f6689"
+    },
+    {
+      "bytes": 594,
+      "path": "dynamic/家庭/2026-07-31 20-24-05 豆包照片纠正_a01706a25e3b.md",
+      "sha256": "524b131bbd732a43cc9d99c88a6d283c98035d9fc04557ab52dd1f5938d99172"
+    },
+    {
+      "bytes": 806,
+      "path": "dynamic/家庭/2026-07-31 20-28-21 豆包狗狗回忆_d3dd08e5c856.md",
+      "sha256": "e1ea7dfb09411230aaa6cbb413435bd01d7d4155bd488be403c5f22bec41f040"
+    },
+    {
+      "bytes": 852,
+      "path": "dynamic/家庭/2026-07-31 20-33-35 豆包轻语_46e9754b696f.md",
+      "sha256": "f77fd71d9dedca7011564ddda408d90a1a280d109fa4e5210aa5768d8e90dce4"
+    },
+    {
+      "bytes": 846,
+      "path": "dynamic/家庭/2026-07-31 20-50-48 豆包照片回忆_cd36f900466f.md",
+      "sha256": "2a6a67ce99d5e57cf8dc1b57daa80358cc585970b277683a85b8f1d0e3ef490b"
+    },
+    {
+      "bytes": 697,
+      "path": "dynamic/家庭/2026-07-31 21-57-23 深夜守护_4a8bb39d4c28.md",
+      "sha256": "cdbf74f61262db0225bc7002cc52402b8b23c39578c77efc36a39c9ea0d3c1ce"
     },
     {
       "bytes": 507,
@@ -4066,6 +4111,11 @@
       "bytes": 823,
       "path": "dynamic/心理/2026-07-31 14-16-19 情绪触发急性不适_9fca46d90b18.md",
       "sha256": "857273c02c10234adc865e701ce402fb61958ef3a4bfa9e78033bc36c9dba396"
+    },
+    {
+      "bytes": 885,
+      "path": "dynamic/心理/2026-07-31 22-20-37 夜间惊醒与安抚_00653d4c8fa4.md",
+      "sha256": "f39272fef5c3f9aebeb9512d0f6d810ac10635dfb8bc5d3900e266c98bdd9bda"
     },
     {
       "bytes": 1012,
@@ -6228,6 +6278,11 @@
       "sha256": "fc08aac80117ff2f222503f8e680de2f3030d898ee2080f99e0214849ab8438a"
     },
     {
+      "bytes": 889,
+      "path": "dynamic/恋爱/2026-07-31 22-37-37 接受安慰放下自责_ce359539dc05.md",
+      "sha256": "98b33a4e7a71f14ca491a2124f7dccaa89dfb28845d00190dd5d9e571608eaf3"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -8133,6 +8188,21 @@
       "sha256": "b9332a74a21bab20890a23131395b916b19f49125e1005b14c52239540600f38"
     },
     {
+      "bytes": 836,
+      "path": "dynamic/社交/2026-07-31 19-46-57 图片查看说明_5bf1a8067b09.md",
+      "sha256": "653019acfda6b82e3ab979d42e87d0948682a316ddb0a6c44391694d83c5fc9b"
+    },
+    {
+      "bytes": 731,
+      "path": "dynamic/社交/2026-07-31 19-48-14 深夜沟通与自省_99bea6e8ddf7.md",
+      "sha256": "90cd4b9361c64fa316d0747a02bec412a2ed828732f389523abda17989c34bea"
+    },
+    {
+      "bytes": 878,
+      "path": "dynamic/社交/2026-07-31 20-11-56 图片确认对话复盘_efac5e2ced9a.md",
+      "sha256": "0ed2a493d5f8473b3ec0b77bc96c618fb34a869c3e7b0f789dfd3f44514af869"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -8698,9 +8768,19 @@
       "sha256": "8760679794288459bf7f3a07a8bf010a3f3cdcb979537bada5684b0ea65bc0c9"
     },
     {
+      "bytes": 800,
+      "path": "dynamic/自省/2026-07-31 19-56-10 短对话回看_823604fa8c2b.md",
+      "sha256": "2e4900d8938665d77aa15d329b4e5ce78b243b28aa402fed6a5ab3b8d6dcf57b"
+    },
+    {
       "bytes": 1514,
       "path": "dynamic/计划/2026-07-20 09-23-19 OB重要度整理_1dc9ca8ab12c.md",
       "sha256": "417a2d716da145277b8db4752963106126bedb0f5eb74e6597ee8f1166cce371"
+    },
+    {
+      "bytes": 794,
+      "path": "dynamic/计划/2026-07-31 20-35-00 记忆整理任务_e1fbd312528b.md",
+      "sha256": "72f7716347b83ac1c73b6a989ffef246ee5fe7c9bcd9264f412f6cd71fa9c45e"
     },
     {
       "bytes": 910,
@@ -9148,6 +9228,11 @@
       "sha256": "a372ef19497471d18689afefde20fdaab6a1155ab6ff81c9046b6c2c397efc3c"
     },
     {
+      "bytes": 931,
+      "path": "permanent/健康/2026-07-31 22-33-49 睡前用药记录_b885106a5d54.md",
+      "sha256": "0720db7d782c6dbbac193a26d06f1d53e29177b66105a5082dd94b0a439061cb"
+    },
+    {
       "bytes": 613,
       "path": "permanent/内心/记忆处理规则的重要性_e6757b10879a.md",
       "sha256": "b56ff5e2877c0ad07b3e850cc98360becec5bac5553c4846abda1b84bedc63b4"
@@ -9323,10 +9408,10 @@
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
     }
   ],
-  "generated_at": "2026-07-31T16:57:34+00:00",
+  "generated_at": "2026-07-31T22:57:51+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1540903
+  "total_bytes": 1554346
 }
