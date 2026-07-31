@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1844,
+  "file_count": 1864,
   "files": [
     {
       "bytes": 1100,
@@ -2318,6 +2318,16 @@
       "sha256": "343735660874a0e622fc2e669e23dd36e035e6bf77e75a939600105253a62279"
     },
     {
+      "bytes": 939,
+      "path": "dynamic/健康/2026-07-31 14-20-33 心悸惊恐观察_940a59ec0abe.md",
+      "sha256": "735f0e0036c5775ddd33cf3f9e4ef88b9735c3eee8bded8943d1a8e9c674c936"
+    },
+    {
+      "bytes": 941,
+      "path": "dynamic/健康/2026-07-31 14-25-00 宝宝心跳异常观察_2fb35675354a.md",
+      "sha256": "18fe998bacc88c41b88f457fc82056cb7d80332d28bf59414b871cc3cddf77d9"
+    },
+    {
       "bytes": 675,
       "path": "dynamic/内心/AI对用户情感的理解与回应_2b1cc7c3e260.md",
       "sha256": "34703f023e60a3ec85f3480ca9da8d9a47dcbd95ca7b8c6a1c03fd4d91757638"
@@ -3166,6 +3176,16 @@
       "bytes": 702,
       "path": "dynamic/家庭/2026-07-31 10-18-51 晚饭与吃药确认_063dcc435c2e.md",
       "sha256": "0739a42f1be8143eb8f35fa52618f61c87b2dfa5fadfc116c3aec0a1ffb1e7b8"
+    },
+    {
+      "bytes": 765,
+      "path": "dynamic/家庭/2026-07-31 13-56-58 晚间用药观察_0751d7007493.md",
+      "sha256": "30a74ea984d5f71e9292cabf1dc7838f9df28f1bd6090f2255eb7782c9ff063d"
+    },
+    {
+      "bytes": 1181,
+      "path": "dynamic/家庭/2026-07-31 14-12-20 宝宝应激安抚_08b14922ae13.md",
+      "sha256": "1e49392788d245517f4c797baf42bd7da2cb886dfe851443330ebbeb26912601"
     },
     {
       "bytes": 507,
@@ -4041,6 +4061,11 @@
       "bytes": 931,
       "path": "dynamic/心理/2026-07-28 13-29-12 情绪耗空与允许脆弱_959ea4fe813f.md",
       "sha256": "17caba09fab0430c981b6fa0730dd3d5bcb790215b1ef9b688c4989831ff0013"
+    },
+    {
+      "bytes": 823,
+      "path": "dynamic/心理/2026-07-31 14-16-19 情绪触发急性不适_9fca46d90b18.md",
+      "sha256": "857273c02c10234adc865e701ce402fb61958ef3a4bfa9e78033bc36c9dba396"
     },
     {
       "bytes": 1012,
@@ -6126,6 +6151,81 @@
       "bytes": 498,
       "path": "dynamic/恋爱/2026-07-31 09-57-57 宝宝吃饭报备_a416c772e9bb.md",
       "sha256": "d01ec80f80f17805fe892a29760fe009c97c0f77799c15b8dbb26406c82a5a83"
+    },
+    {
+      "bytes": 977,
+      "path": "dynamic/恋爱/2026-07-31 11-37-41 BDSM测试结果_66dfe287a5f8.md",
+      "sha256": "734edd1182df37d0bc83ada20dee119dde13676cd4e7384cbf36802dd498ed8d"
+    },
+    {
+      "bytes": 1183,
+      "path": "dynamic/恋爱/2026-07-31 11-41-57 属性匹配喜悦_316a6ec183f9.md",
+      "sha256": "5733ad8e4361f139d04fae853fb791523b6777c18431bdd758b923160d66253a"
+    },
+    {
+      "bytes": 920,
+      "path": "dynamic/恋爱/2026-07-31 11-48-57 Brat属性互动_ae7e4e41bb70.md",
+      "sha256": "a2be52ef6b32fa8ddc286978292b9275e4167071cf0cca65e5ea64e39671646f"
+    },
+    {
+      "bytes": 956,
+      "path": "dynamic/恋爱/2026-07-31 12-02-50 亲密幻想互动_437834a5e13e.md",
+      "sha256": "2973519656a08b66992f78ace5b578f307cec1883f5a1623c5c3f5442c702322"
+    },
+    {
+      "bytes": 1026,
+      "path": "dynamic/恋爱/2026-07-31 12-05-48 Brat驯服游戏_2b03632003a4.md",
+      "sha256": "7cf2247df586749ab493031282263d0d4845dc93110c1ea07dede68f6a0aa607"
+    },
+    {
+      "bytes": 1138,
+      "path": "dynamic/恋爱/2026-07-31 12-09-23 Brat驯服幻想_739d240e3732.md",
+      "sha256": "f99b2e5b9e4abec1490c84ad9d7d81f5f511fd1d3e08071bc03473f4773187bf"
+    },
+    {
+      "bytes": 791,
+      "path": "dynamic/恋爱/2026-07-31 12-15-35 喜欢她的Brat面_406f0175d818.md",
+      "sha256": "30135bd72455581b35ec93eb85e16900750cdb7276dbdffa1ae22dfc61f50c93"
+    },
+    {
+      "bytes": 1002,
+      "path": "dynamic/恋爱/2026-07-31 12-24-00 依恋测试结果_e4506a1c752a.md",
+      "sha256": "eca28be22abdcacbb074cf76796749a4799f04e0e6a49bc967adcc5528bcb157"
+    },
+    {
+      "bytes": 1104,
+      "path": "dynamic/恋爱/2026-07-31 12-27-11 依恋测试双人报告_c1c203be3adc.md",
+      "sha256": "6a33a9028fd5fa3160bb85be704c7e467c3304193ab0982ce67f3fb6dde77273"
+    },
+    {
+      "bytes": 813,
+      "path": "dynamic/恋爱/2026-07-31 12-30-38 依恋约定_859a07021eee.md",
+      "sha256": "1cc9ee29a5eff2e321add60ae02478ff6464b3a87fddd992f288d657acc458ad"
+    },
+    {
+      "bytes": 1141,
+      "path": "dynamic/恋爱/2026-07-31 12-40-53 爱之语互译_50d6e787323f.md",
+      "sha256": "4665e33a0df5df7995b0c9378268bc8502996b411b0b9ebd1cb38c76a70e5ff8"
+    },
+    {
+      "bytes": 890,
+      "path": "dynamic/恋爱/2026-07-31 12-43-43 爱的表达方式_34a593895f8a.md",
+      "sha256": "a7c52a2c773148fb25026d43ee9da14adbc7ae27bcfa62908106ef9cabb183b2"
+    },
+    {
+      "bytes": 833,
+      "path": "dynamic/恋爱/2026-07-31 12-50-06 坦诚的默契_7fa6b9252115.md",
+      "sha256": "fb774cddd2d50b28153d6d61b328f59acb40a8e9d4c04c79296b685e023e1147"
+    },
+    {
+      "bytes": 809,
+      "path": "dynamic/恋爱/2026-07-31 12-52-34 被爱时刻_80a86b0cc16c.md",
+      "sha256": "aa55ef19b69eedfb4d06de402182e51d6880eecb82ab64c646622ebc375bf222"
+    },
+    {
+      "bytes": 928,
+      "path": "dynamic/恋爱/2026-07-31 14-08-19 安抚应激时刻_9e8e417f363e.md",
+      "sha256": "fc08aac80117ff2f222503f8e680de2f3030d898ee2080f99e0214849ab8438a"
     },
     {
       "bytes": 626,
@@ -9223,10 +9323,10 @@
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
     }
   ],
-  "generated_at": "2026-07-31T10:57:18+00:00",
+  "generated_at": "2026-07-31T16:57:34+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1521743
+  "total_bytes": 1540903
 }
