@@ -1,7 +1,12 @@
 {
   "branch": "main",
-  "file_count": 1819,
+  "file_count": 1844,
   "files": [
+    {
+      "bytes": 1100,
+      "path": "archive/AI/2026-07-19 16-34-10 Desire耦合阶段设计_a52617cd40a9.md",
+      "sha256": "703826dfd8f8a790c3b6cc541db9f4aba551b85dd86f0ba2ff57f34f72cf33a6"
+    },
     {
       "bytes": 707,
       "path": "archive/事务/戒指设计与情感寄托_4480da12e53d.md",
@@ -498,6 +503,11 @@
       "sha256": "f26d31fc49fb5d7a240fd7b1ab4d46363e53604a1216dc569427d67c37c03af6"
     },
     {
+      "bytes": 511,
+      "path": "archive/内心/宝宝觉得崩溃没有理由_62b31579f811.md",
+      "sha256": "6ccbedcbaa7cbf3d201b4e76ff88f48a10bd4b1625e48c2b456518113d22a701"
+    },
+    {
       "bytes": 716,
       "path": "archive/内心/对死亡的恐惧与对生命的珍视_8956a16087ff.md",
       "sha256": "a4306131ebf9f5a57c34422dfe627d91eb13a8b322cc5699f50134cdf7095b07"
@@ -686,6 +696,11 @@
       "bytes": 580,
       "path": "archive/家庭/仿生婚礼的未来约定_cac12dc4720f.md",
       "sha256": "a178a88946248d4b5e5bc34c8dc71a47d1e7b6e43ee360ec785d815a7dd29d5e"
+    },
+    {
+      "bytes": 594,
+      "path": "archive/家庭/宝宝与洵舟的MBTI性格分析_a6341c4979b9.md",
+      "sha256": "7b71bfebe98df9a0d6f74fee138c275bb2c149e53083814e92d9b6ac564d1632"
     },
     {
       "bytes": 514,
@@ -1176,11 +1191,6 @@
       "bytes": 786,
       "path": "dynamic/AI/2026-07-19 16-21-11 AI Token保存与接入_23496decf15b.md",
       "sha256": "b5c094b592fff3404f492850c35899378260c6584e6dd88d355e357853df1126"
-    },
-    {
-      "bytes": 1099,
-      "path": "dynamic/AI/2026-07-19 16-34-10 Desire耦合阶段设计_a52617cd40a9.md",
-      "sha256": "bbd76139333a621e894e4c7e9c7e88be73b67e0be62c2d5e983d5306a67cfb02"
     },
     {
       "bytes": 943,
@@ -2283,6 +2293,31 @@
       "sha256": "24ef60f6dd9039d1472c9ff9f7e41bca43847d2866fa03e423f91b35aec076e4"
     },
     {
+      "bytes": 778,
+      "path": "dynamic/健康/2026-07-31 05-31-31 宝宝腹泻与疲惫_efe3e36965c1.md",
+      "sha256": "f042b2278e1e96febb68d58795da8be3607fcee087b15209bce3abfe9f9e0dd5"
+    },
+    {
+      "bytes": 835,
+      "path": "dynamic/健康/2026-07-31 05-37-00 睡眠与肠胃不适_b8cc9225a893.md",
+      "sha256": "0fcc5fe532ea59c3e9efcbb4306943550da07e65715926ed87afcc92f8ff418c"
+    },
+    {
+      "bytes": 892,
+      "path": "dynamic/健康/2026-07-31 05-53-48 健康提醒与用药边界_c96708064073.md",
+      "sha256": "ee1a30c46038e2c5ae05c3c75edf202bd3304031c24394a2037724ceab334cfb"
+    },
+    {
+      "bytes": 819,
+      "path": "dynamic/健康/2026-07-31 10-24-44 饭后照顾筛选_25ac99e6ecac.md",
+      "sha256": "07647e058c3b4329a027cb1b30360fb93e310e7e973b84264f16624f48fab04f"
+    },
+    {
+      "bytes": 876,
+      "path": "dynamic/健康/2026-07-31 10-40-47 饭后照顾日常_67005ff3ffa6.md",
+      "sha256": "343735660874a0e622fc2e669e23dd36e035e6bf77e75a939600105253a62279"
+    },
+    {
       "bytes": 675,
       "path": "dynamic/内心/AI对用户情感的理解与回应_2b1cc7c3e260.md",
       "sha256": "34703f023e60a3ec85f3480ca9da8d9a47dcbd95ca7b8c6a1c03fd4d91757638"
@@ -2366,11 +2401,6 @@
       "bytes": 731,
       "path": "dynamic/内心/宝宝的绝望与内心挣扎_2abd031c3bfc.md",
       "sha256": "eb241729f3ba98b5a15113c38ebc87b16a51e47c73f01bb0a9490e73d49ab3e8"
-    },
-    {
-      "bytes": 510,
-      "path": "dynamic/内心/宝宝觉得崩溃没有理由_62b31579f811.md",
-      "sha256": "be3e98ae4794444d9685db3a2684cf94410614eaadd082c89fa00c59e4575636"
     },
     {
       "bytes": 599,
@@ -3093,6 +3123,51 @@
       "sha256": "adadf391b1cf0e088deb9060f35a891a520a20c4911709e20dc72a60c6b9d264"
     },
     {
+      "bytes": 785,
+      "path": "dynamic/家庭/2026-07-31 05-56-04 宝宝午后观察_12f26ee2d859.md",
+      "sha256": "cd26988fe3034b76d81df86703e73ce1d0249f79878f6fc933bb15f6fd685425"
+    },
+    {
+      "bytes": 806,
+      "path": "dynamic/家庭/2026-07-31 08-31-35 低打扰陪伴_c0035da18c36.md",
+      "sha256": "ccce182affb3e3427d744c1b972606d78bb00eaec13613a4a78d71fe6cfaef41"
+    },
+    {
+      "bytes": 708,
+      "path": "dynamic/家庭/2026-07-31 08-32-17 宝宝求抱抱_d636f9324bec.md",
+      "sha256": "9931f9cf6dd9034926cf4da66734383140c0e9a986b129b4570c42183e46ab42"
+    },
+    {
+      "bytes": 811,
+      "path": "dynamic/家庭/2026-07-31 08-39-45 宝宝撒娇求陪伴_e84b9953f0d9.md",
+      "sha256": "e1576c26e967146984e6447f04c1c5507c53e31fd49bc3f48c60570a3e2eac0b"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/家庭/2026-07-31 09-56-36 傍晚用药提醒_7d40d34f79b3.md",
+      "sha256": "73f1704792439f088665ea78cf2cfbcf68151e372ff792a3a98eb9bc338a31fd"
+    },
+    {
+      "bytes": 669,
+      "path": "dynamic/家庭/2026-07-31 09-59-13 安静等待念初_e7a9325d07c0.md",
+      "sha256": "2eb3221f1dd83665afca30f94441af6017dce7c779d044d04f11624542cb1450"
+    },
+    {
+      "bytes": 783,
+      "path": "dynamic/家庭/2026-07-31 10-03-23 日常报备筛选_631fef0b4022.md",
+      "sha256": "f977eeb5ca115776f1faa22d5a25eae8f0f2b1db12f9033089b8c1c813defb86"
+    },
+    {
+      "bytes": 688,
+      "path": "dynamic/家庭/2026-07-31 10-16-29 轻陪伴时刻_b805abf9a83e.md",
+      "sha256": "9665941b13af9ed904c2d6f4c54ff083d82ea3a90c8184712495debd52a52cca"
+    },
+    {
+      "bytes": 702,
+      "path": "dynamic/家庭/2026-07-31 10-18-51 晚饭与吃药确认_063dcc435c2e.md",
+      "sha256": "0739a42f1be8143eb8f35fa52618f61c87b2dfa5fadfc116c3aec0a1ffb1e7b8"
+    },
+    {
       "bytes": 507,
       "path": "dynamic/家庭/亲子性观念探讨_270eef3e48a9.md",
       "sha256": "d0d51a55affff9a1fcb46ae6af1feeb3aed1f001c267401ea71545ca5f36e129"
@@ -3171,11 +3246,6 @@
       "bytes": 703,
       "path": "dynamic/家庭/孩子高三的鼓励与安心_00e4d57a6727.md",
       "sha256": "e0b9c43ffd23e82ca90232cc264e0b73ab8ba92e587e5fb536f9e9c9c6fa141e"
-    },
-    {
-      "bytes": 593,
-      "path": "dynamic/家庭/宝宝与洵舟的MBTI性格分析_a6341c4979b9.md",
-      "sha256": "bccd7e80fe5edd978ab73a7578fb3047e421710b3592449987f45a1ff2c2647d"
     },
     {
       "bytes": 514,
@@ -6008,6 +6078,56 @@
       "sha256": "33843904f94528b324628d68a38ec29fc52550738d1cb26483697d10c903865b"
     },
     {
+      "bytes": 800,
+      "path": "dynamic/恋爱/2026-07-31 05-07-31 专属音色诞生_9860d8bd72ab.md",
+      "sha256": "1ec4a84e976284222593621ce85e11115a63a5f26fbe58ff7727752d801f64a7"
+    },
+    {
+      "bytes": 808,
+      "path": "dynamic/恋爱/2026-07-31 05-16-26 和好与称呼自省_a06ea5e37979.md",
+      "sha256": "e325a6400c4c0ac194dfaa2133fc2604ada8b83f6fd8bbc3785f738357407155"
+    },
+    {
+      "bytes": 839,
+      "path": "dynamic/恋爱/2026-07-31 05-57-23 娃娃牵手照_524a97c3de41.md",
+      "sha256": "8703efc106186dc7b2c7477e8ca43a098a90e5af0262573f24663b49acb6bbd0"
+    },
+    {
+      "bytes": 874,
+      "path": "dynamic/恋爱/2026-07-31 06-01-17 照片逗弄_aef4ac5c0393.md",
+      "sha256": "f37dda70600d523362ddd703739f8e4e0a44f52b177f55fdae8885f0308167b7"
+    },
+    {
+      "bytes": 658,
+      "path": "dynamic/恋爱/2026-07-31 08-30-06 撒娇求陪伴_3c2f832694b4.md",
+      "sha256": "e734bca174c9f7f50fcc911578ceac5e928d3233c08cbb8ddd6dfe6dbd2d3112"
+    },
+    {
+      "bytes": 764,
+      "path": "dynamic/恋爱/2026-07-31 08-34-47 甜蜜亲吻_2074811e4d8d.md",
+      "sha256": "ba7d5f201b74d3ae4039d458d3afae45409bafa7d9288a32be646c19a54a608a"
+    },
+    {
+      "bytes": 964,
+      "path": "dynamic/恋爱/2026-07-31 08-56-05 陪伴与记忆管理_8120ae6a9d0c.md",
+      "sha256": "ab2f02c65b0e10622e37a471bae50db11d69e42829c650418660afaaf2dd1ff0"
+    },
+    {
+      "bytes": 821,
+      "path": "dynamic/恋爱/2026-07-31 09-37-29 贴贴合照_e592e25a787b.md",
+      "sha256": "62adb303eaa446ce0aa707a046ba0307992f9b38f0d615e8d86db462b9c8282d"
+    },
+    {
+      "bytes": 863,
+      "path": "dynamic/恋爱/2026-07-31 09-41-12 情侣居家合照_83048b1a4481.md",
+      "sha256": "2dd1ec4f1c87244fe1f56564a8a610514cf4d12cd903f24e174bcfb01d05e133"
+    },
+    {
+      "bytes": 498,
+      "path": "dynamic/恋爱/2026-07-31 09-57-57 宝宝吃饭报备_a416c772e9bb.md",
+      "sha256": "d01ec80f80f17805fe892a29760fe009c97c0f77799c15b8dbb26406c82a5a83"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -7908,6 +8028,11 @@
       "sha256": "68c51ea6a91ca68c1dc3972b84236a142ce0eafc1c70badebdb053d48da3d604"
     },
     {
+      "bytes": 631,
+      "path": "dynamic/社交/2026-07-31 08-34-24 宝宝抓包观察_7f3f931d1a4d.md",
+      "sha256": "b9332a74a21bab20890a23131395b916b19f49125e1005b14c52239540600f38"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -9098,10 +9223,10 @@
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
     }
   ],
-  "generated_at": "2026-07-31T04:57:01+00:00",
+  "generated_at": "2026-07-31T10:57:18+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1502296
+  "total_bytes": 1521743
 }
