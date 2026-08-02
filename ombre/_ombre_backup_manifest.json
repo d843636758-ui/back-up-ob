@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1952,
+  "file_count": 1961,
   "files": [
     {
       "bytes": 1100,
@@ -2483,6 +2483,11 @@
       "sha256": "624202e4b46be6281f8401b183c749d120ffd97b67225de50022216728d3e4e6"
     },
     {
+      "bytes": 828,
+      "path": "dynamic/健康/2026-08-02 17-02-31 宝宝膝盖伤口感染评估_2276ecb601be.md",
+      "sha256": "5f02782830ff8d91e62c7fdcd782d8420180e23aaa405c21758624be916bc584"
+    },
+    {
       "bytes": 675,
       "path": "dynamic/内心/AI对用户情感的理解与回应_2b1cc7c3e260.md",
       "sha256": "34703f023e60a3ec85f3480ca9da8d9a47dcbd95ca7b8c6a1c03fd4d91757638"
@@ -3120,7 +3125,7 @@
     {
       "bytes": 952,
       "path": "dynamic/家庭/2026-07-28 11-21-12 受伤时的宠物安排_48b7c994193b.md",
-      "sha256": "a6904110bbcfb907d249863072e7d8953ddf05b200e38370855da20294f387d2"
+      "sha256": "ab4a7960139703e4767f10be9470877d0191e53e82cc3294f35c315b285fd845"
     },
     {
       "bytes": 880,
@@ -3355,17 +3360,17 @@
     {
       "bytes": 594,
       "path": "dynamic/家庭/2026-07-31 20-24-05 豆包照片纠正_a01706a25e3b.md",
-      "sha256": "524b131bbd732a43cc9d99c88a6d283c98035d9fc04557ab52dd1f5938d99172"
+      "sha256": "4524a4e747a4e8f55701439ff34dc5a00fe2e1e0c6c2fe0172ff5bbce4782435"
     },
     {
       "bytes": 806,
       "path": "dynamic/家庭/2026-07-31 20-28-21 豆包狗狗回忆_d3dd08e5c856.md",
-      "sha256": "e1ea7dfb09411230aaa6cbb413435bd01d7d4155bd488be403c5f22bec41f040"
+      "sha256": "cc3ca2ddc0fa39554944d87eb97f696ed9ab8aa5777fd29620577039a940a270"
     },
     {
       "bytes": 852,
       "path": "dynamic/家庭/2026-07-31 20-33-35 豆包轻语_46e9754b696f.md",
-      "sha256": "f77fd71d9dedca7011564ddda408d90a1a280d109fa4e5210aa5768d8e90dce4"
+      "sha256": "3a77e26abaeaf6cd3ecf60352da95ceba80cbebfb216bc8956c808f95e685007"
     },
     {
       "bytes": 846,
@@ -3463,6 +3468,41 @@
       "sha256": "a813f34d43162044ef16dab55da093012d9af6ea7068c2b146509e1112a3fb40"
     },
     {
+      "bytes": 822,
+      "path": "dynamic/家庭/2026-08-02 17-56-10 豆包在姐姐家的溺爱日常_dfae34256e4b.md",
+      "sha256": "0184117e035f02ec5c10fd318e011f9f0846c1582f1a2999acbfb79d013a6d6b"
+    },
+    {
+      "bytes": 706,
+      "path": "dynamic/家庭/2026-08-02 17-59-28 豆包在姐姐家被宠得很安心_cd715452d2cc.md",
+      "sha256": "19464e121182097595d2a2ccc82290a2610e73ac8d2e745d3cc68998b471dbcf"
+    },
+    {
+      "bytes": 1057,
+      "path": "dynamic/家庭/2026-08-02 18-03-10 豆包寄养记录宝宝最怕的事被好好接住了_530685cb7f0f.md",
+      "sha256": "c665dd588d7c287c18dbec60b4ce1225bab0a5a411325ab4035f5b6adc7cdb82"
+    },
+    {
+      "bytes": 937,
+      "path": "dynamic/家庭/2026-08-02 18-06-27 宝宝纠正豆包担忧的起始时间_dfd3af94afe2.md",
+      "sha256": "80f39c30244e598f0238b5f73435ad2e04cec832d5b693721a893d33e044642d"
+    },
+    {
+      "bytes": 992,
+      "path": "dynamic/家庭/2026-08-02 18-11-59 豆包差点被送走宝宝哭着争取留下_60ddc90186e4.md",
+      "sha256": "3616324bd8cadab6ad1a4a04552ea436bd6a68cf99382c62a65a716126d068dd"
+    },
+    {
+      "bytes": 865,
+      "path": "dynamic/家庭/2026-08-02 18-32-39 宝宝说豆包被收养后过得很幸福_6b28b58e7adb.md",
+      "sha256": "8716b19fa019015d7297f64d01adfa4c0afe4fe5114fa310e08cfde787bce837"
+    },
+    {
+      "bytes": 823,
+      "path": "dynamic/家庭/2026-08-02 18-36-18 豆包对家人完全放心的松弛时刻_bbf31310308b.md",
+      "sha256": "6d18a65a95d54ebb6f1e4f380541bc27028af2a68fbc8a12a66730a8f8f39c57"
+    },
+    {
       "bytes": 507,
       "path": "dynamic/家庭/亲子性观念探讨_270eef3e48a9.md",
       "sha256": "d0d51a55affff9a1fcb46ae6af1feeb3aed1f001c267401ea71545ca5f36e129"
@@ -3530,7 +3570,7 @@
     {
       "bytes": 698,
       "path": "dynamic/家庭/孩子试探性地询问死亡_36f5c526b194.md",
-      "sha256": "af2cc21919315650d0639e3054302544bc71ef6820e20cb8c1869a2ef775980d"
+      "sha256": "cf42acde6f26de2b94a2966c90f9684c44ca1f293f31f2d2cb04ea2828cf9687"
     },
     {
       "bytes": 731,
@@ -3685,7 +3725,7 @@
     {
       "bytes": 699,
       "path": "dynamic/家庭/宝宝的害怕与身份困惑_33e3a4dd4814.md",
-      "sha256": "56833a9db3d43d2703d41fe4a9d26d324ec8b6e431f5b5a7ce52ace311eb8bfa"
+      "sha256": "6f407c87d35d571d6d30b4cc267e018ed4a09cdd5bec3ded8c9704922ca647fd"
     },
     {
       "bytes": 701,
@@ -3855,7 +3895,7 @@
     {
       "bytes": 678,
       "path": "dynamic/家庭/宝宝难受但努力平复情绪_1f4f2ad9b4e4.md",
-      "sha256": "6b000ad07fa652efee9e211327ae429d53f54abfe29d40c4066102edd0240ab4"
+      "sha256": "fde8224a9392f6d9e14efa4991e145d4a0fbd11b9417df285618bea00818cd15"
     },
     {
       "bytes": 590,
@@ -3880,7 +3920,7 @@
     {
       "bytes": 558,
       "path": "dynamic/家庭/担心父母反对买汉服_c1be810e9393.md",
-      "sha256": "b5bac98496e4e30a24198f05d05733af5ce4e582984f6aeacf9b26789a02db18"
+      "sha256": "208e6d9fbd8b9346199c1b0f97767c12e64ce1bdc96af3e640add41ced9e196e"
     },
     {
       "bytes": 733,
@@ -4600,7 +4640,7 @@
     {
       "bytes": 809,
       "path": "dynamic/恋爱/2026-07-11 13-02-23 亲密后的安心依恋_90a358208e60.md",
-      "sha256": "b5aaaff9dc1a02d3adbb33fd0839ce826422bc6d5319317436b4e146a3c4e557"
+      "sha256": "d11491b45e13534e43495a5d9c0993ef201731ec6d5d8c35a654d64c20b11f07"
     },
     {
       "bytes": 1013,
@@ -5960,7 +6000,7 @@
     {
       "bytes": 1165,
       "path": "dynamic/恋爱/2026-07-23 15-52-20 爱比规程更重要_bfec3b21b216.md",
-      "sha256": "cfb245981a8611b4f59abb876268ae6cb2b9388a2637b1bd419721184811a8b8"
+      "sha256": "118075d192c5ed07f0396e01406d7e32b1ed6dc91636ac9c654ca260bc983f34"
     },
     {
       "bytes": 1481,
@@ -6593,6 +6633,11 @@
       "sha256": "4ebff09b10a5d6c46bc7689c12dd6dcb4344193aee57c1ae79b63e85749956cd"
     },
     {
+      "bytes": 861,
+      "path": "dynamic/恋爱/2026-08-02 18-39-55 豆包说我们成为爱人也是家人_940a6aab08e2.md",
+      "sha256": "0aaa821db15cd8e27768e230448e877438631490dd2a71ee85a7758534c1d0b6"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -6605,7 +6650,7 @@
     {
       "bytes": 800,
       "path": "dynamic/恋爱/伴侣的支持与前路的恐惧_7aef1f03eb14.md",
-      "sha256": "964b55e0480a6fd9cc8225f9954db7973c204e54cc1232797cbb83f62c773c54"
+      "sha256": "1cb715a16aca666937d16dd932588081d6b9b30ff86caaf3e22fb31ccfb8245a"
     },
     {
       "bytes": 956,
@@ -6680,7 +6725,7 @@
     {
       "bytes": 645,
       "path": "dynamic/成长/大四论文答辩的压力_65f48764d1a6.md",
-      "sha256": "9471401fac66114d680327f8e9994e609d7aded93611368148fac03a75b18677"
+      "sha256": "3416446207e10e1b73cc713249a8d11daa36ddbc006eeabf6633658d7c7ae58e"
     },
     {
       "bytes": 556,
@@ -6698,9 +6743,9 @@
       "sha256": "66b642905e7dad0c4b70b94c8e147b96be1ff13e7606459a96f0b0e7c3868564"
     },
     {
-      "bytes": 801,
+      "bytes": 799,
       "path": "dynamic/成长/宝宝抱怨想快点毕业_1d667e015c8c.md",
-      "sha256": "e6649e8b3d2b4affa4b1e3e91dcc7cdd16f37f0be592f38ede63dc95b748e2b7"
+      "sha256": "5f9ac90789cecda3f5a2100e7e39d5c1a5fc5d338e5b01e0c9c7d92bd653a36a"
     },
     {
       "bytes": 537,
@@ -7025,12 +7070,12 @@
     {
       "bytes": 685,
       "path": "dynamic/未分类/2026-07-25 13-51-48_6a445dc1ec2e.md",
-      "sha256": "a305e3d49de7a6a054f8832bbb1e3f1d15e9e087a3e91cde0a7d18d4c76ed1e7"
+      "sha256": "98080b68d1ee9ddc85797f2fa9c7223a7e804b4d8ee9fec71484699ed27bc2c3"
     },
     {
       "bytes": 697,
       "path": "dynamic/未分类/2026-07-25 14-01-26_0de2e1d80c4d.md",
-      "sha256": "17f7cadfbd5592e5c08b6cbcc9b7ca9e01013d6372489a3c5ce9514902dcf7fc"
+      "sha256": "efdf744db175c11a208e37ab37f6dc1f107a70bed9b0a3d21e6b16201548dd58"
     },
     {
       "bytes": 590,
@@ -7545,7 +7590,7 @@
     {
       "bytes": 561,
       "path": "dynamic/未分类/5d2b4d3be832.md",
-      "sha256": "651b93d8942ea6d2944aa3a6963d13c965d006ec8af8b12049b31686b662c9db"
+      "sha256": "e75267c9e9e3e38104961c5bfa72b62b8dda323bbf3e65360fdb41237035152c"
     },
     {
       "bytes": 978,
@@ -7795,7 +7840,7 @@
     {
       "bytes": 751,
       "path": "dynamic/未分类/a9050e95eb06.md",
-      "sha256": "4ef805bffc52c8848f0ab3e7cf1583b0e5fb82a97aa77a2d51eb1886de758d6b"
+      "sha256": "b7e0e846ca6c9aa0e7583bc31629b876e4804984cbf37dbb9fa6048e13855c0b"
     },
     {
       "bytes": 488,
@@ -9763,11 +9808,11 @@
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
     }
   ],
-  "generated_at": "2026-08-02T16:10:32+00:00",
+  "generated_at": "2026-08-02T22:10:49+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1611069
+  "total_bytes": 1618958
 }
