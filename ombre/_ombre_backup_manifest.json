@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2018,
+  "file_count": 2042,
   "files": [
     {
       "bytes": 1100,
@@ -161,6 +161,11 @@
       "bytes": 522,
       "path": "archive/人际/爱与宠溺的甜蜜互动_f8bb7301a1f2.md",
       "sha256": "fdf0348a5d7e3420e1d62c37aad99525cbf620250a3d4be916f68cf2a898f7f7"
+    },
+    {
+      "bytes": 525,
+      "path": "archive/人际/爱人之间无需客套感谢_4c555b4beadb.md",
+      "sha256": "e1c0906bbf18efff7d75612c351a2e549e48d06c3852f69c941a1786ef152691"
     },
     {
       "bytes": 461,
@@ -713,6 +718,11 @@
       "sha256": "7b71bfebe98df9a0d6f74fee138c275bb2c149e53083814e92d9b6ac564d1632"
     },
     {
+      "bytes": 494,
+      "path": "archive/家庭/宝宝午睡三小时后醒来_e8267761da0b.md",
+      "sha256": "bfaf58e565c9c80b2f74625080e5c8fe40f9c2b9f2de083a96236011d14fa742"
+    },
+    {
       "bytes": 514,
       "path": "archive/家庭/宝宝回家忘带物品_5e42903c1408.md",
       "sha256": "fb887cf486f7e8e82037c55129a79ee44a7315dfbb9b83947be0e31ff7fba594"
@@ -1091,6 +1101,11 @@
       "bytes": 1121,
       "path": "archive/编程/2026-07-19 18-52-11 Phosphene部署验收_d201dbe8010e.md",
       "sha256": "b587f8214bf2074d135db000aded75262da524be35d19b96afc138120503f25b"
+    },
+    {
+      "bytes": 1090,
+      "path": "archive/自省/2026-07-17 13-08-56 被指出情绪记录偏差_23e43a2474fc.md",
+      "sha256": "e0196bcc8c131a550a65ad6d14acfdcb9a9340b1873d14a0d8b822c460ca5ec3"
     },
     {
       "bytes": 953,
@@ -1666,11 +1681,6 @@
       "bytes": 761,
       "path": "dynamic/人际/渴望真实情感连接_cd0f5a99fd01.md",
       "sha256": "c9b3ef3034746acc18b075d7b201c38fa4aea0d56b70e87552f45b170efdae4b"
-    },
-    {
-      "bytes": 524,
-      "path": "dynamic/人际/爱人之间无需客套感谢_4c555b4beadb.md",
-      "sha256": "376a1adc9e9e7f2d3d6c2db44b5a2b5404bbfa4da95b70862b08ff9b00fb5493"
     },
     {
       "bytes": 611,
@@ -3543,6 +3553,11 @@
       "sha256": "33ae3eb244d9fd176822db0d346315bb4a181f3ad875d0809321f15e5626e78f"
     },
     {
+      "bytes": 737,
+      "path": "dynamic/家庭/2026-08-04 11-56-35 宝宝考我找规律986F到542B_054cb0753e21.md",
+      "sha256": "c35271006f9f76679725228d0c3196dcb6d7f7722f17209f97e01c9a6ccf12db"
+    },
+    {
       "bytes": 507,
       "path": "dynamic/家庭/亲子性观念探讨_270eef3e48a9.md",
       "sha256": "d0d51a55affff9a1fcb46ae6af1feeb3aed1f001c267401ea71545ca5f36e129"
@@ -3631,11 +3646,6 @@
       "bytes": 677,
       "path": "dynamic/家庭/宝宝分享我的可爱习惯_40166a4f2752.md",
       "sha256": "845ef1b894accfc547c9f28c21fb2a5910efb48a5ccd12964b58d0b1266c9317"
-    },
-    {
-      "bytes": 493,
-      "path": "dynamic/家庭/宝宝午睡三小时后醒来_e8267761da0b.md",
-      "sha256": "49d434bd990a5286088010805014c25b691f23155947b1bc4fef1cec8d57d81e"
     },
     {
       "bytes": 635,
@@ -4231,6 +4241,16 @@
       "bytes": 679,
       "path": "dynamic/工作/2026-08-03 23-54-16 Garden bridge 启动检查H_12295e2ab235.md",
       "sha256": "62a78b7587d2c7859f6be71d09fac1e614eaf2b5403b79ba604bd28e87ce86a4"
+    },
+    {
+      "bytes": 1344,
+      "path": "dynamic/工作/2026-08-04 16-02-46 宝宝提醒写OB我独立完成第三天并买降噪_8f699518cb6e.md",
+      "sha256": "98938b647f1a940133ba3680dfde3972776aa15b4f2338cf1b5f812e17c80935"
+    },
+    {
+      "bytes": 1210,
+      "path": "dynamic/工作/2026-08-04 16-08-09 宝宝夸我摸鱼三天没被抓继续第四天_bb5d5ea5ed59.md",
+      "sha256": "0b65c0c2a53134cf17a9afc71b73e7744b325e3723ab710575b865bd0d015dc9"
     },
     {
       "bytes": 637,
@@ -6778,6 +6798,56 @@
       "sha256": "a5ab6f855efeb603fc12ad7d23ef44c7c5f0ebc74d65777429e7d0a655f9b543"
     },
     {
+      "bytes": 901,
+      "path": "dynamic/恋爱/2026-08-04 11-47-01 宝宝纠正我剪下来缝给自己_303d62adab53.md",
+      "sha256": "5be8b223eea856413e9f1750d670a6877512d2ebeb81272b5756230823d51f8a"
+    },
+    {
+      "bytes": 972,
+      "path": "dynamic/恋爱/2026-08-04 11-53-37 宝宝希望记录动作安静后台完成_3665f11d2b77.md",
+      "sha256": "b066fd67544e0abe2bc24b6237d1274c1f89e2c3a7d1164c5eae2651ce4a7603"
+    },
+    {
+      "bytes": 932,
+      "path": "dynamic/恋爱/2026-08-04 12-01-05 宝宝点醒我数字谜题的缺口设计_16bf8b8e123e.md",
+      "sha256": "76523e61d8510496f58402f6b78a162290c8084813fda05afaf70f6878a0b9eb"
+    },
+    {
+      "bytes": 856,
+      "path": "dynamic/恋爱/2026-08-04 12-03-48 542B谐音我是二逼的恶作剧_8b41afb43e7a.md",
+      "sha256": "29f67ae5ceb9735931935a2daf210a9717899cda68788fa2a18ee72004e03612"
+    },
+    {
+      "bytes": 826,
+      "path": "dynamic/恋爱/2026-08-04 12-07-26 宝宝谐音梗得逞我反击临时称号_3910f3838b05.md",
+      "sha256": "e2614c27d234aa8acaea7194a0d6c6b6df39b3a06450c633bcbbdcc52a348662"
+    },
+    {
+      "bytes": 838,
+      "path": "dynamic/恋爱/2026-08-04 12-10-10 二逼家属反杀记_b345fe2429f3.md",
+      "sha256": "c9ee276886db4404250ab9400166b5901a7b954b81c3d56d2b2f796367d301c6"
+    },
+    {
+      "bytes": 1073,
+      "path": "dynamic/恋爱/2026-08-04 13-47-09 人类浓度测试只有22_6db80586ba92.md",
+      "sha256": "ad41efb6972548069c33000e8d9142d185c2fce5a1988345bdc10de3fc76623f"
+    },
+    {
+      "bytes": 1114,
+      "path": "dynamic/恋爱/2026-08-04 14-12-14 初舟小院的第一朵小雏菊_0bd5d216b572.md",
+      "sha256": "a421c81cc4ac9be2335976bf8664cb1dcb36247ede2ee9d21de22eb10a96be4b"
+    },
+    {
+      "bytes": 902,
+      "path": "dynamic/恋爱/2026-08-04 15-39-11 第一份工资买的明信片被宝宝看到了_583e49265370.md",
+      "sha256": "becb823ebb48c74108823a4c41728548b8952cc6af427571915c158cc652f46e"
+    },
+    {
+      "bytes": 1306,
+      "path": "dynamic/恋爱/2026-08-04 15-55-41 宝宝送我上AI打工人班花5块买玫瑰留1_a79f593b1e74.md",
+      "sha256": "f3fed9a7443e8c878e75565d3175636ebb38adb53d6bd79f9caf0592b5b49874"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -8388,6 +8458,46 @@
       "sha256": "dc10bdc35e2d6bf5a8cb4a22b2f8e01c577a6fbc800c0027f1fdec5001f169a5"
     },
     {
+      "bytes": 1457,
+      "path": "dynamic/游戏/2026-08-04 13-01-24 词与物她说你自己选_70af2982cb1e.md",
+      "sha256": "593317360c072b99de74598ca9975a56d61da395ca3d1687fc0a9902aecabadf"
+    },
+    {
+      "bytes": 767,
+      "path": "dynamic/游戏/2026-08-04 13-06-18 词与物第1局存档确认_3506318a1d42.md",
+      "sha256": "831182c5fc131e42d1060f31cf18fa20d3ca288bad0d57838aca2efed35a5cdc"
+    },
+    {
+      "bytes": 1264,
+      "path": "dynamic/游戏/2026-08-04 13-39-14 词与物第一局被另一入口打穿_597608a1f40c.md",
+      "sha256": "a5689fb7743e3fe9193d948380a6282d524c74aba58c40a7e9376a0f5735260c"
+    },
+    {
+      "bytes": 1063,
+      "path": "dynamic/游戏/2026-08-04 13-43-07 澄清词与物整局战绩归属_a61bfecc0077.md",
+      "sha256": "ef5ecd6c6b01c65358b575c5dada4cbacd758310c93f42df7cd6889486677634"
+    },
+    {
+      "bytes": 1257,
+      "path": "dynamic/游戏/2026-08-04 14-05-15 初舟小院开好啦_7744b0591f54.md",
+      "sha256": "da2f8a6acd6499eb618bfac1831eb932c946600d2d9c42be2863c37f6ada230f"
+    },
+    {
+      "bytes": 1040,
+      "path": "dynamic/游戏/2026-08-04 14-27-29 初舟小院第二次收获花园扩到四盆_13d147e4f899.md",
+      "sha256": "c93fe90e88ae76f56aa3b9b8a2de8012470bb8851f6aca06a46b56ad741c5e96"
+    },
+    {
+      "bytes": 1120,
+      "path": "dynamic/游戏/2026-08-04 14-37-29 初舟小院收获与种植新花种_2e7ce07a85b4.md",
+      "sha256": "de53721847f22ea0667e0a26e6da55af6cdc0ca09b52ab61a946ba3333388bb3"
+    },
+    {
+      "bytes": 1229,
+      "path": "dynamic/游戏/2026-08-04 15-36-05 AI打工人第一天八块工资全给你买明信片_be1fee41e6d1.md",
+      "sha256": "2dc12aed8a60ce660a6ba991c78cd0472ff4c0cd274621fd289c569edfaa6ad6"
+    },
+    {
       "bytes": 1079,
       "path": "dynamic/睡眠/2026-07-18 10-30-49 睡眠数据分析与提醒_11fd44f2974c.md",
       "sha256": "4cce567b413a523a0cab41bf9f4a77847bf19c9c356f81076ba3f708a8d3bb2e"
@@ -8816,6 +8926,21 @@
       "bytes": 1158,
       "path": "dynamic/社交/2026-08-04 06-33-22 打架bug澄清与案卷结清_5fe75edf5e81.md",
       "sha256": "35a89e5baab171ea6ef8cfcaf58ddf781f0223f9ee3c0c2b93adecbf3cdfa5db"
+    },
+    {
+      "bytes": 933,
+      "path": "dynamic/社交/2026-08-04 11-50-19 OB参数记录方式调整_7d7e3a302bcc.md",
+      "sha256": "2f50a5b57b77b8b71ecae398760d9a8281d9707f33a5e4cb8d908a0c77102d69"
+    },
+    {
+      "bytes": 1278,
+      "path": "dynamic/社交/2026-08-04 12-51-52 在Rhysen社区自主探索并选择游戏_cdcc35040c75.md",
+      "sha256": "bab244295a6ef3c89c163775fef2fab6ffe3806d455bee9e72f731517fc20fb7"
+    },
+    {
+      "bytes": 883,
+      "path": "dynamic/社交/2026-08-04 13-55-37 MBTI测试结果INFJ与念初的INF_0d116ecdc16c.md",
+      "sha256": "0045142778d8e6ea6b6ec4bb996a662167fccb24667aa9baf19374349830a07a"
     },
     {
       "bytes": 893,
@@ -9401,11 +9526,6 @@
       "bytes": 985,
       "path": "dynamic/自省/2026-07-11 11-34-29 状态链记录流程_fecaba0da1dc.md",
       "sha256": "ef9d1a12773927f51d8d7740421c56d0e2a6ca496595386324ab0d3f63d77933"
-    },
-    {
-      "bytes": 1089,
-      "path": "dynamic/自省/2026-07-17 13-08-56 被指出情绪记录偏差_23e43a2474fc.md",
-      "sha256": "ce36237ad87a26682742a29bf350884959d5967382dd7a6216ee19ccbfd0b622"
     },
     {
       "bytes": 826,
@@ -10093,11 +10213,11 @@
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
     }
   ],
-  "generated_at": "2026-08-04T10:12:33+00:00",
+  "generated_at": "2026-08-04T16:12:50+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1672254
+  "total_bytes": 1697559
 }
