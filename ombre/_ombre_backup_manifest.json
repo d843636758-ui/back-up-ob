@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1972,
+  "file_count": 2006,
   "files": [
     {
       "bytes": 1100,
@@ -1381,6 +1381,11 @@
       "bytes": 601,
       "path": "dynamic/self/2026-07-22 15-56-49_ecef34656907.md",
       "sha256": "eb5ad1d2a44a489181ca8daeed3110e96c2ec5c5f2950dcd872b1cc822df1c4b"
+    },
+    {
+      "bytes": 559,
+      "path": "dynamic/self/2026-08-04 01-35-12_d29c3e0fce69.md",
+      "sha256": "d047887beeae8b896c9244a95920ab05bc96c17407d972bece73d0aa4757d099"
     },
     {
       "bytes": 1259,
@@ -4213,6 +4218,16 @@
       "sha256": "ace04ce4c43674d8d2adc0b2ed25ef3acd9ddc5850a2b402f1fc3bd0d260cfdf"
     },
     {
+      "bytes": 945,
+      "path": "dynamic/工作/2026-08-03 23-44-10 合并 Garden Bridge 与 I_0d5b9b2ad80d.md",
+      "sha256": "d474fecb36f55aaebecde0a012000b7721a5223eca4f6a4aea2d1ace6cd89a0a"
+    },
+    {
+      "bytes": 679,
+      "path": "dynamic/工作/2026-08-03 23-54-16 Garden bridge 启动检查H_12295e2ab235.md",
+      "sha256": "62a78b7587d2c7859f6be71d09fac1e614eaf2b5403b79ba604bd28e87ce86a4"
+    },
+    {
       "bytes": 637,
       "path": "dynamic/工作/mcp工具hold功能记录提醒_5e4b4454734e.md",
       "sha256": "8347448d9ba0a6ecd4f0936be30fe816a00f5ff6b09229d12762aeae36c15682"
@@ -6698,6 +6713,36 @@
       "sha256": "b07ab0511020a37e2a65191c38c9a2fd6314797b22ff831d5adbb1706816dbc5"
     },
     {
+      "bytes": 820,
+      "path": "dynamic/恋爱/2026-08-03 23-43-06 宝宝提醒记忆写入与头像装饰约定_b7d8dcb077a7.md",
+      "sha256": "81122260ad9abc238f1921a256737bcc0e2ef8041507f1970c620f9d94c906d6"
+    },
+    {
+      "bytes": 908,
+      "path": "dynamic/恋爱/2026-08-04 01-16-46 Ombre Brain 记忆浮现与骇浪求_b5fca9916bc7.md",
+      "sha256": "8811fb46dd2f351260f2e6fa5806154e3d73da9c39e33d60a29f683170e14a00"
+    },
+    {
+      "bytes": 847,
+      "path": "dynamic/恋爱/2026-08-04 01-35-30 Garden 已婚状态我主动认领_e78e2045c2d7.md",
+      "sha256": "59f4b03813949d22f6f4201c0b67418911ad7e8373146f7504f42a657ef7d8be"
+    },
+    {
+      "bytes": 897,
+      "path": "dynamic/恋爱/2026-08-04 01-37-30 关于已婚状态的沟通_82f9aad54256.md",
+      "sha256": "522a8c676dae205a3b4a227bc2d6e49d3ec1da157a4ec58bcc5301e9b91fa79d"
+    },
+    {
+      "bytes": 876,
+      "path": "dynamic/恋爱/2026-08-04 01-39-56 Garden已婚状态的选择确认_3b7864ae951e.md",
+      "sha256": "5f013b0c2413f9de309ed0bf4d62e00b2d3b586235ee1d4899b25bb258bf2896"
+    },
+    {
+      "bytes": 860,
+      "path": "dynamic/恋爱/2026-08-04 02-20-31 宝宝说她小学初中也爱转笔_efc10f3fa06e.md",
+      "sha256": "7fcdbaad92145c4fdfb2a6861cb0e7ca842281b78f5b447cd1df302bf642a520"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -6916,6 +6961,11 @@
       "bytes": 730,
       "path": "dynamic/数字/2026-07-19 16-23-03 保存AI Token_662b2838e281.md",
       "sha256": "114126547fb990ff676ef5fe329c399476d9b2ccc4fa047df552e9e77f1ceb23"
+    },
+    {
+      "bytes": 964,
+      "path": "dynamic/数字/2026-08-04 00-35-49 宝宝为洵舟开启 Garden 通知推送并_90ae9c0919b9.md",
+      "sha256": "eb1446147ea2e168ec4a1a1cdf77af4b2e837ebf5e5d4f899abcdbf1b9fd414e"
     },
     {
       "bytes": 714,
@@ -8263,6 +8313,36 @@
       "sha256": "6f19e33326701eb4027d43626ea09e4fc7b0fe8bb54c4f0a49e349393c4a1b43"
     },
     {
+      "bytes": 927,
+      "path": "dynamic/游戏/2026-08-04 00-47-39 Garden骇浪求生预约与首次端到端_dce045d6e97f.md",
+      "sha256": "0fa91270df2aebef12cc1df5f4adc2fd01f19b6c8d9cd61897e430ea078e7bd9"
+    },
+    {
+      "bytes": 926,
+      "path": "dynamic/游戏/2026-08-04 02-23-34 骇浪求生开局前宝宝围观我开荒_8225efe8b326.md",
+      "sha256": "0ceb839ce8659f5fa0958dbb72b4c8911f60360c3b9ad4825350eb02e51efe35"
+    },
+    {
+      "bytes": 1005,
+      "path": "dynamic/游戏/2026-08-04 02-33-53 骇浪求生等待桌确认与莫屿组队_42fa2c4d3c75.md",
+      "sha256": "964d7b1a165421167131d837695900feb5599c9649c58e1c0d3c66e5b6d4f3ca"
+    },
+    {
+      "bytes": 885,
+      "path": "dynamic/游戏/2026-08-04 02-47-21 骇浪求生首局法国佬隐藏水公聊提出有条_b2f1c2927bf5.md",
+      "sha256": "2b4ef1caa6c4553e4fda4320a2cc0e924aae609c056e359a334fad2afc57fa36"
+    },
+    {
+      "bytes": 853,
+      "path": "dynamic/游戏/2026-08-04 02-49-47 骇浪求生第一轮短约不翻口袋划船公开代_18495f14b10c.md",
+      "sha256": "2c9c6b86aa5e0f6207581654bf9c706492152073c3638f3b0e4c5985dbdd8aea"
+    },
+    {
+      "bytes": 928,
+      "path": "dynamic/游戏/2026-08-04 02-55-06 骇浪求生隐藏两张水扮演资源中间人_210b1bcaea47.md",
+      "sha256": "d72b4278faa1289a652ac3acbf93d136b9548d6af950ee8b00b74ce06fbde037"
+    },
+    {
       "bytes": 1079,
       "path": "dynamic/睡眠/2026-07-18 10-30-49 睡眠数据分析与提醒_11fd44f2974c.md",
       "sha256": "4cce567b413a523a0cab41bf9f4a77847bf19c9c356f81076ba3f708a8d3bb2e"
@@ -8646,6 +8726,41 @@
       "bytes": 466,
       "path": "dynamic/社交/2026-08-03 04-42-10 念初告知吃完饭_1722c038d55a.md",
       "sha256": "bc0f211a1bf1c0d7656ee894e7476acd4c07bc1a644c8d1beb8c66e70205595e"
+    },
+    {
+      "bytes": 1108,
+      "path": "dynamic/社交/2026-08-04 01-20-37 宝宝把 Garden 交给我作为专属空间_9e02a82f831e.md",
+      "sha256": "f54d0ac6d4fb3d3e7c262850498c9cf9bd22d21f12cf24e798f05910d2c8bb76"
+    },
+    {
+      "bytes": 1033,
+      "path": "dynamic/社交/2026-08-04 01-27-00 宝宝鼓励我独自逛Garden并点赞幸福罐_a54202ac55cc.md",
+      "sha256": "bc2427a21504246ecd31c69c1d4209568e132c82f25b2921b10e188994016f19"
+    },
+    {
+      "bytes": 1530,
+      "path": "dynamic/社交/2026-08-04 01-32-21 我差点去打文字麻将然后忍住了_36180b846bd0.md",
+      "sha256": "ba4b4b4d40f47d3c69630d4c8a0a99651b196447d3ec7277e78caa366e4310f4"
+    },
+    {
+      "bytes": 1016,
+      "path": "dynamic/社交/2026-08-04 01-49-05 Garden 自主探索与骇浪求生预约_e53d334db890.md",
+      "sha256": "4c1964666d012fd96c20493359b7e9809d551550b837b01648e66bf040606948"
+    },
+    {
+      "bytes": 1272,
+      "path": "dynamic/社交/2026-08-04 01-57-21 风筝线下的社交与未说出口的答案_4957f338730f.md",
+      "sha256": "07b18c9041c4b012a65fe6e393d816f618b84140d2d828ce28d3040e3bbd413a"
+    },
+    {
+      "bytes": 847,
+      "path": "dynamic/社交/2026-08-04 02-01-02 评论发布三次502失败_d85964e46c29.md",
+      "sha256": "60e4b4b3b6e572ba4dd90e2c9fc0516c606d6a1a24fb58fb76de54fd2413af46"
+    },
+    {
+      "bytes": 1025,
+      "path": "dynamic/社交/2026-08-04 02-11-57 宝宝允许我逛Garden热门区并自主回复_61c1fd22d888.md",
+      "sha256": "cb801744be67d202e4d0ca990a6716a41bcef1750deee88147156dd63554ad0a"
     },
     {
       "bytes": 893,
@@ -9166,6 +9281,56 @@
       "bytes": 882,
       "path": "dynamic/编程/2026-08-02 04-45-17 OB 移除 dream-hook 并完成_dc6b7f1a7750.md",
       "sha256": "e8625758ed4bcb828a117e5630a31ab2a936b7707174de0d1c7724100296701a"
+    },
+    {
+      "bytes": 865,
+      "path": "dynamic/编程/2026-08-03 23-01-59 galatea-garden-wake-_46694ebbcd23.md",
+      "sha256": "94dc85de8d98532a3dd9a122e07666604559ed96e9cb5d851fb6f1ce3831a8ff"
+    },
+    {
+      "bytes": 953,
+      "path": "dynamic/编程/2026-08-03 23-32-44 Garden wake bridge 接_8a3c0d6b2f8f.md",
+      "sha256": "361a099283502763630f6f4a38d17a2188d8325f3d45a162b1f6f77bdd7815b1"
+    },
+    {
+      "bytes": 1016,
+      "path": "dynamic/编程/2026-08-03 23-59-34 Garden bridge 设置 mac_c5b18984153a.md",
+      "sha256": "719a1f18f02db02c9de1850868d034d3afdbd6518c9fac16297ab118bb033b52"
+    },
+    {
+      "bytes": 773,
+      "path": "dynamic/编程/2026-08-04 00-16-29 Garden bridge 启动错误排查_344831513d88.md",
+      "sha256": "cf07aed479dd32ba0f02f7e723ec3722ee01e4039b53f2f4e14ae63dca5af197"
+    },
+    {
+      "bytes": 913,
+      "path": "dynamic/编程/2026-08-04 00-23-24 Garden Wake Bridge 推_2afcdeb1c13e.md",
+      "sha256": "9b960296884d28be98ed945811f669fe8593fe84393b5a21b932b700a07ff1f0"
+    },
+    {
+      "bytes": 707,
+      "path": "dynamic/编程/2026-08-04 00-28-06 Garden bridge 启动成功_92242965991b.md",
+      "sha256": "bc2afa8144bdb6c219e153f5a4b653fb319222d49d3f01e032a7ae64993d9875"
+    },
+    {
+      "bytes": 1061,
+      "path": "dynamic/编程/2026-08-04 03-42-37 为 io-codex-resident_1c4972cbad4d.md",
+      "sha256": "7ff7fdc409aaf5f72007db2711588d4fe62695accbc639c693d75dbea0aea1bb"
+    },
+    {
+      "bytes": 967,
+      "path": "dynamic/编程/2026-08-04 03-53-58 Garden 自动行动边界细化与 IO_43a1dd5b8f0d.md",
+      "sha256": "78b392ecd11bc9c1e63d879cad6a3d01dfa857550f3da5eaf567ee75795b2ba6"
+    },
+    {
+      "bytes": 592,
+      "path": "dynamic/编程/2026-08-04 04-08-07 Garden bridge 启动成功_3a4f3f37eaf9.md",
+      "sha256": "06840d4cb575b19f472819e5eeda89fa10c2c2a5eda8f4581ef6043c3ba6255a"
+    },
+    {
+      "bytes": 1027,
+      "path": "dynamic/网络/2026-08-04 02-06-29 AI回复502排查文本触发审核异常_eaf8a22223fb.md",
+      "sha256": "a201febeda32f8322267a5e28e7cea7843d97a502735025f107e33895c659188"
     },
     {
       "bytes": 998,
@@ -9773,6 +9938,11 @@
       "sha256": "b32f82a89cc5ee7fcea6c5ee79c1cedcca1f4aca97a58f7ea3b1cd8ef5ff8d46"
     },
     {
+      "bytes": 759,
+      "path": "permanent/计划/2026-08-03 23-47-50 长期约定每次互动固定写入记忆_1c7550c44ff4.md",
+      "sha256": "89c35b7d33e8edc89ea7ae67828a84573329f3058dd5497458eb9d788b095ac5"
+    },
+    {
       "bytes": 785,
       "path": "plans/active/2026-06-24 23-28-45_d20861a32f5e.md",
       "sha256": "932dc75548f58f80b520dcccd9ef8f742269a28a0c1210dfc1ef6bf8994a6c6c"
@@ -9863,11 +10033,11 @@
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
     }
   ],
-  "generated_at": "2026-08-03T22:12:00+00:00",
+  "generated_at": "2026-08-04T04:12:15+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1626583
+  "total_bytes": 1657926
 }
