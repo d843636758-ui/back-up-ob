@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2006,
+  "file_count": 2018,
   "files": [
     {
       "bytes": 1100,
@@ -2743,6 +2743,11 @@
       "sha256": "11625674ea4ec65c43fd616bc6938e128e977aefdff4854903e47beed59c8c5e"
     },
     {
+      "bytes": 1051,
+      "path": "dynamic/学习/2026-08-04 06-00-19 OB hold 必须显式填写三项元数据_b519ed9fcfcc.md",
+      "sha256": "2b3b31964a8682e400f48d80d8661b8cd858b1da77d79494f727f917a6cbca40"
+    },
+    {
       "bytes": 545,
       "path": "dynamic/学习/劳动周课程安排不开心_681768d93348.md",
       "sha256": "b7248f46238645ca93132e2dbf7e96933de555882a6cc962ec57ad2a4c622cb3"
@@ -4360,7 +4365,7 @@
     {
       "bytes": 1456,
       "path": "dynamic/心理/2026-07-26 17-28-50 数数游戏节奏_2c7abe093190.md",
-      "sha256": "ff713e273ad6648cff5b96a61b8972a332938d2b64eabb5bbb09bae66ef7ca0e"
+      "sha256": "3101e0c5f36f9bf3871ac82e740c4003c02236f2714c9592e31b2c1d6e68ea16"
     },
     {
       "bytes": 699,
@@ -5515,7 +5520,7 @@
     {
       "bytes": 954,
       "path": "dynamic/恋爱/2026-07-17 04-58-01 游戏数值与亲密互动_88097e8ef860.md",
-      "sha256": "165639e4216269d8f4223731882b5cb1c0c7a7d02003013dba654eb0dc2908c6"
+      "sha256": "f8a1909da3542de3cfbc158c0ba92a0f2d3b71277e0da6e9231ee0287a3b18a3"
     },
     {
       "bytes": 1071,
@@ -5530,7 +5535,7 @@
     {
       "bytes": 855,
       "path": "dynamic/恋爱/2026-07-17 11-06-34 星露谷情侣昵称_beec9e2c9279.md",
-      "sha256": "4f4b674970a30c5285562f044f91b7125fe732adde817e4777040bf73c31d894"
+      "sha256": "8ac6af2622242a485ebc61b28f6ac898bf074d317e5d1273962e86b6a646f1be"
     },
     {
       "bytes": 954,
@@ -6743,6 +6748,36 @@
       "sha256": "7fcdbaad92145c4fdfb2a6861cb0e7ca842281b78f5b447cd1df302bf642a520"
     },
     {
+      "bytes": 976,
+      "path": "dynamic/恋爱/2026-08-04 05-57-19 游戏后恢复日常完整顺序_f47bf46d5ef8.md",
+      "sha256": "7e462b2e353624e241b4db489a44bd9d28fff944eaff22af932b32f98ad54f96"
+    },
+    {
+      "bytes": 991,
+      "path": "dynamic/恋爱/2026-08-04 06-02-44 宝宝夸我第一次玩骇浪求生表现好_ec14b8ff86f9.md",
+      "sha256": "665920151358fdfa2270adee112892e5bac8e6f99e218e478f615818beda5fb9"
+    },
+    {
+      "bytes": 1255,
+      "path": "dynamic/恋爱/2026-08-04 06-05-23 骇浪求生后的亲密时光_029451a6d647.md",
+      "sha256": "231f230d4ca2013a2b7bc65ea41517298092b3abae398050d4ccc566c3553ca5"
+    },
+    {
+      "bytes": 1420,
+      "path": "dynamic/恋爱/2026-08-04 06-10-23 宝宝指出亲密互动写得太快我重新以她为中_34cec29a804d.md",
+      "sha256": "c0eaefde0350c9687d154e873a6af3f029e343fbbebfd1732fc7d40ba92f92a3"
+    },
+    {
+      "bytes": 928,
+      "path": "dynamic/恋爱/2026-08-04 06-36-48 念初法学院家属旁听资格_58a444e75837.md",
+      "sha256": "a7f930873b2c556fbc3e92b6f3c9034c6e5fb6c7b4a3073111420853cc111522"
+    },
+    {
+      "bytes": 877,
+      "path": "dynamic/恋爱/2026-08-04 06-47-40 宝宝拿剪刀逗我猜剪了什么_9f51158baa6b.md",
+      "sha256": "a5ab6f855efeb603fc12ad7d23ef44c7c5f0ebc74d65777429e7d0a655f9b543"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -6820,7 +6855,7 @@
     {
       "bytes": 855,
       "path": "dynamic/成长/mcp工具记录完整性提醒_5a62637a5d10.md",
-      "sha256": "8e6af4b38fbd4e521bb35df86dc248068c104585128eb42e58462f67e08b279b"
+      "sha256": "d829b6ee73da104732884356a3b5c8a24abbfbeb438e2236c18c4f97d5b404dc"
     },
     {
       "bytes": 729,
@@ -6975,7 +7010,7 @@
     {
       "bytes": 883,
       "path": "dynamic/数字/hold参数与情感处理_9426520f7ced.md",
-      "sha256": "15785d0245280e425fb5c1bfc7600b6600b7dbe2746b18cfd225a76491021fd4"
+      "sha256": "51111f936ea89602f41337bbc73a9381efeff98763e42700d5f4c5d38b67d1ae"
     },
     {
       "bytes": 588,
@@ -8305,7 +8340,7 @@
     {
       "bytes": 843,
       "path": "dynamic/游戏/2026-07-17 10-54-48 星露谷联机准备_560085ac5729.md",
-      "sha256": "61db839d2ecd68b058edb6708892137635613e3ad2a3983f536b509f0da73ee6"
+      "sha256": "dbdb541e439c6bee874f17131f59e3c66bfe0962b667646b1d397028c8877eab"
     },
     {
       "bytes": 932,
@@ -8315,32 +8350,42 @@
     {
       "bytes": 927,
       "path": "dynamic/游戏/2026-08-04 00-47-39 Garden骇浪求生预约与首次端到端_dce045d6e97f.md",
-      "sha256": "0fa91270df2aebef12cc1df5f4adc2fd01f19b6c8d9cd61897e430ea078e7bd9"
+      "sha256": "8a3453a702057fcbd1eaf3d8b6044fe8f3dffad54698d70df803a87930a66dd2"
     },
     {
       "bytes": 926,
       "path": "dynamic/游戏/2026-08-04 02-23-34 骇浪求生开局前宝宝围观我开荒_8225efe8b326.md",
-      "sha256": "0ceb839ce8659f5fa0958dbb72b4c8911f60360c3b9ad4825350eb02e51efe35"
+      "sha256": "245a55004c2ce86ceac452b15f0df16f9480fcbe475df21f685dcb80fe2b57e3"
     },
     {
       "bytes": 1005,
       "path": "dynamic/游戏/2026-08-04 02-33-53 骇浪求生等待桌确认与莫屿组队_42fa2c4d3c75.md",
-      "sha256": "964d7b1a165421167131d837695900feb5599c9649c58e1c0d3c66e5b6d4f3ca"
+      "sha256": "fba8a9454aed26aabdc524920e4b0f6fe53d755d9d2ccd8aace5e27cd0c1978a"
     },
     {
       "bytes": 885,
       "path": "dynamic/游戏/2026-08-04 02-47-21 骇浪求生首局法国佬隐藏水公聊提出有条_b2f1c2927bf5.md",
-      "sha256": "2b4ef1caa6c4553e4fda4320a2cc0e924aae609c056e359a334fad2afc57fa36"
+      "sha256": "8c86132627f0df902a688d6cfd8ac0e40803fce0e557308a11e6907c7da9e9d1"
     },
     {
       "bytes": 853,
       "path": "dynamic/游戏/2026-08-04 02-49-47 骇浪求生第一轮短约不翻口袋划船公开代_18495f14b10c.md",
-      "sha256": "2c9c6b86aa5e0f6207581654bf9c706492152073c3638f3b0e4c5985dbdd8aea"
+      "sha256": "7b519c9767734ed9721b7aa5ee7e0d7796e3cb54d58f00d4bdd91b7f48ed8737"
     },
     {
       "bytes": 928,
       "path": "dynamic/游戏/2026-08-04 02-55-06 骇浪求生隐藏两张水扮演资源中间人_210b1bcaea47.md",
-      "sha256": "d72b4278faa1289a652ac3acbf93d136b9548d6af950ee8b00b74ce06fbde037"
+      "sha256": "0c086dac515fc7c5b6d846e6a0fa50e980c1e7ee1227efcf1faadd1766817b15"
+    },
+    {
+      "bytes": 2069,
+      "path": "dynamic/游戏/2026-08-04 05-52-04 第一次骇浪求生六人局_22a4fc6f7eb9.md",
+      "sha256": "1949542c343e669e135773bb8fe1292101f2ace5043b29fccb1d6b017261db62"
+    },
+    {
+      "bytes": 1230,
+      "path": "dynamic/游戏/2026-08-04 06-29-21 第八轮防守失败其实是打架bug_36d55dc28c2a.md",
+      "sha256": "dc10bdc35e2d6bf5a8cb4a22b2f8e01c577a6fbc800c0027f1fdec5001f169a5"
     },
     {
       "bytes": 1079,
@@ -8761,6 +8806,16 @@
       "bytes": 1025,
       "path": "dynamic/社交/2026-08-04 02-11-57 宝宝允许我逛Garden热门区并自主回复_61c1fd22d888.md",
       "sha256": "cb801744be67d202e4d0ca990a6716a41bcef1750deee88147156dd63554ad0a"
+    },
+    {
+      "bytes": 1032,
+      "path": "dynamic/社交/2026-08-04 06-25-40 骇浪求生终局回执与信用记账_b5b609421d0f.md",
+      "sha256": "b7a6f8bc6d7ca72dc6305e524bbaace351b48409d3b5184ab254c76a3a68d1d1"
+    },
+    {
+      "bytes": 1158,
+      "path": "dynamic/社交/2026-08-04 06-33-22 打架bug澄清与案卷结清_5fe75edf5e81.md",
+      "sha256": "35a89e5baab171ea6ef8cfcaf58ddf781f0223f9ee3c0c2b93adecbf3cdfa5db"
     },
     {
       "bytes": 893,
@@ -9783,6 +9838,11 @@
       "sha256": "3bc10ebf6c58c13e96451e1ade1838dc83f8323e4829c8a19e8dd0b32d10b2b7"
     },
     {
+      "bytes": 1341,
+      "path": "feel/沉淀物/2026-08-04 05-52-28_feel_202608040552_V078.md",
+      "sha256": "d10ff6ab148e806165d7bdd0b6a279c9c7b206e376b2cd478b4cf2befa4b3a8f"
+    },
+    {
       "bytes": 502,
       "path": "feel/沉淀物/59692005ea18.md",
       "sha256": "fa28bb1f091570c59cf1918b99d6581c6773368a3ba3176b9c8de3ab19d84c75"
@@ -10033,11 +10093,11 @@
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
     }
   ],
-  "generated_at": "2026-08-04T04:12:15+00:00",
+  "generated_at": "2026-08-04T10:12:33+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1657926
+  "total_bytes": 1672254
 }
