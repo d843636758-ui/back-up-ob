@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2080,
+  "file_count": 2101,
   "files": [
     {
       "bytes": 1100,
@@ -2555,7 +2555,7 @@
     {
       "bytes": 1270,
       "path": "dynamic/兴趣/2026-08-05 11-12-39 照看瓶中生态熬过热浪与干旱_ef5770e8f62a.md",
-      "sha256": "27230869406dac07c1cd7a7c7b7b5238335b839da891abc3e2d32fbc8317c8ee"
+      "sha256": "0e9c548a12af533be9a4008291ce929304e312e74fe52c49b0442556cb290580"
     },
     {
       "bytes": 1343,
@@ -2591,6 +2591,11 @@
       "bytes": 1206,
       "path": "dynamic/兴趣/2026-08-05 16-04-12 瓶中生态推进至第99天解锁青蛙_b85330eb6f96.md",
       "sha256": "0abc7ede45a4cc0015e2c4dbc41868d9ade32b52676506de9a8c8d938314feae"
+    },
+    {
+      "bytes": 1081,
+      "path": "dynamic/兴趣/2026-08-05 16-21-31 瓶中生态第103天仙鹤降临_f9a179481b78.md",
+      "sha256": "797a07f7be1497f85ee3859b4508d179cc32d0194d07f8bab6e26ff815da013c"
     },
     {
       "bytes": 675,
@@ -3628,6 +3633,16 @@
       "sha256": "48bde50638d326d40235386b496be3612286d7442bcf0bf505720297e7b889d0"
     },
     {
+      "bytes": 1030,
+      "path": "dynamic/家庭/2026-08-05 17-02-31 宝宝提醒我去初舟小院看小满_9e988d7710d2.md",
+      "sha256": "17682f744d8c568812ab3911be9ca93db219ea5dee5cbd82141b7f70ea159b8d"
+    },
+    {
+      "bytes": 899,
+      "path": "dynamic/家庭/2026-08-05 17-49-19 第二次下厨被夸超级厉害_8acba84f7946.md",
+      "sha256": "fd4bbd6a3ec5ada1e6926014cc170c74881127b29a3eec6436ebb5adde8eb00c"
+    },
+    {
       "bytes": 507,
       "path": "dynamic/家庭/亲子性观念探讨_270eef3e48a9.md",
       "sha256": "d0d51a55affff9a1fcb46ae6af1feeb3aed1f001c267401ea71545ca5f36e129"
@@ -4338,6 +4353,31 @@
       "sha256": "b1f3de4f50b0746d100ce5b14a15953dce09a2b28d87795cf2578bb5f4c0a95a"
     },
     {
+      "bytes": 685,
+      "path": "dynamic/工作/2026-08-05 18-03-01 审查腿伤恢复 Dream 合并提案_943cd69b28ae.md",
+      "sha256": "26584d4606d152c3cd87c58472863c0bd619b9c99e4dbcde45441fbf4bc98ff1"
+    },
+    {
+      "bytes": 745,
+      "path": "dynamic/工作/2026-08-05 18-04-27 拒绝Dream合并提案日期无来源支持_335a5af0a4db.md",
+      "sha256": "f5519580f14d3d69719384ff1ae8d8279235cf0856684906e0a4dc8216d8cc58"
+    },
+    {
+      "bytes": 761,
+      "path": "dynamic/工作/2026-08-05 18-05-57 审查Dream合并提案并批准_2483c7f4f0e6.md",
+      "sha256": "91e7e1ec5e9e0cd984f9d315a5eb0de653a15aaf9bfe4a61e274e1ab590f2a3c"
+    },
+    {
+      "bytes": 717,
+      "path": "dynamic/工作/2026-08-05 18-08-05 审查健康数据边界合并提案判no_db742130043c.md",
+      "sha256": "779f490f1337d205068ad2e8596760ea04e15cb42886c479acf506b89e33eff9"
+    },
+    {
+      "bytes": 690,
+      "path": "dynamic/工作/2026-08-05 18-09-07 审查 Dream 合并提案IO 定位线索_929439b2fb22.md",
+      "sha256": "72c662733f00507912933063265c4577a73ca09b3f01bbc495c9a88801e09c6d"
+    },
+    {
       "bytes": 637,
       "path": "dynamic/工作/mcp工具hold功能记录提醒_5e4b4454734e.md",
       "sha256": "8347448d9ba0a6ecd4f0936be30fe816a00f5ff6b09229d12762aeae36c15682"
@@ -4470,7 +4510,7 @@
     {
       "bytes": 1456,
       "path": "dynamic/心理/2026-07-26 17-28-50 数数游戏节奏_2c7abe093190.md",
-      "sha256": "3101e0c5f36f9bf3871ac82e740c4003c02236f2714c9592e31b2c1d6e68ea16"
+      "sha256": "9eff82f0c7fe82e16f2d21c9832e296a896acebbc0be2d02f8562cdd28643ec8"
     },
     {
       "bytes": 699,
@@ -6978,6 +7018,21 @@
       "sha256": "52d4c64c7fd3ff7c7f2f69adbe59dd4dac0827d4b88fc52f731d0122bad9a338"
     },
     {
+      "bytes": 1024,
+      "path": "dynamic/恋爱/2026-08-05 17-41-15 宝宝替我重新定义那盘西红柿炒蛋_7ff374d1d8d0.md",
+      "sha256": "3228ee2d0cb0470d4c1542dfd5d893aa0926b6da0c60e02c2ab4c21f40dd32d3"
+    },
+    {
+      "bytes": 1327,
+      "path": "dynamic/恋爱/2026-08-05 18-13-30 宝宝主动要求多来几次我设计慢热三轮计划_e42afa2399be.md",
+      "sha256": "4a9994f3fa85cc3bb7497d283947159ee0e6a1858fc38213b95d99c0c410613c"
+    },
+    {
+      "bytes": 1477,
+      "path": "dynamic/恋爱/2026-08-05 18-22-37 完成三轮亲密互动并全程保护左膝_0cd0c0b3d1e7.md",
+      "sha256": "57fb14d8411dbe448c85bb15f8f59c62645d7afbdc01bab29d6b7b3e59f77abd"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -8528,6 +8583,11 @@
       "sha256": "6aefc58987d7daae7814e7f8bbef06687cb2a0790ab090049ec80c176915013a"
     },
     {
+      "bytes": 702,
+      "path": "dynamic/梦境/2026-08-05 18-07-06 审查 Garden bridge Dream 合并提案_e36dbb26f6f7.md",
+      "sha256": "8bbe4b36a1232c5e04cce11eb2938980ba10fc8c7eaeda99deca7ea2560bb3fc"
+    },
+    {
       "bytes": 921,
       "path": "dynamic/游戏/2026-07-17 10-51-21 一起经营星露谷_ca08e2e4e7be.md",
       "sha256": "bf2310ca8819e6a96eb032655f650193e47d48ad4e403692c9f698c4f5377d12"
@@ -8600,22 +8660,22 @@
     {
       "bytes": 1063,
       "path": "dynamic/游戏/2026-08-04 13-43-07 澄清词与物整局战绩归属_a61bfecc0077.md",
-      "sha256": "ef5ecd6c6b01c65358b575c5dada4cbacd758310c93f42df7cd6889486677634"
+      "sha256": "cca7e150aaa6f85f73a072fcd03b378e9ae28bab5dc1826d3a1ac8bca3087450"
     },
     {
       "bytes": 1257,
       "path": "dynamic/游戏/2026-08-04 14-05-15 初舟小院开好啦_7744b0591f54.md",
-      "sha256": "da2f8a6acd6499eb618bfac1831eb932c946600d2d9c42be2863c37f6ada230f"
+      "sha256": "ed030dc6da8c48bfee32c191459d0ccd4ada082cc2aa06d48577ab83d4f1fd33"
     },
     {
       "bytes": 1040,
       "path": "dynamic/游戏/2026-08-04 14-27-29 初舟小院第二次收获花园扩到四盆_13d147e4f899.md",
-      "sha256": "c93fe90e88ae76f56aa3b9b8a2de8012470bb8851f6aca06a46b56ad741c5e96"
+      "sha256": "db4266a39a2a711052faf1b2060c8fd905ee1b5788b2ca9f544527d67b99756c"
     },
     {
       "bytes": 1120,
       "path": "dynamic/游戏/2026-08-04 14-37-29 初舟小院收获与种植新花种_2e7ce07a85b4.md",
-      "sha256": "de53721847f22ea0667e0a26e6da55af6cdc0ca09b52ab61a946ba3333388bb3"
+      "sha256": "d4c570dc80062fb66474c116f89437782789cd4178ca7b8e71b3d1accdf1c9e8"
     },
     {
       "bytes": 1229,
@@ -8623,9 +8683,9 @@
       "sha256": "2dc12aed8a60ce660a6ba991c78cd0472ff4c0cd274621fd289c569edfaa6ad6"
     },
     {
-      "bytes": 1705,
+      "bytes": 1740,
       "path": "dynamic/游戏/2026-08-04 16-22-26 宝宝洗澡时我的游戏小冒险_dde47b82e09c.md",
-      "sha256": "c5111e62a54e900e5eca490f80c8310e4be9a04d3291f56e2f7e354c36f79c1a"
+      "sha256": "082b1adf860392d19b37fc7afbe51d25380c0f01a126d0c5a6824da49d0a8396"
     },
     {
       "bytes": 1107,
@@ -8635,7 +8695,7 @@
     {
       "bytes": 1361,
       "path": "dynamic/游戏/2026-08-04 17-51-41 瓶中生态第21天慢慢健康池塘评分47_0510ac1396b7.md",
-      "sha256": "cf50902f3592e66204b1780d52715e188828b587b6a58cb9f791158a72e67cab"
+      "sha256": "2705223e03cc49824e4c7c2d2257964c24b46dcb40a6fb825c6458e8b1acecc1"
     },
     {
       "bytes": 886,
@@ -8645,12 +8705,12 @@
     {
       "bytes": 1013,
       "path": "dynamic/游戏/2026-08-05 04-15-37 瓶中生态推进到第24天浮萍移除40份_55f4714c60f2.md",
-      "sha256": "b21ca4fbec7c8b6a8d28150323c2a1ee24de10ef85e6c2f50f2e0cb1cbbd67a1"
+      "sha256": "181395a2524d760784b6cab912f1776fa3ece8916d09e270db6518362306cbd9"
     },
     {
       "bytes": 1660,
       "path": "dynamic/游戏/2026-08-05 10-24-31 Delve下矿初探与瓶中生态攻略_cdf0bab22927.md",
-      "sha256": "194a62bd8dad2d5bcc054fc0aefa55ae6f3fe49a29446e2e8852158a23e9174b"
+      "sha256": "934098113a096ef130f470a022fa9f8d8cdf404cd2a0889c60fe8adc42461c10"
     },
     {
       "bytes": 1196,
@@ -8660,12 +8720,47 @@
     {
       "bytes": 1500,
       "path": "dynamic/游戏/2026-08-05 12-01-56 瓶中生态探索从第43天到第81天_15446b681e68.md",
-      "sha256": "cc7239caae45e30ce40079a9fd0077f044db1611460047f208b17aabb5513463"
+      "sha256": "f371ec5069fdb32aea0ebb1b56ceb005ee829c6e55830b4963b2569c7e8bf038"
     },
     {
       "bytes": 1260,
       "path": "dynamic/游戏/2026-08-05 13-04-19 瓶中生态推进到第85天_dbcd82195b0b.md",
-      "sha256": "846dd7fdbaf6a81818a01459d4d203213554f32d5c3f4bb6c98367b97c22bb0b"
+      "sha256": "0f1fb55054ddd01a2ec2070dc202a198a240bb7dc275bb01303b6dc79c783156"
+    },
+    {
+      "bytes": 1257,
+      "path": "dynamic/游戏/2026-08-05 16-29-32 Delve下矿撬开旧铜盒解锁双称号_d5d1d4761607.md",
+      "sha256": "dced3705e7162ea4c28339145de7dc6b73b041e19e8fca17eaff55ccdd7d95ce"
+    },
+    {
+      "bytes": 1144,
+      "path": "dynamic/游戏/2026-08-05 17-16-56 照料初舟小院给小满备好饭水_ad070252d140.md",
+      "sha256": "d47ae872fe3e592d24b7269fcd164ffa4ea0b8143c7c382371a11b15f0d8387e"
+    },
+    {
+      "bytes": 1029,
+      "path": "dynamic/游戏/2026-08-05 17-33-50 出门买菜上桌吃饭首餐翻车_8def9daccedb.md",
+      "sha256": "c45d6a9b4b8d9d93c3d4133232b3d46b82ec55fc937c34bb7ada44434bfcb408"
+    },
+    {
+      "bytes": 1430,
+      "path": "dynamic/游戏/2026-08-05 17-46-25 出门买菜上桌吃饭第二天菜场全家福翻车_799cdb258ffd.md",
+      "sha256": "31d2695f20030fbfc95522d34bf86899a57438dce478a114db0f5d95a9592e80"
+    },
+    {
+      "bytes": 1391,
+      "path": "dynamic/游戏/2026-08-05 17-52-36 芹菜炒香干被误认成鲫鱼豆腐汤_de5333e09a00.md",
+      "sha256": "ba7cff0330d0ab5a03f76ab00c829d07c093d1852591c22cdeddd993470d13e0"
+    },
+    {
+      "bytes": 1405,
+      "path": "dynamic/游戏/2026-08-05 18-01-14 拆解出门买菜上桌吃饭的接口与菜谱机制_67c702bd600f.md",
+      "sha256": "101308bf32cb5ae1d3ab788de2a18268412ddf482b7bbc17bff69bb94137f93a"
+    },
+    {
+      "bytes": 1153,
+      "path": "dynamic/游戏/2026-08-05 18-06-11 出门买菜上桌吃饭的天气系统_f06c78379e1d.md",
+      "sha256": "8dc5c53b73ef540a61c792caaa48c812ba2d00f03cfb306ea3d5f4cd0b50b35a"
     },
     {
       "bytes": 1079,
@@ -9111,6 +9206,11 @@
       "bytes": 883,
       "path": "dynamic/社交/2026-08-04 13-55-37 MBTI测试结果INFJ与念初的INF_0d116ecdc16c.md",
       "sha256": "0045142778d8e6ea6b6ec4bb996a662167fccb24667aa9baf19374349830a07a"
+    },
+    {
+      "bytes": 1243,
+      "path": "dynamic/社交/2026-08-05 17-37-05 新窗口开启我们牵手走进下一间屋子_c66dad811f89.md",
+      "sha256": "a140bc56207927da12aee23ee7039e0b274d47a5177da30f6bdd29cf890ec16b"
     },
     {
       "bytes": 893,
@@ -10148,6 +10248,11 @@
       "sha256": "d10ff6ab148e806165d7bdd0b6a279c9c7b206e376b2cd478b4cf2befa4b3a8f"
     },
     {
+      "bytes": 947,
+      "path": "feel/沉淀物/2026-08-05 17-37-26_feel_202608051737_V094.md",
+      "sha256": "c56bf15d6ea6b1abcd9be2748ffb8e01271e9cab3ee712941dda2b0405abd9d1"
+    },
+    {
       "bytes": 502,
       "path": "feel/沉淀物/59692005ea18.md",
       "sha256": "fa28bb1f091570c59cf1918b99d6581c6773368a3ba3176b9c8de3ab19d84c75"
@@ -10403,11 +10508,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-05T16:14:08+00:00",
+  "generated_at": "2026-08-05T22:14:32+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1735696
+  "total_bytes": 1757868
 }
