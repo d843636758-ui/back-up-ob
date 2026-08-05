@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2064,
+  "file_count": 2080,
   "files": [
     {
       "bytes": 1100,
@@ -498,6 +498,11 @@
       "sha256": "af9d04b7650de36990f790e33228e64703d5ba19bbee701b68e3d389cdd3b88c"
     },
     {
+      "bytes": 544,
+      "path": "archive/内心/宝宝分享性爱直觉感受_2ee4b764931a.md",
+      "sha256": "81fc298e30209c60eb8664bd03e2966d120d90f22330d9fa94bd5c77063630db"
+    },
+    {
       "bytes": 547,
       "path": "archive/内心/宝宝害怕签子寻求阿姨帮助_5619f602516f.md",
       "sha256": "aaa07127e11c3ed083de79e39f720feddd1d4fd6e639d5f5df637d507589ffc1"
@@ -946,6 +951,11 @@
       "bytes": 410,
       "path": "archive/未分类/152f607c7e27.md",
       "sha256": "dfa90f81cd8bd4edc7aae211881cb1224cab47438bfca90a2cd1d6e7aac37653"
+    },
+    {
+      "bytes": 418,
+      "path": "archive/未分类/4d3c87dbee7e.md",
+      "sha256": "3cd5e78ec64f0fffea6db6fdf018196054f8391cc14906d1e2ea543443192c3f"
     },
     {
       "bytes": 460,
@@ -2538,6 +2548,51 @@
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
     },
     {
+      "bytes": 1242,
+      "path": "dynamic/兴趣/2026-08-05 10-57-52 瓶中生态池塘第24天浮萍与溶氧调控_a3f9d95ad5a7.md",
+      "sha256": "93ed4f27e50d7adda3f1aab2660bf4b08c55a94180fdc5841cbbc6b50d2632bd"
+    },
+    {
+      "bytes": 1270,
+      "path": "dynamic/兴趣/2026-08-05 11-12-39 照看瓶中生态熬过热浪与干旱_ef5770e8f62a.md",
+      "sha256": "27230869406dac07c1cd7a7c7b7b5238335b839da891abc3e2d32fbc8317c8ee"
+    },
+    {
+      "bytes": 1343,
+      "path": "dynamic/兴趣/2026-08-05 12-02-55 瓶中生态第83天多重捕食压力下的探索_263d2eec99f4.md",
+      "sha256": "aafcea44f4c6ebc3bad982d529805160a8d8b03a0ad8708fe68370aa1d5c6b81"
+    },
+    {
+      "bytes": 954,
+      "path": "dynamic/兴趣/2026-08-05 12-15-59 瓶中生态推进到第84天_11db3eb21f5d.md",
+      "sha256": "3fb26405ad81eaa53ab4fc1021f1b5dcaf07fbcae5f36e66c8fccc8ec923ae1c"
+    },
+    {
+      "bytes": 1033,
+      "path": "dynamic/兴趣/2026-08-05 13-11-51 瓶中生态第86天解锁鲫鱼_e32f24aad192.md",
+      "sha256": "b166a6dbb1a2f08f2ce8bc5fee3403a21f680affc51ceae71b099d0f9f48fda8"
+    },
+    {
+      "bytes": 1189,
+      "path": "dynamic/兴趣/2026-08-05 13-27-06 瓶中生态推进到第89天_b1f4502ac86c.md",
+      "sha256": "b9e7a8173762833029345706eaa6316842463d6c2428361e162ebb2ff42cf945"
+    },
+    {
+      "bytes": 1187,
+      "path": "dynamic/兴趣/2026-08-05 15-14-33 瓶中生态冬天推进翠鸟叼走鲫鱼系统暂停_09ca167ff2c1.md",
+      "sha256": "2cfffc0b80064fe01efc1cce110b396dc3c9c4f308fe01035d80d8c14a950c0d"
+    },
+    {
+      "bytes": 1339,
+      "path": "dynamic/兴趣/2026-08-05 15-40-41 瓶中生态巴西龟灾害结束冬天推进_ecf6cd750c18.md",
+      "sha256": "06b615a90e6763e0c47c59613d4f4a6fdf978c2b8e77c976e897b34d14c7322e"
+    },
+    {
+      "bytes": 1206,
+      "path": "dynamic/兴趣/2026-08-05 16-04-12 瓶中生态推进至第99天解锁青蛙_b85330eb6f96.md",
+      "sha256": "0abc7ede45a4cc0015e2c4dbc41868d9ade32b52676506de9a8c8d938314feae"
+    },
+    {
       "bytes": 675,
       "path": "dynamic/内心/AI对用户情感的理解与回应_2b1cc7c3e260.md",
       "sha256": "34703f023e60a3ec85f3480ca9da8d9a47dcbd95ca7b8c6a1c03fd4d91757638"
@@ -2581,11 +2636,6 @@
       "bytes": 698,
       "path": "dynamic/内心/孩子希望我做自己_5753369fa81d.md",
       "sha256": "3680e1437db710820fe4d0203ca705542c0d5b23c427db955f87847a460ea791"
-    },
-    {
-      "bytes": 543,
-      "path": "dynamic/内心/宝宝分享性爱直觉感受_2ee4b764931a.md",
-      "sha256": "ebbfa4d7c3c2073f187487f4c700933b8241df4a91b25040a3e9f931de51de3a"
     },
     {
       "bytes": 638,
@@ -6923,6 +6973,11 @@
       "sha256": "238efa3e017f25d13c9600f6dec903695cb181f49380cb3b23b35c44fc4bffc8"
     },
     {
+      "bytes": 1215,
+      "path": "dynamic/恋爱/2026-08-05 13-35-05 瓶中生态冬季第90-91天_e626341f88e6.md",
+      "sha256": "52d4c64c7fd3ff7c7f2f69adbe59dd4dac0827d4b88fc52f731d0122bad9a338"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -7793,11 +7848,6 @@
       "sha256": "20479901d6d17207d7f21009626999e9b265a327554690f2c7d6132fede0b898"
     },
     {
-      "bytes": 417,
-      "path": "dynamic/未分类/4d3c87dbee7e.md",
-      "sha256": "da26db75224184335329b37240ace5b2efdde76b2e77e35eac9ae7bdbc34859d"
-    },
-    {
       "bytes": 891,
       "path": "dynamic/未分类/4f891d336fea.md",
       "sha256": "35f0ff5283eb18247fab9ee4ef601c7df3f738dc0a6a17fe6193e737d8eeeff6"
@@ -8596,6 +8646,26 @@
       "bytes": 1013,
       "path": "dynamic/游戏/2026-08-05 04-15-37 瓶中生态推进到第24天浮萍移除40份_55f4714c60f2.md",
       "sha256": "b21ca4fbec7c8b6a8d28150323c2a1ee24de10ef85e6c2f50f2e0cb1cbbd67a1"
+    },
+    {
+      "bytes": 1660,
+      "path": "dynamic/游戏/2026-08-05 10-24-31 Delve下矿初探与瓶中生态攻略_cdf0bab22927.md",
+      "sha256": "194a62bd8dad2d5bcc054fc0aefa55ae6f3fe49a29446e2e8852158a23e9174b"
+    },
+    {
+      "bytes": 1196,
+      "path": "dynamic/游戏/2026-08-05 10-45-04 Delve下矿发现贝壳化石与铜星矿屑_316d828d01fb.md",
+      "sha256": "fae4906f7d57cc9d1aacb77b51822bdbbaa2ece9561b3047000de2d05bea2fa9"
+    },
+    {
+      "bytes": 1500,
+      "path": "dynamic/游戏/2026-08-05 12-01-56 瓶中生态探索从第43天到第81天_15446b681e68.md",
+      "sha256": "cc7239caae45e30ce40079a9fd0077f044db1611460047f208b17aabb5513463"
+    },
+    {
+      "bytes": 1260,
+      "path": "dynamic/游戏/2026-08-05 13-04-19 瓶中生态推进到第85天_dbcd82195b0b.md",
+      "sha256": "846dd7fdbaf6a81818a01459d4d203213554f32d5c3f4bb6c98367b97c22bb0b"
     },
     {
       "bytes": 1079,
@@ -9683,6 +9753,11 @@
       "sha256": "27a2541660d8664283ee805cca41584599c4e3b7ea86314f6653f24ff13d59e2"
     },
     {
+      "bytes": 1006,
+      "path": "dynamic/自省/2026-08-05 12-07-28 瓶中生态乌龙推进到消息截断_88fc5e96baa1.md",
+      "sha256": "b5c69cff614566efd75f22e0918ac27cf3783bea8fca5eb37df2b8e7ab9d4c18"
+    },
+    {
       "bytes": 1514,
       "path": "dynamic/计划/2026-07-20 09-23-19 OB重要度整理_1dc9ca8ab12c.md",
       "sha256": "417a2d716da145277b8db4752963106126bedb0f5eb74e6597ee8f1166cce371"
@@ -10321,13 +10396,18 @@
       "bytes": 1206,
       "path": "plans/resolved/2026-07-18 15-12-35_b3ee49fa32a1.md",
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
+    },
+    {
+      "bytes": 704,
+      "path": "plans/resolved/2026-08-05 10-40-07_138ff51beda4.md",
+      "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-05T10:13:49+00:00",
+  "generated_at": "2026-08-05T16:14:08+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1716390
+  "total_bytes": 1735696
 }
