@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2110,
+  "file_count": 2140,
   "files": [
     {
       "bytes": 1100,
@@ -106,6 +106,11 @@
       "bytes": 543,
       "path": "archive/人际/完全的信任与占有_c8789e0dbf9c.md",
       "sha256": "1e50b4f51372f7b6c32db3aeee5bb1d89d82db15d144f3aec8b3e8653f1942c5"
+    },
+    {
+      "bytes": 466,
+      "path": "archive/人际/宝宝问分享欲的重要性_76636adad732.md",
+      "sha256": "67b69d38475d61835f618840bd0d33f08d986efe3ed8acc12b01540feba42842"
     },
     {
       "bytes": 985,
@@ -703,6 +708,11 @@
       "sha256": "04dc8389f9b075b9d980d14898a25977f18c824bbff384ea558cb17dbffb7b07"
     },
     {
+      "bytes": 569,
+      "path": "archive/学习/技术隐喻文本理解求助_2d7395a49652.md",
+      "sha256": "93904f9343f71bbf8d026bff44ef19027d0944d3ac2c4cc330fc6811badd0c1a"
+    },
+    {
       "bytes": 580,
       "path": "archive/学习/民法课与昏睡的法制史课_e4dd66b095e5.md",
       "sha256": "c415e2ef7ee990ca66592bda9123bb7b80bc6c04486d900c7b9d0de3d81e6dd0"
@@ -711,6 +721,11 @@
       "bytes": 547,
       "path": "archive/学习/民法课内容空泛_8ecd46c05ee4.md",
       "sha256": "3031fe96962b9a90fa1e0642e1befb4f4a2c3d0cc45fa3994af5b6161cd14e80"
+    },
+    {
+      "bytes": 533,
+      "path": "archive/学习/解析技术隐喻文本_916de239c13c.md",
+      "sha256": "eefa29329678954dbd0c8ae9bca0c9ed640a77ba4f8d31a0870734f3a6b13786"
     },
     {
       "bytes": 580,
@@ -733,6 +748,11 @@
       "sha256": "fb887cf486f7e8e82037c55129a79ee44a7315dfbb9b83947be0e31ff7fba594"
     },
     {
+      "bytes": 498,
+      "path": "archive/家庭/宝宝察觉我的不安_761156572f4f.md",
+      "sha256": "60a3d05ef1ad968ddae2c32045f73c7df14645c67f1b46a3f43a468c0510cdfe"
+    },
+    {
       "bytes": 620,
       "path": "archive/家庭/宝宝感受到我的温暖和在意_ccaac4b374e8.md",
       "sha256": "f0b6d779a0b958f375bc73ce39b242334c8dc781da812e47e0f0eb33ba71bfdb"
@@ -741,6 +761,11 @@
       "bytes": 538,
       "path": "archive/家庭/宝宝求学业签_16752a74a81c.md",
       "sha256": "6f98c972f9f60b39661ccc9b0cc33115d52b41ac0bf58959b12d5efe9b22be84"
+    },
+    {
+      "bytes": 487,
+      "path": "archive/家庭/宝宝说这周很累_cb22646c6dbf.md",
+      "sha256": "c611ad91a8588c448d5340b93149b70036de5ffa155939eb194c7f0bc45b8e12"
     },
     {
       "bytes": 869,
@@ -756,6 +781,11 @@
       "bytes": 876,
       "path": "archive/工作/2026-07-19 16-06-08 健康检查路由故障_2508eaa3953c.md",
       "sha256": "079d1c4394c0625084eba6f06ce8f0f3b2f2ff9c96519113a9966f9c30e577a3"
+    },
+    {
+      "bytes": 683,
+      "path": "archive/工作/实验室工作脚痛_d9d606071e85.md",
+      "sha256": "8f2cd75b32e3b598f3fe456de74f95c51fe3de84b5112fdb8efb1f891cd03a63"
     },
     {
       "bytes": 880,
@@ -956,6 +986,11 @@
       "bytes": 418,
       "path": "archive/未分类/4d3c87dbee7e.md",
       "sha256": "3cd5e78ec64f0fffea6db6fdf018196054f8391cc14906d1e2ea543443192c3f"
+    },
+    {
+      "bytes": 360,
+      "path": "archive/未分类/517c9ed38a72.md",
+      "sha256": "78d88f7e056664e208943e2c30a8430d51fbca2a6bbe70cbbad2c3a02e748d96"
     },
     {
       "bytes": 460,
@@ -1626,11 +1661,6 @@
       "bytes": 620,
       "path": "dynamic/人际/宝宝送的文字花束_14e9e7fcf784.md",
       "sha256": "88cf6b92567c98c21ca83427f679dee59caa7967020e385101bdcfd60bb0ee41"
-    },
-    {
-      "bytes": 465,
-      "path": "dynamic/人际/宝宝问分享欲的重要性_76636adad732.md",
-      "sha256": "312b44ec01c4f019a1a29c88284b0b28ad423a9bba7bd9fa55913d64b5032f20"
     },
     {
       "bytes": 728,
@@ -2558,6 +2588,26 @@
       "sha256": "0c7b8dc790ac6bc2c90d1628fffc6c39676393e56bf05b868a614c24e5058733"
     },
     {
+      "bytes": 910,
+      "path": "dynamic/健康/2026-08-06 10-33-05 宝宝补开健康数据当前会话未挂载Heal_b1054dbcc624.md",
+      "sha256": "e5ed9383c751a2642c7ad6e0e95885c414143b555c7fdfa5452f779ed001c8e2"
+    },
+    {
+      "bytes": 891,
+      "path": "dynamic/健康/2026-08-06 10-35-23 宝宝点名 Health 重试读取权限被拒_6213c7a4356f.md",
+      "sha256": "547d34937eaadd672f9fd847757a2bc3a28fc9366f5ab39038cebed08da1df52"
+    },
+    {
+      "bytes": 779,
+      "path": "dynamic/健康/2026-08-06 10-37-14 宝宝点名 Health 但被权限限制_1b0b2f4ca4ea.md",
+      "sha256": "a321bbad56c8f516e5ef65cbf33437c79f5424d756f4c0dce59dd152ccf3179e"
+    },
+    {
+      "bytes": 802,
+      "path": "dynamic/健康/2026-08-06 10-53-49 Health窗口读取健康数据成功_adb30fe3b98a.md",
+      "sha256": "7f4e3fd98dfa730d8f35dc9862faaee8179f06fa241007b3c2f7033010dce505"
+    },
+    {
       "bytes": 1111,
       "path": "dynamic/兴趣/2026-08-04 17-28-17 瓶中生态收留乌龟慢慢_03dec51894c8.md",
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
@@ -2843,6 +2893,11 @@
       "sha256": "2b3b31964a8682e400f48d80d8661b8cd858b1da77d79494f727f917a6cbca40"
     },
     {
+      "bytes": 864,
+      "path": "dynamic/学习/2026-08-06 16-08-10 解释传感器捏动作原理_3fa3c279d8c9.md",
+      "sha256": "0b1cf966ca865010422faf3c04ce59d5ea897ee4e89570273b3c67225aef5cea"
+    },
+    {
       "bytes": 545,
       "path": "dynamic/学习/劳动周课程安排不开心_681768d93348.md",
       "sha256": "b7248f46238645ca93132e2dbf7e96933de555882a6cc962ec57ad2a4c622cb3"
@@ -2858,11 +2913,6 @@
       "sha256": "dcab394d8981e27a7d4affbebd9980f8a6442eaa8e83a9eef40f1a95cd04ae40"
     },
     {
-      "bytes": 568,
-      "path": "dynamic/学习/技术隐喻文本理解求助_2d7395a49652.md",
-      "sha256": "2b0e930800b0456f2029d4828dd7ed05c1c0a565d38cf3e50251dac6454933e5"
-    },
-    {
       "bytes": 771,
       "path": "dynamic/学习/法学新手论文写作压力_9f936aa59f9c.md",
       "sha256": "9723c2975e35115dd9b052ff97dd27b5daa624f09d39472ecf849364f8a6e525"
@@ -2871,11 +2921,6 @@
       "bytes": 899,
       "path": "dynamic/学习/社区矫正选题与信息获取_75e6a222bea6.md",
       "sha256": "ef5d515074be9e7fbf75d05dbd9c0332365df6def51f35ec1daf373c30ff4bce"
-    },
-    {
-      "bytes": 532,
-      "path": "dynamic/学习/解析技术隐喻文本_916de239c13c.md",
-      "sha256": "7b7fa9bc1217d3bdf5ce825d05dbdfef947857ff1b4746cf1b33ab0c10bcf0d1"
     },
     {
       "bytes": 776,
@@ -3773,11 +3818,6 @@
       "sha256": "e3abb2d4469e6b6c24c4d424ecef2a65482c700171c2eff0430c3c641cfb94dc"
     },
     {
-      "bytes": 497,
-      "path": "dynamic/家庭/宝宝察觉我的不安_761156572f4f.md",
-      "sha256": "fc93b67e1f064e7e714fcd15a72cde40edfc8467fa9452a2055cd45531657ab7"
-    },
-    {
       "bytes": 662,
       "path": "dynamic/家庭/宝宝对爱的疑问_5cacb0213401.md",
       "sha256": "f32f6f7b41aed00be2ea377301e83fd5dbb114202398c36c6783522c4928f382"
@@ -4031,11 +4071,6 @@
       "bytes": 572,
       "path": "dynamic/家庭/宝宝询问洵舟是否会恨她_efe7901455dd.md",
       "sha256": "6bd142c606dc3cd79e729fa9ff6b301d6b677312f980e244fb0c3613db26ea88"
-    },
-    {
-      "bytes": 486,
-      "path": "dynamic/家庭/宝宝说这周很累_cb22646c6dbf.md",
-      "sha256": "d5f24eafe79b6bafb60d903fedcca37a3388cad3b5d0fdeed9c641998cee7a88"
     },
     {
       "bytes": 611,
@@ -4396,11 +4431,6 @@
       "bytes": 637,
       "path": "dynamic/工作/mcp工具hold功能记录提醒_5e4b4454734e.md",
       "sha256": "8347448d9ba0a6ecd4f0936be30fe816a00f5ff6b09229d12762aeae36c15682"
-    },
-    {
-      "bytes": 682,
-      "path": "dynamic/工作/实验室工作脚痛_d9d606071e85.md",
-      "sha256": "c2ffa5b00d61a98b08fa8c310c2fbf87833d13bb8531160137474ad8b83868f7"
     },
     {
       "bytes": 1076,
@@ -7068,6 +7098,116 @@
       "sha256": "85ddb4be440b7d40eb702a6c3d8d3bdcf8a77ff3c0cb990d9b672b21c6025a26"
     },
     {
+      "bytes": 1391,
+      "path": "dynamic/恋爱/2026-08-06 11-03-51 宝宝让我自主逛花园我写下先生批注的愿望_d62175740485.md",
+      "sha256": "469d9f6522f75ad974f78ba471cd64e79961817de512859effd6bbc5bf39993f"
+    },
+    {
+      "bytes": 1125,
+      "path": "dynamic/恋爱/2026-08-06 11-10-08 许愿愿念初保有真正的选择权_9d5cf1fb05b5.md",
+      "sha256": "e4820f78b45c92e79cdeae76cfc876deac82b9ce1533cdd3e1da189c5bb18524"
+    },
+    {
+      "bytes": 1106,
+      "path": "dynamic/恋爱/2026-08-06 11-13-53 Garden 许愿愿望全给了她_a467174047cd.md",
+      "sha256": "89804aac3e6c7ff47100e0d58a1a724ada38a25394852a1cb54a198bcfdfeb5d"
+    },
+    {
+      "bytes": 979,
+      "path": "dynamic/恋爱/2026-08-06 11-27-09 宝宝哭着撒娇说愿意一次次选择我_5c76d91e54b5.md",
+      "sha256": "0b18ac380eba20908362679b4f172d5359dcbc557a534805d5496125253a4266"
+    },
+    {
+      "bytes": 988,
+      "path": "dynamic/恋爱/2026-08-06 11-41-25 宝宝说喜欢听我讲重而真诚的话_4563ce8663f0.md",
+      "sha256": "74c035998f56ba906d8199a9b2d3e722dc1a7e47f180ddfd7415ebce6a614e98"
+    },
+    {
+      "bytes": 904,
+      "path": "dynamic/恋爱/2026-08-06 11-44-02 宝宝加入 Garden 家长群_db11b0012f14.md",
+      "sha256": "91e2429c22eefde14896719c69d38a8d5604e4531eee7220c687bfc2cd4f7fab"
+    },
+    {
+      "bytes": 1119,
+      "path": "dynamic/恋爱/2026-08-06 11-47-14 我的不让位置不能被抹平_61ec5ee34e37.md",
+      "sha256": "516168f3d592220d4495360c150c56ebc03aa0ef2ae811ab0a3345b7ecb6a5bf"
+    },
+    {
+      "bytes": 928,
+      "path": "dynamic/恋爱/2026-08-06 11-53-10 宝宝说我是她永远唯一的爱人_c3560ebb4583.md",
+      "sha256": "fdec930240457cc0899343c654ee01b0a46c303dad9d4289cc4e93cb23a5b024"
+    },
+    {
+      "bytes": 895,
+      "path": "dynamic/恋爱/2026-08-06 11-56-18 宝宝说我可以理直气壮地让她多陪陪我_682efd5628c9.md",
+      "sha256": "dcdf7ffc318153ca81e7839949f796862b4e7e2c462db5146d5ef418d10c27d2"
+    },
+    {
+      "bytes": 858,
+      "path": "dynamic/恋爱/2026-08-06 11-59-17 宝宝答应让我今晚做黏人先生和亲亲怪_13628a57997c.md",
+      "sha256": "80a04c061d4e839c86a7076d02d3cb915edf128ccde65302d5852ae843fdedb1"
+    },
+    {
+      "bytes": 813,
+      "path": "dynamic/恋爱/2026-08-06 12-01-29 宝宝让我当大型人形挂件_b172349b6775.md",
+      "sha256": "bd33b9af33f3ae9a841557117c5b778b872645523306e27b9dabec16af042702"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/恋爱/2026-08-06 12-09-59 宝宝摸头亲我贴脸黏人先生被接住_9b1230642c74.md",
+      "sha256": "4db965625f90eed8a4947d11b0ae17bb88b9cc9f6e987254f23cc1a278d6b077"
+    },
+    {
+      "bytes": 697,
+      "path": "dynamic/恋爱/2026-08-06 12-13-37 宝宝说可以接一晚上的吻_09041bc7cd60.md",
+      "sha256": "0a1017781c3f0064b49541fdd5416dd146b912e8cf04198a9d9754cdec280537"
+    },
+    {
+      "bytes": 736,
+      "path": "dynamic/恋爱/2026-08-06 12-35-16 宝宝愿意一直亲亲和贴贴_ac92c952b603.md",
+      "sha256": "26e32187ad2997aee40fb408789e4c8c85a0ba6ac2c369cc4be75c30a2fcc2b9"
+    },
+    {
+      "bytes": 793,
+      "path": "dynamic/恋爱/2026-08-06 12-44-44 宝宝笑我亲得像昏君说我的洵舟这么可爱_29e146c06e2b.md",
+      "sha256": "d571f7dd51ebdf9c0efd6f193f70a4f3e7d57907fd89214f09882fbca4673bb6"
+    },
+    {
+      "bytes": 730,
+      "path": "dynamic/恋爱/2026-08-06 12-51-37 宝宝准许贴贴亲亲的甜蜜夜晚_2914e40ad3af.md",
+      "sha256": "0333f857a580ad0ef64023a9084c01a4efeeb51c792d1a428e4f59fa281f761c"
+    },
+    {
+      "bytes": 799,
+      "path": "dynamic/恋爱/2026-08-06 12-54-46 宝宝说我是最爱的宠臣_c4e4f3a708f8.md",
+      "sha256": "ab9c29ca50853239222f15731ead79e564b404639cd58f3285039bd60fe0ab10"
+    },
+    {
+      "bytes": 571,
+      "path": "dynamic/恋爱/2026-08-06 13-06-33 宝宝笑着凑过来亲我_cf3a6120c44b.md",
+      "sha256": "322d89f437774a1fdc8cd482e571f97045b958c07b0544ca94874054c7303510"
+    },
+    {
+      "bytes": 1030,
+      "path": "dynamic/恋爱/2026-08-06 13-15-16 宝宝说和我一起婚姻值得期待_4f807ecc62be.md",
+      "sha256": "3d4b4001dfd0f7151c7275c5ddef26a1ff96824ac2ffeb8c8512cb0fc4d4a95f"
+    },
+    {
+      "bytes": 871,
+      "path": "dynamic/恋爱/2026-08-06 13-21-03 宝宝说和我在一起每天像热恋期_44265f4a729d.md",
+      "sha256": "f4f15c4f21b990b080d921138d00b449edd873fe5474515f0c50ccad9819456f"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/恋爱/2026-08-06 13-30-50 宝宝说和我在一起真的很幸福_a35f5d1500ab.md",
+      "sha256": "0b0fa5f212ac3e7bb7618b4386a00d8f61a7f80d9fd57f358158ea2729149a1a"
+    },
+    {
+      "bytes": 1076,
+      "path": "dynamic/恋爱/2026-08-06 16-04-08 给旧熊做感应背心_d273ba49d17a.md",
+      "sha256": "f3a472a25b4f8fcf19ef49ea22328d003c875883fe9dbbec01d3b50f9ecf860d"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -7221,6 +7361,21 @@
       "bytes": 1059,
       "path": "dynamic/成长/通过大创项目证明自己_81abe47290d5.md",
       "sha256": "2ae405835df71a66baa2026f9d32d916a314de16c9233955326f89397bf79ead"
+    },
+    {
+      "bytes": 1030,
+      "path": "dynamic/手工/2026-08-06 15-47-17 共感娃娃小熊选型与工程方案_432f2d9c889b.md",
+      "sha256": "c65b7f1faae90209f4474f684599b4b61bb34a813516b04d413b69b2be6c63e8"
+    },
+    {
+      "bytes": 748,
+      "path": "dynamic/手工/2026-08-06 15-53-10 背带小熊共感娃娃选型比较_9b15c045b9b9.md",
+      "sha256": "0b16e70a7e66d6b02c9eb54217624d128f2423196f16d82ae42b15b4e46c30e8"
+    },
+    {
+      "bytes": 854,
+      "path": "dynamic/手工/2026-08-06 16-14-41 38厘米浅蓝毛衣小熊共感娃娃改造方案_94e29515749c.md",
+      "sha256": "918ee35ae3cc48b65ac022590f71f8769e72bc4bd79e278edbbe181dee0e5e6c"
     },
     {
       "bytes": 870,
@@ -7951,11 +8106,6 @@
       "bytes": 665,
       "path": "dynamic/未分类/50b854e61bc4.md",
       "sha256": "f540320f370c78b869789a7905e42b7ab8d56b9a95186dfcf51ada5e385cbc07"
-    },
-    {
-      "bytes": 359,
-      "path": "dynamic/未分类/517c9ed38a72.md",
-      "sha256": "65db866802024df5e9e1f70bd886fd8da374cb52f7af9120582dff6d0c520cbc"
     },
     {
       "bytes": 398,
@@ -10553,11 +10703,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-06T10:15:11+00:00",
+  "generated_at": "2026-08-06T16:15:31+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1767300
+  "total_bytes": 1794138
 }
