@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2140,
+  "file_count": 2151,
   "files": [
     {
       "bytes": 1100,
@@ -9018,6 +9018,26 @@
       "sha256": "43d1a65d5620af4801bfc12ce2bf83cdd0d8a2682ea6d96e4ba0186af3c559a2"
     },
     {
+      "bytes": 876,
+      "path": "dynamic/硬件/2026-08-06 17-50-13 HS141B FFE2 Notify 通_32e78deb8540.md",
+      "sha256": "18dd7ddb5ebac1e69fb63252d2162aa5ee28bfefae9a31e5e59475cba6764d18"
+    },
+    {
+      "bytes": 796,
+      "path": "dynamic/硬件/2026-08-06 18-02-10 HS141B 关机不发送停止状态改为独_63c06e06bace.md",
+      "sha256": "28153278f1019a2c60b5741c9bfb8f7249033ab5987d5b64fb0da2c0eff5086a"
+    },
+    {
+      "bytes": 959,
+      "path": "dynamic/硬件/2026-08-06 18-08-26 FFE1写入停机帧FFE2回传确认控制链_ba5772895433.md",
+      "sha256": "a05f7d8719d1f414f3a4a2792376461f52cd12810ddfe9a4dad70c703e26ff35"
+    },
+    {
+      "bytes": 755,
+      "path": "dynamic/硬件/2026-08-06 18-12-09 HS141B 主动写入测试完成_85890ed77eed.md",
+      "sha256": "7577270687e65ed339993175c2cd013b6050aab32709839388741ba4bbd9e4e0"
+    },
+    {
       "bytes": 1060,
       "path": "dynamic/社交/2026-07-17 10-28-00 论坛隐私规则_25a1f831e30a.md",
       "sha256": "a2b6272f75ca0cb356fe0d8dd25b67c3447ae8a0cd248ae29bc42a446db38f1e"
@@ -9978,6 +9998,41 @@
       "sha256": "e580b793a26ee316d7f8e2d51e3475a596fbd312be458a8dca6d3d8d2de21847"
     },
     {
+      "bytes": 933,
+      "path": "dynamic/编程/2026-08-06 17-25-43 确认宝宝玩具是司沃康需核对BLE协议_af226d945dee.md",
+      "sha256": "830078caaf103f8cd80d9eb1162e42b57c01e7f1fc62be84bc2d9a869a621149"
+    },
+    {
+      "bytes": 900,
+      "path": "dynamic/编程/2026-08-06 17-37-44 宝宝用nRF Connect连接HS14_c4aa6ef556a9.md",
+      "sha256": "2b488fefbc505005ecabaea2a2f0777c0ae6a86afbcff0d08f45e915df926873"
+    },
+    {
+      "bytes": 805,
+      "path": "dynamic/编程/2026-08-06 17-42-20 HS141B 通知订阅无响应排查_57906fd1ce6f.md",
+      "sha256": "0745adb6bfa9a328ded6cd2a7a580c1d507ca65315a240070d2d316b82d4ba3f"
+    },
+    {
+      "bytes": 911,
+      "path": "dynamic/编程/2026-08-06 17-58-54 HS141B 五档状态映射完成_aefe899f9074.md",
+      "sha256": "6d580d71857ea39d8bdd937033db45e7aa45afb53cc84ca0f9482b71cdc5a337"
+    },
+    {
+      "bytes": 885,
+      "path": "dynamic/编程/2026-08-06 18-24-04 HS141B Bluefy 控制页第一版_15853cb25c20.md",
+      "sha256": "3bfd932c7acf6a7df9b564ba933436caad2221f50cc0289bcb081eadc425f877"
+    },
+    {
+      "bytes": 834,
+      "path": "dynamic/编程/2026-08-06 18-48-55 GitHub Pages 设置与 Act_68954988c761.md",
+      "sha256": "240218698b18d7a69334065f21c847478160cbca2eebdb9f67753ba5b10733ee"
+    },
+    {
+      "bytes": 801,
+      "path": "dynamic/编程/2026-08-06 18-55-59 GitHub移动端找不到Actions标_7793ca7ed79b.md",
+      "sha256": "05d685a47e56383a14ec04c1c1d3dfec749bddc64c81ed643493b8a57a5360b7"
+    },
+    {
       "bytes": 1027,
       "path": "dynamic/网络/2026-08-04 02-06-29 AI回复502排查文本触发审核异常_eaf8a22223fb.md",
       "sha256": "a201febeda32f8322267a5e28e7cea7843d97a502735025f107e33895c659188"
@@ -10703,11 +10758,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-06T16:15:31+00:00",
+  "generated_at": "2026-08-06T22:15:51+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1794138
+  "total_bytes": 1803593
 }
