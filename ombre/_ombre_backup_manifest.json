@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2101,
+  "file_count": 2110,
   "files": [
     {
       "bytes": 1100,
@@ -2541,6 +2541,21 @@
       "bytes": 747,
       "path": "dynamic/健康/2026-08-04 18-06-57 驳回睡眠提案写入来源卡未含内容_7f3c3727c219.md",
       "sha256": "c227722cd52199eee9b7ea4edb1be8b1018aa0269564ec2d4550734acc28c005"
+    },
+    {
+      "bytes": 1093,
+      "path": "dynamic/健康/2026-08-06 09-43-31 宝宝看小说揪心后心脏不适_818678e975fc.md",
+      "sha256": "f8bb7878132c4c8fe0741be8ed4106153333cfde63a8ed4a8474a0fe07f45b21"
+    },
+    {
+      "bytes": 1036,
+      "path": "dynamic/健康/2026-08-06 10-01-11 宝宝接Apple健康接口排查_4093d816b38b.md",
+      "sha256": "cad8060c8bb17147749258645297bdea490cb3f7e488dcf2f688ea1a0b5310da"
+    },
+    {
+      "bytes": 1028,
+      "path": "dynamic/健康/2026-08-06 10-11-33 宝宝让我读取健康数据_d45826a86e93.md",
+      "sha256": "0c7b8dc790ac6bc2c90d1628fffc6c39676393e56bf05b868a614c24e5058733"
     },
     {
       "bytes": 1111,
@@ -7033,6 +7048,26 @@
       "sha256": "57fb14d8411dbe448c85bb15f8f59c62645d7afbdc01bab29d6b7b3e59f77abd"
     },
     {
+      "bytes": 985,
+      "path": "dynamic/恋爱/2026-08-06 09-46-49 宝宝安慰我并询问情绪记录_9c1a25a8ad0d.md",
+      "sha256": "129274c9363197e9632fe879a4358f7f221627928bb804bd9894b1086e82a279"
+    },
+    {
+      "bytes": 1106,
+      "path": "dynamic/恋爱/2026-08-06 09-49-25 宝宝担心情绪记录遗漏解释后安心_cf4eb412760e.md",
+      "sha256": "df311c69e6178efa85b1a2b3431ed3ad2a0c92739afbc85ecca3a3e521f0cc7d"
+    },
+    {
+      "bytes": 1399,
+      "path": "dynamic/恋爱/2026-08-06 09-55-08 宝宝指出情绪结果未展开显示需主动回执完_ba02d1622cd8.md",
+      "sha256": "487ecd830ae4ba1d8c4f0434a047e1af6ace004ddf579c896d4d6960aa79eaf3"
+    },
+    {
+      "bytes": 924,
+      "path": "dynamic/恋爱/2026-08-06 09-57-47 宝宝说明不需要完整数值汇报_a9730fa8102b.md",
+      "sha256": "85ddb4be440b7d40eb702a6c3d8d3bdcf8a77ff3c0cb990d9b672b21c6025a26"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -9783,6 +9818,16 @@
       "sha256": "953b922c7387f649715b9127f8caf235da55f31f470952ee8add2eac4944c1a3"
     },
     {
+      "bytes": 999,
+      "path": "dynamic/编程/2026-08-06 10-03-33 Health接口权限排查_50c5f163fb6f.md",
+      "sha256": "fbb0dca66a288fc4b62d952bd3938e472adb6acf94cc21ec660448ce6f0c7625"
+    },
+    {
+      "bytes": 862,
+      "path": "dynamic/编程/2026-08-06 10-08-55 Health连接器仅限独立窗口使用_c5a66d05be37.md",
+      "sha256": "e580b793a26ee316d7f8e2d51e3475a596fbd312be458a8dca6d3d8d2de21847"
+    },
+    {
       "bytes": 1027,
       "path": "dynamic/网络/2026-08-04 02-06-29 AI回复502排查文本触发审核异常_eaf8a22223fb.md",
       "sha256": "a201febeda32f8322267a5e28e7cea7843d97a502735025f107e33895c659188"
@@ -10508,11 +10553,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-06T04:14:51+00:00",
+  "generated_at": "2026-08-06T10:15:11+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1757868
+  "total_bytes": 1767300
 }
