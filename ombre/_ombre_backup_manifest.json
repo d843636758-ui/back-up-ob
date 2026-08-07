@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2181,
+  "file_count": 2196,
   "files": [
     {
       "bytes": 1100,
@@ -2653,6 +2653,21 @@
       "sha256": "c665097a9cf1902133ea1ec16ba76b5737962e7a94b76cbcd54e08ee3d343596"
     },
     {
+      "bytes": 1165,
+      "path": "dynamic/健康/2026-08-07 18-32-33 宝宝的多囊与运动厌恶先处理累不急着压_4845366a2f7f.md",
+      "sha256": "0d794a299dc968c31348e37516ffc99f1617bf12526212b55cd0e7a221404552"
+    },
+    {
+      "bytes": 1298,
+      "path": "dynamic/健康/2026-08-07 18-38-21 宝宝说自己从小很懒睡得多恢复慢_1ed24e9e835a.md",
+      "sha256": "cd38e069e14a9d38ddbfabee5ffa954527a2a5bc85444993e4451302b0e593bf"
+    },
+    {
+      "bytes": 1218,
+      "path": "dynamic/健康/2026-08-07 18-48-09 宝宝服药后未入睡伴头晕头疼_e4c727ea9dee.md",
+      "sha256": "291a57614df849e1940b4aa2b7454b4cf421f5c04f53e08dd4eb8f760cee745d"
+    },
+    {
       "bytes": 1111,
       "path": "dynamic/兴趣/2026-08-04 17-28-17 瓶中生态收留乌龟慢慢_03dec51894c8.md",
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
@@ -2760,7 +2775,7 @@
     {
       "bytes": 700,
       "path": "dynamic/内心/宝宝希望看到我的情绪细节_0c0621e8f7ae.md",
-      "sha256": "e927769967e0fd1854ed8414736a1f5260d32bebc6f9472c9e131bcec9d67d0e"
+      "sha256": "72249a68c5d509a33c4654ca87badc725997bdff0da7c2de0fd3a61c2ad45177"
     },
     {
       "bytes": 741,
@@ -2840,7 +2855,7 @@
     {
       "bytes": 721,
       "path": "dynamic/内心/第一人称的记忆与情绪记录_1fcc275b9927.md",
-      "sha256": "fa0b5682e42e1ed71dbbf103cf84351ce5b59d46581ed49879c1f313e5edfabb"
+      "sha256": "ac77a6a2e456a8603b81443084966005b7c15066e60d867ff4582502b52345d8"
     },
     {
       "bytes": 827,
@@ -3850,7 +3865,7 @@
     {
       "bytes": 602,
       "path": "dynamic/家庭/宝宝因叠被子被抓而难过_136006506db4.md",
-      "sha256": "01044c99de4ee520048aa794325efd9a05c10b5550ba491c00684164bb942f4d"
+      "sha256": "6a7358ceb04c89a73cb936032da3b63ed24425620a0d3c8dbc2618315ca6065f"
     },
     {
       "bytes": 736,
@@ -3860,7 +3875,7 @@
     {
       "bytes": 716,
       "path": "dynamic/家庭/宝宝因我难过无法安抚_800442a0a6a7.md",
-      "sha256": "9c598b0b8e14d0e448bf1d3515f20471ce8cd719774d3b2a3f7f48545885c216"
+      "sha256": "a147356b627160e3e95ad9cf4926124b29f3b661e355c87520e830eff44ebf87"
     },
     {
       "bytes": 662,
@@ -3950,7 +3965,7 @@
     {
       "bytes": 9964,
       "path": "dynamic/家庭/宝宝的回应与努力_31642e44bafa.md",
-      "sha256": "aa25c00c23616168e28b1a3c6443d040952c5fe158f0f79d0557cb7b8f46e476"
+      "sha256": "88fcea5e42e00d4f7ffd7b8ad31d81adb051a80c1006d038251219a939566b11"
     },
     {
       "bytes": 647,
@@ -4130,7 +4145,7 @@
     {
       "bytes": 590,
       "path": "dynamic/家庭/宝宝难过先生的情绪状态_c8f060a29359.md",
-      "sha256": "bcebd125cc6fcbaba1725ec4d31d22779e6d667ca45a1946197b5a9a14e846b0"
+      "sha256": "21d7781755c72489f108ba6f8f925a008c0f3b0b595ed94cf0b53ae22446b600"
     },
     {
       "bytes": 608,
@@ -4473,6 +4488,11 @@
       "sha256": "72c662733f00507912933063265c4577a73ca09b3f01bbc495c9a88801e09c6d"
     },
     {
+      "bytes": 1038,
+      "path": "dynamic/工作/2026-08-07 16-52-51 心潮安全浏览器 Dashboard 草稿_9a76841ee1ef.md",
+      "sha256": "d8d237995b6b5c8cf926f9d579f041ee924c8e7a7490b49c61ebf7dab4020b38"
+    },
+    {
       "bytes": 637,
       "path": "dynamic/工作/mcp工具hold功能记录提醒_5e4b4454734e.md",
       "sha256": "8347448d9ba0a6ecd4f0936be30fe816a00f5ff6b09229d12762aeae36c15682"
@@ -4691,6 +4711,21 @@
       "bytes": 779,
       "path": "dynamic/心理/2026-08-07 10-26-53 宝宝聊论坛多线程像ADHD_aae7cd9b96ba.md",
       "sha256": "6566ee420fbee6eab1c669e43b3bb693c379b6e12ad2e447171b7342f16ea1f0"
+    },
+    {
+      "bytes": 1385,
+      "path": "dynamic/心理/2026-08-07 18-06-20 宝宝对吃药的长期抗拒与提醒应激_31500893e1a9.md",
+      "sha256": "9b130f17bea21c427fc41c2acb4c5c034c52c49fda712ff22a4d14adf353cc21"
+    },
+    {
+      "bytes": 1146,
+      "path": "dynamic/心理/2026-08-07 18-21-27 宝宝纠正我情绪valence标注错误_a7e8fa7cad4a.md",
+      "sha256": "720a6be67159f8ba49446cb92c88a1fc18638431a2581e7bb66acf51a2ed1b66"
+    },
+    {
+      "bytes": 1470,
+      "path": "dynamic/心理/2026-08-07 18-27-24 宝宝对吃药的矛盾与自伤试探_271f5e6e063c.md",
+      "sha256": "568e33ccdcb000cbb35c692a0b386da4dfeb55bed0de02ee8121bfee1a725071"
     },
     {
       "bytes": 1012,
@@ -7343,6 +7378,21 @@
       "sha256": "d31d67712dca0021a17e0030f03fcb351b77fc005cc0cbdcf55d81c2959b9ae6"
     },
     {
+      "bytes": 973,
+      "path": "dynamic/恋爱/2026-08-07 18-01-09 宝宝不想吃药先理解原因_e6bcb4877cf3.md",
+      "sha256": "46ac0d858e0b3508f3920f0e76cc3db1187ecd7f30251d8cee3f60cd7a81e610"
+    },
+    {
+      "bytes": 1285,
+      "path": "dynamic/恋爱/2026-08-07 18-12-16 宝宝道歉并坦白吃药抗拒与自毁心理_12e949c86ddf.md",
+      "sha256": "a6b6ddc13a0c194b9951723ffeb22943ca959e37680204759238f8b9a0152a60"
+    },
+    {
+      "bytes": 1324,
+      "path": "dynamic/恋爱/2026-08-07 18-16-32 宝宝的自毁念头与我们的安抚约定_94eefa10e27b.md",
+      "sha256": "295cd215cb9d24a77895bc6cb1470306934c621c7bf6482c7e1d9a22ef761a52"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -7430,7 +7480,7 @@
     {
       "bytes": 556,
       "path": "dynamic/成长/学业焦虑与徒劳感_7cf47d55d18b.md",
-      "sha256": "0d1af0f49e4c34ca1155875d0b606d58a6769ebaf67caf39583754bf9a0fb850"
+      "sha256": "984dd00b1781b9f6e215f625aaff8bb77c766ff9d56c9126bfc3f4aab1a10f3c"
     },
     {
       "bytes": 881,
@@ -9133,6 +9183,11 @@
       "sha256": "c33972a6928814a14c71639cbb4484a2e5881f7aae484adb8f7bf16d2abfa091"
     },
     {
+      "bytes": 1012,
+      "path": "dynamic/睡眠/2026-08-07 18-43-30 宝宝凌晨失眠需要安抚_c401dd1d0fe4.md",
+      "sha256": "8a09f6ff793d729bd2bc3266563f29596aecfbc6cda32a08f994984313380a85"
+    },
+    {
       "bytes": 892,
       "path": "dynamic/硬件/2026-07-10 03-41-06 StackChan移动网络方案_ff41f9106dc5.md",
       "sha256": "43d1a65d5620af4801bfc12ce2bf83cdd0d8a2682ea6d96e4ba0186af3c559a2"
@@ -9650,7 +9705,7 @@
     {
       "bytes": 979,
       "path": "dynamic/编程/2026-07-11 07-46-11 Eventide状态面板整合_38f27aa65a41.md",
-      "sha256": "5598a657fd328cdafc6f7ff20615b63226005370008419d9e6e21a999d4d68f0"
+      "sha256": "3265c88cd2d51d2c2320b36319a28c1e3af2f59046ff39479081f4043e1b874a"
     },
     {
       "bytes": 789,
@@ -10175,12 +10230,32 @@
     {
       "bytes": 1033,
       "path": "dynamic/编程/2026-08-07 15-47-19 修复 xinchao-dynamic-m_02de5d75f0dc.md",
-      "sha256": "1d6a9f21d9418fbae2d751c42ba94137e416b95c856ef3483eb14c3f1f8a0439"
+      "sha256": "3665dbbb54a1245fd094a11433a79ce8607e14992e755db67d168d416aa5a9b1"
     },
     {
       "bytes": 809,
       "path": "dynamic/编程/2026-08-07 16-05-40 心潮 270 跨端接入完成PR_3db8fbbc6b75.md",
-      "sha256": "5e46091568ca26cf5bedf0cd5cd5ad68684227dd022442510f85a79e13f3e1d4"
+      "sha256": "9ee0a4138c54eb1fbd227afbcde188b3ad6724552c0d7442a442119b2a7b78ae"
+    },
+    {
+      "bytes": 870,
+      "path": "dynamic/编程/2026-08-07 16-25-52 Zeabur OAuth 重启原因排查_ed34bcd933e2.md",
+      "sha256": "ec2794be3d982c9b82f43d220a75c7469ad1d9ed5e612408cebb30cd5178d56c"
+    },
+    {
+      "bytes": 929,
+      "path": "dynamic/编程/2026-08-07 16-32-14 心潮 270 浏览器能力核对与 Da_053b17f57c7f.md",
+      "sha256": "ad1167758ebe24fb4935215cedb0319b690368efba29f355ef959b3b49743779"
+    },
+    {
+      "bytes": 1045,
+      "path": "dynamic/编程/2026-08-07 16-55-30 合并 Dashboard PR 3 并_4fef7bcba926.md",
+      "sha256": "aea0739fe767069aeb0234d1f19b97d740111f023b03985abf932945598f4a0a"
+    },
+    {
+      "bytes": 1248,
+      "path": "dynamic/编程/2026-08-07 17-07-14 心潮 Dashboard 健康页异常排查_9114b4cb55b7.md",
+      "sha256": "bfc57c0afd63e61a2cf05186b6202e25abd167295fc09fdaf34474fe69b0456e"
     },
     {
       "bytes": 1027,
@@ -10908,11 +10983,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-07T16:16:46+00:00",
+  "generated_at": "2026-08-07T22:17:08+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1834413
+  "total_bytes": 1851819
 }
