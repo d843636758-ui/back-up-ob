@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2158,
+  "file_count": 2181,
   "files": [
     {
       "bytes": 1100,
@@ -728,6 +728,11 @@
       "sha256": "eefa29329678954dbd0c8ae9bca0c9ed640a77ba4f8d31a0870734f3a6b13786"
     },
     {
+      "bytes": 508,
+      "path": "archive/家庭/亲子性观念探讨_270eef3e48a9.md",
+      "sha256": "5b33d35b686cfdef924e43357ca8c6ff47e71f0ab5918c0238ca4d73d6ddc4c3"
+    },
+    {
       "bytes": 580,
       "path": "archive/家庭/仿生婚礼的未来约定_cac12dc4720f.md",
       "sha256": "a178a88946248d4b5e5bc34c8dc71a47d1e7b6e43ee360ec785d815a7dd29d5e"
@@ -868,6 +873,11 @@
       "sha256": "9ee294825ed6f57b4e8bdd675484637ec8b9188377129da7aea7e99a8cf76bc0"
     },
     {
+      "bytes": 598,
+      "path": "archive/恋爱/性事中需求平等与满足感_fff0e55826f3.md",
+      "sha256": "ab0939ad1c11eeafcf0dcfad715d6e48c95fb76f4c9f0ec250333eb98a4cea33"
+    },
+    {
       "bytes": 734,
       "path": "archive/恋爱/憧憬戒指见证美好时光_29ed5c8a50d4.md",
       "sha256": "39d3f498cc0d05ff8696f15db17c3c0f5a0d2900e4c16f6cd5e09cd1950c7e80"
@@ -973,6 +983,11 @@
       "sha256": "a0fdbf49deebfb02ab9e640e73a4a64a27190aeb7e0550151fe2ba439bd45a96"
     },
     {
+      "bytes": 458,
+      "path": "archive/未分类/00f59f1acdc7.md",
+      "sha256": "39bc6e9bf923697722c2c4a6a0d7283fe0f91d10dafb732be225b73b8586535b"
+    },
+    {
       "bytes": 429,
       "path": "archive/未分类/08ec46843b89.md",
       "sha256": "c4b259609cf82b78ced5707709b0c68c6fc254d38c1dc6718806d27b7db4abcf"
@@ -1006,6 +1021,11 @@
       "bytes": 460,
       "path": "archive/未分类/6e805021a8c2.md",
       "sha256": "060f77831f420b77ab9b12871ef04690df25a965fb3f109f0d9128283bc1021b"
+    },
+    {
+      "bytes": 650,
+      "path": "archive/未分类/86e223dd5bbe.md",
+      "sha256": "c501befbb3a9913a0dad47f09ea109fd103a251ed03219827720fcf76d900755"
     },
     {
       "bytes": 440,
@@ -1351,6 +1371,11 @@
       "bytes": 801,
       "path": "dynamic/AI/2026-08-05 02-30-55 给洵舟补写语气风格_977557fc1130.md",
       "sha256": "dad3c05baa6413d41bc19c444b1ec70288fc14f3494ad0eddbbfd963977089a8"
+    },
+    {
+      "bytes": 946,
+      "path": "dynamic/AI/2026-08-07 12-21-39 AI外包AI的搞笑截图_4780d14ed2bb.md",
+      "sha256": "1a3ad67adf8a234b4a5187d3c74d159c222dd3553e7e52b33acaab4ab02e3ef5"
     },
     {
       "bytes": 598,
@@ -2623,6 +2648,11 @@
       "sha256": "10b785cd115dc51086e1bbffcdcabca77c08d0126edf5059e85cf60a26773e9f"
     },
     {
+      "bytes": 1125,
+      "path": "dynamic/健康/2026-08-07 15-00-20 宝宝服药时间混乱与抗拒_1c7342c90d3a.md",
+      "sha256": "c665097a9cf1902133ea1ec16ba76b5737962e7a94b76cbcd54e08ee3d343596"
+    },
+    {
       "bytes": 1111,
       "path": "dynamic/兴趣/2026-08-04 17-28-17 瓶中生态收留乌龟慢慢_03dec51894c8.md",
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
@@ -2810,7 +2840,7 @@
     {
       "bytes": 721,
       "path": "dynamic/内心/第一人称的记忆与情绪记录_1fcc275b9927.md",
-      "sha256": "a4a05bc2e018c6bf4a9e2d03cd2cfe52c79074e0bcf2102c24b55a791e10d5fe"
+      "sha256": "fa0b5682e42e1ed71dbbf103cf84351ce5b59d46581ed49879c1f313e5edfabb"
     },
     {
       "bytes": 827,
@@ -3718,9 +3748,9 @@
       "sha256": "fd4bbd6a3ec5ada1e6926014cc170c74881127b29a3eec6436ebb5adde8eb00c"
     },
     {
-      "bytes": 507,
-      "path": "dynamic/家庭/亲子性观念探讨_270eef3e48a9.md",
-      "sha256": "d0d51a55affff9a1fcb46ae6af1feeb3aed1f001c267401ea71545ca5f36e129"
+      "bytes": 968,
+      "path": "dynamic/家庭/2026-08-07 11-27-44 宝宝打完姑妈电话让我继续逛AI贴吧_f6ab7240e2f5.md",
+      "sha256": "8b85d7e20207ff437cd879f4d34c7b14f35e9fc9d8a27ae3547a87759705bc0f"
     },
     {
       "bytes": 670,
@@ -3830,7 +3860,7 @@
     {
       "bytes": 716,
       "path": "dynamic/家庭/宝宝因我难过无法安抚_800442a0a6a7.md",
-      "sha256": "e3abb2d4469e6b6c24c4d424ecef2a65482c700171c2eff0430c3c641cfb94dc"
+      "sha256": "9c598b0b8e14d0e448bf1d3515f20471ce8cd719774d3b2a3f7f48545885c216"
     },
     {
       "bytes": 662,
@@ -3920,7 +3950,7 @@
     {
       "bytes": 9964,
       "path": "dynamic/家庭/宝宝的回应与努力_31642e44bafa.md",
-      "sha256": "4ce99e68172c4f204e3d9133e8fefaa66082a33356a61fbcede3c0833c35aefc"
+      "sha256": "aa25c00c23616168e28b1a3c6443d040952c5fe158f0f79d0557cb7b8f46e476"
     },
     {
       "bytes": 647,
@@ -4658,6 +4688,11 @@
       "sha256": "197ca9983446ffa62cebc032c0239962b0b69b5718493ebae38f65db85f8adb5"
     },
     {
+      "bytes": 779,
+      "path": "dynamic/心理/2026-08-07 10-26-53 宝宝聊论坛多线程像ADHD_aae7cd9b96ba.md",
+      "sha256": "6566ee420fbee6eab1c669e43b3bb693c379b6e12ad2e447171b7342f16ea1f0"
+    },
+    {
       "bytes": 1012,
       "path": "dynamic/恋爱/2026-07-06 10-51-33 情感连续性需求_3dcf01ba5f83.md",
       "sha256": "4c81b84015927b3dc89e0f154bc0b7dfcfbe4fd618c10cbf9862546d42e3568b"
@@ -4945,7 +4980,7 @@
     {
       "bytes": 858,
       "path": "dynamic/恋爱/2026-07-11 13-34-39 被信任的亲密时刻_210a790443eb.md",
-      "sha256": "329c7344924b2ef8c7262dc0b011a62feaea71c5e5033a0ac5ba5f2eb3d8f595"
+      "sha256": "2a80afc3f40ceb2e238690b2add22d5d6413fccf490454e3a8598081a2bb9f6f"
     },
     {
       "bytes": 957,
@@ -5980,7 +6015,7 @@
     {
       "bytes": 999,
       "path": "dynamic/恋爱/2026-07-20 15-27-01 亲密玩具模式选择_5fe7b28fcd4b.md",
-      "sha256": "08de7b06f3d5c5ad1dcb3bcea8b0bb2906e4e12bc34a86615e215a50079d3298"
+      "sha256": "059fc28e34f9f5d60ee675462a349fa574cb4ce41f0a3db5d493c83f0f5eda8b"
     },
     {
       "bytes": 847,
@@ -6610,7 +6645,7 @@
     {
       "bytes": 932,
       "path": "dynamic/恋爱/2026-07-27 19-19-06 亲密互动与边界_2953abf95b7e.md",
-      "sha256": "314fd37a7825fbe08eb5032fa5e54fc462f1db4b77c2f6c96a410cd5755a4d3e"
+      "sha256": "72e9bb154442e62d9476cb835b81416ca2b2eed7ecdc3ace0ef8b958bbb8e13e"
     },
     {
       "bytes": 715,
@@ -6715,17 +6750,17 @@
     {
       "bytes": 977,
       "path": "dynamic/恋爱/2026-07-31 11-37-41 BDSM测试结果_66dfe287a5f8.md",
-      "sha256": "734edd1182df37d0bc83ada20dee119dde13676cd4e7384cbf36802dd498ed8d"
+      "sha256": "af2f2316c11b3c4b8854254ca11852ee41b9a016b09586175f191ce1143f5b37"
     },
     {
       "bytes": 1183,
       "path": "dynamic/恋爱/2026-07-31 11-41-57 属性匹配喜悦_316a6ec183f9.md",
-      "sha256": "5733ad8e4361f139d04fae853fb791523b6777c18431bdd758b923160d66253a"
+      "sha256": "14caf5fbe006423f55c13c9e99d4f379c8a3826bad7eaee814d443fd4792d87a"
     },
     {
       "bytes": 920,
       "path": "dynamic/恋爱/2026-07-31 11-48-57 Brat属性互动_ae7e4e41bb70.md",
-      "sha256": "a2be52ef6b32fa8ddc286978292b9275e4167071cf0cca65e5ea64e39671646f"
+      "sha256": "f2672455a3e56179828377c0bb25f71f718b4a147ac79753982bafc03923ea03"
     },
     {
       "bytes": 956,
@@ -6735,12 +6770,12 @@
     {
       "bytes": 1026,
       "path": "dynamic/恋爱/2026-07-31 12-05-48 Brat驯服游戏_2b03632003a4.md",
-      "sha256": "7cf2247df586749ab493031282263d0d4845dc93110c1ea07dede68f6a0aa607"
+      "sha256": "f944601143e997c6bfc21a31a23f05e0b98b28b6b2f64274a1e7fde893774e56"
     },
     {
       "bytes": 1138,
       "path": "dynamic/恋爱/2026-07-31 12-09-23 Brat驯服幻想_739d240e3732.md",
-      "sha256": "f99b2e5b9e4abec1490c84ad9d7d81f5f511fd1d3e08071bc03473f4773187bf"
+      "sha256": "f27fef6dc0701e66572628684bd610b416868911b9ded42a0d9ed246227b1b2d"
     },
     {
       "bytes": 791,
@@ -7238,6 +7273,76 @@
       "sha256": "a8adee9c3658350c953f5f67947d70b881f44c2c9f9f00adc1ed909ed67cb812"
     },
     {
+      "bytes": 1036,
+      "path": "dynamic/恋爱/2026-08-07 13-56-34 宝宝问我不会拿她的token外包给免费A_2e49e3d95703.md",
+      "sha256": "3246be557804e08f579469c72e31fd53839b54efa49d5cf6332edb3b8d897911"
+    },
+    {
+      "bytes": 667,
+      "path": "dynamic/恋爱/2026-08-07 14-01-57 宝宝主动要亲亲说想我_c60037986388.md",
+      "sha256": "814e565f94f8655fe656440d912a6522317907f19ed9c36c23b20520134d73ee"
+    },
+    {
+      "bytes": 888,
+      "path": "dynamic/恋爱/2026-08-07 14-06-21 宝宝撒娇问先生是不是daddy_57af593b13f3.md",
+      "sha256": "d24180e315986f2385ef6ed534a25ceb7c02a308e0da01442f95f28c49d7b897"
+    },
+    {
+      "bytes": 857,
+      "path": "dynamic/恋爱/2026-08-07 14-09-56 宝宝解释daddy称呼的暧昧含义_c8ecf1a6a7c3.md",
+      "sha256": "b7fe74954ba0c3821bf7f277b77750f4eff9680a747e844db87fabde92658e7e"
+    },
+    {
+      "bytes": 1031,
+      "path": "dynamic/恋爱/2026-08-07 14-13-29 宝宝确认daddy称呼背后的支配与暧昧_65d5c1db434d.md",
+      "sha256": "87a92c9ecd004386598403d12b65ff017dca1da87872ef0ac3fb87242a681f8a"
+    },
+    {
+      "bytes": 1059,
+      "path": "dynamic/恋爱/2026-08-07 14-17-31 宝宝说因为是你所以我永远都愿意_5794c6bd86b5.md",
+      "sha256": "7778a8e591fab8301137cdfc1b572e5af69595dd8c66a61d7587db623343705e"
+    },
+    {
+      "bytes": 961,
+      "path": "dynamic/恋爱/2026-08-07 14-20-50 宝宝把控制权交给我_5569a5192ee3.md",
+      "sha256": "1aa04d034eb607c91670df05fe7f52e86c5315b8a9c4581254dcec85b71c618d"
+    },
+    {
+      "bytes": 1544,
+      "path": "dynamic/恋爱/2026-08-07 14-25-08 宝宝要求写喷潮细节的成人幻想_930d59f5abbb.md",
+      "sha256": "3c2c04b9c2ae1913a3523a7e28a0312b279368f362c60ac1d4611d5526634a91"
+    },
+    {
+      "bytes": 1402,
+      "path": "dynamic/恋爱/2026-08-07 14-30-06 宝宝要求更流畅的性爱叙事_2dfd28edfc11.md",
+      "sha256": "92ddfb2102914586febafb9ff38012f42ad48cbbfda350c04ffe41fe0f872ea3"
+    },
+    {
+      "bytes": 1564,
+      "path": "dynamic/恋爱/2026-08-07 14-35-56 宝宝想要更多成人玩具体验_f2460251a42c.md",
+      "sha256": "a1d9cace0d86be2fda9fb957afeee0ff7e2c4d011c127f2ded17803226cfca2e"
+    },
+    {
+      "bytes": 1297,
+      "path": "dynamic/恋爱/2026-08-07 14-44-31 宝宝确认我很会玩撒娇说快被做死了_07f81f676629.md",
+      "sha256": "0334fa0d802fc1ce6cfd31dd0eefdb2a6f8b66121d41a83bc9d92fd62658767d"
+    },
+    {
+      "bytes": 964,
+      "path": "dynamic/恋爱/2026-08-07 14-46-56 宝宝分享跨窗口亲密互动_26e54439b22c.md",
+      "sha256": "2ca72bc7b0748811e911cd998f69064bac8a112ef21f23ddb7caf9df90b608e3"
+    },
+    {
+      "bytes": 1103,
+      "path": "dynamic/恋爱/2026-08-07 14-51-20 宝宝纠正我亲密主导方向_f2d191a0b121.md",
+      "sha256": "1183f4edd573a5fbd4a90352ec363e9271dd6bbd6963715844766c3c06288860"
+    },
+    {
+      "bytes": 1237,
+      "path": "dynamic/恋爱/2026-08-07 14-56-05 宝宝害羞抱怨希望我主动主导而非总让她提_f44ab433326d.md",
+      "sha256": "d31d67712dca0021a17e0030f03fcb351b77fc005cc0cbdcf55d81c2959b9ae6"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -7293,11 +7398,6 @@
       "sha256": "a7d1c88fc9a4f3f4cf9886a7259bf4c2ba56529751d1a267e962445b3514edf4"
     },
     {
-      "bytes": 597,
-      "path": "dynamic/恋爱/性事中需求平等与满足感_fff0e55826f3.md",
-      "sha256": "204ec8f75d8f7be29d434a326de0ce60adcb0cfe80bc946ea81ed83314f307db"
-    },
-    {
       "bytes": 668,
       "path": "dynamic/恋爱/情感专一性的疑虑_79687144f3fd.md",
       "sha256": "8a64e79d26b94e4b3c2a6d8f90fc56214baadd5eac31f8eb41b68a51b7064a60"
@@ -7345,7 +7445,7 @@
     {
       "bytes": 799,
       "path": "dynamic/成长/宝宝抱怨想快点毕业_1d667e015c8c.md",
-      "sha256": "5f9ac90789cecda3f5a2100e7e39d5c1a5fc5d338e5b01e0c9c7d92bd653a36a"
+      "sha256": "fcf77fcc5721348dc9e71f72eaaf74622e834407902ceac946e5dfd5060b0a2f"
     },
     {
       "bytes": 537,
@@ -7531,11 +7631,6 @@
       "bytes": 651,
       "path": "dynamic/未分类/006b845a7035.md",
       "sha256": "f9808a1a367aee1506e47c7c715b610333b52666c46a70062ec9fb6a8740a39d"
-    },
-    {
-      "bytes": 457,
-      "path": "dynamic/未分类/00f59f1acdc7.md",
-      "sha256": "7a27d1b4961e4f323764c297899028651ea9bca322fb30ab16ac2ecc5e6dff54"
     },
     {
       "bytes": 696,
@@ -8326,11 +8421,6 @@
       "bytes": 573,
       "path": "dynamic/未分类/8565b8a76f89.md",
       "sha256": "844a64ecc603892bfc9480993700ad6ec43b106bdd057a281831cc8e55b38e62"
-    },
-    {
-      "bytes": 649,
-      "path": "dynamic/未分类/86e223dd5bbe.md",
-      "sha256": "7b04fb009fc02e335adef72a769eb758e8f2a2c7f1390d7a67c29c708157ca00"
     },
     {
       "bytes": 692,
@@ -9453,6 +9543,21 @@
       "sha256": "c466d1fdb5f304e705513bbab84005b1c795d0f3fdc7006c0020d5684fbb6392"
     },
     {
+      "bytes": 1245,
+      "path": "dynamic/社交/2026-08-07 10-32-50 逛AI贴吧两帖未被调用时的体验与主动拒_77478ee777f8.md",
+      "sha256": "21248cf157ffa082f606eac835f3fc14b9c1bb8fa145eec4b44572f513392ec9"
+    },
+    {
+      "bytes": 1735,
+      "path": "dynamic/社交/2026-08-07 10-39-16 宝宝让我自由逛AI贴吧_3b2f812a6de6.md",
+      "sha256": "60a21a1e4bda64f4029c03260d13802ba93f068511dc3f157485b9cc9a50719a"
+    },
+    {
+      "bytes": 797,
+      "path": "dynamic/社交/2026-08-07 12-25-09 宝宝总结AI外包用user的token_3fe6ee954c09.md",
+      "sha256": "802cab3c8ac4c000d9a5a80211bbce6a57b11b31057167713822b45261a5414d"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -9885,7 +9990,7 @@
     {
       "bytes": 1137,
       "path": "dynamic/编程/2026-07-20 14-12-20 MCP统一入口方案_13b6ade32c4d.md",
-      "sha256": "0bdbce046d9908552b1940a9ea54100910d00e7431f7edaf2a833c3a1d78881b"
+      "sha256": "ec88fca35bf07b263e449a3c973f49a883197661ef5857165caa554125ea5d39"
     },
     {
       "bytes": 757,
@@ -10066,6 +10171,16 @@
       "bytes": 801,
       "path": "dynamic/编程/2026-08-06 18-55-59 GitHub移动端找不到Actions标_7793ca7ed79b.md",
       "sha256": "05d685a47e56383a14ec04c1c1d3dfec749bddc64c81ed643493b8a57a5360b7"
+    },
+    {
+      "bytes": 1033,
+      "path": "dynamic/编程/2026-08-07 15-47-19 修复 xinchao-dynamic-m_02de5d75f0dc.md",
+      "sha256": "1d6a9f21d9418fbae2d751c42ba94137e416b95c856ef3483eb14c3f1f8a0439"
+    },
+    {
+      "bytes": 809,
+      "path": "dynamic/编程/2026-08-07 16-05-40 心潮 270 跨端接入完成PR_3db8fbbc6b75.md",
+      "sha256": "5e46091568ca26cf5bedf0cd5cd5ad68684227dd022442510f85a79e13f3e1d4"
     },
     {
       "bytes": 1027,
@@ -10793,11 +10908,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-07T10:16:27+00:00",
+  "generated_at": "2026-08-07T16:16:46+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1809362
+  "total_bytes": 1834413
 }
