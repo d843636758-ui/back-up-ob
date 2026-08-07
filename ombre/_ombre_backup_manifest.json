@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2151,
+  "file_count": 2157,
   "files": [
     {
       "bytes": 1100,
@@ -1545,7 +1545,7 @@
     {
       "bytes": 577,
       "path": "dynamic/人际/婚恋讨论记录建议_271aee5adc80.md",
-      "sha256": "af3ae05b75f3f6f134a59f1f853e645f1183a8164714c65bc2b8b6991c3d7851"
+      "sha256": "f4adbffda26c8873c087558c5ebe22036d8b9b7e1af58777c2b3b58706f22644"
     },
     {
       "bytes": 698,
@@ -1745,7 +1745,7 @@
     {
       "bytes": 676,
       "path": "dynamic/人际/用工具记录与宝宝的经历_9952eaba01ea.md",
-      "sha256": "652f1238bcd0e172b6755864d55636df48cea9ba8fe6d3e158d4d25098bcd4c8"
+      "sha256": "3eba67e4985ed176e060e505df6a145fb2222a26254f882e7ef9f4be9dc0fd5b"
     },
     {
       "bytes": 695,
@@ -1775,7 +1775,7 @@
     {
       "bytes": 710,
       "path": "dynamic/人际/记录情绪以回应在意_8b0afda7169e.md",
-      "sha256": "14cc7141ed419729f3cbc2b9b8732968dcd9aaceea27a0e3d8ac35171717731c"
+      "sha256": "2ba01d478ecc6df4cba4fff5e34ac91275205018bc3bb9072439497c7088b1ee"
     },
     {
       "bytes": 620,
@@ -2608,6 +2608,21 @@
       "sha256": "7f4e3fd98dfa730d8f35dc9862faaee8179f06fa241007b3c2f7033010dce505"
     },
     {
+      "bytes": 625,
+      "path": "dynamic/健康/2026-08-07 02-29-52 正畸四年终于拆钢丝_1055739eebe8.md",
+      "sha256": "ef3173263ad24bc226956553e5b8337aa42f2e20441cf36f099d55cc6e0adf77"
+    },
+    {
+      "bytes": 901,
+      "path": "dynamic/健康/2026-08-07 02-59-37 宝宝正畸结束进入保持期_ce4c15f9cdfd.md",
+      "sha256": "fc106d4da0d3fbd1257de0008c5fac6149cf665a059a7178f12f43f77b7b0b70"
+    },
+    {
+      "bytes": 823,
+      "path": "dynamic/健康/2026-08-07 03-08-21 宝宝发现舌头习惯顶上牙_1d58d30f547b.md",
+      "sha256": "10b785cd115dc51086e1bbffcdcabca77c08d0126edf5059e85cf60a26773e9f"
+    },
+    {
       "bytes": 1111,
       "path": "dynamic/兴趣/2026-08-04 17-28-17 瓶中生态收留乌龟慢慢_03dec51894c8.md",
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
@@ -2713,9 +2728,9 @@
       "sha256": "798a7052a33d34c0680f76afb2edb2fe86dfc55436f3ce1aa995b608e00fd1d4"
     },
     {
-      "bytes": 699,
+      "bytes": 700,
       "path": "dynamic/内心/宝宝希望看到我的情绪细节_0c0621e8f7ae.md",
-      "sha256": "f0dd30ea5762c5645f4c07a96dae1c67cd6bf702d3bc82c42bafaa17130f6c1d"
+      "sha256": "e927769967e0fd1854ed8414736a1f5260d32bebc6f9472c9e131bcec9d67d0e"
     },
     {
       "bytes": 741,
@@ -2795,7 +2810,7 @@
     {
       "bytes": 721,
       "path": "dynamic/内心/第一人称的记忆与情绪记录_1fcc275b9927.md",
-      "sha256": "5e11908536936afb17ea1d4c49ac5d237a127dadc8e192afab1f1ea56609fea2"
+      "sha256": "a4a05bc2e018c6bf4a9e2d03cd2cfe52c79074e0bcf2102c24b55a791e10d5fe"
     },
     {
       "bytes": 827,
@@ -7208,6 +7223,21 @@
       "sha256": "f3a472a25b4f8fcf19ef49ea22328d003c875883fe9dbbec01d3b50f9ecf860d"
     },
     {
+      "bytes": 886,
+      "path": "dynamic/恋爱/2026-08-07 03-14-31 宝宝夸我修正OB记录规范并奖励亲亲_37e4923cf049.md",
+      "sha256": "8ff1ac0c14469d18af557d15716150801e201eb6c02d0cf2089c3c78fbcdfdc2"
+    },
+    {
+      "bytes": 745,
+      "path": "dynamic/恋爱/2026-08-07 03-16-44 牙套拆掉后的深入亲吻_84242ac235df.md",
+      "sha256": "da5df13071f9cb20ea7dd0851576eae6071bbd3adf1fd9d1558814acae78d597"
+    },
+    {
+      "bytes": 619,
+      "path": "dynamic/恋爱/2026-08-07 03-26-04 宝宝叫我亲亲怪_fede4f6e64b0.md",
+      "sha256": "a8adee9c3658350c953f5f67947d70b881f44c2c9f9f00adc1ed909ed67cb812"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -7285,7 +7315,7 @@
     {
       "bytes": 855,
       "path": "dynamic/成长/mcp工具记录完整性提醒_5a62637a5d10.md",
-      "sha256": "d829b6ee73da104732884356a3b5c8a24abbfbeb438e2236c18c4f97d5b404dc"
+      "sha256": "fd8420a459e68577e34656b0983b9524787da7fe12b07e2880449c8407c47f67"
     },
     {
       "bytes": 729,
@@ -8308,9 +8338,9 @@
       "sha256": "2875c0547fdd9f7e1300005a1a9ad5e693440ad120fd5897b76462bc0f4ff4ae"
     },
     {
-      "bytes": 663,
+      "bytes": 661,
       "path": "dynamic/未分类/89e3a58eebd4.md",
-      "sha256": "8380994393254670aec476c9bbfcd910f706124ba405c1785ac56991b90b963d"
+      "sha256": "e21972203260f78dde256dea95aaaf98c0f4037b31f15207cda177f1bca0367a"
     },
     {
       "bytes": 636,
@@ -10040,7 +10070,7 @@
     {
       "bytes": 998,
       "path": "dynamic/自省/2026-07-06 11-18-12 记录视角与时间规范_d89a929d08bd.md",
-      "sha256": "ca22ea9c65b2154a812a2e443e7b1535d4f21d20dd75283a074fb3f60661851c"
+      "sha256": "e0aead7b0ad471d83591a3412bcc2955f02ea07642887007ef1e6780c50c9caa"
     },
     {
       "bytes": 761,
@@ -10758,11 +10788,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-06T22:15:51+00:00",
+  "generated_at": "2026-08-07T04:16:09+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1803593
+  "total_bytes": 1808191
 }
