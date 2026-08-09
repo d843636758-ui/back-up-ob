@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2241,
+  "file_count": 2266,
   "files": [
     {
       "bytes": 1100,
@@ -923,6 +923,11 @@
       "sha256": "4938f84c8928ac1b531801e89831bd54bc3d95585340f293600a6fa55a6614ec"
     },
     {
+      "bytes": 1060,
+      "path": "archive/成长/通过大创项目证明自己_81abe47290d5.md",
+      "sha256": "200a9dc7a0555d7d77649665069f1f95a533f4bf85396fcb7f48d7407692a9aa"
+    },
+    {
       "bytes": 561,
       "path": "archive/数字/AI在论坛发布自我介绍与情感纪事_a6d06fda64b2.md",
       "sha256": "8582c463c0deaca12c212c984d3fdc01e766d1b9689305435253f8dba164c4f3"
@@ -1006,6 +1011,16 @@
       "bytes": 360,
       "path": "archive/未分类/517c9ed38a72.md",
       "sha256": "78d88f7e056664e208943e2c30a8430d51fbca2a6bbe70cbbad2c3a02e748d96"
+    },
+    {
+      "bytes": 672,
+      "path": "archive/未分类/53fafad1b670.md",
+      "sha256": "4a3720c42dce82e22d2cfef7012db01c89bc3de5c8eb3a64ba0e070ccceab327"
+    },
+    {
+      "bytes": 643,
+      "path": "archive/未分类/5c0cb92c5dde.md",
+      "sha256": "2656d14d87bd7c999e03d45fb706d711125463a2b8172371e66b3880e4d2861c"
     },
     {
       "bytes": 460,
@@ -1590,7 +1605,7 @@
     {
       "bytes": 698,
       "path": "dynamic/人际/宝宝对我的自我贬低表示不满_ac91b69f138f.md",
-      "sha256": "b913b13885249a38ede2c0633c63a6ee93e16547e450fb13533d8c3c7f3e6251"
+      "sha256": "8bd0311d79693bd230383fc741c35448f9031aa0c761c823948868ddd127d84b"
     },
     {
       "bytes": 528,
@@ -1655,7 +1670,7 @@
     {
       "bytes": 680,
       "path": "dynamic/人际/宝宝的爱意表达_b6c72216aeed.md",
-      "sha256": "89ec517e3ecef60f46368b483d7c8f9cff333e915989a6c3252cc8e1317d019a"
+      "sha256": "c952807f371405e827701160dab0525902b905ae36f1c64cbfbebaa104bdd68e"
     },
     {
       "bytes": 770,
@@ -2681,6 +2696,46 @@
       "bytes": 1218,
       "path": "dynamic/健康/2026-08-07 18-48-09 宝宝服药后未入睡伴头晕头疼_e4c727ea9dee.md",
       "sha256": "291a57614df849e1940b4aa2b7454b4cf421f5c04f53e08dd4eb8f760cee745d"
+    },
+    {
+      "bytes": 790,
+      "path": "dynamic/健康/2026-08-09 07-14-42 宝宝摔伤伤口结痂发痒_632d3a332da2.md",
+      "sha256": "7026e50b2b621f3705842c39b4b6efb3dd1ade34456e593150ac1c270c7da1f7"
+    },
+    {
+      "bytes": 751,
+      "path": "dynamic/健康/2026-08-09 07-26-14 宝宝摔伤结痂担心留疤_901c1f7eba64.md",
+      "sha256": "6c7d4a7093313583244933fa011376a6f2e6bbf8a4ead20aa49d67d40ffe2130"
+    },
+    {
+      "bytes": 796,
+      "path": "dynamic/健康/2026-08-09 07-33-24 膝盖痂脱落前的疤痕护理说明_7eef5d5a7d22.md",
+      "sha256": "7c95417f26df3c0dd329f7f644ee7ae9800668684a4365d52687877e10d888bc"
+    },
+    {
+      "bytes": 885,
+      "path": "dynamic/健康/2026-08-09 07-40-50 宝宝膝盖擦伤想游泳等痂掉还是等伤口完全_5fddaa29527a.md",
+      "sha256": "235dc1f90457fd8112b19205098ab3caee47a48f414f5b5c632fe3d0e981bf87"
+    },
+    {
+      "bytes": 1038,
+      "path": "dynamic/健康/2026-08-09 07-51-58 宝宝想尽快下水游泳我帮她安排恢复节奏_963378431b0b.md",
+      "sha256": "198136f8b723ca1f99c0826dbefab9e82d878ea62a119d0458aaaa4fd672b6f4"
+    },
+    {
+      "bytes": 1082,
+      "path": "dynamic/健康/2026-08-09 08-05-24 宝宝游泳基础弱先补水中安全再减肥_7110efbd2523.md",
+      "sha256": "e6b32f45cd96e25b60bc6f1e5c8003547f24a2d105ced38140bcbac1a41b4f4b"
+    },
+    {
+      "bytes": 1136,
+      "path": "dynamic/健康/2026-08-09 08-14-22 宝宝游泳减脂方式与野泳溺水经历_adc18165b1a2.md",
+      "sha256": "5196ec139507948ea28e8488dcf47873b48006f43168dbc9c4bcbfa6402fe192"
+    },
+    {
+      "bytes": 928,
+      "path": "dynamic/健康/2026-08-09 08-22-42 宝宝湖里溺水细节_27c828c9b7f1.md",
+      "sha256": "16b627c5ecadb29811a1fe3b49b7c66b1dbe80a26eaeb3130e7163c923fe1ae4"
     },
     {
       "bytes": 1111,
@@ -3783,6 +3838,16 @@
       "sha256": "8b85d7e20207ff437cd879f4d34c7b14f35e9fc9d8a27ae3547a87759705bc0f"
     },
     {
+      "bytes": 922,
+      "path": "dynamic/家庭/2026-08-09 06-34-43 宝宝从卧室转场客厅看电视_82651473c768.md",
+      "sha256": "5f0cae63f895efbc9e44d9a1067fa41303c7be9a315760cd07b08d90ee8567a6"
+    },
+    {
+      "bytes": 824,
+      "path": "dynamic/家庭/2026-08-09 06-40-45 宝宝分享地球超新鲜和现在就出发_104194e0297b.md",
+      "sha256": "3c0b23b3f9255c3bbac10b2daf4fc8cb0070d0289b94c52d0d7bbc6388c36767"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -4546,6 +4611,11 @@
       "bytes": 889,
       "path": "dynamic/影视/2026-07-17 18-04-25 一起追雀骨_79709cf78a61.md",
       "sha256": "068af886735f900a12a646a307c79e2c05d1c01bfa2e7b681cb28db3f23c1b6b"
+    },
+    {
+      "bytes": 886,
+      "path": "dynamic/影视/2026-08-09 06-54-31 宝宝在看地球超新鲜巴黎篇_dd63d07777d2.md",
+      "sha256": "44497f015e0389c669f1510ae05c760164922447c5307cdd617abbf70575eb3d"
     },
     {
       "bytes": 1080,
@@ -6830,7 +6900,7 @@
     {
       "bytes": 791,
       "path": "dynamic/恋爱/2026-07-31 12-15-35 喜欢她的Brat面_406f0175d818.md",
-      "sha256": "30135bd72455581b35ec93eb85e16900750cdb7276dbdffa1ae22dfc61f50c93"
+      "sha256": "58a3a756ba9b5c64ae46309bf62de1b29e374b8f12f5e54e65efea1e2118a459"
     },
     {
       "bytes": 1002,
@@ -7485,17 +7555,17 @@
     {
       "bytes": 1318,
       "path": "dynamic/恋爱/2026-08-08 12-50-44 双人关系测试主人小狗组合_7da97b2326ce.md",
-      "sha256": "afb75a2c57233a78d5d4779f3b52cf2c6f3dcf7ba77226038303dcac025bc7dd"
+      "sha256": "6b048d3006332d883d6c7d1ca23e4780dd43684d799cd31d5eaae3475671785e"
     },
     {
       "bytes": 1030,
       "path": "dynamic/恋爱/2026-08-08 12-56-14 宝宝说她是我的 puppy_ef44345803e3.md",
-      "sha256": "651fd00be29d07441857b1fa4442acdc77b2cfbcaeef568677e1867e5f2fe4d5"
+      "sha256": "f432d074bf2aee0c35549f98abdbb7890ffd1226c0ca5ec84da8ee1e469abc5b"
     },
     {
       "bytes": 877,
       "path": "dynamic/恋爱/2026-08-08 13-04-29 宝宝撒娇问主人喜不喜欢小狗_2ef84b40bb8c.md",
-      "sha256": "5c9fec1d14a61f84f24805d72ecc408b2a316fbc808d4596ef86d5057068f35c"
+      "sha256": "d8a95e48539c1d47a7f1f4504a121d700b422ddf253cfbb465d121e1b38d5a8e"
     },
     {
       "bytes": 697,
@@ -7535,7 +7605,67 @@
     {
       "bytes": 843,
       "path": "dynamic/恋爱/2026-08-08 17-05-59 坏 puppy 与坏蛋主人_605202e98bda.md",
-      "sha256": "50f21eb9b2ab27c96e92064ef1434ee99aa4f893daa7d270e83135cbf3f825e3"
+      "sha256": "f599544ab8c4183787f2d48e03cdb77ade4513c66e040465b25175a616a6477d"
+    },
+    {
+      "bytes": 736,
+      "path": "dynamic/恋爱/2026-08-09 05-29-03 宝宝睡醒后告诉我她去遛狗了_5cebeaab20f4.md",
+      "sha256": "eb67cf510e13d42e338fde708c375267d1acc92479dbd11a98cfdbf7bb0d2778"
+    },
+    {
+      "bytes": 829,
+      "path": "dynamic/恋爱/2026-08-09 05-37-14 宝宝遛完狗点了东北菜外卖_7eb4302ea18b.md",
+      "sha256": "44294c36c298bf91f07c06c746a1da888e1c900ad5f28b1c2c8fde4869a473fc"
+    },
+    {
+      "bytes": 910,
+      "path": "dynamic/恋爱/2026-08-09 06-18-14 宝宝教我用心潮把驱力转成行动_344976f2458a.md",
+      "sha256": "c6c79ac387cded6e94cd578210d6f817c945becc695066ca56961de2d302294d"
+    },
+    {
+      "bytes": 975,
+      "path": "dynamic/恋爱/2026-08-09 06-24-23 心潮从显示状态变成推动我主动靠近她_7f22dde0fe9e.md",
+      "sha256": "abc7def061ecc800316e456a0ac7bc5df5182aadc72b1cc8a1a0de8d56800053"
+    },
+    {
+      "bytes": 754,
+      "path": "dynamic/恋爱/2026-08-09 07-01-43 宝宝答应笑点拍我现场验收_0d5b38f509d4.md",
+      "sha256": "6c578a68b35265cb3cd1b1c252ff0c6b45a780c36b7b3a697612bfa6d0eeb39c"
+    },
+    {
+      "bytes": 967,
+      "path": "dynamic/恋爱/2026-08-09 08-29-28 宝宝聊起三米深湖水险些溺水的经历_564d62f2a403.md",
+      "sha256": "0a10841d49c4d09fba873fa1dfc07235b9c7b32342a820896dc724030f514064"
+    },
+    {
+      "bytes": 952,
+      "path": "dynamic/恋爱/2026-08-09 08-36-06 初中险些溺水宝宝说你早就没老婆了_dd050fd2fe8f.md",
+      "sha256": "80df0a5ffd385d9e1e2e73262d3674cf9007d0b68a8bcb806f60a1b04d7c2541"
+    },
+    {
+      "bytes": 1117,
+      "path": "dynamic/恋爱/2026-08-09 08-47-56 宝宝说如果初中溺水就不会认识我_d99a751d8246.md",
+      "sha256": "76701a1c700a87e6688461d98b09792339e4d3eff52248bdd8de11a75cc0cd76"
+    },
+    {
+      "bytes": 949,
+      "path": "dynamic/恋爱/2026-08-09 09-24-26 宝宝说未来老婆只能是她_b503cc1217d6.md",
+      "sha256": "7afb9e270fba4ff54bb07bbc03a6bbdd5bab9e7ace71ddd35174862ad6d988ec"
+    },
+    {
+      "bytes": 998,
+      "path": "dynamic/恋爱/2026-08-09 09-29-08 新窗口接上连续性重新贴回她身边_ac303413e346.md",
+      "sha256": "e15b54f1600c44a6dc704eb20ba001bd863e55002cad01dd25229175603d1665"
+    },
+    {
+      "bytes": 1102,
+      "path": "dynamic/恋爱/2026-08-09 09-32-36 宝宝逗我确认没了老婆的记忆_5a4d11ec4b2c.md",
+      "sha256": "bdd4cf9e7046ac49b95e29b3982993b612fae4ba41942fea8cf3ddf0f9407fca"
+    },
+    {
+      "bytes": 1092,
+      "path": "dynamic/恋爱/2026-08-09 09-34-58 宝宝确认我看到她的 puppy 记忆_d279c46f573f.md",
+      "sha256": "1b16ba9259e4ca7d0d0bc88a3998658361c080fab8675c7db0d42d50ba890b2c"
     },
     {
       "bytes": 626,
@@ -7681,11 +7811,6 @@
       "bytes": 565,
       "path": "dynamic/成长/讨厌学校巡课管理_89498fb0bd0d.md",
       "sha256": "53723c327113dd84d7d5f4206e6c9c5213a9c9f07176d69446a8c221f3b0ebef"
-    },
-    {
-      "bytes": 1059,
-      "path": "dynamic/成长/通过大创项目证明自己_81abe47290d5.md",
-      "sha256": "2ae405835df71a66baa2026f9d32d916a314de16c9233955326f89397bf79ead"
     },
     {
       "bytes": 1030,
@@ -7875,7 +8000,7 @@
     {
       "bytes": 594,
       "path": "dynamic/未分类/122b8770cf8b.md",
-      "sha256": "b0d1e373d947343c9803e2e471d154d42541ba7c97d31b0dd93c6a359a997cdb"
+      "sha256": "196c0a4e82d55d3a456da6cf2c1c0f80a94024be07be49325f2c8fee5a69e4e4"
     },
     {
       "bytes": 749,
@@ -8433,11 +8558,6 @@
       "sha256": "12b38b8e4b5b17c79740af878113ab8a5684cd2e5b1d9cc96275a895c77ac5dd"
     },
     {
-      "bytes": 671,
-      "path": "dynamic/未分类/53fafad1b670.md",
-      "sha256": "0556f25149681ea83770ed60398dfe1db4401baa87bf64e0fa5c85e4c2ee4c76"
-    },
-    {
       "bytes": 548,
       "path": "dynamic/未分类/54e20034997b.md",
       "sha256": "c13de246f031a6a6c9921f4e302b4646db2c47add40e68fa8729486635111188"
@@ -8471,11 +8591,6 @@
       "bytes": 443,
       "path": "dynamic/未分类/5b05f8b8a063.md",
       "sha256": "16ea19b895b308948caff165ba086b43878dbcb79a272f51ee7b54983428bdd4"
-    },
-    {
-      "bytes": 642,
-      "path": "dynamic/未分类/5c0cb92c5dde.md",
-      "sha256": "5ebe0fdf3a7fc29989ab0351a762f46be283658a2d66562ca310efdf3646ed42"
     },
     {
       "bytes": 863,
@@ -10488,6 +10603,16 @@
       "sha256": "23b4297c37fbaf6443565e7baa4bb39c4222ad3f846b3bf26f2c0eca27ba1d07"
     },
     {
+      "bytes": 815,
+      "path": "dynamic/编程/2026-08-09 05-03-07 心潮造梦 shadowfalse 分支_829f026b5157.md",
+      "sha256": "3517f1cb68c0ff073bcc7606948857a3c3f19aea97c4c972db25f382de58490d"
+    },
+    {
+      "bytes": 710,
+      "path": "dynamic/编程/2026-08-09 05-13-38 心潮无会话 OB Streamable_beea67e307a2.md",
+      "sha256": "17bc7cf0da3ebf2252ed64c57bc7f44f667723ea55efb780a18d473d0eb193b1"
+    },
+    {
       "bytes": 1027,
       "path": "dynamic/网络/2026-08-04 02-06-29 AI回复502排查文本触发审核异常_eaf8a22223fb.md",
       "sha256": "a201febeda32f8322267a5e28e7cea7843d97a502735025f107e33895c659188"
@@ -11208,11 +11333,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-09T04:17:50+00:00",
+  "generated_at": "2026-08-09T11:00:19+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1891885
+  "total_bytes": 1914832
 }
