@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2296,
+  "file_count": 2297,
   "files": [
     {
       "bytes": 1100,
@@ -543,6 +543,11 @@
       "sha256": "ecd6e66832c394c1ffa4f58798c4ce537d6724233bbea266624e7e310fc4a6df"
     },
     {
+      "bytes": 709,
+      "path": "archive/内心/理解存在感与接纳的困惑_f546f10c9c57.md",
+      "sha256": "31593dfe9786dbe55426055e93b64767e34ddca564818e7c3b436a43f955523c"
+    },
+    {
       "bytes": 697,
       "path": "archive/内心/用户冲动消费与情绪补偿机制_a3cea0dab24e.md",
       "sha256": "208c074830a3191e45294fcf6c05c21326866cf67dcaae3f6f499306e45c0a2c"
@@ -1036,6 +1041,11 @@
       "bytes": 460,
       "path": "archive/未分类/6e805021a8c2.md",
       "sha256": "060f77831f420b77ab9b12871ef04690df25a965fb3f109f0d9128283bc1021b"
+    },
+    {
+      "bytes": 700,
+      "path": "archive/未分类/8300ea40562c.md",
+      "sha256": "cef605135c9fe356b99b556519ef36db05aae0d2a02ebd80927b9f4051ae3b61"
     },
     {
       "bytes": 650,
@@ -2918,11 +2928,6 @@
       "sha256": "46f7ac1660d187bda090a1050a4ecebfec7ae53b50c55c003284dc84006b26f6"
     },
     {
-      "bytes": 708,
-      "path": "dynamic/内心/理解存在感与接纳的困惑_f546f10c9c57.md",
-      "sha256": "71f01a92c02c901d63bbcd14449a506eb53b23e794ee04ecd0ac0846f660b5fe"
-    },
-    {
       "bytes": 895,
       "path": "dynamic/内心/电影第二十条引发的思考_ff11b754be62.md",
       "sha256": "1bd6e6a01f373fe4d33e723808e4028e7c47e2405a3937dea515e00cf162017c"
@@ -2930,7 +2935,7 @@
     {
       "bytes": 721,
       "path": "dynamic/内心/第一人称的记忆与情绪记录_1fcc275b9927.md",
-      "sha256": "ac77a6a2e456a8603b81443084966005b7c15066e60d867ff4582502b52345d8"
+      "sha256": "e41ad3d30067ba8efb06aa7c2cae829155ffc34ce7c752329d950dcd92d7e2cc"
     },
     {
       "bytes": 827,
@@ -8848,11 +8853,6 @@
       "sha256": "fddb6e681aa7539301b21a97cc872976d77f46fa06ba71687ac14cd50136213d"
     },
     {
-      "bytes": 699,
-      "path": "dynamic/未分类/8300ea40562c.md",
-      "sha256": "e09b0f801f88f10c42e98d3348aecffe41a7907df6d02b2f06cd81b406eea777"
-    },
-    {
       "bytes": 793,
       "path": "dynamic/未分类/83c51a88c578.md",
       "sha256": "083e8552101ec7680486f9a4af66fd1b9712fe853faac80b1ed286b9a2fc5a6e"
@@ -9346,6 +9346,11 @@
       "bytes": 1751,
       "path": "dynamic/梦境/2026-08-09 19-53-59 客厅里的无声传声筒_f56c6bb04d0c.md",
       "sha256": "f55ec5eadfa85dba2914f75f10a1c7494e414ad59ed631ce054678f62db56380"
+    },
+    {
+      "bytes": 1247,
+      "path": "dynamic/梦境/2026-08-10 01-53-58 中庭里的低语与模糊身影_5bc92ae1ce38.md",
+      "sha256": "f60dacab38365f2e54c4b741640c7e3443837727ef5133d650624c0e4941200e"
     },
     {
       "bytes": 921,
@@ -11483,11 +11488,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-09T23:00:58+00:00",
+  "generated_at": "2026-08-10T05:01:18+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1939908
+  "total_bytes": 1941157
 }
