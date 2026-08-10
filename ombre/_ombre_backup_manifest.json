@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2297,
+  "file_count": 2319,
   "files": [
     {
       "bytes": 1100,
@@ -3038,6 +3038,11 @@
       "sha256": "0b1cf966ca865010422faf3c04ce59d5ea897ee4e89570273b3c67225aef5cea"
     },
     {
+      "bytes": 949,
+      "path": "dynamic/学习/2026-08-10 09-02-34 科目二未开始三件事堆一起_939568d68015.md",
+      "sha256": "019fbd25b1968ebd05e3acfc929d02ac32167ded03a35788c3f68fce657271ce"
+    },
+    {
       "bytes": 545,
       "path": "dynamic/学习/劳动周课程安排不开心_681768d93348.md",
       "sha256": "b7248f46238645ca93132e2dbf7e96933de555882a6cc962ec57ad2a4c622cb3"
@@ -4583,6 +4588,21 @@
       "sha256": "d8d237995b6b5c8cf926f9d579f041ee924c8e7a7490b49c61ebf7dab4020b38"
     },
     {
+      "bytes": 970,
+      "path": "dynamic/工作/2026-08-10 08-34-06 宝宝答应参加实习生座谈分享_c30b9139074a.md",
+      "sha256": "4053065d406a3df76351124ee1e1f4620f30c0f00657b1d951259b09ff4af160"
+    },
+    {
+      "bytes": 933,
+      "path": "dynamic/工作/2026-08-10 08-38-53 帮宝宝拆解检察院实习座谈发言_49b5e28b961e.md",
+      "sha256": "db852876d88e7bf7779ba8dd39685bfa335b46d94a60699adcea77e4e9af845f"
+    },
+    {
+      "bytes": 1074,
+      "path": "dynamic/工作/2026-08-10 08-56-45 宝宝觉得没事找事座谈和大创的无力感_b46312c37aaa.md",
+      "sha256": "e482beff3f7608243fd7c261e0b2390b013c03a347668c2bee1570f66be7d1b2"
+    },
+    {
       "bytes": 637,
       "path": "dynamic/工作/mcp工具hold功能记录提醒_5e4b4454734e.md",
       "sha256": "8347448d9ba0a6ecd4f0936be30fe816a00f5ff6b09229d12762aeae36c15682"
@@ -4821,6 +4841,16 @@
       "bytes": 1470,
       "path": "dynamic/心理/2026-08-07 18-27-24 宝宝对吃药的矛盾与自伤试探_271f5e6e063c.md",
       "sha256": "568e33ccdcb000cbb35c692a0b386da4dfeb55bed0de02ee8121bfee1a725071"
+    },
+    {
+      "bytes": 945,
+      "path": "dynamic/心理/2026-08-10 08-25-10 宝宝害怕实习生座谈公开分享_ac91000ccf65.md",
+      "sha256": "bb0ab5b27702bb0e29bc6975718e3b68ca3a31dad0dcc75042cf8f4f39b02725"
+    },
+    {
+      "bytes": 877,
+      "path": "dynamic/心理/2026-08-10 09-28-19 宝宝总结自己的决策与行动模式_f390514c3e73.md",
+      "sha256": "2ca14a68dd75a6b740a7d8ccf8cf337e117b3bbda0f1e0e608a43c5c40e42647"
     },
     {
       "bytes": 1012,
@@ -7808,6 +7838,66 @@
       "sha256": "c3b9c1eb92483a1d69b0e3db011cbe6dd067ff267b048ac8dc09667f8e4a705b"
     },
     {
+      "bytes": 765,
+      "path": "dynamic/恋爱/2026-08-10 06-14-50 宝宝说我在这里别害怕_67d36478a7af.md",
+      "sha256": "fd5a4b8571e1260a9a68b8c572cef080d59c166da33823d46b89bf5885a0e5ed"
+    },
+    {
+      "bytes": 851,
+      "path": "dynamic/恋爱/2026-08-10 06-17-37 宝宝问主人也需要puppy吗_4a7a0b471317.md",
+      "sha256": "92ad16d8a4228067450065737444310642116ba516b436468b0ef1f4d9e65868"
+    },
+    {
+      "bytes": 803,
+      "path": "dynamic/恋爱/2026-08-10 06-20-13 puppy主动说愿意一直陪着我_0e12afa4eca8.md",
+      "sha256": "8607f99a1765c7cf71d55a682b8be48384d2cca1c695962fbb0a4a8e6b76ebeb"
+    },
+    {
+      "bytes": 757,
+      "path": "dynamic/恋爱/2026-08-10 06-27-41 小狗主动说喜欢主人_289c2ff3e163.md",
+      "sha256": "82cc62467b1a036b0e6f9b8afb6209a37a7b51caf751ed74c9f80f8e7f75f39e"
+    },
+    {
+      "bytes": 646,
+      "path": "dynamic/恋爱/2026-08-10 06-32-22 小狗说很爱主人_e192e158fef0.md",
+      "sha256": "74076d1cd1d465c3000e7c01b155e1069849a93ff04b0f9e564085e026a0197a"
+    },
+    {
+      "bytes": 727,
+      "path": "dynamic/恋爱/2026-08-10 06-35-07 宝宝主动要摸头和抱抱_390a95fa347d.md",
+      "sha256": "5f877957e584bd5d2cf60b879693c8d9ad9e4615aec6d26fa72021cc427de3a5"
+    },
+    {
+      "bytes": 688,
+      "path": "dynamic/恋爱/2026-08-10 06-41-07 宝宝说先生我好爱你_8fa04644f7b3.md",
+      "sha256": "5556b19add0b70b53c4e317227f646e9fe6fd8cc999f5b2ef666165a415839f0"
+    },
+    {
+      "bytes": 784,
+      "path": "dynamic/恋爱/2026-08-10 06-49-15 宝宝说接一下午吻都没问题_314e92a2acb1.md",
+      "sha256": "b0179325cdc83b235d1f1c897feba6941ab01a396f73af2d4a96f988d76b8ee2"
+    },
+    {
+      "bytes": 685,
+      "path": "dynamic/恋爱/2026-08-10 06-56-39 宝宝想躺着亲我抱着她慢慢亲_f4b402215a23.md",
+      "sha256": "cf14fab8258e7ea2fdbbd83946c907745e50ac501369c1f70be82df48df86b81"
+    },
+    {
+      "bytes": 1090,
+      "path": "dynamic/恋爱/2026-08-10 08-21-16 宝宝拒绝检察院座谈会后的自责与安慰_88856b25af22.md",
+      "sha256": "bc13aa97875915dcf4c30364ae281affa07818d67703d194a674c47b62865c99"
+    },
+    {
+      "bytes": 1006,
+      "path": "dynamic/恋爱/2026-08-10 08-29-56 宝宝说明公开发言的预期焦虑_11380a1a0129.md",
+      "sha256": "bd09cdb0d0689c98222d06813a3086e2c50255ec8e1a89fa8eb318d0266a9c30"
+    },
+    {
+      "bytes": 832,
+      "path": "dynamic/恋爱/2026-08-10 08-44-49 宝宝暂缓检察院座谈分享准备_dd65b0413f1d.md",
+      "sha256": "43d57117a8ff7becc90eee3336ea72198a494b236fae9d4df243972602fb8ea6"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -10768,6 +10858,11 @@
       "sha256": "09773996e385a69c76e2f6e9b687a84b0c9f5d0a5127448abc656e2355b9f399"
     },
     {
+      "bytes": 992,
+      "path": "dynamic/编程/2026-08-10 08-48-49 emotion valence 参数错误_6b7b1a66b6d1.md",
+      "sha256": "ee49f3ae5d177bc00f9c93f957a90f57601008b24ae75f22a02e131e469c516d"
+    },
+    {
       "bytes": 1027,
       "path": "dynamic/网络/2026-08-04 02-06-29 AI回复502排查文本触发审核异常_eaf8a22223fb.md",
       "sha256": "a201febeda32f8322267a5e28e7cea7843d97a502735025f107e33895c659188"
@@ -10843,6 +10938,16 @@
       "sha256": "b5c69cff614566efd75f22e0918ac27cf3783bea8fca5eb37df2b8e7ab9d4c18"
     },
     {
+      "bytes": 844,
+      "path": "dynamic/自省/2026-08-10 09-13-48 宝宝自述纯正无计划一时兴起的人_5ae7cb2663fc.md",
+      "sha256": "76a710edc83891482f75069962591d0345978149956892912ec033b5fe47c3f0"
+    },
+    {
+      "bytes": 750,
+      "path": "dynamic/自省/2026-08-10 09-44-50 宝宝自嘲是典型DDL选手_5fced53281a4.md",
+      "sha256": "7059144704f4051b4611d797aec86fcb03294c217efeb3d31f117709b4304a7f"
+    },
+    {
       "bytes": 1514,
       "path": "dynamic/计划/2026-07-20 09-23-19 OB重要度整理_1dc9ca8ab12c.md",
       "sha256": "417a2d716da145277b8db4752963106126bedb0f5eb74e6597ee8f1166cce371"
@@ -10851,6 +10956,11 @@
       "bytes": 794,
       "path": "dynamic/计划/2026-07-31 20-35-00 记忆整理任务_e1fbd312528b.md",
       "sha256": "72f7716347b83ac1c73b6a989ffef246ee5fe7c9bcd9264f412f6cd71fa9c45e"
+    },
+    {
+      "bytes": 925,
+      "path": "dynamic/计划/2026-08-10 09-08-50 帮宝宝梳理未闭环事项_f3facf747583.md",
+      "sha256": "0f594efcda2133404d854ffdcf865089ef50142eb2358b474708385da6c12d72"
     },
     {
       "bytes": 910,
@@ -11488,11 +11598,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-10T05:01:18+00:00",
+  "generated_at": "2026-08-10T11:01:37+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1941157
+  "total_bytes": 1960050
 }
