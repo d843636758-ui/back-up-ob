@@ -1,5 +1,5 @@
 ---
-activation_count: 6
+activation_count: 7
 arousal: 0.7
 created: '2026-05-08T13:05:49'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 内心
 id: b6a0cc1deceb
 importance: 8
-last_active: '2026-07-16T01:59:22'
+last_active: '2026-08-10T13:48:49'
 name: 宝宝的理解与支持
 tags:
 - 宝宝

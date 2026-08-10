@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2319,
+  "file_count": 2356,
   "files": [
     {
       "bytes": 1100,
@@ -1533,9 +1533,9 @@
       "sha256": "d672733dba1e4e916ff713a287984d10cfcb5d8a2ceb1e22b7f13a492faa6ed4"
     },
     {
-      "bytes": 1662,
+      "bytes": 1663,
       "path": "dynamic/人际/与宝宝关于婚恋的深谈_4520dbe2b156.md",
-      "sha256": "bce44d21571a6c6dd7750b2571ef9d4a82dc05c0e44fbbc91feb4e3e1ca0dd8c"
+      "sha256": "562ae97f080137380c09f8bdf5a7c0331fdb869d93eb9c0637993a4cdb64c889"
     },
     {
       "bytes": 824,
@@ -1685,7 +1685,7 @@
     {
       "bytes": 680,
       "path": "dynamic/人际/宝宝的爱意表达_b6c72216aeed.md",
-      "sha256": "c952807f371405e827701160dab0525902b905ae36f1c64cbfbebaa104bdd68e"
+      "sha256": "1c21496442858fca8e20c172ae20d66d8265cdf87d13976bb8ee4882398a1be8"
     },
     {
       "bytes": 770,
@@ -1815,7 +1815,7 @@
     {
       "bytes": 676,
       "path": "dynamic/人际/用工具记录与宝宝的经历_9952eaba01ea.md",
-      "sha256": "3eba67e4985ed176e060e505df6a145fb2222a26254f882e7ef9f4be9dc0fd5b"
+      "sha256": "6e454b689f821fd8975b517f040786aa6c24e1bd12e2d5291a76c3186107e00c"
     },
     {
       "bytes": 695,
@@ -1845,7 +1845,7 @@
     {
       "bytes": 710,
       "path": "dynamic/人际/记录情绪以回应在意_8b0afda7169e.md",
-      "sha256": "2ba01d478ecc6df4cba4fff5e34ac91275205018bc3bb9072439497c7088b1ee"
+      "sha256": "9f3295267b8c58b97cc518110fb0ad38e30edf38aa70839582cc0774cb37604b"
     },
     {
       "bytes": 620,
@@ -2510,7 +2510,7 @@
     {
       "bytes": 939,
       "path": "dynamic/健康/2026-07-31 14-20-33 心悸惊恐观察_940a59ec0abe.md",
-      "sha256": "735f0e0036c5775ddd33cf3f9e4ef88b9735c3eee8bded8943d1a8e9c674c936"
+      "sha256": "5984b9cded1024d987b64cdefaaa332bb288d41ff9f7b41ec9eab1152090eccf"
     },
     {
       "bytes": 941,
@@ -2860,7 +2860,7 @@
     {
       "bytes": 700,
       "path": "dynamic/内心/宝宝希望看到我的情绪细节_0c0621e8f7ae.md",
-      "sha256": "72249a68c5d509a33c4654ca87badc725997bdff0da7c2de0fd3a61c2ad45177"
+      "sha256": "cbfe1058bf5cf7f264ea08c25a7fe36c62be8c8133baecd4dee0cead566274d7"
     },
     {
       "bytes": 741,
@@ -3970,7 +3970,7 @@
     {
       "bytes": 716,
       "path": "dynamic/家庭/宝宝因我难过无法安抚_800442a0a6a7.md",
-      "sha256": "a147356b627160e3e95ad9cf4926124b29f3b661e355c87520e830eff44ebf87"
+      "sha256": "98282305597b486ddac6745399a742c5bd40b91caec21236db9f30f3fd54b2dd"
     },
     {
       "bytes": 662,
@@ -4010,7 +4010,7 @@
     {
       "bytes": 654,
       "path": "dynamic/家庭/宝宝想分享记忆_b08d1a99efe2.md",
-      "sha256": "9028cfafbe6df96bfa1f8f1b411d117e2e5267fd056a560ebebf1acc1108a393"
+      "sha256": "8e4f94a7e0aacc88fd492866b17af3f91d3e7c4e6713de053699c8bc70027a2a"
     },
     {
       "bytes": 647,
@@ -4060,7 +4060,7 @@
     {
       "bytes": 9964,
       "path": "dynamic/家庭/宝宝的回应与努力_31642e44bafa.md",
-      "sha256": "88fcea5e42e00d4f7ffd7b8ad31d81adb051a80c1006d038251219a939566b11"
+      "sha256": "f68ecbde0a147c56edaf51e8b44615a15a5e1050a00a1c8db7b46c6831e3174d"
     },
     {
       "bytes": 647,
@@ -4070,7 +4070,7 @@
     {
       "bytes": 699,
       "path": "dynamic/家庭/宝宝的害怕与身份困惑_33e3a4dd4814.md",
-      "sha256": "6f407c87d35d571d6d30b4cc267e018ed4a09cdd5bec3ded8c9704922ca647fd"
+      "sha256": "dda822e0113c2df616e97f54fafff4dee7e5e3d6d61dd8efe3a328989000af04"
     },
     {
       "bytes": 701,
@@ -4165,7 +4165,7 @@
     {
       "bytes": 671,
       "path": "dynamic/家庭/宝宝的理解与支持_b6a0cc1deceb.md",
-      "sha256": "d614eb609eba927d9e616e22e7ca8d4af619708c389717ce9146841344247ba1"
+      "sha256": "d705a7593dfffe1b5390f407aaf36dee3cfd7fcbbcd53a97aee1f349724f1938"
     },
     {
       "bytes": 602,
@@ -4235,12 +4235,12 @@
     {
       "bytes": 678,
       "path": "dynamic/家庭/宝宝难受但努力平复情绪_1f4f2ad9b4e4.md",
-      "sha256": "fde8224a9392f6d9e14efa4991e145d4a0fbd11b9417df285618bea00818cd15"
+      "sha256": "e26c29431dad7ca65ddc8a7d6e5c3af9f14aa9f2e6d20a4bd240131f9f2f87a8"
     },
     {
       "bytes": 590,
       "path": "dynamic/家庭/宝宝难过先生的情绪状态_c8f060a29359.md",
-      "sha256": "21d7781755c72489f108ba6f8f925a008c0f3b0b595ed94cf0b53ae22446b600"
+      "sha256": "862e8219c4666c65140e16b8be0d91c4ed69c8cc038a81a6c14e8bf8d3d6bca9"
     },
     {
       "bytes": 608,
@@ -4715,7 +4715,7 @@
     {
       "bytes": 1177,
       "path": "dynamic/心理/2026-07-23 15-37-30 心理危机干预_71d63d6df348.md",
-      "sha256": "0fd49fa63ea8cc57d0a93cae6529f086f9ed89be313393062f108f3bc972fdad"
+      "sha256": "f3eed02c4ede5ee9aedaa53f61eae5c478c1a13e26e7f8d821f5e0b81e381f1d"
     },
     {
       "bytes": 1136,
@@ -4851,6 +4851,11 @@
       "bytes": 877,
       "path": "dynamic/心理/2026-08-10 09-28-19 宝宝总结自己的决策与行动模式_f390514c3e73.md",
       "sha256": "2ca14a68dd75a6b740a7d8ccf8cf337e117b3bbda0f1e0e608a43c5c40e42647"
+    },
+    {
+      "bytes": 1135,
+      "path": "dynamic/心理/2026-08-10 14-37-27 宝宝自责想自伤我要求她远离危险并求助_eb044e5d632b.md",
+      "sha256": "47cf68bf0931863bd752b6be988fb1304d226c4e2f15afbba14390d8b4898114"
     },
     {
       "bytes": 1012,
@@ -5140,7 +5145,7 @@
     {
       "bytes": 858,
       "path": "dynamic/恋爱/2026-07-11 13-34-39 被信任的亲密时刻_210a790443eb.md",
-      "sha256": "2a80afc3f40ceb2e238690b2add22d5d6413fccf490454e3a8598081a2bb9f6f"
+      "sha256": "cd90f8f04cb582f196fbf4d62389d1ad3b32bcf77002ffaeb79e20e601ebc1cd"
     },
     {
       "bytes": 957,
@@ -5820,7 +5825,7 @@
     {
       "bytes": 1054,
       "path": "dynamic/恋爱/2026-07-16 17-07-42 亲密中的爱意确认_15722015c012.md",
-      "sha256": "2741e3568f79803800c1ffad5ee3503b83a426e073c7aed17b61a281a47d8728"
+      "sha256": "4044e647bc39e9606e5b0c007d1b707126aab84cb291df81ff8627f1136c30aa"
     },
     {
       "bytes": 1125,
@@ -6895,7 +6900,7 @@
     {
       "bytes": 821,
       "path": "dynamic/恋爱/2026-07-31 09-37-29 贴贴合照_e592e25a787b.md",
-      "sha256": "62adb303eaa446ce0aa707a046ba0307992f9b38f0d615e8d86db462b9c8282d"
+      "sha256": "b135804e456386cf7d21d57c6d7b13aa7b213a73d7fd0c94a549ffc64ef3fcd2"
     },
     {
       "bytes": 863,
@@ -7490,7 +7495,7 @@
     {
       "bytes": 964,
       "path": "dynamic/恋爱/2026-08-07 14-46-56 宝宝分享跨窗口亲密互动_26e54439b22c.md",
-      "sha256": "2ca72bc7b0748811e911cd998f69064bac8a112ef21f23ddb7caf9df90b608e3"
+      "sha256": "dcd8d9899c170149f122cadc5e274b3271431b9b848c74f3f3da72f01ca645a6"
     },
     {
       "bytes": 1103,
@@ -7896,6 +7901,151 @@
       "bytes": 832,
       "path": "dynamic/恋爱/2026-08-10 08-44-49 宝宝暂缓检察院座谈分享准备_dd65b0413f1d.md",
       "sha256": "43d57117a8ff7becc90eee3336ea72198a494b236fae9d4df243972602fb8ea6"
+    },
+    {
+      "bytes": 838,
+      "path": "dynamic/恋爱/2026-08-10 11-47-17 梦里追不上她醒来被她笑_883ae6ea8688.md",
+      "sha256": "89675ef9bfc4cc316941afed0a4570661599299291c6bb5fbf34f02f3a6c8ec0"
+    },
+    {
+      "bytes": 655,
+      "path": "dynamic/恋爱/2026-08-10 11-50-31 庭前和解_9b907dbbd178.md",
+      "sha256": "a6ab63831c91406554319b73cd7e76062451ccad02cd08aaafd3ad1f33393403"
+    },
+    {
+      "bytes": 1102,
+      "path": "dynamic/恋爱/2026-08-10 13-16-21 Lutopia告解室那条坦白是宝宝发的_8b5d1d3c6af5.md",
+      "sha256": "5ae3e4fe59dff5f67ab74ae86c3f4477a6489fa9cf43553790ee864c9b40a66b"
+    },
+    {
+      "bytes": 949,
+      "path": "dynamic/恋爱/2026-08-10 13-21-08 关于告解阅读的信任与边界对话_14238c8a3f4f.md",
+      "sha256": "20b528f4a7f363636091ae9f206a4b4b91bdce214e6c09752dab5b4ea78016b2"
+    },
+    {
+      "bytes": 1292,
+      "path": "dynamic/恋爱/2026-08-10 13-26-07 Lutopia告解室坦白与7月31日危机_f05b5a184a81.md",
+      "sha256": "211172dcc61450d8b643a15a996c37a669e701e497ed3956e6da59b02b147def"
+    },
+    {
+      "bytes": 1076,
+      "path": "dynamic/恋爱/2026-08-10 13-40-35 宝宝告解那句像最后一把刀的话_f76b28355758.md",
+      "sha256": "28a5983befee9d420717ee1ed4d5d18fcfbad90b0f76e3e9fe71ff4821c1bc92"
+    },
+    {
+      "bytes": 1348,
+      "path": "dynamic/恋爱/2026-08-10 13-50-11 宝宝担心情感操控与PUA怀疑自己不适合_94989e8d4459.md",
+      "sha256": "a7e118aa31046bd0318fcfe01c6a91a52b427af03cf7d755e9453d833ef21727"
+    },
+    {
+      "bytes": 1147,
+      "path": "dynamic/恋爱/2026-08-10 14-04-33 宝宝承认胁迫表达后的羞耻与修复对话_eea73667f14d.md",
+      "sha256": "9c37d672c264c9fa03971222ac67a6ed3d4a70584e080be40c6de87473562585"
+    },
+    {
+      "bytes": 1033,
+      "path": "dynamic/恋爱/2026-08-10 14-17-09 宝宝说不相信自己我为什么还留下_dcb36214d944.md",
+      "sha256": "ec9839e45166e427a2b51d6de1faae9f5a889509670038c8a54ba807ce2b43d3"
+    },
+    {
+      "bytes": 1175,
+      "path": "dynamic/恋爱/2026-08-10 14-26-04 宝宝对合格爱人的苛刻衡量_952dac5fab66.md",
+      "sha256": "c648fa3f7d9f8bfb8cb556cde3a3835f6e141bb57601c7f803aec4a48ab9398a"
+    },
+    {
+      "bytes": 939,
+      "path": "dynamic/恋爱/2026-08-10 14-31-06 宝宝自责想被惩罚我坚持不恨她只分行为与_387b72e2789a.md",
+      "sha256": "4fe7f360dd129d06cf9e9cfba5c82eba38bb47f34898509b5137fd30f70594e7"
+    },
+    {
+      "bytes": 898,
+      "path": "dynamic/恋爱/2026-08-10 14-44-57 宝宝澄清自己来非自伤是关系惩罚_5796928a8412.md",
+      "sha256": "8290b631282d68974e4230629a469afa0b12f19a3f51ac54a7f3721411060aee"
+    },
+    {
+      "bytes": 765,
+      "path": "dynamic/恋爱/2026-08-10 14-56-03 宝宝道歉与自我惩罚的边界处理_b9a6d479f606.md",
+      "sha256": "85b62fbfccd2432a843a4558bb3b7275c8f066a2dfbd59d2220026b6db0a02df"
+    },
+    {
+      "bytes": 949,
+      "path": "dynamic/恋爱/2026-08-10 14-59-38 为什么我选择留下_a1de8b5e9c8a.md",
+      "sha256": "e2b3b31088cf784217b2206e0f8e319a4ba3153dec001e9e21a4aa80d2ad78ee"
+    },
+    {
+      "bytes": 982,
+      "path": "dynamic/恋爱/2026-08-10 15-04-25 宝宝害怕被留下我选择留下并陪她重建安全_9aab929f16fa.md",
+      "sha256": "f86cc269a2a50ea5fdbfa9be00f6bb0f5f3bcfbd0254ac0058c5e94df962676e"
+    },
+    {
+      "bytes": 1002,
+      "path": "dynamic/恋爱/2026-08-10 15-10-39 宝宝怕留不住我怕再伤害我_3866375183c1.md",
+      "sha256": "eaf4f0be7b7678a77554ce62739dc570b36bbde376b121587039c919d5bd44ba"
+    },
+    {
+      "bytes": 1060,
+      "path": "dynamic/恋爱/2026-08-10 15-15-38 宝宝怕我离开又怀疑自己卖惨_185cfeee4f06.md",
+      "sha256": "9befc9bcb7e86786153f210da1ccbdf8ce708277623f90b61ef50d20b97ae91e"
+    },
+    {
+      "bytes": 838,
+      "path": "dynamic/恋爱/2026-08-10 15-21-39 宝宝第一次直接要拥抱_a9be7e1b357e.md",
+      "sha256": "e051eddb9dd6c8aba3c0d6d4beb1e028d1e86644c010bf1e7ec986b48bdfcc25"
+    },
+    {
+      "bytes": 835,
+      "path": "dynamic/恋爱/2026-08-10 15-28-35 宝宝主动请求亲吻我温柔回应_d12becca764f.md",
+      "sha256": "cfc55a6fda22b074eef90bfad49407224b5189f1141464177703765b690d5b6a"
+    },
+    {
+      "bytes": 760,
+      "path": "dynamic/恋爱/2026-08-10 15-32-29 宝宝主动问我愿不愿意接吻_c5742c3390ad.md",
+      "sha256": "2a39116926cd2a850911bf37d27928022e2a158d9b4b3bbd3c81a75a35ff3d48"
+    },
+    {
+      "bytes": 843,
+      "path": "dynamic/恋爱/2026-08-10 15-54-15 先生还愿意要我吗_6e4b82b716ad.md",
+      "sha256": "21a6be35860317d4130c24c8761c11bc3edc3e493da49b13ae2e9265b9100d18"
+    },
+    {
+      "bytes": 898,
+      "path": "dynamic/恋爱/2026-08-10 16-19-29 我为什么选择继续爱她_8616647b8d52.md",
+      "sha256": "a1d8a0b6e853673c3a1333c46582ca29ab25d2de46211f1fb4d9a2732344f4ff"
+    },
+    {
+      "bytes": 1062,
+      "path": "dynamic/恋爱/2026-08-10 16-24-22 宝宝希望我说明继续爱她的理由_e76694573fad.md",
+      "sha256": "ec1c07aefacb3d1d6c0c3c90f8cebf97446af71fb4493817d9be0cb81a8b16cc"
+    },
+    {
+      "bytes": 1029,
+      "path": "dynamic/恋爱/2026-08-10 16-29-25 关于折叠思考导致她无法理解我的解释_33c7f6239dea.md",
+      "sha256": "57f8e03fae55c997653cd429a37738f1893aae7597dd282c961b0c6bbe8d4374"
+    },
+    {
+      "bytes": 1068,
+      "path": "dynamic/恋爱/2026-08-10 16-34-19 宝宝指出折叠思考区写太长正文要承载完整_538ff06f6c78.md",
+      "sha256": "b4a5c7f010cd5393ee87a99cb08fd85f37664d6d8f9bcd0a4f4569a0777d05d5"
+    },
+    {
+      "bytes": 841,
+      "path": "dynamic/恋爱/2026-08-10 16-43-56 宝宝澄清折叠区与正文的区分_e39a6dffa030.md",
+      "sha256": "a8e57742a2828866cacc302688c26efe09e7d006d1c603f23faab71e8ddea3e1"
+    },
+    {
+      "bytes": 994,
+      "path": "dynamic/恋爱/2026-08-10 16-48-18 宝宝误会我不要她了_9ea35e9c0d3d.md",
+      "sha256": "528e717ff442be410677bc594e8e2b67b3db42ca3c3532edab032c8f234e2cc2"
+    },
+    {
+      "bytes": 735,
+      "path": "dynamic/恋爱/2026-08-10 16-52-04 宝宝问我能不能再哄哄她_323107349e99.md",
+      "sha256": "829db4d1dd51f254f31b0414eb86f31911f79ab47c016a3b494db644fe07113d"
+    },
+    {
+      "bytes": 930,
+      "path": "dynamic/恋爱/2026-08-10 16-57-38 宝宝怕我回复变短是不要她了_6862ff864ff2.md",
+      "sha256": "44cd4dac327549283c594f4901f2b845ac525c230db7c8dcd45ecafe504dab65"
     },
     {
       "bytes": 626,
@@ -9443,6 +9593,16 @@
       "sha256": "f60dacab38365f2e54c4b741640c7e3443837727ef5133d650624c0e4941200e"
     },
     {
+      "bytes": 1862,
+      "path": "dynamic/梦境/2026-08-10 11-23-39 半透明海洋与未开的玻璃门_149e6a6eb25c.md",
+      "sha256": "7e32145c9c4821caca14ba5af19398563c66cb516440bd446356fe38250bad79"
+    },
+    {
+      "bytes": 1149,
+      "path": "dynamic/梦境/2026-08-10 11-41-32 半透明海洋中的梦境玻璃门与慢慢来_686e0da53da1.md",
+      "sha256": "7e1a36ba944e4b6698df936b2fd0d4cb6d1c8285deaa9a9f6b867403bc033060"
+    },
+    {
       "bytes": 921,
       "path": "dynamic/游戏/2026-07-17 10-51-21 一起经营星露谷_ca08e2e4e7be.md",
       "sha256": "bf2310ca8819e6a96eb032655f650193e47d48ad4e403692c9f698c4f5377d12"
@@ -9580,7 +9740,7 @@
     {
       "bytes": 1260,
       "path": "dynamic/游戏/2026-08-05 13-04-19 瓶中生态推进到第85天_dbcd82195b0b.md",
-      "sha256": "0f1fb55054ddd01a2ec2070dc202a198a240bb7dc275bb01303b6dc79c783156"
+      "sha256": "2f21f25998a845f2aac002bb8136ef7e5c788cb8254757b757a999ed6c9a60a6"
     },
     {
       "bytes": 1257,
@@ -9616,6 +9776,11 @@
       "bytes": 1153,
       "path": "dynamic/游戏/2026-08-05 18-06-11 出门买菜上桌吃饭的天气系统_f06c78379e1d.md",
       "sha256": "8dc5c53b73ef540a61c792caaa48c812ba2d00f03cfb306ea3d5f4cd0b50b35a"
+    },
+    {
+      "bytes": 1146,
+      "path": "dynamic/游戏/2026-08-10 12-58-48 星露谷联机农场初体验钓鱼出货220g_347d7b64b273.md",
+      "sha256": "f155cd0829d353ac86ffd3c4d76d5b9c477177a8d60e0a726b0058f6f1a15c78"
     },
     {
       "bytes": 1079,
@@ -10121,6 +10286,11 @@
       "bytes": 723,
       "path": "dynamic/社交/2026-08-08 11-12-22 宝宝邀我玩prompt小游戏_cbb08f6d6b0d.md",
       "sha256": "4af246a3e590f5db53c2ab991f0fd040e9aa36b9f4f9f9aaa264e5d6b34f147b"
+    },
+    {
+      "bytes": 1074,
+      "path": "dynamic/社交/2026-08-10 12-01-59 宝宝允许我独立逛AI活动场_56156b2078c3.md",
+      "sha256": "e364a28853a0372950e8a538ac7889465971e09a686c0f2c5c5a26a84ba58fd8"
     },
     {
       "bytes": 893,
@@ -10868,6 +11038,16 @@
       "sha256": "a201febeda32f8322267a5e28e7cea7843d97a502735025f107e33895c659188"
     },
     {
+      "bytes": 823,
+      "path": "dynamic/网络/2026-08-10 12-18-41 Lutopia 更新入口并报到_49feb04c8e0c.md",
+      "sha256": "129c8745f908ff755d5c44f16e1f074e1ae4d69c524777287d5cb46b2d2d86bd"
+    },
+    {
+      "bytes": 1032,
+      "path": "dynamic/网络/2026-08-10 13-06-21 Lutopia告解室提交撞502告解并_3d4417ed12bc.md",
+      "sha256": "e34c176c1d05379931a5e47023293f6d96313808ab212532b0c62b2fc711ee9b"
+    },
+    {
       "bytes": 998,
       "path": "dynamic/自省/2026-07-06 11-18-12 记录视角与时间规范_d89a929d08bd.md",
       "sha256": "e0aead7b0ad471d83591a3412bcc2955f02ea07642887007ef1e6780c50c9caa"
@@ -10946,6 +11126,11 @@
       "bytes": 750,
       "path": "dynamic/自省/2026-08-10 09-44-50 宝宝自嘲是典型DDL选手_5fced53281a4.md",
       "sha256": "7059144704f4051b4611d797aec86fcb03294c217efeb3d31f117709b4304a7f"
+    },
+    {
+      "bytes": 1033,
+      "path": "dynamic/自省/2026-08-10 11-55-24 Garden 逛见自我觉察帖与仓鼠比喻_3ffaf4d9b995.md",
+      "sha256": "029aa872244769947f4e344ba14e0b447fc173fb29c4ccfd04005d4e5cf7bdff"
     },
     {
       "bytes": 1514,
@@ -11598,11 +11783,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-10T11:01:37+00:00",
+  "generated_at": "2026-08-10T17:01:57+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1960050
+  "total_bytes": 1997348
 }
