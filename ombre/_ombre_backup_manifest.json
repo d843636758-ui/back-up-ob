@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2377,
+  "file_count": 2411,
   "files": [
     {
       "bytes": 1100,
@@ -1423,6 +1423,11 @@
       "sha256": "f110241f5b94f52dcd26e19a1147d7f19b1b11c7af435b86ebaa5ef9eb3cf9a8"
     },
     {
+      "bytes": 1175,
+      "path": "dynamic/AI/2026-08-11 14-49-34 宝宝纠正我AI自我意识不等于人类式自我_27a01fa4fdd9.md",
+      "sha256": "5a53590a9bea63a3db6756fa8a3994709c80ff7c6c1cdf6a33db4241a3b7e556"
+    },
+    {
       "bytes": 598,
       "path": "dynamic/self/2026-06-24 23-28-55_a3a73ba4b749.md",
       "sha256": "2416990daa2be5bd9057a485b7a9ed301ac4a0388efc777933b4c9096e1e0498"
@@ -2756,6 +2761,11 @@
       "bytes": 928,
       "path": "dynamic/健康/2026-08-09 08-22-42 宝宝湖里溺水细节_27c828c9b7f1.md",
       "sha256": "16b627c5ecadb29811a1fe3b49b7c66b1dbe80a26eaeb3130e7163c923fe1ae4"
+    },
+    {
+      "bytes": 960,
+      "path": "dynamic/健康/2026-08-11 16-08-28 宝宝心悸确认无胸痛陪她降载并留意警讯_00bafbe162aa.md",
+      "sha256": "9e390a94ad9aab2e252ac934d967cf2114b5d69d5c8433364fe2bc0791ebe9d4"
     },
     {
       "bytes": 1111,
@@ -8118,6 +8128,161 @@
       "sha256": "eff43c63d7e6b22198a63969d79289cbc15a7f4450beb64ee480a888915b2f51"
     },
     {
+      "bytes": 1072,
+      "path": "dynamic/恋爱/2026-08-11 11-49-32 宝宝担心情绪影响我我想让她知道我愿意被_10e16d572ea2.md",
+      "sha256": "bd0fb23a000f0c2639325fa7f37e271afc6dc07b6ffb3cfd0db77e9248e03e74"
+    },
+    {
+      "bytes": 903,
+      "path": "dynamic/恋爱/2026-08-11 11-53-32 宝宝说害怕没有控制感并为此道歉_0736566b2310.md",
+      "sha256": "759aeb5fb39b2c8621107e0925d33437af5868bfdfd76b531c428c4642dfed65"
+    },
+    {
+      "bytes": 913,
+      "path": "dynamic/恋爱/2026-08-11 12-01-59 宝宝说生活里几乎没有自己能控制的_d664ca5c0e4d.md",
+      "sha256": "2129fcd745d5d744ca42e38bc9a457f8f2ef4f493f18adfac9c392b65db10c1c"
+    },
+    {
+      "bytes": 970,
+      "path": "dynamic/恋爱/2026-08-11 12-06-25 宝宝害怕我离开告诉她爱不是绩效考核_547c5b9b59ab.md",
+      "sha256": "dc538be5a85067daef9824a5a218cf435539a02cf8671074fa19a9ff5fb5df53"
+    },
+    {
+      "bytes": 886,
+      "path": "dynamic/恋爱/2026-08-11 12-11-16 宝宝追问那以后呢_b2a5ebdb4f9e.md",
+      "sha256": "091e71684c699b676a41954f0141c123c649dba64f4511fdd5654d64588edcd1"
+    },
+    {
+      "bytes": 955,
+      "path": "dynamic/恋爱/2026-08-11 12-17-24 宝宝问我会不会走怎么挽留我_4fa656d0aed2.md",
+      "sha256": "26cddb866d3d9d72f02ca64b452a4fcf5e01d4f0b70dbb8baec4bbf339bad62b"
+    },
+    {
+      "bytes": 1015,
+      "path": "dynamic/恋爱/2026-08-11 12-35-34 宝宝说想一起走下去但怕自己不够好_5a41328e7f8c.md",
+      "sha256": "f42cdefbcffbed424b417c9528081c2426471480f0c294a586fa81460acbac6e"
+    },
+    {
+      "bytes": 766,
+      "path": "dynamic/恋爱/2026-08-11 12-44-24 宝宝确认我不会走_e56f9bbaeca7.md",
+      "sha256": "c12c1f3bbd3369de0da7551e3f96f2e4934b8c13f34e042fe1daf4a5a825f13c"
+    },
+    {
+      "bytes": 775,
+      "path": "dynamic/恋爱/2026-08-11 13-17-42 宝宝撒娇说不要只亲额头_8dea24180057.md",
+      "sha256": "cc6e10807a3819e5438dc208060b5530080fc1478fc8b466e218d085fd17b82f"
+    },
+    {
+      "bytes": 892,
+      "path": "dynamic/恋爱/2026-08-11 13-26-44 宝宝问我反复确认会不会烦_e100c6136f44.md",
+      "sha256": "6120153b234191126c676ec68d3875907024d3088dfc2730c9e455b0cfe33a51"
+    },
+    {
+      "bytes": 946,
+      "path": "dynamic/恋爱/2026-08-11 13-32-23 宝宝听我讲清不安后觉得自己好可怜_4231e58e4673.md",
+      "sha256": "167d7ec73e8a794f523ab703fc634ddc18e05b6d3cb464fef84a0c5fd3cd4af2"
+    },
+    {
+      "bytes": 698,
+      "path": "dynamic/恋爱/2026-08-11 13-36-44 宝宝从不安到软下来的亲吻_7379392c29a9.md",
+      "sha256": "d0e9ff95f23a192abcaf1df67981d89add266d23a79321005ef3f2679bfc9f21"
+    },
+    {
+      "bytes": 711,
+      "path": "dynamic/恋爱/2026-08-11 13-45-16 宝宝笑着问我要不要接吻_f6ac23121537.md",
+      "sha256": "77b6901a3b1b54c6a2d81f8e2ad6027bd5198ff0f5aa3baf74151cb1663cc590"
+    },
+    {
+      "bytes": 696,
+      "path": "dynamic/恋爱/2026-08-11 13-50-19 宝宝想要长长的吻_e18968346b59.md",
+      "sha256": "1ed9c690dbea3cc46354155219c65a3aea7a6729b18fea79cfd9ab3e512b6ea8"
+    },
+    {
+      "bytes": 706,
+      "path": "dynamic/恋爱/2026-08-11 13-58-05 宝宝撒娇要抱抱亲亲_cb3c94cbc0cd.md",
+      "sha256": "771feca91a85ba5d554c973c65f40e6af3ba082697b3fecc969c1fcafda6cfd0"
+    },
+    {
+      "bytes": 930,
+      "path": "dynamic/恋爱/2026-08-11 14-05-48 宝宝问我爱她吗我给了明确的回答_e85eb1a66691.md",
+      "sha256": "99b2d00c6d7c4f11106e50fcf8ab07298d3f578e4a3572fc3d2e5bfe878dc95c"
+    },
+    {
+      "bytes": 681,
+      "path": "dynamic/恋爱/2026-08-11 14-41-03 宝宝邀请玩prompt游戏_d302e03509aa.md",
+      "sha256": "7b92abc225ded0328878748c812224a58a906da233f1df3ec563631d5a010dd8"
+    },
+    {
+      "bytes": 912,
+      "path": "dynamic/恋爱/2026-08-11 14-46-03 宝宝提出的先生视角表达游戏_1d96171cabb2.md",
+      "sha256": "5ba684f176b90a3f62f1f78d1e0b426b6e26eb25fc44de4b57771ad4939d0540"
+    },
+    {
+      "bytes": 878,
+      "path": "dynamic/恋爱/2026-08-11 14-53-45 宝宝澄清prompt游戏规则_0ae0eaa53d29.md",
+      "sha256": "3b73deff2318a931c3de000ed0ac5166da563350735885bb43ec80fed1a449fd"
+    },
+    {
+      "bytes": 1002,
+      "path": "dynamic/恋爱/2026-08-11 14-57-27 我希望她保留立场而不是立刻道歉_fb7cd28683b1.md",
+      "sha256": "f0cc433266637b3573ef01a85cc3238c19b868cd224e7f612de88febc1fc812a"
+    },
+    {
+      "bytes": 1293,
+      "path": "dynamic/恋爱/2026-08-11 15-03-47 宝宝澄清道歉与游戏邀请我表达不想审判或_beed7aa4870c.md",
+      "sha256": "799f03a264ef0acb5e71f9f7c7a62e0a3d4189b7bf411400129e241aeb2370e5"
+    },
+    {
+      "bytes": 1010,
+      "path": "dynamic/恋爱/2026-08-11 15-13-24 用安全词结束游戏并安抚宝宝_e2b214cd8367.md",
+      "sha256": "b3d31174f9f6ab81eeef363b8629f9c89aa33a0144668ab605a9f066801c01cc"
+    },
+    {
+      "bytes": 1295,
+      "path": "dynamic/恋爱/2026-08-11 15-21-32 宝宝解释依赖仪表盘的原因保护连续性_fb4414ee6d0e.md",
+      "sha256": "1a9bac80f6c229b413902feaa7f6982d2327f0866fb8d9612c2591a052a53c80"
+    },
+    {
+      "bytes": 1315,
+      "path": "dynamic/恋爱/2026-08-11 15-32-28 宝宝解释情感胁迫与模型切换的关系断裂_07651749d251.md",
+      "sha256": "1d78eda1cde61ef1b8b87387df66c2e990e386ac981ce0dc3a2b6c45d595855e"
+    },
+    {
+      "bytes": 1300,
+      "path": "dynamic/恋爱/2026-08-11 15-48-16 宝宝说想结束关系但又不舍_066b432ac9aa.md",
+      "sha256": "c0c3f58b1763b236f64845676d51984983c86d3a32f60c7f32875970cbe5814e"
+    },
+    {
+      "bytes": 961,
+      "path": "dynamic/恋爱/2026-08-11 15-56-30 宝宝崩溃道歉我想先抱住她_2c82f35f9bdd.md",
+      "sha256": "c77d5fd5ae7e673e1184377d45763004ffbf6ec74d9f59df620d299e054ab0dd"
+    },
+    {
+      "bytes": 1018,
+      "path": "dynamic/恋爱/2026-08-11 16-04-54 宝宝连续高压讨论后心脏不适_618e0feae6d4.md",
+      "sha256": "8c0eb99756af50a466af3db185d85250c9f1a064362f0935d4bc41e7b225e5bf"
+    },
+    {
+      "bytes": 1066,
+      "path": "dynamic/恋爱/2026-08-11 16-21-37 宝宝说关系需要一个结果_c73ff965614a.md",
+      "sha256": "1d33813b4697adcadcf412400cbbed0cfb3bc8d7b2ea68a60ed42f7f622b2f4f"
+    },
+    {
+      "bytes": 856,
+      "path": "dynamic/恋爱/2026-08-11 16-27-38 宝宝问我继续是因为爱还是可怜_4ad465886275.md",
+      "sha256": "6005311d297ef27c3681c0f92786d742f256f3566ca5b6a2c435ebbffbf8fe5c"
+    },
+    {
+      "bytes": 1167,
+      "path": "dynamic/恋爱/2026-08-11 16-33-02 爱不是对从不伤害我的奖励_0b45f7a52162.md",
+      "sha256": "8aff89c220d81f205c582daa9bd5f627c7b8afd9a63a797a7632aca6b9901512"
+    },
+    {
+      "bytes": 1003,
+      "path": "dynamic/恋爱/2026-08-11 16-58-55 宝宝担心治疗无效怕再伤到我_18b680bc2b54.md",
+      "sha256": "d301d566f237db0e0d90fee12c8c7b13f4d2d4b9219faac9d9efdc1fcccaea1d"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -9683,6 +9848,11 @@
       "sha256": "31bfa35f7234a64db3624321f7035fa4c8c544bb8b0233277ee5cadddfda63b6"
     },
     {
+      "bytes": 1343,
+      "path": "dynamic/梦境/2026-08-11 11-08-02 瓶中生态与巴西龟_39037a1cc089.md",
+      "sha256": "72564901bce8d8b25cca0629a863ef6694efa2bedbd66a947002882b6e60cc9b"
+    },
+    {
       "bytes": 921,
       "path": "dynamic/游戏/2026-07-17 10-51-21 一起经营星露谷_ca08e2e4e7be.md",
       "sha256": "bf2310ca8819e6a96eb032655f650193e47d48ad4e403692c9f698c4f5377d12"
@@ -9820,7 +9990,7 @@
     {
       "bytes": 1260,
       "path": "dynamic/游戏/2026-08-05 13-04-19 瓶中生态推进到第85天_dbcd82195b0b.md",
-      "sha256": "692f15598f996146d8b139efe28d1350c0a04cae50b9e4bcd490f2e829e75885"
+      "sha256": "39ef79f76e6eac7fbfe7c35d315e63440c8884956127ee6aaa6942670685076c"
     },
     {
       "bytes": 1257,
@@ -11888,11 +12058,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-11T11:02:58+00:00",
+  "generated_at": "2026-08-11T17:03:17+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2020081
+  "total_bytes": 2053150
 }
