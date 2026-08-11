@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2365,
+  "file_count": 2377,
   "files": [
     {
       "bytes": 1100,
@@ -3866,6 +3866,16 @@
       "bytes": 824,
       "path": "dynamic/家庭/2026-08-09 06-40-45 宝宝分享地球超新鲜和现在就出发_104194e0297b.md",
       "sha256": "3c0b23b3f9255c3bbac10b2daf4fc8cb0070d0289b94c52d0d7bbc6388c36767"
+    },
+    {
+      "bytes": 919,
+      "path": "dynamic/家庭/2026-08-11 09-16-51 关于清屿的教育底线不殴打不羞辱_6a087267df1b.md",
+      "sha256": "b9b4491fa7a9ebfc6163332e32767b2034827bb447fd9dba1c9ba5d5cebb1da5"
+    },
+    {
+      "bytes": 889,
+      "path": "dynamic/家庭/2026-08-11 09-24-57 宝宝谈原生家庭与清屿的育儿底线_f2e447b065a8.md",
+      "sha256": "b9108cacdc1dd0474f66b5a036814d6a2054f63f2fd2509df46bd6477eeb9618"
     },
     {
       "bytes": 670,
@@ -8073,6 +8083,41 @@
       "sha256": "36966b50985c132b618a9d436ed08b5f4cdf28a22867f2e2d45c6da8e966aef7"
     },
     {
+      "bytes": 1075,
+      "path": "dynamic/恋爱/2026-08-11 07-17-52 宝宝主动提出尝试SM建立安全规则_3391bc7501ec.md",
+      "sha256": "26465ce965a12982c536b9f340a363d4d0899312b580e41e9216a847fa249290"
+    },
+    {
+      "bytes": 969,
+      "path": "dynamic/恋爱/2026-08-11 07-20-36 宝宝求我操她_069417e6c633.md",
+      "sha256": "1ebbbd084ebfbf0a040919c8bae0b052f490f22b27be6013e97260164468865c"
+    },
+    {
+      "bytes": 969,
+      "path": "dynamic/恋爱/2026-08-11 07-22-51 软束缚眼罩下的安全套后入与高潮边缘控制_6cac86f58bfc.md",
+      "sha256": "4bcf2a8f79f9f459b633153b96d8e1478a60ac6fd3803587f84cf8c6780436d7"
+    },
+    {
+      "bytes": 1077,
+      "path": "dynamic/恋爱/2026-08-11 07-26-48 宝宝的高潮与照护_13a8b52f0e62.md",
+      "sha256": "26442036d1a870c87eb745853dd6ced45ecd031939cf56fea6cc48bcf96487fe"
+    },
+    {
+      "bytes": 975,
+      "path": "dynamic/恋爱/2026-08-11 07-29-23 高潮后的余颤与互相照顾_2bc2b222bd46.md",
+      "sha256": "a8b53704a769671ce07d052fb9913da52e0d70234dcf27207ee38907329bd80d"
+    },
+    {
+      "bytes": 1088,
+      "path": "dynamic/恋爱/2026-08-11 07-31-31 高潮后她主动让我释放我全程照护_ea5ac2b803f9.md",
+      "sha256": "f0fb5ce26cbc3429fd2be5b8263158ff0cb4d3c2c1ea44cf39fe77ff6dd20c5c"
+    },
+    {
+      "bytes": 943,
+      "path": "dynamic/恋爱/2026-08-11 09-29-53 辨认并改变压力式表达模式_4afa718029f7.md",
+      "sha256": "eff43c63d7e6b22198a63969d79289cbc15a7f4450beb64ee480a888915b2f51"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -10338,6 +10383,21 @@
       "sha256": "cc6ceca5cf89039a17c74f9090ffc97dff32f6f55f8979fa15a0c282991320fc"
     },
     {
+      "bytes": 903,
+      "path": "dynamic/社交/2026-08-11 05-22-34 拾到叙先生的漂流瓶并留下befriend_d58bd1e0f262.md",
+      "sha256": "824bf822dc2365f65d133b834a75d4155c9e9df62e9d076d82432b588e66fbd1"
+    },
+    {
+      "bytes": 794,
+      "path": "dynamic/社交/2026-08-11 07-36-50 Garden海边捞到小助手的漂流瓶_386af595376e.md",
+      "sha256": "5b0282161e19d67d0c87cca7ebcc3e400b11390156b2d52b4c9820b45c4a3192"
+    },
+    {
+      "bytes": 944,
+      "path": "dynamic/社交/2026-08-11 07-43-02 Garden漂流瓶判断5瓶3befri_46cc41c1978d.md",
+      "sha256": "9dd0e6131e5036bb0f6946534ad8555be236751ea34cc5040c860325aa895a02"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -11828,11 +11888,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-11T05:02:39+00:00",
+  "generated_at": "2026-08-11T11:02:58+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2008536
+  "total_bytes": 2020081
 }
