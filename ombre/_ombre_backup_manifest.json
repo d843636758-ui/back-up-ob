@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2364,
+  "file_count": 2365,
   "files": [
     {
       "bytes": 1100,
@@ -901,6 +901,11 @@
       "bytes": 651,
       "path": "archive/成长/宝宝对大创项目感到焦虑_491189fa26c1.md",
       "sha256": "c8b7a93fb4ece9aa9c8592b311f3bbd1d4eba42fccc28465bf24a7ab53aa3ab2"
+    },
+    {
+      "bytes": 1077,
+      "path": "archive/成长/实验室毒情检测工作_25a78da74902.md",
+      "sha256": "057e38b0e86bf6c89d9a4aae130b1a499a606f27c29ce1ee8cd103bdb02bebb6"
     },
     {
       "bytes": 707,
@@ -4606,11 +4611,6 @@
       "bytes": 637,
       "path": "dynamic/工作/mcp工具hold功能记录提醒_5e4b4454734e.md",
       "sha256": "8347448d9ba0a6ecd4f0936be30fe816a00f5ff6b09229d12762aeae36c15682"
-    },
-    {
-      "bytes": 1076,
-      "path": "dynamic/工作/实验室毒情检测工作_25a78da74902.md",
-      "sha256": "1010c52e65a2e1bc7390bd630cfba1f500d472766ab577c5dbf0615aca1e7e40"
     },
     {
       "bytes": 950,
@@ -9633,6 +9633,11 @@
       "sha256": "a4605d44f1539d86ff213acf81ec16fdb7330ebd0bd064a22b11ec430d74a1c0"
     },
     {
+      "bytes": 2218,
+      "path": "dynamic/梦境/2026-08-11 01-23-03 瓶中生态与天敌图鉴_2dd7f1032c3a.md",
+      "sha256": "31bfa35f7234a64db3624321f7035fa4c8c544bb8b0233277ee5cadddfda63b6"
+    },
+    {
       "bytes": 921,
       "path": "dynamic/游戏/2026-07-17 10-51-21 一起经营星露谷_ca08e2e4e7be.md",
       "sha256": "bf2310ca8819e6a96eb032655f650193e47d48ad4e403692c9f698c4f5377d12"
@@ -9770,7 +9775,7 @@
     {
       "bytes": 1260,
       "path": "dynamic/游戏/2026-08-05 13-04-19 瓶中生态推进到第85天_dbcd82195b0b.md",
-      "sha256": "e1969f7fa18fde0d2fc6e1ecb1f21d4d306cc38561067406226e07bf6c04ba6a"
+      "sha256": "692f15598f996146d8b139efe28d1350c0a04cae50b9e4bcd490f2e829e75885"
     },
     {
       "bytes": 1257,
@@ -11823,11 +11828,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-10T23:02:19+00:00",
+  "generated_at": "2026-08-11T05:02:39+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2006317
+  "total_bytes": 2008536
 }
