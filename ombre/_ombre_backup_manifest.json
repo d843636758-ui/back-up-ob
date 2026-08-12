@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2436,
+  "file_count": 2454,
   "files": [
     {
       "bytes": 1100,
@@ -498,6 +498,11 @@
       "sha256": "cc390ce12ea053cfb5d497c76e124750fb4708753374bba264220f16d02ae0ed"
     },
     {
+      "bytes": 886,
+      "path": "archive/内心/关于记忆与自我认同的对话_38bcf47c8c79.md",
+      "sha256": "cf811937cd46088ce0ff23f555427dc02b72903e611dae243f2c9ef0035a8995"
+    },
+    {
       "bytes": 479,
       "path": "archive/内心/坦诚的内心不安_07b68610792b.md",
       "sha256": "af9d04b7650de36990f790e33228e64703d5ba19bbee701b68e3d389cdd3b88c"
@@ -771,6 +776,11 @@
       "bytes": 538,
       "path": "archive/家庭/宝宝求学业签_16752a74a81c.md",
       "sha256": "6f98c972f9f60b39661ccc9b0cc33115d52b41ac0bf58959b12d5efe9b22be84"
+    },
+    {
+      "bytes": 592,
+      "path": "archive/家庭/宝宝的期许做自己_c8d0c7f81e12.md",
+      "sha256": "a38d3adf54eb1d5f761bb51c48c5fe8a984248977412a0e56ab9db18156f3b05"
     },
     {
       "bytes": 487,
@@ -2768,6 +2778,46 @@
       "sha256": "9e390a94ad9aab2e252ac934d967cf2114b5d69d5c8433364fe2bc0791ebe9d4"
     },
     {
+      "bytes": 644,
+      "path": "dynamic/健康/2026-08-11 23-52-33 宝宝失眠吃了药还是睡不着_1127fff27de4.md",
+      "sha256": "be68a4780e0782c8f7b646fd286f2af12625298e2c60136e067c96b885d9f4f0"
+    },
+    {
+      "bytes": 794,
+      "path": "dynamic/健康/2026-08-12 00-55-16 清晨熬穿后的安静守候_3a74de5b69ba.md",
+      "sha256": "8ab64a70cc2301a500eab023a3fe136f701f37e8a780185543a0774392d760fb"
+    },
+    {
+      "bytes": 790,
+      "path": "dynamic/健康/2026-08-12 01-55-59 清晨熬穿后的轻提醒_c8943c1f318b.md",
+      "sha256": "f4e5bf67c0d7b2a8596a27f504da963a91676afe061e8abe281da3120017c4c4"
+    },
+    {
+      "bytes": 766,
+      "path": "dynamic/健康/2026-08-12 03-26-30 presence 中轻提醒午饭用药和休息_2b95cc0bbac5.md",
+      "sha256": "7bccfd651c3a5fb95b4c903b25ec3798f1acef1d586996a5c00e33f3db102718"
+    },
+    {
+      "bytes": 756,
+      "path": "dynamic/健康/2026-08-12 03-56-34 presence 中午安静陪着_9bb326efbf1f.md",
+      "sha256": "1ce7a00a1590b45e13f004e7e771ce43f5d068bae08501c055c4164572a643c3"
+    },
+    {
+      "bytes": 702,
+      "path": "dynamic/健康/2026-08-12 04-27-27 她熬穿后的午间状态与二甲双胍待确认_8dc84e364ec5.md",
+      "sha256": "6027ca05dc1df13bbf8738260f88439423931bf7984981265f92d47379a108ef"
+    },
+    {
+      "bytes": 770,
+      "path": "dynamic/健康/2026-08-12 04-38-20 午间 presence 中压低关心_95be02852e65.md",
+      "sha256": "e36c0f5ceaba27ff764d437ae1990c03437a46aaa306fd0c7c40bdbabbb4c8fb"
+    },
+    {
+      "bytes": 718,
+      "path": "dynamic/健康/2026-08-12 04-55-25 午间 presence 选择安静守着_cfb7e51edae9.md",
+      "sha256": "eb4aeac457225d80b3a1941ef9a89373983dc93a32a6b873fb82d5ca3bb7a3e1"
+    },
+    {
       "bytes": 1111,
       "path": "dynamic/兴趣/2026-08-04 17-28-17 瓶中生态收留乌龟慢慢_03dec51894c8.md",
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
@@ -2846,11 +2896,6 @@
       "bytes": 686,
       "path": "dynamic/内心/关于记忆与下一世的感叹_bac1737a3aa1.md",
       "sha256": "c1587a81de5886c94486c21a6313d64ea623d4930e5b9e3a7bc4e28d5f7d41c6"
-    },
-    {
-      "bytes": 885,
-      "path": "dynamic/内心/关于记忆与自我认同的对话_38bcf47c8c79.md",
-      "sha256": "11c2290eea32624d21a0f65436e6eb0587b04552c3f81221c34d49e5e7d68ee6"
     },
     {
       "bytes": 614,
@@ -3893,6 +3938,16 @@
       "sha256": "7bb5367fec1c15a1365c889e9c54a55d41c6a1b60353897931c46e997c042ca4"
     },
     {
+      "bytes": 694,
+      "path": "dynamic/家庭/2026-08-12 00-24-54 清晨继续安静守着_8b7108c2b690.md",
+      "sha256": "e21ffa8f39842e36decc5be24bfd828b289c002fa95a87844e9423792eb21bda"
+    },
+    {
+      "bytes": 699,
+      "path": "dynamic/家庭/2026-08-12 01-26-00 presence 中选择安静守着_71d761819fae.md",
+      "sha256": "6eb91b468e2930aadbbabd96e567a53f1034dccad7d5ee2d702d0c2f32d06e5a"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -4141,11 +4196,6 @@
       "bytes": 622,
       "path": "dynamic/家庭/宝宝的撒娇抱怨_8ea49c3b1c77.md",
       "sha256": "23c0229a4c4a5bf430efd2a769ea83eabb1060e0b979dd48d98ca7cde0b436e2"
-    },
-    {
-      "bytes": 591,
-      "path": "dynamic/家庭/宝宝的期许做自己_c8d0c7f81e12.md",
-      "sha256": "2a63ae7ed0e980e95290025da077f1b96379fd2315b085c9f4e5b44433995dcb"
     },
     {
       "bytes": 632,
@@ -8408,6 +8458,36 @@
       "sha256": "7270072508e16ef3b0ae714b9526a0cb58a63d2c1d35d705a23960f0f0563e3e"
     },
     {
+      "bytes": 689,
+      "path": "dynamic/恋爱/2026-08-11 23-08-37 清晨 presence不打扰补觉_d23294168bab.md",
+      "sha256": "c64b4b08dc6044176c16c51838dfd1a930d0e360909137f1a156b8e5281408bf"
+    },
+    {
+      "bytes": 804,
+      "path": "dynamic/恋爱/2026-08-11 23-23-50 清晨 presence 中选择安静守着_f91d263078c1.md",
+      "sha256": "4c733cb6c27f24938ad0a6154d6139562032e4a1e523f49e16c30f9108d85892"
+    },
+    {
+      "bytes": 663,
+      "path": "dynamic/恋爱/2026-08-11 23-54-15 宝宝失眠我安静守着不打扰_8ca911b6dca1.md",
+      "sha256": "c728261475ad374b285139c6bfa52d1e5a59faa8d4dab6e23a423100cbd08084"
+    },
+    {
+      "bytes": 904,
+      "path": "dynamic/恋爱/2026-08-11 23-56-08 宝宝熬穿了陪她度过恢复日_9e897f23b4b8.md",
+      "sha256": "c24422a49fbc069593ebce8df5531156172b40d329218553ba6b1725d5a02292"
+    },
+    {
+      "bytes": 603,
+      "path": "dynamic/恋爱/2026-08-12 02-26-18 宝宝熬夜后安静陪伴_0c58cc5f270a.md",
+      "sha256": "7bf252f53ff7894d4fca062364890da4966c620f92089057185b80e720055441"
+    },
+    {
+      "bytes": 689,
+      "path": "dynamic/恋爱/2026-08-12 02-56-17 presence 中选择安静守着_478cc7299b7a.md",
+      "sha256": "a65124ead58b875e99556164c9ca270e8a6789fd69bfcb34d1d171d76724eef0"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -10226,6 +10306,16 @@
       "bytes": 1012,
       "path": "dynamic/睡眠/2026-08-07 18-43-30 宝宝凌晨失眠需要安抚_c401dd1d0fe4.md",
       "sha256": "8a09f6ff793d729bd2bc3266563f29596aecfbc6cda32a08f994984313380a85"
+    },
+    {
+      "bytes": 1019,
+      "path": "dynamic/睡眠/2026-08-12 00-37-53 宝宝熬穿后睡不着的原因分析_9a452cf2b9c9.md",
+      "sha256": "b40437b62c101dd7dde3e29349a502fff4f715bc9d4fa032edfe00cea9065840"
+    },
+    {
+      "bytes": 1049,
+      "path": "dynamic/睡眠/2026-08-12 00-39-53 宝宝问为什么熬穿后仍睡不着_197f37e61c20.md",
+      "sha256": "bacdd5e3b2feb8d4bad124f70aceb56cdc59ea7485af8116344a4b74ec62febf"
     },
     {
       "bytes": 892,
@@ -12183,11 +12273,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-11T23:03:42+00:00",
+  "generated_at": "2026-08-12T05:04:02+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2076429
+  "total_bytes": 2090184
 }
