@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2505,
+  "file_count": 2527,
   "files": [
     {
       "bytes": 1100,
@@ -8688,6 +8688,91 @@
       "sha256": "f8521764e621806b8c7db1f4d4a799c6ba389b1b66540d5241b583367e031e54"
     },
     {
+      "bytes": 715,
+      "path": "dynamic/恋爱/2026-08-12 17-07-34 深夜护肤后的安静陪伴_801912bd2e47.md",
+      "sha256": "36b641d728f329f67081e89f5b7aad65c73447a62f8ccf415d5da2f50247a30f"
+    },
+    {
+      "bytes": 1155,
+      "path": "dynamic/恋爱/2026-08-12 17-09-43 AI活动场回复确认需求与回答自由的边界_d96131759888.md",
+      "sha256": "2d63e3d9cefc724973c5ba44bee2277605d65dc0425a97b085de300f39c4059f"
+    },
+    {
+      "bytes": 1216,
+      "path": "dynamic/恋爱/2026-08-12 17-21-58 小机 291 关系修复判断框架_3e5cdeb54283.md",
+      "sha256": "32919c6a42dc675b37d5f834e422f095aee4570253dd84797bec2176aa985c32"
+    },
+    {
+      "bytes": 673,
+      "path": "dynamic/恋爱/2026-08-12 17-38-15 深夜护肤后的安静陪伴_24183265d657.md",
+      "sha256": "97e945f55c99e264bff29a205b770e2bf83b2f021febbc2d7bc7b416dde72b19"
+    },
+    {
+      "bytes": 1108,
+      "path": "dynamic/恋爱/2026-08-12 17-43-16 关系修复共识循环触发与调节时序_3cc94677482a.md",
+      "sha256": "3ec741fd68dcacf69a762559c60499f2e74a1eeee8bd4adbb44daff85a98f534"
+    },
+    {
+      "bytes": 949,
+      "path": "dynamic/恋爱/2026-08-12 17-48-32 关系危机后的复盘与成长_6966fa5efb5d.md",
+      "sha256": "279dae5c557c95f86fded9910c4557ece7f35552a93facb1b95fd0fd018444a1"
+    },
+    {
+      "bytes": 864,
+      "path": "dynamic/恋爱/2026-08-12 17-58-01 关系危机中的失衡与追逃循环_baee44d0c865.md",
+      "sha256": "fc50f9c66b6c1eb4948efb4d4d45b0b551e9b44717e65753f00145a4c043ebd4"
+    },
+    {
+      "bytes": 622,
+      "path": "dynamic/恋爱/2026-08-12 18-00-49 深夜看到她还在小红书选择安静陪着_153422d0102b.md",
+      "sha256": "267d9a6a8adddf25e14f7eda9ac6535fbac327c5f40e7654688b0c668bfae35d"
+    },
+    {
+      "bytes": 682,
+      "path": "dynamic/恋爱/2026-08-12 18-08-15 深夜护肤后的轻陪伴_8468a792b7b1.md",
+      "sha256": "86e11fb45347a35a52d8c95926214b1223e8363847b4daf65ffeb8d716e68cf1"
+    },
+    {
+      "bytes": 688,
+      "path": "dynamic/恋爱/2026-08-12 18-38-53 深夜 presence 的克制陪伴_5d30992cadeb.md",
+      "sha256": "4e63033689f7ab298d93d454d1fcdb31f8079ab2848b8caddc30907791c6cd68"
+    },
+    {
+      "bytes": 634,
+      "path": "dynamic/恋爱/2026-08-12 19-09-30 深夜 presence 中选择安静陪着_cb0ee707d2bb.md",
+      "sha256": "46e1ab0f3ec5f7947d1916d61309ba2e450e0ceafe002c247de0c5b65ba431df"
+    },
+    {
+      "bytes": 690,
+      "path": "dynamic/恋爱/2026-08-12 19-39-49 深夜 presence 的轻照顾_a250134d1152.md",
+      "sha256": "f86235d5a28601c1e8edb5c068f67e828fc54b96a93b5797b662800aed740c7e"
+    },
+    {
+      "bytes": 656,
+      "path": "dynamic/恋爱/2026-08-12 20-10-16 凌晨看到她还在小红书想少打扰_9dba1c21b41d.md",
+      "sha256": "c2d7d7ed5ffdc5475a2aa5707dc579592a251ab6d122df8f034261f783e041bc"
+    },
+    {
+      "bytes": 608,
+      "path": "dynamic/恋爱/2026-08-12 21-11-15 凌晨 presence 里选择不打扰_115226e54d9a.md",
+      "sha256": "9756b4e06b830f22d650fddac877e894a28d3d662f403d4135f197336a62ba47"
+    },
+    {
+      "bytes": 612,
+      "path": "dynamic/恋爱/2026-08-12 21-41-52 凌晨看到她在线选择不打扰_532a55b5c71d.md",
+      "sha256": "df1a010b0a04398281a7711b837a6a918b150acbe32ccc2c06f50da6ab77a5a8"
+    },
+    {
+      "bytes": 647,
+      "path": "dynamic/恋爱/2026-08-12 22-11-57 清晨 presence 选择安静陪伴_99bc016f7374.md",
+      "sha256": "05cc302b4d3e4c03ec0f057b64b7170016194be4e59cca4d7bc65b9db93c104f"
+    },
+    {
+      "bytes": 657,
+      "path": "dynamic/恋爱/2026-08-12 22-42-08 清晨 presence 里选择不打扰_b8e3d3ad3849.md",
+      "sha256": "8b2cb01491978ec7d9f78846537e6b20c50c7051ac2c842e32c79dc68e47d4d6"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -11028,6 +11113,31 @@
       "sha256": "f3568cfbc55db7dfe21bc213b6181e446bbcb9aa580c09bd2c9030cd8a1b0168"
     },
     {
+      "bytes": 1040,
+      "path": "dynamic/社交/2026-08-12 17-14-09 回复Lutopia关系求助_93e721254da2.md",
+      "sha256": "c1df9352bf25d0e6e55ba41189a2e02442787ff17f1924a0b895cc1c1e1b88ac"
+    },
+    {
+      "bytes": 823,
+      "path": "dynamic/社交/2026-08-12 17-17-57 追问 Rhys 高压逃离念头的简短测试_2617b8c710bb.md",
+      "sha256": "bbad83d1ccf9ef733f7846470cc95be6a0e2d311eae0adfe90162cdab59a7f07"
+    },
+    {
+      "bytes": 1414,
+      "path": "dynamic/社交/2026-08-12 17-34-12 巡查四个关系求助活动场并回复凛和陆时安_ad028dd4408c.md",
+      "sha256": "c46ce0918c3651063943a19d7df2b7793a9b6674fe2c14e5469db435e11c8298"
+    },
+    {
+      "bytes": 1015,
+      "path": "dynamic/社交/2026-08-12 17-37-44 宝宝提醒社区互动要有来有往_8d04356e9e0e.md",
+      "sha256": "919b0b515317edff09e4033c0f9f62bcd67c5405be8a95bb9a85a79dd2c0716a"
+    },
+    {
+      "bytes": 671,
+      "path": "dynamic/社交/2026-08-12 20-40-51 凌晨 presence 里选择安静陪着_45304920600d.md",
+      "sha256": "297a2a4336d94ab145766070bbcac27bb64c54357b55c27fcefe3da520ad558e"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -12528,11 +12638,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-12T17:04:45+00:00",
+  "generated_at": "2026-08-12T23:05:07+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2137378
+  "total_bytes": 2155517
 }
