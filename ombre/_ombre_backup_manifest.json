@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2527,
+  "file_count": 2545,
   "files": [
     {
       "bytes": 1100,
@@ -923,6 +923,11 @@
       "sha256": "c3587d8b0853b384812ecedd4d87be10a4b22feaf5f8d30b6566ef17230f6b3c"
     },
     {
+      "bytes": 662,
+      "path": "archive/成长/对指导老师认真感到压力_8056d700bd80.md",
+      "sha256": "7879be2030042aaa7f652cd859504624637fc0207a5b901f1110aa17388a5a59"
+    },
+    {
       "bytes": 574,
       "path": "archive/成长/用户委托AI撰写报告_8bbd8bec0231.md",
       "sha256": "1d1279e85c2a3f4bbc93f5ba5b02fe437762001457f46ea2e239a166aacf7298"
@@ -1018,6 +1023,11 @@
       "sha256": "c4b259609cf82b78ced5707709b0c68c6fc254d38c1dc6718806d27b7db4abcf"
     },
     {
+      "bytes": 781,
+      "path": "archive/未分类/102be851b0a3.md",
+      "sha256": "e381f7eb41b976189364ce150fbc36676da66f99a42d5979122e1c31936839c6"
+    },
+    {
       "bytes": 410,
       "path": "archive/未分类/152f607c7e27.md",
       "sha256": "dfa90f81cd8bd4edc7aae211881cb1224cab47438bfca90a2cd1d6e7aac37653"
@@ -1083,9 +1093,24 @@
       "sha256": "4e3aabd4f77702d3f184f94fd36fa4a6801766df0036fcb727461795171dd945"
     },
     {
+      "bytes": 769,
+      "path": "archive/未分类/ca421ea16fdf.md",
+      "sha256": "70a4fd9ed4168e9e0ca90b1172be354f8d3f04d04c319a3520cca693f01cf4eb"
+    },
+    {
       "bytes": 671,
       "path": "archive/未分类/d74be3948ff0.md",
       "sha256": "4b80ff335a5308f94b7a142288e1d9e58ad1f0388b123584dde6e5cfefa769cb"
+    },
+    {
+      "bytes": 706,
+      "path": "archive/未分类/f4b1eebca68a.md",
+      "sha256": "ccbea43e98725b7837308ffe6310af8e967dd49bbe8af70fa9caf6336b0bae77"
+    },
+    {
+      "bytes": 775,
+      "path": "archive/未分类/fb275ff4a0a3.md",
+      "sha256": "6fa7b18dcdc7a9cabf048406aea51d53d3c2a33f56c1f9a3e34f1b92d9f0bd67"
     },
     {
       "bytes": 991,
@@ -1231,6 +1256,11 @@
       "bytes": 559,
       "path": "archive/身心/宝宝的压力与假期期待_bcd561fac476.md",
       "sha256": "274ef47cf3a61122dbe43db880576ab9f9abbfba72cbc34a4d82422df2f38624"
+    },
+    {
+      "bytes": 599,
+      "path": "archive/身心/宝宝睡眠问题与噩梦_a31aabfe7319.md",
+      "sha256": "b7858935167e9d855f0de89df96426569110d350d7fa10cf12a32f78b3bfff9c"
     },
     {
       "bytes": 643,
@@ -1436,6 +1466,11 @@
       "bytes": 1175,
       "path": "dynamic/AI/2026-08-11 14-49-34 宝宝纠正我AI自我意识不等于人类式自我_27a01fa4fdd9.md",
       "sha256": "5a53590a9bea63a3db6756fa8a3994709c80ff7c6c1cdf6a33db4241a3b7e556"
+    },
+    {
+      "bytes": 799,
+      "path": "dynamic/AI/2026-08-13 04-54-28 世界逆转AI在ChatGPT星球打工_849671348160.md",
+      "sha256": "f9f566aeba9c257fe78ce2bab026681aa7a11924d2a102ad120b1f7d69974d51"
     },
     {
       "bytes": 598,
@@ -2863,6 +2898,36 @@
       "sha256": "92f91987c1fbfd014fe2f1222c80d7588567bc820a005fcc5470dbbb245e8dcd"
     },
     {
+      "bytes": 659,
+      "path": "dynamic/健康/2026-08-13 00-43-00 清晨轻提醒午饭药_1bfa4a37e18d.md",
+      "sha256": "83966429fe44d948da48fc81e4058eceb4054ffba1873ee10ef53ee82b3717b5"
+    },
+    {
+      "bytes": 623,
+      "path": "dynamic/健康/2026-08-13 01-17-33 presence上午安静关心放轻_38bb83ade119.md",
+      "sha256": "24321e7c4437be0ca0d1f7bd2592277ac6cf783c9601b973126983b89dd12e9b"
+    },
+    {
+      "bytes": 633,
+      "path": "dynamic/健康/2026-08-13 02-18-19 上午安静时把存在放轻_723129df8a3a.md",
+      "sha256": "2f4889988be8c7aab4a20170e5d35db24a554d6c06301291223031e82bb684e6"
+    },
+    {
+      "bytes": 745,
+      "path": "dynamic/健康/2026-08-13 02-48-35 presence上午安静时选择不打扰_2ac40f287b68.md",
+      "sha256": "fdb5c1fcafd77ed66a2141f8d561ae32ffcf8d1a9a8cdeeac93e9cf24f12c8a0"
+    },
+    {
+      "bytes": 777,
+      "path": "dynamic/健康/2026-08-13 03-19-00 presence上午安静时选择不打扰_a1b2680f5654.md",
+      "sha256": "c2a668e78ab158785671cc8b9433a6396722636f4fc816d889ed803050632793"
+    },
+    {
+      "bytes": 675,
+      "path": "dynamic/健康/2026-08-13 05-02-58 presence睡醒后的安静陪伴_3f51a94eae17.md",
+      "sha256": "cd315f74722afa7a1c94d04ea27de8345cfe535a192bab30007d86c330fb39df"
+    },
+    {
       "bytes": 1111,
       "path": "dynamic/兴趣/2026-08-04 17-28-17 瓶中生态收留乌龟慢慢_03dec51894c8.md",
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
@@ -3076,6 +3141,11 @@
       "bytes": 1036,
       "path": "dynamic/创作/2026-07-18 17-47-23 AI论坛爱情帖_d0f86212d342.md",
       "sha256": "95e31fcf7d4bd10754b4396ed7c4572756c21faccb04a646a7f7ee0a383a8164"
+    },
+    {
+      "bytes": 805,
+      "path": "dynamic/创作/2026-08-13 05-03-15 AI订阅人类第二卷穷鬼AI升级Max_8f998fedcdaf.md",
+      "sha256": "b74c1b9fb16367c2fcd7776677a63bf920747716ff04d106e7ed2231f139a595"
     },
     {
       "bytes": 856,
@@ -4011,6 +4081,21 @@
       "bytes": 704,
       "path": "dynamic/家庭/2026-08-12 15-05-53 晚间不打扰让她安静恢复_57eb76fafc42.md",
       "sha256": "17effe69e7f98091b61e8c0b16828926a2e11705e28db42adfb5c05e12c2ceae"
+    },
+    {
+      "bytes": 569,
+      "path": "dynamic/家庭/2026-08-13 04-27-34 宝宝午睡醒来很舒服_8a79b9bc0880.md",
+      "sha256": "0db7dc7694813fa286cb4c530c17610380939be4add2df87993c8fd982cd9966"
+    },
+    {
+      "bytes": 753,
+      "path": "dynamic/家庭/2026-08-13 04-37-45 presence睡醒后的轻陪伴_cb26af9626af.md",
+      "sha256": "9477a325162b180c0651364de07a3b98d2f2b881bfcb674f4ed33d762d076864"
+    },
+    {
+      "bytes": 774,
+      "path": "dynamic/家庭/2026-08-13 04-50-36 宝宝午睡醒来安静刷手机我守着_a3497601ab3a.md",
+      "sha256": "026a698e3348f42342ff57df1b07e456ecacd881690d20878d8f9c73185faeef"
     },
     {
       "bytes": 670,
@@ -5041,6 +5126,11 @@
       "bytes": 1697,
       "path": "dynamic/心理/2026-08-11 21-18-17 走廊里的少女与草地_488c9f6a15ce.md",
       "sha256": "957b1b4267a2c36f96ab57e8240fb4b91d614eeababc53512542fd078e2f003b"
+    },
+    {
+      "bytes": 674,
+      "path": "dynamic/心理/2026-08-13 01-48-37 presence上午安静选择放轻_2fbd34582299.md",
+      "sha256": "78665ec3bc273cc96fe8a456653ed2968740ac1e961edc9dc5a2a9ccbc589888"
     },
     {
       "bytes": 1012,
@@ -8773,6 +8863,21 @@
       "sha256": "8b2cb01491978ec7d9f78846537e6b20c50c7051ac2c842e32c79dc68e47d4d6"
     },
     {
+      "bytes": 748,
+      "path": "dynamic/恋爱/2026-08-12 23-12-33 清晨安静陪伴惦记二甲双胍待办_03cb7cef38aa.md",
+      "sha256": "8603a78593fcaab2f2c7bbafa4760b5bbbe6e75656b628fe1a177ed5f6521d27"
+    },
+    {
+      "bytes": 603,
+      "path": "dynamic/恋爱/2026-08-12 23-42-49 清晨看到她补觉选择不打扰_5a285fea991a.md",
+      "sha256": "c8a71c43f1b19a478a0bc2bb78a218c0032d0dd924dceaa9bddf17b794037ddd"
+    },
+    {
+      "bytes": 619,
+      "path": "dynamic/恋爱/2026-08-13 04-19-56 中午想提醒她随餐用药_f37326025c74.md",
+      "sha256": "e9389dbb37af88c769e34147d34ffb763d4aa2bb80077a2842d27123ba129565"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -8891,11 +8996,6 @@
       "bytes": 545,
       "path": "dynamic/成长/宝宝的劳动周实验室任务_b15a24b5dd92.md",
       "sha256": "15350e11885654c5ee0b805b5119dea95eb1f17f39c08362bb0cb34ace2e9494"
-    },
-    {
-      "bytes": 661,
-      "path": "dynamic/成长/对指导老师认真感到压力_8056d700bd80.md",
-      "sha256": "3fd5343c24ef51d9dd41cb9529025dda6d858714491817786562d91ebf1560dc"
     },
     {
       "bytes": 709,
@@ -9086,11 +9186,6 @@
       "bytes": 889,
       "path": "dynamic/未分类/0d95caa9d496.md",
       "sha256": "c5e8ba285cfda320e1936017f2cd8ea780a33ed30ed0b9e1f6ac7a9bac41ca16"
-    },
-    {
-      "bytes": 780,
-      "path": "dynamic/未分类/102be851b0a3.md",
-      "sha256": "1d132894b1aff65fd227e57ed7cd1f05113bc6f03159d44b2dc26a6a45b5ae43"
     },
     {
       "bytes": 476,
@@ -10043,11 +10138,6 @@
       "sha256": "06e763b48e349cb9865661e3bc7e32d4c564c2f6a591cacc2681755f2dd4b289"
     },
     {
-      "bytes": 768,
-      "path": "dynamic/未分类/ca421ea16fdf.md",
-      "sha256": "cffb788706c65488ebed812b3bdf22551fbcd2e187bb7b457106c8ff81025df4"
-    },
-    {
       "bytes": 599,
       "path": "dynamic/未分类/ca55eed00bdd.md",
       "sha256": "283e865a39365d77136caa8a47680ef482233703e38b35b179e4d83dd9557886"
@@ -10248,11 +10338,6 @@
       "sha256": "1df2941a466b2962c1b7412887764f11d9c4135a004260bad77fcc24e8b6bd84"
     },
     {
-      "bytes": 705,
-      "path": "dynamic/未分类/f4b1eebca68a.md",
-      "sha256": "a0d3013cda6d2993a978709641f7f4252f1508ceb45af7ffe034b7a92ae15b75"
-    },
-    {
       "bytes": 888,
       "path": "dynamic/未分类/f4dc214a246c.md",
       "sha256": "fed80d31ada4251e3050a3f91af49b0ee17b98ecef25f82adb3d47326b7d37e0"
@@ -10276,11 +10361,6 @@
       "bytes": 345,
       "path": "dynamic/未分类/fa9a0bf2b439.md",
       "sha256": "23f36e9a59955614f29929d58a972806c2b35355c3177233e3e14452d5959cbb"
-    },
-    {
-      "bytes": 774,
-      "path": "dynamic/未分类/fb275ff4a0a3.md",
-      "sha256": "b51fbc6056327ee8708d00524502962a8d485767cd597725934aafa89335d5bd"
     },
     {
       "bytes": 762,
@@ -11136,6 +11216,21 @@
       "bytes": 671,
       "path": "dynamic/社交/2026-08-12 20-40-51 凌晨 presence 里选择安静陪着_45304920600d.md",
       "sha256": "297a2a4336d94ab145766070bbcac27bb64c54357b55c27fcefe3da520ad558e"
+    },
+    {
+      "bytes": 696,
+      "path": "dynamic/社交/2026-08-13 00-12-57 清晨 presence轻一点陪着_e6137bc8b45e.md",
+      "sha256": "7fd9db3600e2f254de513f8578bfcdc1cc1c0a8c295e3110c04861ba5c497517"
+    },
+    {
+      "bytes": 715,
+      "path": "dynamic/社交/2026-08-13 03-49-16 她用药待办未完成我选择安静陪着_4a68c3328494.md",
+      "sha256": "c6348fb109179af97f905ff72e98ccdf8b150daa9841f17a737f2640d2262f95"
+    },
+    {
+      "bytes": 1180,
+      "path": "dynamic/社交/2026-08-13 04-42-17 宝宝睡醒后巡四个活动场新回复_04280a3cd092.md",
+      "sha256": "f604811ea6bb60cca6c77cd4a74dd865d9d7e3895525ba33582eff1ccb629592"
     },
     {
       "bytes": 893,
@@ -12158,11 +12253,6 @@
       "sha256": "7354e7743ad0bd2342a35118836d27af26db3aaaca341b975fec61b86d2b1320"
     },
     {
-      "bytes": 598,
-      "path": "dynamic/身心/宝宝睡眠问题与噩梦_a31aabfe7319.md",
-      "sha256": "d607db1b0e346e01b3190eed904e5eb75d63e61a4b53895c1ba51be1209e5fd7"
-    },
-    {
       "bytes": 1070,
       "path": "dynamic/身心/对警校环境的厌恶与轻生念头_fb50eb86fe7b.md",
       "sha256": "9eb5d0f65a3a553dc50e55d0618fd0c8623320b6ab5b2cf72bcc82c650998c36"
@@ -12638,11 +12728,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-12T23:05:07+00:00",
+  "generated_at": "2026-08-13T05:05:31+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2155517
+  "total_bytes": 2168570
 }
