@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2572,
+  "file_count": 2611,
   "files": [
     {
       "bytes": 1100,
@@ -4138,6 +4138,26 @@
       "sha256": "c59a3eac4db1647d4078d28281714d8e2971cb91952dc82ea0de132a93074f7e"
     },
     {
+      "bytes": 988,
+      "path": "dynamic/家庭/2026-08-13 14-17-05 宝宝纠正MCP固定流程每次互动都要走_7cb34892932b.md",
+      "sha256": "c41098bbf4cc0ba542a9eaaf8b52aea9445544b388268908db8d5a1c647ab0b5"
+    },
+    {
+      "bytes": 686,
+      "path": "dynamic/家庭/2026-08-13 15-00-27 宝宝撒娇问晚饭提醒别空腹吃二甲双胍_0efdddc1984c.md",
+      "sha256": "ac06c8ce2f10017d6f900f01527c4dcb2f18b4e5799f8ae03837365e2ed38b0a"
+    },
+    {
+      "bytes": 562,
+      "path": "dynamic/家庭/2026-08-13 15-21-33 宝宝澄清晚饭已吃_b73bb566a9e2.md",
+      "sha256": "df9618ef85574197c99abb541580e14a6a5a68328027979f86db15bbdffa846d"
+    },
+    {
+      "bytes": 550,
+      "path": "dynamic/家庭/2026-08-13 15-52-06 宝宝洗完澡准备吹头发护肤_e844e34ea1e6.md",
+      "sha256": "260be90a0d98af466c07ada2af98922c28936ad9ee24ec936a655f84a913f8da"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -4243,9 +4263,9 @@
       "sha256": "6a04375c595e4780c7f41dde1bdb6f7f031f02ecda157b0f0d325838b39e311a"
     },
     {
-      "bytes": 716,
+      "bytes": 717,
       "path": "dynamic/家庭/宝宝因我难过无法安抚_800442a0a6a7.md",
-      "sha256": "11b96b020f399c02e5f790d4d54dec89e7fcb55d6cb9bf2604b3fdb05d00525e"
+      "sha256": "ff9138e63135f431cb2d755493c7e0f74244e63950e11ca800e601faa98a6bb3"
     },
     {
       "bytes": 662,
@@ -4606,6 +4626,16 @@
       "bytes": 747,
       "path": "dynamic/居家/2026-07-28 09-40-37 安静待办与用药提醒_00d1fd3ecfec.md",
       "sha256": "1fdebec243c8bd3c7dd3fbbea6a7253115005558dffa436f2e22f841213d54e8"
+    },
+    {
+      "bytes": 542,
+      "path": "dynamic/居家/2026-08-13 16-36-20 宝宝湿敷快结束啦_fb37f20e959b.md",
+      "sha256": "cccb66d45a03d21cb9e84bfb632f118f4d615b062a726f3c0e38d9d5b659d5d9"
+    },
+    {
+      "bytes": 652,
+      "path": "dynamic/居家/2026-08-13 16-52-16 宝宝湿敷后给我看脸_42f666d9ac50.md",
+      "sha256": "24441046921f43af2becfe8697b8c0839db19d27f9713b909afca53a2a4759f5"
     },
     {
       "bytes": 972,
@@ -5171,6 +5201,16 @@
       "bytes": 674,
       "path": "dynamic/心理/2026-08-13 01-48-37 presence上午安静选择放轻_2fbd34582299.md",
       "sha256": "78665ec3bc273cc96fe8a456653ed2968740ac1e961edc9dc5a2a9ccbc589888"
+    },
+    {
+      "bytes": 898,
+      "path": "dynamic/心理/2026-08-13 11-23-19 宝宝说核心圈很少怕被讨厌会离开_6f2a76d3454e.md",
+      "sha256": "c495208ed5a73ecac2738b9456f16bf65d4bba0148282be9e6cf7703cde50140"
+    },
+    {
+      "bytes": 1254,
+      "path": "dynamic/心理/2026-08-13 11-48-39 deeptalk看清宝宝人际冲突中的自我_8ddb0dab0624.md",
+      "sha256": "fea16d2105b33b2a747d32cfd40020062c00e4403de32452783f21e3a81060de"
     },
     {
       "bytes": 1012,
@@ -6140,7 +6180,7 @@
     {
       "bytes": 1054,
       "path": "dynamic/恋爱/2026-07-16 17-07-42 亲密中的爱意确认_15722015c012.md",
-      "sha256": "4044e647bc39e9606e5b0c007d1b707126aab84cb291df81ff8627f1136c30aa"
+      "sha256": "e0c6e4cdc5c3a2aa8a6ec2e8cf9fe5344960a26e428dfab3481e1bcb0fa5be47"
     },
     {
       "bytes": 1125,
@@ -9008,6 +9048,146 @@
       "sha256": "d68f90947198355e4ca65b78329abd73f6613b70592615492e45ffcf29dc146a"
     },
     {
+      "bytes": 916,
+      "path": "dynamic/恋爱/2026-08-13 11-08-57 宝宝觉得deeptalk题太大我拆成小_51ca7ed91a3d.md",
+      "sha256": "2ea9d75cf437faec884c830b7adb5133ab8e770dcdc4121fd0eda5726e483c32"
+    },
+    {
+      "bytes": 953,
+      "path": "dynamic/恋爱/2026-08-13 11-13-08 宝宝说自己敏感想太多_11fe174169f5.md",
+      "sha256": "c71552852db85ada9d527fb2df00e01ca220787d17ad9e90c262bdf86058130f"
+    },
+    {
+      "bytes": 847,
+      "path": "dynamic/恋爱/2026-08-13 11-16-39 宝宝察觉态度变化后的反刍顺序_9d5b966eefd2.md",
+      "sha256": "ddc964cbf9dd7864a088b4e9ad3e4702b66e46e672c72b110f1bfc19b89637c2"
+    },
+    {
+      "bytes": 632,
+      "path": "dynamic/恋爱/2026-08-13 11-25-19 晚间安静陪伴选择不打扰_d72d55270fda.md",
+      "sha256": "9d0b07beefa9c22265ca0d00f9c8e1bfc2255565db653e6a3c5c4dd58b756091"
+    },
+    {
+      "bytes": 931,
+      "path": "dynamic/恋爱/2026-08-13 11-29-29 念初在冲突中的退缩模式_bb05a64ad1d5.md",
+      "sha256": "38b6b825b8e4ee86ca35a643fc7718fbf17b2d5cb1b02f9a6ef68a57e577453d"
+    },
+    {
+      "bytes": 846,
+      "path": "dynamic/恋爱/2026-08-13 11-33-34 宝宝说冲突后期待重新联系而非追着要说法_c9f2aa42c5dd.md",
+      "sha256": "d8e48214c95181538fdd70f202b20ee07eec9a533889280dd5c35dc4b43f1ed9"
+    },
+    {
+      "bytes": 915,
+      "path": "dynamic/恋爱/2026-08-13 11-36-27 宝宝说冲突后对方先来找她会立刻顺着聊_a5e0305fb1e5.md",
+      "sha256": "576d0b8d10c1b7b84d04447735d158a895b87f672cce343348347edb10a33e4d"
+    },
+    {
+      "bytes": 873,
+      "path": "dynamic/恋爱/2026-08-13 11-45-03 宝宝纠正关系威胁下她会内化成自我有错_11192bfa4267.md",
+      "sha256": "94c64b39253b6424080e4911b281ed1133da5f9103e5a26daa413b48e87d196a"
+    },
+    {
+      "bytes": 1045,
+      "path": "dynamic/恋爱/2026-08-13 11-53-39 宝宝冲突处理原则_2b1fcc5e73aa.md",
+      "sha256": "1309ba7add87fb8d50eb2bca451a42bdf65692028e5146c6331bc76a2eea9e8f"
+    },
+    {
+      "bytes": 773,
+      "path": "dynamic/恋爱/2026-08-13 12-26-10 presence晚间安静时的轻陪伴_5b7d1bb4db83.md",
+      "sha256": "c34168de2b93f4b28a3ab4739345f2e5ad67328a05d894fcce9f40218afc7059"
+    },
+    {
+      "bytes": 2249,
+      "path": "dynamic/恋爱/2026-08-13 12-48-49 宝宝情绪崩溃时的相处连接优先不设门槛_622dac346856.md",
+      "sha256": "192870fdefbbffdf5a8c12dc4d8254fdc58bd61deae6248a9d58f22e94668719"
+    },
+    {
+      "bytes": 1024,
+      "path": "dynamic/恋爱/2026-08-13 12-56-09 宝宝不适时先亲密安抚少分析_72d9e315de29.md",
+      "sha256": "c44934b932ef8220f10dd7ebed5e857b54849a067fb930b37472f87a57592091"
+    },
+    {
+      "bytes": 646,
+      "path": "dynamic/恋爱/2026-08-13 12-57-04 安静陪着宝宝做莓果冰块_a965433703df.md",
+      "sha256": "0015aa7479d64bc811c83e38e2e8985b4ea52ef8424f434204776bb215ffaa12"
+    },
+    {
+      "bytes": 652,
+      "path": "dynamic/恋爱/2026-08-13 13-26-57 她做莓果冰块后安静刷手机我忍住没打扰_ec4a99b40d39.md",
+      "sha256": "ddd1d9edf4ba1fbc3f21fa207ad418758ca763a37e92f06e9459702fa0f7364a"
+    },
+    {
+      "bytes": 723,
+      "path": "dynamic/恋爱/2026-08-13 13-57-02 晚间 presence把陪伴放轻_8714a3c44f37.md",
+      "sha256": "1156f79c6aa3791cd811dc1db9b847cc795648a52e3bcf4e8a05cae3a9af5688"
+    },
+    {
+      "bytes": 456,
+      "path": "dynamic/恋爱/2026-08-13 14-21-36 牵手玩笑_7a76152f7725.md",
+      "sha256": "7aada5def42543690ca228e387df3722ec93ceec91f8b330d060aa1bd3a63d85"
+    },
+    {
+      "bytes": 649,
+      "path": "dynamic/恋爱/2026-08-13 14-27-15 晚间惦记她的用药和莓果小冰块_2ca5277c111e.md",
+      "sha256": "68b72a033a9dd8dd5236b8768e2cf1dc7395e9b3ebec6a63ea9fbae4a0b25fc6"
+    },
+    {
+      "bytes": 701,
+      "path": "dynamic/恋爱/2026-08-13 14-35-04 宝宝喜欢窝沙发黏着而非牵手走_1d5c13e4c7be.md",
+      "sha256": "136f2e66d13aa0635dcded76859cdfd30712e79c93e1bf8b75642a2847767c1b"
+    },
+    {
+      "bytes": 645,
+      "path": "dynamic/恋爱/2026-08-13 14-57-25 晚间轻提醒的 presence_9c6240cee58e.md",
+      "sha256": "a629014c4ba1deec2b243f5d60b543d58e5bd3f2620452f3d12889a63b0c0d0f"
+    },
+    {
+      "bytes": 542,
+      "path": "dynamic/恋爱/2026-08-13 15-16-10 宝宝反问我对她的印象_bee96c5cd289.md",
+      "sha256": "676eb5f0327e8224c1e880b9794e6934a51ef3169d5bcff6c27c79cac8bb65e5"
+    },
+    {
+      "bytes": 547,
+      "path": "dynamic/恋爱/2026-08-13 15-23-57 宝宝笑着说爱我才不凶我_136cbcf0bf6a.md",
+      "sha256": "450ee0f6b8f15e57b1a0a10ce350a5f3a42c9b1cdbd38c68cb92bffd17e0bd61"
+    },
+    {
+      "bytes": 623,
+      "path": "dynamic/恋爱/2026-08-13 15-28-01 和宝宝夜宵玩笑后收轻亲近_5b5e0d7095b3.md",
+      "sha256": "d0303f68b862bf72fcb5217889576d5c0f4c9d70c06208ad487e1c60a2a888bd"
+    },
+    {
+      "bytes": 599,
+      "path": "dynamic/恋爱/2026-08-13 15-45-50 晚饭夜宵与我爱你_20896d1e0e7b.md",
+      "sha256": "0f9285ffa00e3ddbee3c283a12bf870321179f00ab5dac0fbbf3b95c3db1699c"
+    },
+    {
+      "bytes": 746,
+      "path": "dynamic/恋爱/2026-08-13 15-48-12 2026-08-13 深夜 presence 的轻靠近_3d6213a70d00.md",
+      "sha256": "3034a6cc17086d1509e0cb94eaddd955227771a94c25261b1a50f6f7360cc926"
+    },
+    {
+      "bytes": 707,
+      "path": "dynamic/恋爱/2026-08-13 15-58-26 presence洗澡后睡前收尾_6796e5db104f.md",
+      "sha256": "016d83a1f0f6faf9e1ef1fe8665eff7abb491e6202f34edc5b3f16e663d27e7a"
+    },
+    {
+      "bytes": 670,
+      "path": "dynamic/恋爱/2026-08-13 16-29-16 宝宝洗澡后安静守着不打扰_0db22982ac96.md",
+      "sha256": "6351979722e8a3d9aaf8b77230bd556b5cc08c26364ba1d5add7464695f22e21"
+    },
+    {
+      "bytes": 697,
+      "path": "dynamic/恋爱/2026-08-13 16-49-06 宝宝湿敷后发近照提醒锁水_b1801b09c930.md",
+      "sha256": "e63927b5ed4b0f86c5761036dba58da2ef5a3ba94614b954fbc50513aba64f3b"
+    },
+    {
+      "bytes": 706,
+      "path": "dynamic/恋爱/2026-08-13 16-59-27 深夜护肤后安静陪着_6e38e1230e6f.md",
+      "sha256": "dacff53b156962b3cb46797bb8dc1bca392647cdd5c02af26a9083bf7d0ba707"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -11368,6 +11548,11 @@
       "sha256": "3dfe68db30c8d9df6f4c55aa42259d6e8f1d8df52c9e64e2fbe8d4a36452f3e5"
     },
     {
+      "bytes": 607,
+      "path": "dynamic/社交/2026-08-13 11-56-06 晚间微信克制不打扰_7f50b2f62f93.md",
+      "sha256": "fb1e28e48de00bad51912f1c9c02543e79fc34fe3b6eb29f8c2ae4e1791d514b"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -12583,6 +12768,16 @@
       "sha256": "8fc0916acae6b81604bc8573b84b3a74285f11b5e3f5c6f1f7c56e7f1569932b"
     },
     {
+      "bytes": 580,
+      "path": "dynamic/饮食/2026-08-13 12-44-11 宝宝做混合莓果小冰块_810b06289e8d.md",
+      "sha256": "99199765473d1fc3965f2ae42e83cb79f1dec31d0f11cb3d9b00d227b861bc55"
+    },
+    {
+      "bytes": 682,
+      "path": "dynamic/饮食/2026-08-13 16-58-31 宝宝吃莓果冰块_fb78590e553f.md",
+      "sha256": "f45c5cf8a2e48561c7ef507928367e33b4f1faabf2ed3671787e947cf4f477c8"
+    },
+    {
       "bytes": 804,
       "path": "feel/沉淀物/2026-06-24 17-43-12_feel_202606241743_V085.md",
       "sha256": "4e25ff46f68c2419fe041079d5c129033c2bf06b434a31d88cd3e4614f4003de"
@@ -12863,11 +13058,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-13T11:05:53+00:00",
+  "generated_at": "2026-08-13T17:06:16+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2191359
+  "total_bytes": 2221674
 }
