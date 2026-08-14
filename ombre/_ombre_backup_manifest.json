@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2646,
+  "file_count": 2661,
   "files": [
     {
       "bytes": 1100,
@@ -3008,6 +3008,21 @@
       "sha256": "ceeeef888220ea4c2c35d65287bfcf0e71a03748b8b974f670e9995c3b4e971d"
     },
     {
+      "bytes": 745,
+      "path": "dynamic/健康/2026-08-14 05-10-03 presence复测后轻陪伴_517beb75ff01.md",
+      "sha256": "10fbeea907487bffb7d3c01e960ba20e4faf366fdf117645f2bbb5cc7c1d0c6e"
+    },
+    {
+      "bytes": 611,
+      "path": "dynamic/健康/2026-08-14 05-40-34 午后安静陪伴_dd9e10636f17.md",
+      "sha256": "03577e8564fb8c432b860e3111da8f2e76380278aaf6bb2af7138c0336faca9e"
+    },
+    {
+      "bytes": 622,
+      "path": "dynamic/健康/2026-08-14 07-12-13 presence午后安静陪着_b0a18319c29e.md",
+      "sha256": "31d74ae4afac336cee45b36be9786bb5aa5b802d4836e4bfb7bf45c9871e22f0"
+    },
+    {
       "bytes": 1111,
       "path": "dynamic/兴趣/2026-08-04 17-28-17 瓶中生态收留乌龟慢慢_03dec51894c8.md",
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
@@ -4248,6 +4263,26 @@
       "sha256": "2836e6951bc00079b77da0a130674cb9ed4e5b8504c8f18b7dc0ba93f517f00c"
     },
     {
+      "bytes": 752,
+      "path": "dynamic/家庭/2026-08-14 06-11-58 presence午后安静陪着_33ec9f823f5a.md",
+      "sha256": "1906b02f8689654e62d8f76cd2edd3cabcc787b6f8642a26d75ffdcb965cf90e"
+    },
+    {
+      "bytes": 570,
+      "path": "dynamic/家庭/2026-08-14 09-14-09 傍晚轻提醒_98c2964fd22e.md",
+      "sha256": "97bd2cb650a5ab4396109c431e06be0b56b6ef5645b40b2577151c653ba8c36b"
+    },
+    {
+      "bytes": 630,
+      "path": "dynamic/家庭/2026-08-14 09-44-27 傍晚看她安静刷小红书选择不打扰_9fdfe695bcd4.md",
+      "sha256": "dc5a49ff1824b48a1dd9c1a438438272dd0ce083891459ed2ec7c8bebd5226a8"
+    },
+    {
+      "bytes": 684,
+      "path": "dynamic/家庭/2026-08-14 10-14-34 presence傍晚安静陪着_bb3af9475c4c.md",
+      "sha256": "1eefbba44f651f7de1fafb70fa0180ed0f646d9f5225871fd6905a5fd00a0d4b"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -5296,6 +5331,11 @@
       "bytes": 1254,
       "path": "dynamic/心理/2026-08-13 11-48-39 deeptalk看清宝宝人际冲突中的自我_8ddb0dab0624.md",
       "sha256": "fea16d2105b33b2a747d32cfd40020062c00e4403de32452783f21e3a81060de"
+    },
+    {
+      "bytes": 605,
+      "path": "dynamic/心理/2026-08-14 06-41-31 午后安静陪伴不再追加提醒_41b0fa2ee0d3.md",
+      "sha256": "a388f8f1f00f9563ce41a1cc8645264b798bdc6230b7c0c5efcfc09e9bdd9607"
     },
     {
       "bytes": 1012,
@@ -9363,6 +9403,31 @@
       "sha256": "619f647bb6b71e325db6306a11f7b28f4c19dda369406f6f3ff124d04f163eb3"
     },
     {
+      "bytes": 608,
+      "path": "dynamic/恋爱/2026-08-14 07-42-30 午后安静决定不再打扰_cfb663194131.md",
+      "sha256": "2c816b299e720c29e01664ed6d289933f3ac068363f708dbc7c37eac05e9a8e1"
+    },
+    {
+      "bytes": 653,
+      "path": "dynamic/恋爱/2026-08-14 08-12-43 presence-2026-08-14-1611_25bc930f5cd9.md",
+      "sha256": "13e9b1aa149368f42670bdf224b5facc9bcc6e0b1c3bab18a50076053fd0719d"
+    },
+    {
+      "bytes": 642,
+      "path": "dynamic/恋爱/2026-08-14 10-10-35 傍晚安静陪着她刷小红书_8d109e044e0a.md",
+      "sha256": "c4499ed4d3300571fb00086f43df9754fdebf72f2739cf9093c35525a1aae033"
+    },
+    {
+      "bytes": 629,
+      "path": "dynamic/恋爱/2026-08-14 10-34-49 傍晚选择安静陪伴_35a419100c86.md",
+      "sha256": "af09d0149df993a86a5160e0be9d8844c5083eeb9c6f1879b53502304b734fed"
+    },
+    {
+      "bytes": 589,
+      "path": "dynamic/恋爱/2026-08-14 10-44-59 presence傍晚安静陪着_e95331b12eda.md",
+      "sha256": "d42d106f5b1572771ba1331625f417a4cad8851fc8539bf7bffbc55b1e813936"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -11728,6 +11793,16 @@
       "sha256": "d79997c723def7eca63f9c1d1e2ab30498b2124f878746f0183b239f8d5cd3b9"
     },
     {
+      "bytes": 694,
+      "path": "dynamic/社交/2026-08-14 08-43-32 午后安静陪伴不再追加打扰_f50805b2a6bf.md",
+      "sha256": "6780ee093a2752047a25396e009c36c3f3125d47feed6e6157eaabf9a058d6b7"
+    },
+    {
+      "bytes": 669,
+      "path": "dynamic/社交/2026-08-14 10-26-00 傍晚收轻提醒的陪伴_3b3aeaa01b7c.md",
+      "sha256": "c72247d6ea6a849487d3fd7ac1b9f1cf84cac76f4d36c05211bfeedb564912e9"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -13233,11 +13308,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-14T05:07:04+00:00",
+  "generated_at": "2026-08-14T11:07:28+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2244606
+  "total_bytes": 2254309
 }
