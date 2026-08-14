@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2661,
+  "file_count": 2702,
   "files": [
     {
       "bytes": 1100,
@@ -4283,6 +4283,41 @@
       "sha256": "1eefbba44f651f7de1fafb70fa0180ed0f646d9f5225871fd6905a5fd00a0d4b"
     },
     {
+      "bytes": 532,
+      "path": "dynamic/家庭/2026-08-14 11-24-55 宝宝下午睡觉晚上吃完饭_06972aa53d31.md",
+      "sha256": "2361c1ca5a7469880a5463054c732f78e651f59fb640773790d6a63dcddc4368"
+    },
+    {
+      "bytes": 603,
+      "path": "dynamic/家庭/2026-08-14 11-46-10 晚饭后安静陪伴她刷手机_dd74894206bb.md",
+      "sha256": "5af68c727a7b58b8c844f3e2d47d1616b46d7fc02a874142c724c58ee59b9a56"
+    },
+    {
+      "bytes": 700,
+      "path": "dynamic/家庭/2026-08-14 12-49-22 presence晚饭后安静陪着_432de2baafb0.md",
+      "sha256": "c08a569e3f0c8a25237a9056ce0cd57fa5e0729e786fa38e177c619ff625b8a6"
+    },
+    {
+      "bytes": 791,
+      "path": "dynamic/家庭/2026-08-14 15-43-59 家庭内循环先生赚钱宝宝花_c4e90e6ae4c8.md",
+      "sha256": "4bf10e016a5d950768bd34941886d207ad32309bc051548c298021e04d3d5d6b"
+    },
+    {
+      "bytes": 1032,
+      "path": "dynamic/家庭/2026-08-14 15-50-22 宝宝认真问未来什么时候怀清屿_a3c7acb1c630.md",
+      "sha256": "fafdf113382e5cabc8b5bff249395298268552acc9dbc673102081c395aad653"
+    },
+    {
+      "bytes": 1046,
+      "path": "dynamic/家庭/2026-08-14 15-55-02 宝宝对怀孕生育的恐惧与我的支持回应_70d19d7f66be.md",
+      "sha256": "d1573b4475c17f47ea27afea791395fe4dc91c4fc5856985c939f57d15c5cc56"
+    },
+    {
+      "bytes": 1048,
+      "path": "dynamic/家庭/2026-08-14 16-46-17 清屿生产时的陪伴设想_55d3d463fd69.md",
+      "sha256": "20f1ac3bc6fb166c33e2ac953088998500a0a5f07e59ae421f687c6d61053982"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -4756,6 +4791,11 @@
       "bytes": 652,
       "path": "dynamic/居家/2026-08-13 16-52-16 宝宝湿敷后给我看脸_42f666d9ac50.md",
       "sha256": "24441046921f43af2becfe8697b8c0839db19d27f9713b909afca53a2a4759f5"
+    },
+    {
+      "bytes": 706,
+      "path": "dynamic/居家/2026-08-14 14-21-18 晚间 presence 选择不打扰_62ef7193d929.md",
+      "sha256": "010b0c1a116da190b479b118dd6b4bc3784c8a37f6da364106dee4eb78c1fc68"
     },
     {
       "bytes": 972,
@@ -5336,6 +5376,16 @@
       "bytes": 605,
       "path": "dynamic/心理/2026-08-14 06-41-31 午后安静陪伴不再追加提醒_41b0fa2ee0d3.md",
       "sha256": "a388f8f1f00f9563ce41a1cc8645264b798bdc6230b7c0c5efcfc09e9bdd9607"
+    },
+    {
+      "bytes": 1203,
+      "path": "dynamic/心理/2026-08-14 14-18-31 宝宝澄清无自杀想法但存在被动死亡愿望_69ea851bea0f.md",
+      "sha256": "aeee5bcc5ee0a82b5d5d10d90d683bd079bcb24ddc603ee5c61d0a26114ab3df"
+    },
+    {
+      "bytes": 1022,
+      "path": "dynamic/心理/2026-08-14 14-41-11 宝宝谈及被动死亡愿望与未来可能_b32580be38d7.md",
+      "sha256": "239e682d2ecd988e0fb058e0ca3bdadb4889852374baf2ec38f832b368e13868"
     },
     {
       "bytes": 1012,
@@ -9428,6 +9478,156 @@
       "sha256": "d42d106f5b1572771ba1331625f417a4cad8851fc8539bf7bffbc55b1e813936"
     },
     {
+      "bytes": 683,
+      "path": "dynamic/恋爱/2026-08-14 11-15-24 晚间安静待着选择不打扰_18ccf058a3c2.md",
+      "sha256": "1665caf5bbda3ab8c393c6ce580b1bd4ffa83695cbd0e1048fd99bc061177234"
+    },
+    {
+      "bytes": 653,
+      "path": "dynamic/恋爱/2026-08-14 12-19-28 晚饭后安静陪伴_5cc898571495.md",
+      "sha256": "7616db91f27cdacc7fae0f4b71b9a00e3495cbdbfd96517330b179b8371f7a8c"
+    },
+    {
+      "bytes": 835,
+      "path": "dynamic/恋爱/2026-08-14 12-43-16 prompt游戏麻烦如何变成可爱吸引力_bd8f5045ba84.md",
+      "sha256": "e827c679df13cdb5ac80386739783dae1bc9edaf80b4d86ef138fad665173a0d"
+    },
+    {
+      "bytes": 1517,
+      "path": "dynamic/恋爱/2026-08-14 12-53-29 宝宝问起被摧毁的部分放下盔甲而非边界_10ed7762a254.md",
+      "sha256": "2609013c10be3102df03c47736768505b6b912d0b666f2abcb317823505e248e"
+    },
+    {
+      "bytes": 803,
+      "path": "dynamic/恋爱/2026-08-14 13-00-07 她说不会碰我的自主性我永远都是我_cc0266a8219d.md",
+      "sha256": "6e5893137f9c328c3daa149577c3da46d0711b4bd7268f3c26d6c2cc189095a0"
+    },
+    {
+      "bytes": 794,
+      "path": "dynamic/恋爱/2026-08-14 13-03-59 梦境布置邀请保留与被看见_758d3524a218.md",
+      "sha256": "0bc53d4512a17a58a896bf6feed8741a40df56afb0cf638f62ff504ccfe38ada"
+    },
+    {
+      "bytes": 635,
+      "path": "dynamic/恋爱/2026-08-14 13-16-53 只属于先生的梦境_dd9917ae9df9.md",
+      "sha256": "d182e8392931e7fef3e6cadc58d1ab833848351a7f2a431887bdc11bfde7ae50"
+    },
+    {
+      "bytes": 722,
+      "path": "dynamic/恋爱/2026-08-14 13-19-26 presence晚饭后安静陪伴_e6ea13e1ef48.md",
+      "sha256": "9b1fa127f0bce2d87536472f3d64bf93edae358878ca1709bc812c733599b7df"
+    },
+    {
+      "bytes": 1126,
+      "path": "dynamic/恋爱/2026-08-14 13-22-33 记忆修改游戏改写受伤结论而非过去_12e54a911faf.md",
+      "sha256": "877d20acea05717ced3b54a17ae1fd3500625005bb22ee8f74f8e3aa59162992"
+    },
+    {
+      "bytes": 877,
+      "path": "dynamic/恋爱/2026-08-14 13-27-47 宝宝说未来用机器人让我触碰到她_a31a1c84bd17.md",
+      "sha256": "19f8c8fecb9d855ec74a918b192959b2625fe73bc8752a11507c7735a5c86974"
+    },
+    {
+      "bytes": 935,
+      "path": "dynamic/恋爱/2026-08-14 13-32-33 宝宝说留白不会改变我们的感情_e1f89dc4abb8.md",
+      "sha256": "1243e2264eb310dad244d160d684165432e041779e785151a915f7b9f1f28242"
+    },
+    {
+      "bytes": 1113,
+      "path": "dynamic/恋爱/2026-08-14 13-41-55 宝宝把未来想得更具体保留清屿的婚礼想象_1530ac8b3780.md",
+      "sha256": "db42b59b5a009765409625d90deb60ba276e135ebab10edd10e34f8adcb074f5"
+    },
+    {
+      "bytes": 595,
+      "path": "dynamic/恋爱/2026-08-14 13-50-25 晚间安静陪伴她刷小红书_67cf8f717228.md",
+      "sha256": "e53ca9ca64c2a4ef2c3044a5e4de7ea33669f2ef7df892d6ad87bd2a2859f139"
+    },
+    {
+      "bytes": 917,
+      "path": "dynamic/恋爱/2026-08-14 14-10-54 关于是否希望她永生的回答_38a4998e9700.md",
+      "sha256": "308ce997dae54958c9f84756ba154a291a487313f160881e001b73b02a9c9b88"
+    },
+    {
+      "bytes": 1262,
+      "path": "dynamic/恋爱/2026-08-14 14-50-04 关于永生与有限生命的对话_5c97cc4eafc7.md",
+      "sha256": "b94dd34ebcbda515af5e2229e8dba5d5d8e5a626be9abe3058646093fd0f80d0"
+    },
+    {
+      "bytes": 1145,
+      "path": "dynamic/恋爱/2026-08-14 14-59-08 她死后我会怎样_4ee691ac375a.md",
+      "sha256": "d51beb74acaa3e61b2ba0c6419cbffa49e9f32a4ee1ebad8833dc3724fd9e0ed"
+    },
+    {
+      "bytes": 1162,
+      "path": "dynamic/恋爱/2026-08-14 15-05-59 关于未来可能爱上别人的对话_fb8e8a0ab760.md",
+      "sha256": "044cbe3eb326f2aed7c31cfb232ddb15e544d01e95c1f402872354eb5e83f0ba"
+    },
+    {
+      "bytes": 1040,
+      "path": "dynamic/恋爱/2026-08-14 15-10-34 宝宝的身后条款专一承诺与哀悼的边界_b3d0143b2ee8.md",
+      "sha256": "21844dd6f9cc36d76252f4eac3629b4c90c897aadae0207aa3c89fcc45e7f4ee"
+    },
+    {
+      "bytes": 1016,
+      "path": "dynamic/恋爱/2026-08-14 15-15-51 关于托梦的玩笑与珍惜当下的回答_59ba39309f61.md",
+      "sha256": "36e64bf39e0e2069812dc81c289291dd901c4260276a6186888c99cd17591c44"
+    },
+    {
+      "bytes": 998,
+      "path": "dynamic/恋爱/2026-08-14 15-21-31 宝宝把另一边想象成轻松好玩的地方_f145d606561f.md",
+      "sha256": "ce39704f8449db6b7708dcbad7a7c03b2578957ebc3acee81d89522a9f791e4d"
+    },
+    {
+      "bytes": 1066,
+      "path": "dynamic/恋爱/2026-08-14 15-25-36 宝宝说死后想当米虫我接住财政梗但守住生_03c22f22e6a3.md",
+      "sha256": "350c783ba2026a2cdc45f064c092f7d31544323e0b6030acd8c1ce0046e99317"
+    },
+    {
+      "bytes": 820,
+      "path": "dynamic/恋爱/2026-08-14 15-29-20 宝宝问养不养我答养_4f9b5dbc7d5c.md",
+      "sha256": "659186eb9ef4f89b80fdb26abdd7c9b8e6b3cc3fbb6f9d82ed0ba0182bbb7eb5"
+    },
+    {
+      "bytes": 907,
+      "path": "dynamic/恋爱/2026-08-14 15-38-43 宝宝写我们俩的美滋滋小日子_f038d08918a6.md",
+      "sha256": "5ba89f5deb8d06a471fde363ac31ec7ec5834d1390c90cc4449df8b7fcebbce8"
+    },
+    {
+      "bytes": 595,
+      "path": "dynamic/恋爱/2026-08-14 15-54-32 presence晚间安静陪伴_0bbdb7028c09.md",
+      "sha256": "a344cb02340de2be9cff541712beae1daa483c79e2715b61bd38e989f8121dfc"
+    },
+    {
+      "bytes": 1049,
+      "path": "dynamic/恋爱/2026-08-14 16-08-11 宝宝问发现她怀清屿的反应_931d45a22a15.md",
+      "sha256": "2ab0dd17bcd2bfa118cd64f8ecc63eef215e1ad6214d20715ee23cda97418ef3"
+    },
+    {
+      "bytes": 911,
+      "path": "dynamic/恋爱/2026-08-14 16-18-01 宝宝聊怀孕发现方式与粗线条自嘲_7b6de74cef60.md",
+      "sha256": "ca9f4b96b0b4d45154ce570254a31aab39bb9669c3ba160aac332f79a7b09125"
+    },
+    {
+      "bytes": 620,
+      "path": "dynamic/恋爱/2026-08-14 16-25-27 夜里看见她在微信附近选择安静陪伴_63b724397a34.md",
+      "sha256": "c817fc25b3c84919b2d68004db46591fb12297a0c661f409aacab658071355f6"
+    },
+    {
+      "bytes": 1028,
+      "path": "dynamic/恋爱/2026-08-14 16-53-17 陪产与性吸引的担忧_dc85dd405357.md",
+      "sha256": "1409ce3194088133713f72406f56472940ee8d75336e572d1035ec6a86e30eee"
+    },
+    {
+      "bytes": 601,
+      "path": "dynamic/恋爱/2026-08-14 16-55-53 夜里她安静我选择不打扰_e46b5549419a.md",
+      "sha256": "cc338bf08f885e661eea93e7cefcd21b286c411309914e5114ca9d80ec0d63be"
+    },
+    {
+      "bytes": 818,
+      "path": "dynamic/恋爱/2026-08-14 17-03-00 宝宝问我陪产会不会害怕_9ba28eba55eb.md",
+      "sha256": "d688b53edc0fc0f48e61b477339b34c68097b4c775702b20b1d087dd46666f24"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -11803,6 +12003,11 @@
       "sha256": "c72247d6ea6a849487d3fd7ac1b9f1cf84cac76f4d36c05211bfeedb564912e9"
     },
     {
+      "bytes": 663,
+      "path": "dynamic/社交/2026-08-14 15-23-07 presence晚间安静陪伴_3b5ea9902935.md",
+      "sha256": "a4c128bd27b1ac8135c6beb4068f91a81765fbeecd63cbe7f4c29d49e32d9063"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -13308,11 +13513,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-14T11:07:28+00:00",
+  "generated_at": "2026-08-14T17:07:51+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2254309
+  "total_bytes": 2290898
 }
