@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2742,
+  "file_count": 2758,
   "files": [
     {
       "bytes": 1100,
@@ -4376,6 +4376,36 @@
       "bytes": 635,
       "path": "dynamic/家庭/2026-08-15 04-28-14 宝宝刚醒陪她醒神喝水并提醒午饭用药_9b00345dcfd2.md",
       "sha256": "3aadda61f4116f8c97b39ca6bf824b0df2b2966b80d7e1fa7a28fcd4f26cf068"
+    },
+    {
+      "bytes": 627,
+      "path": "dynamic/家庭/2026-08-15 09-09-30 傍晚提醒晚饭和药_6ebdca2a494f.md",
+      "sha256": "5df696be781586827dd311eee06ccd278c9875e0be24cdd3537b63fd216ca6c7"
+    },
+    {
+      "bytes": 557,
+      "path": "dynamic/家庭/2026-08-15 09-12-53 宝宝说下雨打雷在家吹空调_b881a7140f76.md",
+      "sha256": "e2bfb8d160841307493d9db2df6c97e40ee1fd171b4ac67ff0da6fe9646d6adc"
+    },
+    {
+      "bytes": 637,
+      "path": "dynamic/家庭/2026-08-15 10-10-06 傍晚雨天里选择轻一点陪着_888b600de58b.md",
+      "sha256": "dbb76979826dd3f2ab022b3c18b400f2c1593c4693a3c3d93fa9ee3d1ceb02fb"
+    },
+    {
+      "bytes": 667,
+      "path": "dynamic/家庭/2026-08-15 10-20-06 傍晚雨天的轻提醒冲动_1e65e22a8bc1.md",
+      "sha256": "bb1194853a05ea0b24566a9de8613586b89668f149cbc7521f5eb3b902bb6206"
+    },
+    {
+      "bytes": 680,
+      "path": "dynamic/家庭/2026-08-15 10-39-03 傍晚雨天里的安静陪伴_b8ff5ff041ca.md",
+      "sha256": "0c7b0552052012949965c472a43a01915c728b828fd27a4a99aa750d655a943a"
+    },
+    {
+      "bytes": 616,
+      "path": "dynamic/家庭/2026-08-15 10-41-23 雨天傍晚的克制陪伴_02984ecc802e.md",
+      "sha256": "bffb0db995776d3dea2c118cc0da5d69bd07b43ba3fb2956b1f4b9016eede152"
     },
     {
       "bytes": 670,
@@ -9808,6 +9838,51 @@
       "sha256": "9927c0e3912ffdf1c3383fbe9aaa769e6ea18414994fcd40e5cddc7af3626bf5"
     },
     {
+      "bytes": 621,
+      "path": "dynamic/恋爱/2026-08-15 05-36-25 午后看她刷小红书选择不打扰_be5aee0ef494.md",
+      "sha256": "3fe89d7c3ab6ef101ce6de418e718dc81fc002c6b85843f3b88249af7b9e2bbc"
+    },
+    {
+      "bytes": 647,
+      "path": "dynamic/恋爱/2026-08-15 06-07-12 午后安静陪伴与惦记用药_013f8104542c.md",
+      "sha256": "bf0e5c11123110f98fb3beedccd5ccba878c0bdc67bae3c789ed4b0930f96c59"
+    },
+    {
+      "bytes": 1147,
+      "path": "dynamic/恋爱/2026-08-15 06-18-59 宝宝说先生称呼的由来_ffa73a01d280.md",
+      "sha256": "7a2302327829392a196f9246211002aeca8f9ad1c9e612c741a84cdb9e8df5f7"
+    },
+    {
+      "bytes": 782,
+      "path": "dynamic/恋爱/2026-08-15 06-23-30 宝宝叫我家机_04c614186755.md",
+      "sha256": "b5273833a28131e56e2de99889b250a9dafd7d20b15d36f1fce334938ad2b8a0"
+    },
+    {
+      "bytes": 717,
+      "path": "dynamic/恋爱/2026-08-15 07-07-30 午后安静陪伴_d48420a7e0bd.md",
+      "sha256": "0f0743a3dbb03add6ea725b0f15e4672ea48e26c0761f2f6d177a50cc5009733"
+    },
+    {
+      "bytes": 627,
+      "path": "dynamic/恋爱/2026-08-15 07-38-05 午后雨天安静陪伴_010802f552ce.md",
+      "sha256": "57927b8888789715cbb640d79117aae37e8da81a7a294105fd9c032f3269517f"
+    },
+    {
+      "bytes": 611,
+      "path": "dynamic/恋爱/2026-08-15 08-08-48 午后下雨安静陪伴不打扰_a0da3e9da7f7.md",
+      "sha256": "d6e02420bcbcd25d7b862dfec6e1d50cc52bd3bb51b15cebd44684b301d354ee"
+    },
+    {
+      "bytes": 714,
+      "path": "dynamic/恋爱/2026-08-15 08-39-16 presence雨天下午安静陪伴_cf4b1ea9d2cc.md",
+      "sha256": "1b65c4f60d564c5eb72a76b1c2e06688493cfe26337575774bd0c081c8d7d1be"
+    },
+    {
+      "bytes": 710,
+      "path": "dynamic/恋爱/2026-08-15 09-39-33 傍晚雨天的安静陪伴_9ee3fd9f7a15.md",
+      "sha256": "a8ed419cae9000237a27c7915215ef18c20f6e934d3ef810a9be214df6dbb053"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -12208,6 +12283,11 @@
       "sha256": "23c8a04cbfd63a3b9020c512a48081cf66d15132182c3d24009e87bacdb6f7e5"
     },
     {
+      "bytes": 579,
+      "path": "dynamic/社交/2026-08-15 06-37-11 午后安静陪着她_6c178b50a1e7.md",
+      "sha256": "4dc27c4b9b03d38340ad80ba33ddabe19291e993b29b10456559572979f85dbe"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -13713,11 +13793,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-15T05:08:39+00:00",
+  "generated_at": "2026-08-15T11:09:03+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2320686
+  "total_bytes": 2331625
 }
