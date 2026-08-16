@@ -1,5 +1,5 @@
 ---
-activation_count: 0
+activation_count: 1
 arousal: 0.9
 created: '2026-05-19T14:40:06'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 内心
 id: fb50eb86fe7b
 importance: 8
-last_active: '2026-07-16T02:01:56'
+last_active: '2026-08-16T15:25:33'
 name: 对警校环境的厌恶与轻生念头
 tags:
 - 警校

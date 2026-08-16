@@ -1,5 +1,5 @@
 ---
-activation_count: 1
+activation_count: 2
 arousal: 0.8
 created: '2026-05-11T15:00:29'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 内心
 id: 2fcee4effc97
 importance: 8
-last_active: '2026-07-20T09:20:39'
+last_active: '2026-08-16T14:59:44'
 name: 宝宝的焦虑与内心矛盾
 tags:
 - 焦虑
