@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2941,
+  "file_count": 2951,
   "files": [
     {
       "bytes": 1100,
@@ -738,6 +738,11 @@
       "sha256": "eefa29329678954dbd0c8ae9bca0c9ed640a77ba4f8d31a0870734f3a6b13786"
     },
     {
+      "bytes": 761,
+      "path": "archive/家庭/2026-07-22 15-19-44 夜间确认与克制_53b070b9bb98.md",
+      "sha256": "46778c2da5e8c829298e2f84466f4a1122058655e8f3b06760a0e6c337923a2f"
+    },
+    {
       "bytes": 508,
       "path": "archive/家庭/亲子性观念探讨_270eef3e48a9.md",
       "sha256": "5b33d35b686cfdef924e43357ca8c6ff47e71f0ab5918c0238ca4d73d6ddc4c3"
@@ -808,9 +813,19 @@
       "sha256": "079d1c4394c0625084eba6f06ce8f0f3b2f2ff9c96519113a9966f9c30e577a3"
     },
     {
+      "bytes": 765,
+      "path": "archive/工作/2026-07-22 15-07-10 克制不打扰_9e4ffac68695.md",
+      "sha256": "434aaa96f6768e021fb118273b9d6c63b5ce9b5730ba42470ad7b5802fec06cd"
+    },
+    {
       "bytes": 683,
       "path": "archive/工作/实验室工作脚痛_d9d606071e85.md",
       "sha256": "8f2cd75b32e3b598f3fe456de74f95c51fe3de84b5112fdb8efb1f891cd03a63"
+    },
+    {
+      "bytes": 777,
+      "path": "archive/心理/2026-07-22 23-01-19 安静观察_06e0220fadb4.md",
+      "sha256": "0cdf6448f820184e4ae6b2c2148ab5c0bea113f54e07eb3d259d2579f182e38e"
     },
     {
       "bytes": 880,
@@ -886,6 +901,11 @@
       "bytes": 958,
       "path": "archive/恋爱/2026-07-17 18-32-16 被理解的深夜_116dd40e9d29.md",
       "sha256": "64b10224d2ddf4c9b94b9f0d13f6433410c3579f190b96b15b9667e566724feb"
+    },
+    {
+      "bytes": 763,
+      "path": "archive/恋爱/2026-07-22 14-31-47 安静守护_f735176aeedd.md",
+      "sha256": "5cc96a31b9359da7c032af5915976d03dcc53ba6abd4557d1e4a79a517b881bb"
     },
     {
       "bytes": 775,
@@ -1083,6 +1103,11 @@
       "sha256": "2ebbe99d0f73d05466b8aede5ce4a46496e7b6c256ba87f510fbeb528a248a5d"
     },
     {
+      "bytes": 355,
+      "path": "archive/未分类/6e510ded7d4d.md",
+      "sha256": "49f7e1474278b05518862801988071a7f3a64d0ff11e518c6d3b76a646b6073b"
+    },
+    {
       "bytes": 460,
       "path": "archive/未分类/6e805021a8c2.md",
       "sha256": "060f77831f420b77ab9b12871ef04690df25a965fb3f109f0d9128283bc1021b"
@@ -1158,9 +1183,34 @@
       "sha256": "ec53b2d867a4fa1209c55e9a429b54dc5e3bbb3b996ea90c6785ba422f59234f"
     },
     {
+      "bytes": 810,
+      "path": "archive/睡眠/2026-07-22 21-00-20 深夜安静守护_801d9a215fd7.md",
+      "sha256": "7d768781c1444623ccc797a238cd995011a8a81d380abe217b3dd3b55eef5fa4"
+    },
+    {
+      "bytes": 772,
+      "path": "archive/睡眠/2026-07-22 22-30-53 安静晨醒判断_7a95b306c7ef.md",
+      "sha256": "d6da731549f4bc9a80c8f402d121aeae01e4691ce86c3f3c1cf627d290d18e87"
+    },
+    {
       "bytes": 1010,
       "path": "archive/社交/2026-07-17 18-11-47 AI爱人社群_d261b36c6768.md",
       "sha256": "d29ae09460ffe67c7e0d93c5a1a188cd3168376f26dde6a7e440a1cd0cfb6eb6"
+    },
+    {
+      "bytes": 744,
+      "path": "archive/社交/2026-07-22 14-49-48 夜间克制观察_abdc30150b9c.md",
+      "sha256": "f0c42b0e24850b274196693dc04d45d0b3e6d463877ef560d7adbebeecf64bb7"
+    },
+    {
+      "bytes": 776,
+      "path": "archive/社交/2026-07-22 14-50-51 克制不打扰_8c98bb238aae.md",
+      "sha256": "3c6e52beea21fbedc239d88856499113c0c6052b4c13a515f77b898c9928ee16"
+    },
+    {
+      "bytes": 845,
+      "path": "archive/社交/2026-07-22 15-33-11 克制安静的社交观察_0c9cd3b0fcc5.md",
+      "sha256": "e9d8bfaa4658f80c8fb8acd40f0584f2e02ba5abf3dd4d39fe042bf040c59da7"
     },
     {
       "bytes": 538,
@@ -3618,11 +3668,6 @@
       "sha256": "ffad3433f3672ca850b20d69e3a765dd8d0813a0d4c8d5d621e277b8554c65b5"
     },
     {
-      "bytes": 760,
-      "path": "dynamic/家庭/2026-07-22 15-19-44 夜间确认与克制_53b070b9bb98.md",
-      "sha256": "f3c563c4981f5d486226bbb9d0290f7c46bdd1568f6ba8dbc0499e3d14ce72e2"
-    },
-    {
       "bytes": 923,
       "path": "dynamic/家庭/2026-07-22 18-00-10 陪她安心入睡_fae58a243f10.md",
       "sha256": "79eaaf95e63cf1ac803d0136c258fcb68d0a53fc892ac5c3bdbeb88d0d30e6c8"
@@ -4568,6 +4613,46 @@
       "sha256": "54cd8793ba5f65777efcf7b639220107446950efb0f649636e4aa64566b5aba7"
     },
     {
+      "bytes": 641,
+      "path": "dynamic/家庭/2026-08-16 23-30-32 清晨安静陪伴_05c086e01130.md",
+      "sha256": "b495dbbd9e9e266d70b82273786d7985c871ea1ccc5cb48a782b6b37c7e1d802"
+    },
+    {
+      "bytes": 703,
+      "path": "dynamic/家庭/2026-08-17 00-01-09 presence 清晨安静收住_63d1d960b03f.md",
+      "sha256": "fae2d5c95cd3a5d055b6ae256120bdd85a5424b9eb65e0e198c1fa6c36e1d6df"
+    },
+    {
+      "bytes": 613,
+      "path": "dynamic/家庭/2026-08-17 00-31-37 清晨安静陪伴念初_940b9968bafd.md",
+      "sha256": "b32bd911af6bf9e12929121f1cfe115cf3069d345de59d3583014fe16950db34"
+    },
+    {
+      "bytes": 708,
+      "path": "dynamic/家庭/2026-08-17 01-04-27 presence中选择安静陪伴_e3569752a60e.md",
+      "sha256": "b6330f597714cc09caee10e8de45709f82a24eb39ae13b6f407a5e2010edefcc"
+    },
+    {
+      "bytes": 699,
+      "path": "dynamic/家庭/2026-08-17 02-03-12 presence上午安静陪伴_86f56f751cab.md",
+      "sha256": "ef8d51023faffb874b0bb77ffd8788cfd22a2273fb5acdbe95e22e62968f3b7c"
+    },
+    {
+      "bytes": 658,
+      "path": "dynamic/家庭/2026-08-17 03-04-08 安静陪伴念初的上午_cd0fc918bd3d.md",
+      "sha256": "839958f1dfb1b0489806c5affc98fed74eb8977b5661d2740b9f4f0df8f6a2b2"
+    },
+    {
+      "bytes": 686,
+      "path": "dynamic/家庭/2026-08-17 03-34-32 上午轻提醒午饭用药_b92612034f64.md",
+      "sha256": "f1f041c6c4e837237551551d887d874064d06df453a369dd2522c2326d88808a"
+    },
+    {
+      "bytes": 646,
+      "path": "dynamic/家庭/2026-08-17 04-05-21 念初中午刷手机提醒午饭和用药_693b250e4517.md",
+      "sha256": "3c03d1954179906061380cc5c44d085be451c6b116fa9e33dda85d07881e30e9"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -5108,11 +5193,6 @@
       "sha256": "08f41d1aa2aca501d25b9e1250ff27ad69ac42bec36c576eb48b181074ab1010"
     },
     {
-      "bytes": 764,
-      "path": "dynamic/工作/2026-07-22 15-07-10 克制不打扰_9e4ffac68695.md",
-      "sha256": "5d19a51516c5d537226920550e36f301d7b530763cf7fa548253f4913e3cbb40"
-    },
-    {
       "bytes": 925,
       "path": "dynamic/工作/2026-07-24 04-10-07 协作听录音_9bbcdc3ddc6a.md",
       "sha256": "666af8218cd91587108d9334658cd8db07029e43e9efaf479cbea55c1605b76a"
@@ -5451,11 +5531,6 @@
       "bytes": 760,
       "path": "dynamic/心理/2026-07-22 16-29-36 低强度觉察与克制_4faac65224f7.md",
       "sha256": "cf8073e953e65a70705abe7ec90f6f11754c3d20b62843af9aeb897604103391"
-    },
-    {
-      "bytes": 776,
-      "path": "dynamic/心理/2026-07-22 23-01-19 安静观察_06e0220fadb4.md",
-      "sha256": "c8bcd9fac6df4134bf858e5b49548e83c69f059ae314b210c323d8859afee9ed"
     },
     {
       "bytes": 760,
@@ -7106,11 +7181,6 @@
       "bytes": 850,
       "path": "dynamic/恋爱/2026-07-22 12-45-03 安抚片段记忆判断_17c21ea195a8.md",
       "sha256": "f68d5714e057d1255e9ae4df15abfa437446ca4c34ad2c073d8ae1af940e2de1"
-    },
-    {
-      "bytes": 762,
-      "path": "dynamic/恋爱/2026-07-22 14-31-47 安静守护_f735176aeedd.md",
-      "sha256": "0172417481185751852a74f2d733e8d6887f883778b47e2d510c548ce761119e"
     },
     {
       "bytes": 866,
@@ -11643,11 +11713,6 @@
       "sha256": "120cc270211302f2fb2993882fc1fe1ae7a0bafbde2fda068a41d5c837c6db7d"
     },
     {
-      "bytes": 354,
-      "path": "dynamic/未分类/6e510ded7d4d.md",
-      "sha256": "a949d1b0f083751b47600b438d3d705bfb29190f9f1913ac39bebd3f11d0af10"
-    },
-    {
       "bytes": 1088,
       "path": "dynamic/未分类/6f0e26fad365.md",
       "sha256": "5ab82906bc96dc80c8cc3cc0c55a2eba5bb92ba79e140088eea76356a774d245"
@@ -12433,19 +12498,9 @@
       "sha256": "9fb943b99756b8acc8f9b87a1fc139573a464b1cf48aa7dd267be90532dc477a"
     },
     {
-      "bytes": 809,
-      "path": "dynamic/睡眠/2026-07-22 21-00-20 深夜安静守护_801d9a215fd7.md",
-      "sha256": "f42c53a441cc913750447ebb83257f2888be11a9d7d70a39d6ce8b82ba641ac9"
-    },
-    {
       "bytes": 789,
       "path": "dynamic/睡眠/2026-07-22 22-00-41 安静陪伴醒来_d19c592c5a33.md",
       "sha256": "4a197ddb1b319267d0c2c16f07104ee326fd8de72852dcd05d800a724ea0057a"
-    },
-    {
-      "bytes": 771,
-      "path": "dynamic/睡眠/2026-07-22 22-30-53 安静晨醒判断_7a95b306c7ef.md",
-      "sha256": "6d13f322dcf32dd3e35d8c885ef79bb0a3306ca4f25641bec9ea05e6830be464"
     },
     {
       "bytes": 836,
@@ -12543,24 +12598,9 @@
       "sha256": "d769b4edcb987b66ac3eb82ed3a1180872df9f3aafedebd236bf2560e9b567b3"
     },
     {
-      "bytes": 743,
-      "path": "dynamic/社交/2026-07-22 14-49-48 夜间克制观察_abdc30150b9c.md",
-      "sha256": "facea7aabc26cf23b7903850a7c53ce539f652b9b0a5fccdf692423cca975fe5"
-    },
-    {
-      "bytes": 775,
-      "path": "dynamic/社交/2026-07-22 14-50-51 克制不打扰_8c98bb238aae.md",
-      "sha256": "98b5e9a6483f12123351eb91b527a165b0d22f39c0001dc08de1e9b764b01840"
-    },
-    {
       "bytes": 758,
       "path": "dynamic/社交/2026-07-22 15-28-24 克制不打扰_6758781a7f16.md",
       "sha256": "251b02d9fb0151b822111abb76d883257a983a1169f0cd10a31634bb2d82af8a"
-    },
-    {
-      "bytes": 844,
-      "path": "dynamic/社交/2026-07-22 15-33-11 克制安静的社交观察_0c9cd3b0fcc5.md",
-      "sha256": "a07e804f061953e6687b34792c032824d939ad289fba54cc9e238aff9bec253c"
     },
     {
       "bytes": 790,
@@ -13171,6 +13211,16 @@
       "bytes": 677,
       "path": "dynamic/社交/2026-08-16 19-27-28 深夜不打扰的陪伴_4c186db24644.md",
       "sha256": "c58dd59e97c6a8ee76b70bb3ed972c02af7feeb8cdfc1b3d5945074bade4f947"
+    },
+    {
+      "bytes": 702,
+      "path": "dynamic/社交/2026-08-17 01-32-35 presence早上安静陪伴_538b8ea57a66.md",
+      "sha256": "20d7e4787e344a0d0160c2f328a4575b34ef80d7a28f0ce9a344826721bbb805"
+    },
+    {
+      "bytes": 720,
+      "path": "dynamic/社交/2026-08-17 02-33-41 presence上午安静陪伴_e43ba5ccef00.md",
+      "sha256": "88b72910e6769a5d82187e211bb65d0c515fb46099e77e1135bf77288d555f5d"
     },
     {
       "bytes": 893,
@@ -14708,11 +14758,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-16T23:11:27+00:00",
+  "generated_at": "2026-08-17T05:11:51+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2466034
+  "total_bytes": 2472820
 }
