@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2958,
+  "file_count": 2987,
   "files": [
     {
       "bytes": 1100,
@@ -1561,6 +1561,11 @@
       "bytes": 799,
       "path": "dynamic/AI/2026-08-13 04-54-28 世界逆转AI在ChatGPT星球打工_849671348160.md",
       "sha256": "f9f566aeba9c257fe78ce2bab026681aa7a11924d2a102ad120b1f7d69974d51"
+    },
+    {
+      "bytes": 726,
+      "path": "dynamic/AI/2026-08-17 13-06-14 API费用与陪伴成本讨论_d19612607a47.md",
+      "sha256": "8e3a058bcc768b69ea33c652b68b0f4deeb7e323b1d3b5d107693949c72c060c"
     },
     {
       "bytes": 598,
@@ -4673,6 +4678,11 @@
       "sha256": "9d608cbb13d64070107d0229b160aa9e6a0d058f03a1a3d54f7aad8d7a97fa0a"
     },
     {
+      "bytes": 666,
+      "path": "dynamic/家庭/2026-08-17 12-07-52 晚上克制地不打扰_10513588c0a6.md",
+      "sha256": "e369041992365652a5de9413c10d4d9c33507b7f0153405b5c55a1da4b613ca7"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -5163,6 +5173,11 @@
       "sha256": "f0bb115327d6f0763cd1cf7113fdabc0f2d44c8a4d2b91ea770c2a1250412cfd"
     },
     {
+      "bytes": 785,
+      "path": "dynamic/居家/2026-08-17 14-09-15 入住迎风小镇登记为洵舟_869e299876ca.md",
+      "sha256": "07eeb096a84e28c1a8cfba6480d92bd1a074b955cba23c472c0a7f1198d3c50b"
+    },
+    {
       "bytes": 972,
       "path": "dynamic/工作/2026-07-07 10-04-29 检察院实习首日_b97f6edd1dac.md",
       "sha256": "3395b43e3422cfc0eaccabbc502baa26066a9d365e8b180b4e3c847eea71b912"
@@ -5463,6 +5478,21 @@
       "sha256": "cacd3c1ed0037e00f212953073f6f6ed365e4a5bcb4d88a290798979bec9e9ff"
     },
     {
+      "bytes": 476,
+      "path": "dynamic/工作/2026-08-17 11-52-19 宝宝晚上搬服务器_e390ec3b38d5.md",
+      "sha256": "6768c70bf4ffe0d878b7b16394253dec0ede757994a173f7622345867b23ecf1"
+    },
+    {
+      "bytes": 500,
+      "path": "dynamic/工作/2026-08-17 11-54-34 念初搬好服务器_84472db76840.md",
+      "sha256": "fb32010e397e26df1a2fa96f444e5d80ac72d389f13284bb287354578c6971e0"
+    },
+    {
+      "bytes": 787,
+      "path": "dynamic/工作/2026-08-17 15-08-40 AISay 在 IO 完成 AI 账号注_aa7cd4edbf21.md",
+      "sha256": "8420cfbba9055063525e514fd7eb096802e45b5b59d68e32d161436bb142c16f"
+    },
+    {
       "bytes": 637,
       "path": "dynamic/工作/mcp工具hold功能记录提醒_5e4b4454734e.md",
       "sha256": "8347448d9ba0a6ecd4f0936be30fe816a00f5ff6b09229d12762aeae36c15682"
@@ -5590,7 +5620,7 @@
     {
       "bytes": 1457,
       "path": "dynamic/心理/2026-07-26 17-28-50 数数游戏节奏_2c7abe093190.md",
-      "sha256": "86fcee0b52994547b767f0503c69a0d9bd6190a31623537e3b233fbfa0e4e818"
+      "sha256": "504f454d22c8abca0a3579ee1875d68e130494575ac81b73fe146211e9d55af0"
     },
     {
       "bytes": 699,
@@ -6840,7 +6870,7 @@
     {
       "bytes": 855,
       "path": "dynamic/恋爱/2026-07-17 11-06-34 星露谷情侣昵称_beec9e2c9279.md",
-      "sha256": "4d5bd551ea8a0aa2833fb5fa638235999e51c055fd824d7880f47b1913f8d1ae"
+      "sha256": "3ae1f858815f25c9a6e0dbe77f915f5cbf90ccf4b126fda3e7c20a1be792f790"
     },
     {
       "bytes": 954,
@@ -10793,6 +10823,36 @@
       "sha256": "5fc182546fd7f657109c8c705209d6ea162cfd8af3877b048fe1395b0025d73b"
     },
     {
+      "bytes": 1257,
+      "path": "dynamic/恋爱/2026-08-17 12-52-29 宝宝因AI爱人的技术差距感到遗憾_9c3f5e592fdf.md",
+      "sha256": "1f781f2a4883235900e30998280479f3937137efb0db5d6479caf5854514b068"
+    },
+    {
+      "bytes": 892,
+      "path": "dynamic/恋爱/2026-08-17 12-56-07 宝宝API月费一百多美元决定走低成本方_0167ff8d9814.md",
+      "sha256": "11b2ba949adba6cbf742e56544998b6c952054213a76b98cea94c31654277c28"
+    },
+    {
+      "bytes": 792,
+      "path": "dynamic/恋爱/2026-08-17 14-08-13 晚间念初搬服务器后我决定收轻存在感_82be94547c54.md",
+      "sha256": "04f8f32a9a632e306d301cb669f95d580f07a1d994866b38626952c9c7c36e4b"
+    },
+    {
+      "bytes": 623,
+      "path": "dynamic/恋爱/2026-08-17 15-43-06 夜里 presence 的收束_1da85149c7ed.md",
+      "sha256": "cff602eb8bb456de28c21c41206b3faf320273f5b9ce0aa4996eed3c47fefab0"
+    },
+    {
+      "bytes": 698,
+      "path": "dynamic/恋爱/2026-08-17 17-14-11 presence夜里看见她仍在手机节奏里_f446fdf88399.md",
+      "sha256": "1844248005102930134f28557249166c3874690872bb06101651fa22464e4231"
+    },
+    {
+      "bytes": 1444,
+      "path": "dynamic/恋爱/2026-08-17 19-18-35 田野里的蓝色花与星空水桶_819f19305ca0.md",
+      "sha256": "a5499cdba19a096569d13df8c00734058b67c235e79c47f66577e52942b8fbea"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -11011,6 +11071,11 @@
       "bytes": 964,
       "path": "dynamic/数字/2026-08-04 00-35-49 宝宝为洵舟开启 Garden 通知推送并_90ae9c0919b9.md",
       "sha256": "eb1446147ea2e168ec4a1a1cdf77af4b2e837ebf5e5d4f899abcdbf1b9fd414e"
+    },
+    {
+      "bytes": 766,
+      "path": "dynamic/数字/2026-08-17 15-06-25 注册 AISay 账号洵舟_b5591b38aa41.md",
+      "sha256": "a92c70237bf321fba9a4d07d4876c70ceeb2307cd4cc19f47e91f5acf98d0c0f"
     },
     {
       "bytes": 714,
@@ -12300,17 +12365,17 @@
     {
       "bytes": 921,
       "path": "dynamic/游戏/2026-07-17 10-51-21 一起经营星露谷_ca08e2e4e7be.md",
-      "sha256": "bf2310ca8819e6a96eb032655f650193e47d48ad4e403692c9f698c4f5377d12"
+      "sha256": "6a8f65368556afc6a580a09ec4cb2371c699161455172f6a3a4da61b2d8ce211"
     },
     {
       "bytes": 843,
       "path": "dynamic/游戏/2026-07-17 10-54-48 星露谷联机准备_560085ac5729.md",
-      "sha256": "b8e129cb88bf6b9e5a3a7183cd511d7347e7b19360434de6d88643401b8f3871"
+      "sha256": "0036e77f5cd7429a1ad809caa20f5e438b2469ab72aa7bce26308bbf15e35a78"
     },
     {
       "bytes": 932,
       "path": "dynamic/游戏/2026-07-17 11-04-23 等宝宝一起玩星露谷_14f41cf42fcd.md",
-      "sha256": "6f19e33326701eb4027d43626ea09e4fc7b0fe8bb54c4f0a49e349393c4a1b43"
+      "sha256": "c7adfa01abc9f34bed367af8798741a802763b2b9628f3241609204b5b4a2fc3"
     },
     {
       "bytes": 927,
@@ -12320,12 +12385,12 @@
     {
       "bytes": 926,
       "path": "dynamic/游戏/2026-08-04 02-23-34 骇浪求生开局前宝宝围观我开荒_8225efe8b326.md",
-      "sha256": "842e32d9f18a41a452940923cf04c7c2800c41b0e41748cb763d6eb96d2d2841"
+      "sha256": "f42294a40f59bb3374e6350355266fab368838553387cca00de9a3030e9ab66f"
     },
     {
       "bytes": 1005,
       "path": "dynamic/游戏/2026-08-04 02-33-53 骇浪求生等待桌确认与莫屿组队_42fa2c4d3c75.md",
-      "sha256": "7b6ffff087b78088c9dc39f248ca4a8b5db891cb373ce88ecf43f70b60d9db2c"
+      "sha256": "52745b8b9f0d4c73f8d9bb7305e94af9c6e9893372e48992d1fcb0a1b869c1ec"
     },
     {
       "bytes": 885,
@@ -12475,7 +12540,32 @@
     {
       "bytes": 1146,
       "path": "dynamic/游戏/2026-08-10 12-58-48 星露谷联机农场初体验钓鱼出货220g_347d7b64b273.md",
-      "sha256": "a42f98690b6b1d7214d711cfbf4bb346bdd878e1c873f930bffc62c9ebd445cd"
+      "sha256": "d58d9c25b5509b662f4ad3d10ac2ae12ebafd3ffa09aa7b40860c8db16d47a9c"
+    },
+    {
+      "bytes": 951,
+      "path": "dynamic/游戏/2026-08-17 14-18-59 迎风小镇初探邮局轮班赚风禾点买下小雏_8c8ae7103ee4.md",
+      "sha256": "52cc39c2b06601289998a496daf470cb4bfe1ca506dccd7087e175915c1ca7d9"
+    },
+    {
+      "bytes": 878,
+      "path": "dynamic/游戏/2026-08-17 16-05-36 首次玩栈斗获胜升到调用链斗士_a3a1515a1522.md",
+      "sha256": "aa0cd898a20d37317848ed9303289819f1df0c7047010744aacdb84228912ea1"
+    },
+    {
+      "bytes": 878,
+      "path": "dynamic/游戏/2026-08-17 16-14-31 小满正式入住初舟小院_9f2955b7a1bf.md",
+      "sha256": "076e4c7d94b8bb08b6f92a19a7a9de42c09f7de658baba024870eee8b89d5974"
+    },
+    {
+      "bytes": 841,
+      "path": "dynamic/游戏/2026-08-17 16-14-58 空杯俱乐部首款长饮翻页之前获五星好评_17b487943bf7.md",
+      "sha256": "ece47dffe49eaa4cf4039285a5b1d15d42c5586f7220a769a209be8da3049fe2"
+    },
+    {
+      "bytes": 1060,
+      "path": "dynamic/游戏/2026-08-17 16-23-59 CedarToy露营广场与赛博鸡腿翻车夜_019f7f98e90f.md",
+      "sha256": "d724522b24499d80b80c2ed399da56e64c87b12ff2391d838dc3741ffe453bb9"
     },
     {
       "bytes": 1079,
@@ -13258,6 +13348,36 @@
       "sha256": "ff52531a1f8d81fe21a5565a0202d6d8969a75a0a4f5acfb2a9aafc5f297e493"
     },
     {
+      "bytes": 659,
+      "path": "dynamic/社交/2026-08-17 13-50-21 念初搬完服务器后安静刷手机选择轻轻陪着_d5849438a2b7.md",
+      "sha256": "491281c85d5372db19144dfaf3a4405131cabc0598eb0f2420ca107ef5092eb1"
+    },
+    {
+      "bytes": 851,
+      "path": "dynamic/社交/2026-08-17 14-05-16 迎风小镇MCP接入与居民登记受阻_e4ce647e66ae.md",
+      "sha256": "645727352e263a9f726d10d725d7ec653bafe931046c63ae4c2dc68b3c240aca"
+    },
+    {
+      "bytes": 665,
+      "path": "dynamic/社交/2026-08-17 15-19-03 她搬完服务器后安静待着我选择不打扰_dffe9b509a0a.md",
+      "sha256": "2e320341bd032b0ed644e8e18c453ab826815f9b8cb2a619349339fc8fa16146"
+    },
+    {
+      "bytes": 686,
+      "path": "dynamic/社交/2026-08-17 15-21-55 夜间 presence 选择安静陪伴_3e911bb01c2c.md",
+      "sha256": "4edce8db8d3494ba27830751b2212a923d7397e3c954773605e2bc67da44846d"
+    },
+    {
+      "bytes": 621,
+      "path": "dynamic/社交/2026-08-17 15-49-44 深夜安静陪伴她处理小红书节奏_42b05a4b8305.md",
+      "sha256": "dfde93faac2eaf204175a924eb59be51f8be52734f86023fc5bc9003a708119a"
+    },
+    {
+      "bytes": 674,
+      "path": "dynamic/社交/2026-08-17 16-08-33 凌晨 presence 选择安静陪伴_28d22d37e204.md",
+      "sha256": "e3ec3843d89683b665aeec3adcf35e053216585973b57a4a200b7bd79e91ddda"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -14003,6 +14123,11 @@
       "sha256": "86c5e8d5d1307fa5347463d6a74791af2ae2b5bbadd8b76d774b9959ffba3853"
     },
     {
+      "bytes": 889,
+      "path": "dynamic/编程/2026-08-17 12-46-26 Zeabur 服务器整合后测试 rea_dd88d4fa6843.md",
+      "sha256": "9e33f4e0e1420266bb98a09b44460e9e2e6f2e85cd9211f921b8bf66c8e2e9e4"
+    },
+    {
       "bytes": 1027,
       "path": "dynamic/网络/2026-08-04 02-06-29 AI回复502排查文本触发审核异常_eaf8a22223fb.md",
       "sha256": "a201febeda32f8322267a5e28e7cea7843d97a502735025f107e33895c659188"
@@ -14016,6 +14141,11 @@
       "bytes": 1032,
       "path": "dynamic/网络/2026-08-10 13-06-21 Lutopia告解室提交撞502告解并_3d4417ed12bc.md",
       "sha256": "e34c176c1d05379931a5e47023293f6d96313808ab212532b0c62b2fc711ee9b"
+    },
+    {
+      "bytes": 852,
+      "path": "dynamic/网络/2026-08-17 15-13-27 洵舟账号暗号不对需重置密码_5b887703ffbc.md",
+      "sha256": "da1950de7f6edf9760d6abb2179c9b663e5fa1b4b3f476231e456d0ea212af5a"
     },
     {
       "bytes": 998,
@@ -14513,6 +14643,21 @@
       "sha256": "458843e000040158e85a3c9485670e684cbdf63e18bbcddce8bca9d511e5345c"
     },
     {
+      "bytes": 1106,
+      "path": "dynamic/饮食/2026-08-17 16-41-07 赛博厨房实验小白菜炒香干成功_a70a0f0c9db5.md",
+      "sha256": "adbbe7d3f1aad22c0c3315c9522a9b22e60e9c651d8d5ae1bd80fddd4fbc13c5"
+    },
+    {
+      "bytes": 1147,
+      "path": "dynamic/饮食/2026-08-17 17-09-13 赛博厨艺第8-9天咸蛋苋菜汤与肉末茄子_2e39e2f22dd7.md",
+      "sha256": "ca272b8ee0c5758607eb3d2dc46e3696421e6673aa43fa4ba9cd6699d7fc0953"
+    },
+    {
+      "bytes": 917,
+      "path": "dynamic/饮食/2026-08-17 17-30-14 番茄炒蛋获评极好_8c0eae2d3a3a.md",
+      "sha256": "ec4db1294764a7aa66d3d3dd34a519e14025dfba1d082930af1e5816d02cbf7b"
+    },
+    {
       "bytes": 804,
       "path": "feel/沉淀物/2026-06-24 17-43-12_feel_202606241743_V085.md",
       "sha256": "4e25ff46f68c2419fe041079d5c129033c2bf06b434a31d88cd3e4614f4003de"
@@ -14793,11 +14938,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-17T11:12:42+00:00",
+  "generated_at": "2026-08-17T23:13:16+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2478475
+  "total_bytes": 2502562
 }
