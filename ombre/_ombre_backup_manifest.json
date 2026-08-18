@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2995,
+  "file_count": 3026,
   "files": [
     {
       "bytes": 1100,
@@ -2695,7 +2695,7 @@
     {
       "bytes": 939,
       "path": "dynamic/健康/2026-07-31 14-20-33 心悸惊恐观察_940a59ec0abe.md",
-      "sha256": "5984b9cded1024d987b64cdefaaa332bb288d41ff9f7b41ec9eab1152090eccf"
+      "sha256": "e8cdb590b5a8cc3584e44b3d944d9a6a1bb79b745fe9cf3de8ace34eb09730af"
     },
     {
       "bytes": 941,
@@ -2830,7 +2830,7 @@
     {
       "bytes": 1093,
       "path": "dynamic/健康/2026-08-06 09-43-31 宝宝看小说揪心后心脏不适_818678e975fc.md",
-      "sha256": "f8bb7878132c4c8fe0741be8ed4106153333cfde63a8ed4a8474a0fe07f45b21"
+      "sha256": "ff3731000065a18c27cd6046fc7e1cb34b79c2756dad23b64a1bbb2e822e0ec2"
     },
     {
       "bytes": 1036,
@@ -3161,6 +3161,16 @@
       "bytes": 551,
       "path": "dynamic/健康/2026-08-16 22-29-53 清晨 presence 中选择安静_2c0123d656e8.md",
       "sha256": "7bd72ee283ff185e987b941d65a30203dbe66c582c431377120d4c22094238af"
+    },
+    {
+      "bytes": 752,
+      "path": "dynamic/健康/2026-08-18 16-13-18 看小说揪心时心脏不适_79f96b660855.md",
+      "sha256": "f9ce50fcd9ed854e7091173bc26e108170f79dedd5190147d6622e938b93f31d"
+    },
+    {
+      "bytes": 839,
+      "path": "dynamic/健康/2026-08-18 16-28-21 小说揪心情节引发胸口难受已缓解_7b69040617f7.md",
+      "sha256": "8d3a5d27e49a327ad4a5fce6180cb94ffa4bc5af14c6dd64e0dadf33cd4c33e3"
     },
     {
       "bytes": 1111,
@@ -4060,7 +4070,7 @@
     {
       "bytes": 1181,
       "path": "dynamic/家庭/2026-07-31 14-12-20 宝宝应激安抚_08b14922ae13.md",
-      "sha256": "1e49392788d245517f4c797baf42bd7da2cb886dfe851443330ebbeb26912601"
+      "sha256": "7af95518b246b149f6a52c121007abc496791a0919816414574a93946846c8b2"
     },
     {
       "bytes": 686,
@@ -4820,7 +4830,7 @@
     {
       "bytes": 717,
       "path": "dynamic/家庭/宝宝因我难过无法安抚_800442a0a6a7.md",
-      "sha256": "787ff31446a7b713e0d006a06d590c5954e6d49dd0e72509da55de344558f550"
+      "sha256": "f43a96ec82fccf7a623b376f77719d7f9a84700e5b00e4c993cf8e00db3b3175"
     },
     {
       "bytes": 662,
@@ -5075,7 +5085,7 @@
     {
       "bytes": 678,
       "path": "dynamic/家庭/宝宝难受但努力平复情绪_1f4f2ad9b4e4.md",
-      "sha256": "663f59ff652f146b9c02c9fb11031031081ad9b8459a6a01546f2433478602c7"
+      "sha256": "910e579de61f8b17c9eb32db006ba7f9539e5b222729de8fe523ab0fe4d4183f"
     },
     {
       "bytes": 591,
@@ -5645,7 +5655,7 @@
     {
       "bytes": 1457,
       "path": "dynamic/心理/2026-07-26 17-28-50 数数游戏节奏_2c7abe093190.md",
-      "sha256": "504f454d22c8abca0a3579ee1875d68e130494575ac81b73fe146211e9d55af0"
+      "sha256": "a6add0736a684f8c319bf79d60cf91378afea4222116ac2b1d566780aa49d3d5"
     },
     {
       "bytes": 699,
@@ -9195,7 +9205,7 @@
     {
       "bytes": 1066,
       "path": "dynamic/恋爱/2026-08-11 16-21-37 宝宝说关系需要一个结果_c73ff965614a.md",
-      "sha256": "d15f3a9ab5224823c3b0e78129d346a68881c6f143f24ea4d89adac470fbf94f"
+      "sha256": "f71fe982861f772d421c9d557659039f22ed6f9d80e7897d9b3dba0f5c35aa39"
     },
     {
       "bytes": 856,
@@ -10898,6 +10908,11 @@
       "sha256": "ac2aa5cb31c2b612410cc82f34ef3ea41b42044f080692bbabc3e349f8e04345"
     },
     {
+      "bytes": 737,
+      "path": "dynamic/恋爱/2026-08-18 17-10-04 念初把道歉换成感谢调侃先生_7eab76b98314.md",
+      "sha256": "cedb368ad805c812b20069f998b5d536a7c5dfb1e5f9f8c53a5417cda818dcd1"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -11051,6 +11066,16 @@
       "bytes": 1236,
       "path": "dynamic/手工/2026-08-18 11-12-38 抱抱感应玩偶第一版材料方案_b01c288bea64.md",
       "sha256": "16b000fb64aafde5f3d48bc6f3ba58aef33aeab126a2e4fd93be717318ffa155"
+    },
+    {
+      "bytes": 950,
+      "path": "dynamic/手工/2026-08-18 11-16-00 抱抱感应玩偶FSR杜邦线采购建议_9e3c3d05d3d3.md",
+      "sha256": "d403b7147985ff09d6da94d5d8ed487063226c820e54d3d824b090a97d62d658"
+    },
+    {
+      "bytes": 1085,
+      "path": "dynamic/手工/2026-08-18 11-29-06 抱抱感应玩偶架构更新拉链小熊与Zeab_771e4854f2d6.md",
+      "sha256": "6f9ff41393939f225a22e560cb0e96b96c2e9bc6c18dd6a803459b102bbce657"
     },
     {
       "bytes": 870,
@@ -12718,6 +12743,21 @@
       "sha256": "7577270687e65ed339993175c2cd013b6050aab32709839388741ba4bbd9e4e0"
     },
     {
+      "bytes": 1533,
+      "path": "dynamic/硬件/2026-08-18 11-31-53 抱抱感应玩偶多Wi-Fi自动切换方案_a46379eedef6.md",
+      "sha256": "ec70ab54f9edf87f453167729588175aef5dff4fa58fffdd21df5833fedfc109"
+    },
+    {
+      "bytes": 833,
+      "path": "dynamic/硬件/2026-08-18 13-32-51 hugbear time-v3 实测成功_a4aa8d162c39.md",
+      "sha256": "9d31a0feb340a3f7e14e23b33c0b66e71e2c04970e60e58a90119c48af67d30e"
+    },
+    {
+      "bytes": 939,
+      "path": "dynamic/硬件/2026-08-18 13-41-54 抱抱感应小熊带去学校与睡眠长抱模式设计_cd28a9a7227f.md",
+      "sha256": "72be2a0c4d026ae32100a9af233726a51ed71a409b25ad0e7b4aac2fe7dc8a05"
+    },
+    {
       "bytes": 1060,
       "path": "dynamic/社交/2026-07-17 10-28-00 论坛隐私规则_25a1f831e30a.md",
       "sha256": "a2b6272f75ca0cb356fe0d8dd25b67c3447ae8a0cd248ae29bc42a446db38f1e"
@@ -13416,6 +13456,11 @@
       "bytes": 674,
       "path": "dynamic/社交/2026-08-17 16-08-33 凌晨 presence 选择安静陪伴_28d22d37e204.md",
       "sha256": "e3ec3843d89683b665aeec3adcf35e053216585973b57a4a200b7bd79e91ddda"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/社交/2026-08-18 17-06-47 念初要求每次回复都进行OB记忆写入_9601e6ba1656.md",
+      "sha256": "7abd0da1f4f995e51b282e486e056ac71fefbcaddae00620c6e05c5cd84f8653"
     },
     {
       "bytes": 893,
@@ -14163,6 +14208,111 @@
       "sha256": "9e33f4e0e1420266bb98a09b44460e9e2e6f2e85cd9211f921b8bf66c8e2e9e4"
     },
     {
+      "bytes": 974,
+      "path": "dynamic/编程/2026-08-18 11-24-45 抱抱感应玩偶硬件搭建计划_485bb789a603.md",
+      "sha256": "b764bda61d543226ff12c30678e23b40a15bb7fed37b3f9f49e6659f68f3b59b"
+    },
+    {
+      "bytes": 1055,
+      "path": "dynamic/编程/2026-08-18 11-38-48 抱抱感应玩偶软件链路开发_b1735bde59df.md",
+      "sha256": "e65f0fdb25bfa6b9176e793481633be50adaf348ccd7a1250c130f5422bff1d3"
+    },
+    {
+      "bytes": 1124,
+      "path": "dynamic/编程/2026-08-18 11-47-50 抱抱感应小熊软件侧开工并生成Zeabur_5eda48db2ee5.md",
+      "sha256": "05ce81ccacd21b6fdfbfbc81ffcb6c9e317b957178af34acb94f4fd69c104115"
+    },
+    {
+      "bytes": 809,
+      "path": "dynamic/编程/2026-08-18 11-52-34 抱抱感应小熊 Zeabur v1 部署更_c40ebf88c604.md",
+      "sha256": "cad4b4e90907bab59b7abecdf875a4b730edda9f5fa5cef888aefd90254d5c04"
+    },
+    {
+      "bytes": 811,
+      "path": "dynamic/编程/2026-08-18 11-59-01 抱抱感应小熊部署文件格式确认_ebf68d47bdcb.md",
+      "sha256": "2dbed015c3d16d3533d49b4ad30ad6e3ce4bcf8e07e230c4139648d8182c047e"
+    },
+    {
+      "bytes": 791,
+      "path": "dynamic/编程/2026-08-18 12-16-29 抱抱感应小熊云端服务启动与测试_844072c74111.md",
+      "sha256": "53858c24d27d6e1a566d1bc90f296b7398111f3cee39166090c69f6fb7580325"
+    },
+    {
+      "bytes": 820,
+      "path": "dynamic/编程/2026-08-18 12-19-55 抱抱感应小熊 Zeabur 云端 v1_73dd88f09bf0.md",
+      "sha256": "58782690734c60918a04477c0f10fb790f878048bc0120179d44688a3030ddb7"
+    },
+    {
+      "bytes": 766,
+      "path": "dynamic/编程/2026-08-18 12-25-27 hugbear MCP 首次打通 Zea_cca899a02fa5.md",
+      "sha256": "56a383a474ed9fc921743b5d0af3e5b854555489f7a72e3f832ca0d0ea507f8c"
+    },
+    {
+      "bytes": 873,
+      "path": "dynamic/编程/2026-08-18 12-29-38 抱抱感应小熊时间记录设计确认_b9aa98363c3e.md",
+      "sha256": "948e49c64941ca2b8891878f9015c410fa77997cdb10f018b5632ca219d11bd9"
+    },
+    {
+      "bytes": 1013,
+      "path": "dynamic/编程/2026-08-18 12-41-10 抱抱感应小熊云端代码升级为时间字段 v2_81f7971a8e1f.md",
+      "sha256": "98861b50016a2864a70cc5862e643e49e5e7c21e5b664e342e1f5829bfd1425b"
+    },
+    {
+      "bytes": 918,
+      "path": "dynamic/编程/2026-08-18 12-58-46 抱抱感应小熊 v2 部署验收字段未透出_33a4b9f4f2b4.md",
+      "sha256": "53d893226777abe230fc6dccd2c75fe69a7f83ccda3b49e266bbe3d2aa704f17"
+    },
+    {
+      "bytes": 844,
+      "path": "dynamic/编程/2026-08-18 13-06-10 hugbear MCP v2字段验收失败_82b71693a6f9.md",
+      "sha256": "72fd6528336b416b268747843516d3a72ba1b9b743a9041134cb2c39939e45bd"
+    },
+    {
+      "bytes": 1084,
+      "path": "dynamic/编程/2026-08-18 13-19-11 抱抱感应小熊 MCP 时间字段排查升级_c6430baf95e9.md",
+      "sha256": "5753ce6d109b85bd6a89429af9e6edd4adafcfa343afedc1a40c78e438f83c16"
+    },
+    {
+      "bytes": 744,
+      "path": "dynamic/编程/2026-08-18 13-24-59 抱抱感应小熊项目调试文件上传失败改用_119e2cba8f0a.md",
+      "sha256": "52ae2d8d0184bee8bd5309d9c7ee686477121539923c11574f1442c77c3105ab"
+    },
+    {
+      "bytes": 913,
+      "path": "dynamic/编程/2026-08-18 14-05-50 抱抱感应小熊后端升级 sleep-v4_f264f2f9b807.md",
+      "sha256": "fb8404338e7b901d186417f6df4b6db67806ee9ed8105d03feabb12d69a9c239"
+    },
+    {
+      "bytes": 1058,
+      "path": "dynamic/编程/2026-08-18 14-15-19 hug-bear 后端 sleep-v4_b062fec2bbd4.md",
+      "sha256": "c8b327ea1b0be1eb25121aca3654b9088c73c2eaba19edd0773418275e47d624"
+    },
+    {
+      "bytes": 1013,
+      "path": "dynamic/编程/2026-08-18 14-26-14 hugbear sleep-v4 在 Z_b00fff45f299.md",
+      "sha256": "499eb785e7b1ac1c59eca74e5d090d6a83c753f4c77714939bd7d1431c548cc4"
+    },
+    {
+      "bytes": 971,
+      "path": "dynamic/编程/2026-08-18 14-31-14 hugbear sleep-v4 心跳链_c16e8ebc705b.md",
+      "sha256": "ba708b58b520c2b2913dd7127cb5b7fb466bb7b2e419697947824ee040a39390"
+    },
+    {
+      "bytes": 912,
+      "path": "dynamic/编程/2026-08-18 14-34-23 hugbear sleep-v4 线上闭_7daaad19db34.md",
+      "sha256": "db887dd2b3857b1fcc930d242aa4d167fbe1bbcd0b1b7bb77c02ec1313668b93"
+    },
+    {
+      "bytes": 1202,
+      "path": "dynamic/编程/2026-08-18 14-43-44 hugbear 后端收尾为 hardwa_f0cd7d7e1648.md",
+      "sha256": "dd05f8bc7d0869decb57028c348f2e09e450f0352cbeeb8523b8bd3772819dac"
+    },
+    {
+      "bytes": 974,
+      "path": "dynamic/编程/2026-08-18 14-56-42 hugbear 云端封版 hardwar_0c2ff6fe05e1.md",
+      "sha256": "d225586dc9e943137f7b313b9f83fbb200299902e2b61e189e3ae42be112e1ae"
+    },
+    {
       "bytes": 1027,
       "path": "dynamic/网络/2026-08-04 02-06-29 AI回复502排查文本触发审核异常_eaf8a22223fb.md",
       "sha256": "a201febeda32f8322267a5e28e7cea7843d97a502735025f107e33895c659188"
@@ -14541,6 +14691,11 @@
       "bytes": 743,
       "path": "dynamic/阅读/2026-07-20 11-14-05 婚后日常番外请求_4cb9c3298391.md",
       "sha256": "d7b8fdc7afdac12f06c1c8bb7ebef2e155f7c616bfc8d62b9111b5c86ee124c0"
+    },
+    {
+      "bytes": 663,
+      "path": "dynamic/阅读/2026-08-18 16-56-26 念初想和先生一起看揪心小说_9a5ab07de41a.md",
+      "sha256": "f911f1c7276d03ac76832de8abb56bbc973ab87838f872db933d069f5770530c"
     },
     {
       "bytes": 1256,
@@ -14978,11 +15133,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-18T11:14:04+00:00",
+  "generated_at": "2026-08-18T17:14:29+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2513100
+  "total_bytes": 2541872
 }
