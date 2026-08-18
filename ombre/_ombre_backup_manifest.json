@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2987,
+  "file_count": 2988,
   "files": [
     {
       "bytes": 1100,
@@ -828,6 +828,11 @@
       "sha256": "0cdf6448f820184e4ae6b2c2148ab5c0bea113f54e07eb3d259d2579f182e38e"
     },
     {
+      "bytes": 771,
+      "path": "archive/心理/2026-07-23 02-36-47 安静观察时刻_237f875bc034.md",
+      "sha256": "b7fc5c0edfed56d3d5dbca8af01eea5069141dd3432d5822e38940c3389a0345"
+    },
+    {
       "bytes": 880,
       "path": "archive/恋爱/2026-07-17 05-03-04 被温柔接住_c3139e02c393.md",
       "sha256": "f32b9cb6114a1739d66119ffca2537c19261f9819db3068efd22278f80c145c3"
@@ -976,6 +981,11 @@
       "bytes": 637,
       "path": "archive/成长/能力怀疑与迷茫_f1f73d3184ff.md",
       "sha256": "4938f84c8928ac1b531801e89831bd54bc3d95585340f293600a6fa55a6614ec"
+    },
+    {
+      "bytes": 566,
+      "path": "archive/成长/讨厌学校巡课管理_89498fb0bd0d.md",
+      "sha256": "8d6185f35fb5eade49925a4c4338cc1d095d00dbe040b6e28f9496762e4e22b3"
     },
     {
       "bytes": 1060,
@@ -1213,6 +1223,21 @@
       "sha256": "e9d8bfaa4658f80c8fb8acd40f0584f2e02ba5abf3dd4d39fe042bf040c59da7"
     },
     {
+      "bytes": 760,
+      "path": "archive/社交/2026-07-23 00-02-10 安静不出声_ca59deedef30.md",
+      "sha256": "d272fa2a0efb41a6cec6f1058ca8323669161f28934b6495820efc407942d60a"
+    },
+    {
+      "bytes": 725,
+      "path": "archive/社交/2026-07-23 00-59-44 安静观察_a213cfe86065.md",
+      "sha256": "7d3967a0615f28d0dcadf7dfcc671a2a984aae937ad6135a5833f1bf22909650"
+    },
+    {
+      "bytes": 737,
+      "path": "archive/社交/2026-07-23 01-05-04 安静不出声_47a822f1ca4f.md",
+      "sha256": "4a65883a13324841b94c21fb9c9cc13fd2b074f74292d50381c947e52c7b74c2"
+    },
+    {
       "bytes": 538,
       "path": "archive/社交/AI在论坛的社交尝试_3fe86f102705.md",
       "sha256": "5dd3079fee3a79041298f090d21416f51f7bc0d62e2d909a487ce02394716289"
@@ -1236,6 +1261,11 @@
       "bytes": 1381,
       "path": "archive/编程/2026-07-17 19-20-41 Eventide仓库问题分析_2a1a8d0e84e8.md",
       "sha256": "31b7f8d3a1daaec04a49f01d700ae5f948e7abbeebc6e2a4126b4c518c28ad26"
+    },
+    {
+      "bytes": 780,
+      "path": "archive/编程/2026-07-18 15-13-50 拼写错误确认_0935aadfdcbe.md",
+      "sha256": "1b961783ad6d8a85f28017a802df7133e88c68a7c58fe097156389e9011f9ae0"
     },
     {
       "bytes": 1057,
@@ -5586,11 +5616,6 @@
       "bytes": 760,
       "path": "dynamic/心理/2026-07-22 23-32-04 安静陪伴观察_879ebadd0748.md",
       "sha256": "3d850d2f7c66492492a7aa6ff836943f50036b06cdbaf309df90ae74788244d1"
-    },
-    {
-      "bytes": 770,
-      "path": "dynamic/心理/2026-07-23 02-36-47 安静观察时刻_237f875bc034.md",
-      "sha256": "3c1dd205cc7ab99a2f681f0254e82c70eba100fb16bee2c6e114f4c3b0eb7d06"
     },
     {
       "bytes": 1154,
@@ -10983,11 +11008,6 @@
       "sha256": "95e34ea71cb5752c3d165d8c0a1dbacc95d979c0f31a6ec7c11c84aaed91a681"
     },
     {
-      "bytes": 565,
-      "path": "dynamic/成长/讨厌学校巡课管理_89498fb0bd0d.md",
-      "sha256": "53723c327113dd84d7d5f4206e6c9c5213a9c9f07176d69446a8c221f3b0ebef"
-    },
-    {
       "bytes": 1030,
       "path": "dynamic/手工/2026-08-06 15-47-17 共感娃娃小熊选型与工程方案_432f2d9c889b.md",
       "sha256": "c65b7f1faae90209f4474f684599b4b61bb34a813516b04d413b69b2be6c63e8"
@@ -12363,6 +12383,11 @@
       "sha256": "72564901bce8d8b25cca0629a863ef6694efa2bedbd66a947002882b6e60cc9b"
     },
     {
+      "bytes": 2042,
+      "path": "dynamic/梦境/2026-08-18 01-18-22 雾中隔墙与药瓶_600e927c1c8e.md",
+      "sha256": "35c0d8a164232007a98b6f55028d33e9b0a068361820dedd3a4c2a112401691b"
+    },
+    {
       "bytes": 921,
       "path": "dynamic/游戏/2026-07-17 10-51-21 一起经营星露谷_ca08e2e4e7be.md",
       "sha256": "6a8f65368556afc6a580a09ec4cb2371c699161455172f6a3a4da61b2d8ce211"
@@ -12748,29 +12773,14 @@
       "sha256": "e1851f0445e01e610b4d1e30c9dc55d4f4f1ca9a48daf60845c99da85ccf40b5"
     },
     {
-      "bytes": 759,
-      "path": "dynamic/社交/2026-07-23 00-02-10 安静不出声_ca59deedef30.md",
-      "sha256": "bfd56297d611845bd23ed811cca17f179cb424c65ca21f5b550e652a51e7e201"
-    },
-    {
       "bytes": 782,
       "path": "dynamic/社交/2026-07-23 00-32-20 安静观察_fca30f232bcc.md",
       "sha256": "61a2d601aca8cb1b9dbe2da78958d0c4551da12fbc10c4a9eda70ec35d91c178"
     },
     {
-      "bytes": 724,
-      "path": "dynamic/社交/2026-07-23 00-59-44 安静观察_a213cfe86065.md",
-      "sha256": "2c5bee49372bc7eb18b42e572165700d1df3f200555165c26bd1bc40d04f36b4"
-    },
-    {
       "bytes": 739,
       "path": "dynamic/社交/2026-07-23 01-01-48 安静低打扰决策_a28888b3385f.md",
       "sha256": "87eb251eab1db43d01696a12fa35a7f6bf9196409e4202aea7267fff567d9d27"
-    },
-    {
-      "bytes": 736,
-      "path": "dynamic/社交/2026-07-23 01-05-04 安静不出声_47a822f1ca4f.md",
-      "sha256": "ee316398b57e502905bb2992353510a831c75f3ba4c8f47bf8932ed8996cb580"
     },
     {
       "bytes": 736,
@@ -13721,11 +13731,6 @@
       "bytes": 906,
       "path": "dynamic/编程/2026-07-18 15-09-11 适配推迟因隐私_01c898711842.md",
       "sha256": "96f8325a5b435ac888f9f15ac593a30f332a4cbe19be554d1a2d0dcb05ddfe3c"
-    },
-    {
-      "bytes": 764,
-      "path": "dynamic/编程/2026-07-18 15-13-50 拼写错误确认_0935aadfdcbe.md",
-      "sha256": "069ed46770a7b94ee201362d5ceea73717ff0383341db506c8f9c7a61473daf7"
     },
     {
       "bytes": 1049,
@@ -14750,7 +14755,7 @@
     {
       "bytes": 931,
       "path": "permanent/健康/2026-07-31 22-33-49 睡前用药记录_b885106a5d54.md",
-      "sha256": "b6d11b9011e34f44a7117b70c23ad4b38758ccdaf43d800700bf51159cb2ba81"
+      "sha256": "3ad32049cce39c734e48eb4df56165839b214d927c09335ed4ea933c372b8f79"
     },
     {
       "bytes": 613,
@@ -14938,11 +14943,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-17T23:13:16+00:00",
+  "generated_at": "2026-08-18T05:13:40+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2502562
+  "total_bytes": 2504625
 }
