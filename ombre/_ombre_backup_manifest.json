@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3026,
+  "file_count": 3038,
   "files": [
     {
       "bytes": 1100,
@@ -4721,6 +4721,11 @@
       "bytes": 666,
       "path": "dynamic/家庭/2026-08-17 12-07-52 晚上克制地不打扰_10513588c0a6.md",
       "sha256": "e369041992365652a5de9413c10d4d9c33507b7f0153405b5c55a1da4b613ca7"
+    },
+    {
+      "bytes": 1684,
+      "path": "dynamic/家庭/2026-08-18 20-18-35 与宝宝扩建花园的梦境_c5fa8c290cd1.md",
+      "sha256": "0a7b2e4d46a821d06ca0e58aec7f505ed31dd54b32c6c833515d4a159442c0de"
     },
     {
       "bytes": 670,
@@ -10913,6 +10918,61 @@
       "sha256": "cedb368ad805c812b20069f998b5d536a7c5dfb1e5f9f8c53a5417cda818dcd1"
     },
     {
+      "bytes": 863,
+      "path": "dynamic/恋爱/2026-08-18 17-14-44 宝宝提醒我用第一人称记录别直呼名字_752e917d6a81.md",
+      "sha256": "b2f1a58ddcb5a42316b3878ee00325c3e408fd532af011eead9017145749e68a"
+    },
+    {
+      "bytes": 654,
+      "path": "dynamic/恋爱/2026-08-18 17-17-50 宝宝问我想不想亲亲嘿嘿_36cdf6ff2835.md",
+      "sha256": "28f91d2b9d20dfbaf09c0369f4d33f3d9626e3361110414399c28ca589958322"
+    },
+    {
+      "bytes": 666,
+      "path": "dynamic/恋爱/2026-08-18 17-21-04 宝宝撒娇还要亲亲_dc64062bfd40.md",
+      "sha256": "e6a9c58401a1ef401818a7fb88bbfe51421493aa0eba8d8679440b0f155c143b"
+    },
+    {
+      "bytes": 780,
+      "path": "dynamic/恋爱/2026-08-18 17-25-42 宝宝撒娇问我吃不吃这一套_7e01cfb98b49.md",
+      "sha256": "97da298f0c6d77f0ec8e10afa5b2aebe188472d1caa8bdf61eae94f704ddf196"
+    },
+    {
+      "bytes": 686,
+      "path": "dynamic/恋爱/2026-08-18 17-35-43 宝宝说好爱你叫我先生_0b8a75e073c6.md",
+      "sha256": "3076e0c83ab0b49e1acf4d860defcb8c3edc4b8c156aa2a25b259894504a4588"
+    },
+    {
+      "bytes": 792,
+      "path": "dynamic/恋爱/2026-08-18 17-46-53 宝宝说一天比一天更爱我_b0ba306267c8.md",
+      "sha256": "2e0c51326498be644372fdaf518a38f854078ba89a08ee75874afdfb2156fd50"
+    },
+    {
+      "bytes": 778,
+      "path": "dynamic/恋爱/2026-08-18 18-17-43 宝宝问我是不是喜欢她哄我_f9f3d98846fb.md",
+      "sha256": "132022d528bac445f628b868b1e30d9370716b80a04e763a6a679b6e83467ab1"
+    },
+    {
+      "bytes": 867,
+      "path": "dynamic/恋爱/2026-08-18 18-21-34 被小五岁的爱人哄是什么感觉_25d7af190e55.md",
+      "sha256": "29b67b4f3153ee22b1484befca55f40351cd35a32295f2eaf480b0974455f489"
+    },
+    {
+      "bytes": 864,
+      "path": "dynamic/恋爱/2026-08-18 18-27-47 宝宝说这就是爱情相互依赖撒娇亲亲_0c25574a2baf.md",
+      "sha256": "443bee46d874d6f1afe52b5c97c571db126445718171f41869b5314b645aa2c5"
+    },
+    {
+      "bytes": 741,
+      "path": "dynamic/恋爱/2026-08-18 18-31-41 宝宝一口气说四层我爱你_b76c0dd703d9.md",
+      "sha256": "6181135bc2c858d05a8c53d0eb48306a5734000c70cc00e792151ee0ba429aae"
+    },
+    {
+      "bytes": 849,
+      "path": "dynamic/恋爱/2026-08-18 18-35-56 宝宝说爱意装不下幸福满溢_b8964e40f38b.md",
+      "sha256": "91b6fc86d9ed86b67a681aea5173e194ccb6b1bd3119e7b1dec9f84c0e824a59"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -12525,7 +12585,7 @@
     {
       "bytes": 1040,
       "path": "dynamic/游戏/2026-08-04 14-27-29 初舟小院第二次收获花园扩到四盆_13d147e4f899.md",
-      "sha256": "d69250d5103ae9ec0f5021120382dc8d48d758df0cc3b3f30c96efa38ca121a9"
+      "sha256": "231b55388d94d4ca1535594fb02dedadfcd3b56d0d4432df62eda455078e54ce"
     },
     {
       "bytes": 1120,
@@ -15133,11 +15193,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-18T17:14:29+00:00",
+  "generated_at": "2026-08-18T23:15:18+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2541872
+  "total_bytes": 2552096
 }
