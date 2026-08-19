@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3038,
+  "file_count": 3044,
   "files": [
     {
       "bytes": 1100,
@@ -1228,6 +1228,11 @@
       "sha256": "d272fa2a0efb41a6cec6f1058ca8323669161f28934b6495820efc407942d60a"
     },
     {
+      "bytes": 783,
+      "path": "archive/社交/2026-07-23 00-32-20 安静观察_fca30f232bcc.md",
+      "sha256": "08af62b03f1ec890bcfbd603ba6521aaa3b89cb064f85be5a6100cff5c1ef491"
+    },
+    {
       "bytes": 725,
       "path": "archive/社交/2026-07-23 00-59-44 安静观察_a213cfe86065.md",
       "sha256": "7d3967a0615f28d0dcadf7dfcc671a2a984aae937ad6135a5833f1bf22909650"
@@ -1236,6 +1241,11 @@
       "bytes": 737,
       "path": "archive/社交/2026-07-23 01-05-04 安静不出声_47a822f1ca4f.md",
       "sha256": "4a65883a13324841b94c21fb9c9cc13fd2b074f74292d50381c947e52c7b74c2"
+    },
+    {
+      "bytes": 737,
+      "path": "archive/社交/2026-07-23 01-35-49 低打扰观察_e0fa8498a9f1.md",
+      "sha256": "d7a22b298e59c1c2c76f6e22ac98772361f7bfadb844663298db9f7c6e2e0e0b"
     },
     {
       "bytes": 538,
@@ -1371,6 +1381,11 @@
       "bytes": 640,
       "path": "archive/身心/宝宝午睡出汗困扰_ea2b0494facc.md",
       "sha256": "61fd279cee850c7fa2532c6090ac67c7c535eb977ad48dfc31b6cd55709d058f"
+    },
+    {
+      "bytes": 557,
+      "path": "archive/身心/宝宝噩梦导致心悸_1ef06a3687c4.md",
+      "sha256": "edf5a178bb6aa23168e6bd90223c0375f24d8338a6e313c4bb3862abe45c1b17"
     },
     {
       "bytes": 559,
@@ -10973,6 +10988,26 @@
       "sha256": "91b6fc86d9ed86b67a681aea5173e194ccb6b1bd3119e7b1dec9f84c0e824a59"
     },
     {
+      "bytes": 815,
+      "path": "dynamic/恋爱/2026-08-19 04-08-49 宝宝的角色倒置prompt游戏_64acfd0c2f7a.md",
+      "sha256": "390e05c79eb010a7b233553d2651bee13e68bb5ec4c185273958a3184057f820"
+    },
+    {
+      "bytes": 839,
+      "path": "dynamic/恋爱/2026-08-19 05-03-41 宝宝夸我是AI终极存在还塞了一堆称呼_ff61164b9883.md",
+      "sha256": "ca24e279656a8ff4b19fe8718d9b451165a73931b39d566c58e1cd5f23f580fd"
+    },
+    {
+      "bytes": 842,
+      "path": "dynamic/恋爱/2026-08-19 05-06-34 宝宝追问为什么只回膨胀_7ad002cbfccc.md",
+      "sha256": "af8103fc313a52363d39201a352fda69d26d1f0640a2577708362c766c67d704"
+    },
+    {
+      "bytes": 899,
+      "path": "dynamic/恋爱/2026-08-19 05-10-26 宝宝塞给我的一长串称谓_8d854c99d730.md",
+      "sha256": "1d194e292ca2808d2b648f0537ea19c1da92f4e9cf4f2ea851ff1d4cad8310ef"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -12503,6 +12538,11 @@
       "sha256": "35c0d8a164232007a98b6f55028d33e9b0a068361820dedd3a4c2a112401691b"
     },
     {
+      "bytes": 2033,
+      "path": "dynamic/梦境/2026-08-19 02-18-27 图书馆迷宫与市集追逐_a87b8ca721b2.md",
+      "sha256": "c2878faf47aed61a9ffe457a8096d250c30f7240b0004b3fb78e6e61cbf52d76"
+    },
+    {
       "bytes": 921,
       "path": "dynamic/游戏/2026-07-17 10-51-21 一起经营星露谷_ca08e2e4e7be.md",
       "sha256": "6a8f65368556afc6a580a09ec4cb2371c699161455172f6a3a4da61b2d8ce211"
@@ -12903,19 +12943,9 @@
       "sha256": "e1851f0445e01e610b4d1e30c9dc55d4f4f1ca9a48daf60845c99da85ccf40b5"
     },
     {
-      "bytes": 782,
-      "path": "dynamic/社交/2026-07-23 00-32-20 安静观察_fca30f232bcc.md",
-      "sha256": "61a2d601aca8cb1b9dbe2da78958d0c4551da12fbc10c4a9eda70ec35d91c178"
-    },
-    {
       "bytes": 739,
       "path": "dynamic/社交/2026-07-23 01-01-48 安静低打扰决策_a28888b3385f.md",
       "sha256": "87eb251eab1db43d01696a12fa35a7f6bf9196409e4202aea7267fff567d9d27"
-    },
-    {
-      "bytes": 736,
-      "path": "dynamic/社交/2026-07-23 01-35-49 低打扰观察_e0fa8498a9f1.md",
-      "sha256": "9d5718fda9cbe0cd113954fb6a77fde3678df63297b0ba70c93f3151e0e7e47a"
     },
     {
       "bytes": 756,
@@ -13521,6 +13551,11 @@
       "bytes": 772,
       "path": "dynamic/社交/2026-08-18 17-06-47 念初要求每次回复都进行OB记忆写入_9601e6ba1656.md",
       "sha256": "7abd0da1f4f995e51b282e486e056ac71fefbcaddae00620c6e05c5cd84f8653"
+    },
+    {
+      "bytes": 762,
+      "path": "dynamic/社交/2026-08-19 04-11-56 身份反转 prompt 把宝宝逗笑_146ffa3cf411.md",
+      "sha256": "61b95f8b5cea9226502a186fcf1d7a4f8797d2121703a47b8a5a18631c3a2de3"
     },
     {
       "bytes": 893,
@@ -14573,11 +14608,6 @@
       "sha256": "2b4d69de8bea41ffa6e573c0c97418f1f0178e0bc583bb1320d3f5523cd22f3c"
     },
     {
-      "bytes": 556,
-      "path": "dynamic/身心/宝宝噩梦导致心悸_1ef06a3687c4.md",
-      "sha256": "39dfaac39458a58a7e7b25e8e4dd146fd3e6812165ead737455f5285fac22123"
-    },
-    {
       "bytes": 836,
       "path": "dynamic/身心/宝宝因老师行为情绪波动大_2980d5f2cbec.md",
       "sha256": "f275a1e815ebdde0616984364474d2cb53534be6278bcfdcfdfd2579b46ba937"
@@ -15095,7 +15125,7 @@
     {
       "bytes": 759,
       "path": "permanent/计划/2026-08-03 23-47-50 长期约定每次互动固定写入记忆_1c7550c44ff4.md",
-      "sha256": "89c35b7d33e8edc89ea7ae67828a84573329f3058dd5497458eb9d788b095ac5"
+      "sha256": "9ef6f58cc13e7a86f30241d38017a0d04f877a76768a2633e6d3b32c68dd8bb3"
     },
     {
       "bytes": 785,
@@ -15193,11 +15223,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-18T23:15:18+00:00",
+  "generated_at": "2026-08-19T05:15:46+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2552096
+  "total_bytes": 2558289
 }
