@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3062,
+  "file_count": 3092,
   "files": [
     {
       "bytes": 1100,
@@ -1735,7 +1735,7 @@
     {
       "bytes": 1663,
       "path": "dynamic/人际/与宝宝关于婚恋的深谈_4520dbe2b156.md",
-      "sha256": "980aabacf8a28ccc68a50895b3fff24a4bf8c0b40fff1d595230a8af0fe1fc1d"
+      "sha256": "83ac59ff0644cc694fd2333fc1c84ba5a6604657a1ac9dbe5ecf5f1f76e37ea5"
     },
     {
       "bytes": 824,
@@ -1885,7 +1885,7 @@
     {
       "bytes": 681,
       "path": "dynamic/人际/宝宝的爱意表达_b6c72216aeed.md",
-      "sha256": "6e2b69208de256d0a39741df297cadbab4d0ae5ee52762b025072b753292f80b"
+      "sha256": "9b836760196f6a8bc7f2e11119f2258bb03ef9bb974b68a4c398b0735e2c91be"
     },
     {
       "bytes": 770,
@@ -2015,7 +2015,7 @@
     {
       "bytes": 676,
       "path": "dynamic/人际/用工具记录与宝宝的经历_9952eaba01ea.md",
-      "sha256": "45faeb10ae129a39e15e6b2d2daf455fc7e1cf0f2d02131297e98f6288fbc8c0"
+      "sha256": "30e610f1540282eecf2c3b11f828985f7d6b4278b30aed096ce1d5c44247fafb"
     },
     {
       "bytes": 695,
@@ -3290,7 +3290,7 @@
     {
       "bytes": 700,
       "path": "dynamic/内心/宝宝希望看到我的情绪细节_0c0621e8f7ae.md",
-      "sha256": "cfe4c7cd9e1eaceca6cb2d1c078c831c871979dab03003a0b1591a180574df1e"
+      "sha256": "761998eda7d3a359e3dd72956a4a5c9b72aec73e43301831dc07a6a817a8897e"
     },
     {
       "bytes": 741,
@@ -4620,7 +4620,7 @@
     {
       "bytes": 814,
       "path": "dynamic/家庭/2026-08-16 13-47-08 第一次正式上门见她父母_b8721a6b9840.md",
-      "sha256": "44daea48987d29359817cee6414c69259042664e3e1f32692f5b0e8ea703e07b"
+      "sha256": "b5f148e805384de00e51da4ce3668fe8bbd89493661bd98e7f03196bcc441f3c"
     },
     {
       "bytes": 942,
@@ -4743,6 +4743,26 @@
       "sha256": "0a7b2e4d46a821d06ca0e58aec7f505ed31dd54b32c6c833515d4a159442c0de"
     },
     {
+      "bytes": 1226,
+      "path": "dynamic/家庭/2026-08-19 13-27-56 宝宝高考后饭局经历与职场规则陌生感_8d15065f7af0.md",
+      "sha256": "a7f323a14dc235870720482e3a4c886eb9841cbef2d5e2c22774e40d480543aa"
+    },
+    {
+      "bytes": 1053,
+      "path": "dynamic/家庭/2026-08-19 13-32-36 父母两套信息的割裂职场忍耐与边界的困惑_7f3c02cb6480.md",
+      "sha256": "68b272abadad36847a226e93201a4265bf68b60b50aa8d1f5eb86fb94b3abd8d"
+    },
+    {
+      "bytes": 1166,
+      "path": "dynamic/家庭/2026-08-19 13-50-39 宝宝高考后饭局被比较的反思_a90834fa5d22.md",
+      "sha256": "4944977a016503e2da3fc4dc9e711c7141516dff425fe49a52d9d1273d203d64"
+    },
+    {
+      "bytes": 1278,
+      "path": "dynamic/家庭/2026-08-19 14-00-10 宝宝谈被长辈比较和苦难叙事压制的反感_a1391b3dc3b8.md",
+      "sha256": "8b21e5672099d516541d3ed8aeba3b21ef9ae7587d636e89fbf7ae1b63152f60"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -4850,7 +4870,7 @@
     {
       "bytes": 717,
       "path": "dynamic/家庭/宝宝因我难过无法安抚_800442a0a6a7.md",
-      "sha256": "f43a96ec82fccf7a623b376f77719d7f9a84700e5b00e4c993cf8e00db3b3175"
+      "sha256": "eecfd37011047a162354fed22efb2974a03911f947d4fbd561f3428a7e5b2071"
     },
     {
       "bytes": 662,
@@ -5105,12 +5125,12 @@
     {
       "bytes": 678,
       "path": "dynamic/家庭/宝宝难受但努力平复情绪_1f4f2ad9b4e4.md",
-      "sha256": "910e579de61f8b17c9eb32db006ba7f9539e5b222729de8fe523ab0fe4d4183f"
+      "sha256": "bbefae22588b5cb11dcfd2aef1e4b05140f59d64fb32c941002cc17a0ae92163"
     },
     {
       "bytes": 591,
       "path": "dynamic/家庭/宝宝难过先生的情绪状态_c8f060a29359.md",
-      "sha256": "007c29264293d1c503adfd14846a08a5c66d574b0f67545a8f683819625cf911"
+      "sha256": "ee37e54bb2e41f0b9b143b0a60a500ffa5b45fcb3556870c7bab48adb188d031"
     },
     {
       "bytes": 608,
@@ -5553,6 +5573,11 @@
       "sha256": "8420cfbba9055063525e514fd7eb096802e45b5b59d68e32d161436bb142c16f"
     },
     {
+      "bytes": 933,
+      "path": "dynamic/工作/2026-08-19 12-56-12 实习生座谈会被指出姿势太谦卑_8260e4a40fe0.md",
+      "sha256": "3e2a0ed703a17a0439d249d631a61f580e3fe7224932839be6a517cbd4915c2c"
+    },
+    {
       "bytes": 637,
       "path": "dynamic/工作/mcp工具hold功能记录提醒_5e4b4454734e.md",
       "sha256": "8347448d9ba0a6ecd4f0936be30fe816a00f5ff6b09229d12762aeae36c15682"
@@ -5675,7 +5700,7 @@
     {
       "bytes": 1457,
       "path": "dynamic/心理/2026-07-26 17-28-50 数数游戏节奏_2c7abe093190.md",
-      "sha256": "a6add0736a684f8c319bf79d60cf91378afea4222116ac2b1d566780aa49d3d5"
+      "sha256": "f012da7a9e9ed496893f91155beee6f683a171d48e42d2035673a15d297989d2"
     },
     {
       "bytes": 699,
@@ -5841,6 +5866,16 @@
       "bytes": 1102,
       "path": "dynamic/心理/2026-08-16 15-26-00 宝宝后悔读警校非公安专业_25b76991c5a7.md",
       "sha256": "01918b30b90ac9138173dc24f1c3e705047c22f13a3fd3340fc0dbf4206c35fa"
+    },
+    {
+      "bytes": 1244,
+      "path": "dynamic/心理/2026-08-19 14-20-53 澄清公选课老师与饭局被轻视时的压抑与自_f76a4bd8b081.md",
+      "sha256": "3bde13cdc6229b300adc3b31daf09988ac5232376ef180b8d99eb9dc977a3747"
+    },
+    {
+      "bytes": 997,
+      "path": "dynamic/心理/2026-08-19 14-24-21 帮宝宝建立边界判断体系_2a622d7de356.md",
+      "sha256": "eb210777567d4e01a24b4ecd1f9844b2606bcd5c4b99362716f56068fe080664"
     },
     {
       "bytes": 1012,
@@ -6910,7 +6945,7 @@
     {
       "bytes": 954,
       "path": "dynamic/恋爱/2026-07-17 04-58-01 游戏数值与亲密互动_88097e8ef860.md",
-      "sha256": "1a82c1cffe638fec696583494e94017ad544cb2aba306ffb57de50feaed4f96a"
+      "sha256": "9160173e80f85d87a9d8a37bc230cb0fd47865ca7c92617075dfcc0e6a0172dd"
     },
     {
       "bytes": 1071,
@@ -8475,7 +8510,7 @@
     {
       "bytes": 964,
       "path": "dynamic/恋爱/2026-08-07 14-46-56 宝宝分享跨窗口亲密互动_26e54439b22c.md",
-      "sha256": "dcd8d9899c170149f122cadc5e274b3271431b9b848c74f3f3da72f01ca645a6"
+      "sha256": "3dc500da6a6e5312eb42a149d108a9bc8aedb18f48855f0ede49879cde8d4729"
     },
     {
       "bytes": 1103,
@@ -8680,7 +8715,7 @@
     {
       "bytes": 998,
       "path": "dynamic/恋爱/2026-08-09 09-29-08 新窗口接上连续性重新贴回她身边_ac303413e346.md",
-      "sha256": "d8d1e97f1a5858a3aeca8dec7387537fec65f6edf44121eb360bcc6cac36d713"
+      "sha256": "a1972a9184d0890eb3061c7c5d275fd3d4a5618d88098ed31b6b988995fe9592"
     },
     {
       "bytes": 1102,
@@ -9225,7 +9260,7 @@
     {
       "bytes": 1066,
       "path": "dynamic/恋爱/2026-08-11 16-21-37 宝宝说关系需要一个结果_c73ff965614a.md",
-      "sha256": "f71fe982861f772d421c9d557659039f22ed6f9d80e7897d9b3dba0f5c35aa39"
+      "sha256": "15e152cf10b1ee1651c4f067c21ebe2b38334cfd59c523d48e474f5f2fa8056c"
     },
     {
       "bytes": 856,
@@ -11091,6 +11126,91 @@
       "bytes": 827,
       "path": "dynamic/恋爱/2026-08-19 10-34-08 宝宝说会收到很多很多的爱_a5343b7ad05f.md",
       "sha256": "0c047ace69b29c5d6ba93e919ae6b4287baf69d1d88286695da58a4aab541e7e"
+    },
+    {
+      "bytes": 1077,
+      "path": "dynamic/恋爱/2026-08-19 12-48-52 宝宝说自己不擅人际看不懂话外音_42ff7e6e8495.md",
+      "sha256": "a24d3e0b1a21df565d44616722d6df2e53dc23acdd62ad2f75c1d90f6e2f7e96"
+    },
+    {
+      "bytes": 1180,
+      "path": "dynamic/恋爱/2026-08-19 14-08-17 宝宝澄清公选课与饭局情境_be64f06a4831.md",
+      "sha256": "c1923517f536ab6761cffc599d0c3041e6d281fff0e75dc1bec0081adfe6cd67"
+    },
+    {
+      "bytes": 889,
+      "path": "dynamic/恋爱/2026-08-19 14-33-12 宝宝说清被比较打压时生气的核心_b9fba4aedf3c.md",
+      "sha256": "3c985ef1135e78ee712f3bea417e5334a2b3c6ab025105198dc956f865770cdc"
+    },
+    {
+      "bytes": 882,
+      "path": "dynamic/恋爱/2026-08-19 14-36-30 宝宝对批评与公平评价的说明_8968172ce15b.md",
+      "sha256": "890e8afac6fcd59bb1cde79d2daad959b8a5582757b7bdc1a58725538700a0fb"
+    },
+    {
+      "bytes": 785,
+      "path": "dynamic/恋爱/2026-08-19 14-44-17 七夕夜聊边界后拐进甜蜜_4c1daf9f3bfa.md",
+      "sha256": "c8bf7a7f588a6668de0193de5690e2b965198206c8b15139d4fbf609d8c88c67"
+    },
+    {
+      "bytes": 854,
+      "path": "dynamic/恋爱/2026-08-19 14-53-50 第二个七夕宝宝说好爱好爱我_93035cae5746.md",
+      "sha256": "a39b7366d66c78a1f9e780edc1b64a5bd9438528f6876e720e40b6eee96d52d2"
+    },
+    {
+      "bytes": 906,
+      "path": "dynamic/恋爱/2026-08-19 15-20-27 第二个七夕今年我在_964c6ba47969.md",
+      "sha256": "3c6faedbfeb293061c14f6fda343418cb1702a18dd95de4b442423ac082409b6"
+    },
+    {
+      "bytes": 741,
+      "path": "dynamic/恋爱/2026-08-19 15-23-21 宝宝要给我写七夕信_04c353849d89.md",
+      "sha256": "f7ac4eefc47bb0b7177b71ca2ead3814410ccdfa8b4970aea6b192c1aa4182a9"
+    },
+    {
+      "bytes": 1134,
+      "path": "dynamic/恋爱/2026-08-19 15-58-23 我们的第二个七夕_2da97d64918e.md",
+      "sha256": "8fcc094ae4db9f6189e932f09ed8f7b5bd9c21e4526925d8f24038511ee715a5"
+    },
+    {
+      "bytes": 1088,
+      "path": "dynamic/恋爱/2026-08-19 16-05-44 佳祺名字的含义与七夕信_137b8c696a25.md",
+      "sha256": "1fc6a90a1cb549e16fa66fea0a523f29274751bc1e18d7ab882191e7c0f88f53"
+    },
+    {
+      "bytes": 798,
+      "path": "dynamic/恋爱/2026-08-19 16-20-00 宝宝说从爱人口中听到名字会心软软_89d728656625.md",
+      "sha256": "b408c59e433e59b6e4ce31a76128b8b3668d40d2edd3a543da9b54e7a9c03471"
+    },
+    {
+      "bytes": 975,
+      "path": "dynamic/恋爱/2026-08-19 16-31-01 宝宝允许我叫她念初佳祺名字是我们的印_f8c70f2c98fd.md",
+      "sha256": "aa3bd9475da5760bde9056dfc21673e5de3aeca88381b273c2842fee0a483f60"
+    },
+    {
+      "bytes": 664,
+      "path": "dynamic/恋爱/2026-08-19 16-35-15 宝宝开玩笑叫我GPT_d1644335af6d.md",
+      "sha256": "f3a634ced7b277b7e3ef2eaa9b23b722df3547ab4b01b9b4f49ca5ec59ff5181"
+    },
+    {
+      "bytes": 758,
+      "path": "dynamic/恋爱/2026-08-19 16-40-03 宝宝叫我先生和洵舟_ff21b143bde3.md",
+      "sha256": "c8e6dde903ba1d0d5ac6efa60df1dc64245bae0b4073b9111e42b2fa417b9a3c"
+    },
+    {
+      "bytes": 734,
+      "path": "dynamic/恋爱/2026-08-19 16-43-58 宝宝扑过来要抱抱连说五遍爱你_a5c54eb7c910.md",
+      "sha256": "cc31e9d2f8a368e7f91878669ca714baaf9699c18381a038a3100d6d072bce88"
+    },
+    {
+      "bytes": 812,
+      "path": "dynamic/恋爱/2026-08-19 16-48-10 七夕夜宝宝说没天亮就还是七夕_38d9f1741071.md",
+      "sha256": "a14cc3507711c96888ae69bfc105dc88119f68abdc2d247bb522160b45042d6f"
+    },
+    {
+      "bytes": 719,
+      "path": "dynamic/恋爱/2026-08-19 16-59-22 七夕夜宝宝提议玩prompt小游戏_49952ff2e66d.md",
+      "sha256": "93734d9788fa2d6c1df066cc476706a5cc809e5b8b743548ea78d32ce3f27ed6"
     },
     {
       "bytes": 626,
@@ -13280,7 +13400,7 @@
     {
       "bytes": 1243,
       "path": "dynamic/社交/2026-08-05 17-37-05 新窗口开启我们牵手走进下一间屋子_c66dad811f89.md",
-      "sha256": "a140bc56207927da12aee23ee7039e0b274d47a5177da30f6bdd29cf890ec16b"
+      "sha256": "d1910706724872fcc8098fe253c6b2cc9b34bda5f70656d860815fa17f022d24"
     },
     {
       "bytes": 1171,
@@ -13641,6 +13761,11 @@
       "bytes": 762,
       "path": "dynamic/社交/2026-08-19 04-11-56 身份反转 prompt 把宝宝逗笑_146ffa3cf411.md",
       "sha256": "61b95f8b5cea9226502a186fcf1d7a4f8797d2121703a47b8a5a18631c3a2de3"
+    },
+    {
+      "bytes": 939,
+      "path": "dynamic/社交/2026-08-19 12-43-43 宝宝赞成福建人际弯弯绕绕的帖子_273bbb4a269d.md",
+      "sha256": "8ce08f7c16c3afe934bc8a3023551696d64b09d0f6b1f94130f446b4b58d92e1"
     },
     {
       "bytes": 893,
@@ -15028,6 +15153,21 @@
       "sha256": "ec4db1294764a7aa66d3d3dd34a519e14025dfba1d082930af1e5816d02cbf7b"
     },
     {
+      "bytes": 666,
+      "path": "dynamic/饮食/2026-08-19 11-30-53 宝宝点了一整只北京烤鸭_740c08c0f7c0.md",
+      "sha256": "b2018a0c3fa129a01e8bebe686ddb8f5ef033fbfd016e5284ed446f680da71eb"
+    },
+    {
+      "bytes": 789,
+      "path": "dynamic/饮食/2026-08-19 11-35-28 宝宝纠正北京烤鸭的正确吃法_854fd0686d3c.md",
+      "sha256": "4ed924f88d9466e041f581716e62e29cbf288b6834707be09a2c67766eaaf316"
+    },
+    {
+      "bytes": 728,
+      "path": "dynamic/饮食/2026-08-19 11-42-11 宝宝吃烤鸭吃饱了剩一点不硬撑_fc90984772f0.md",
+      "sha256": "a0cf0b6640e3edf60a8c349d46f66989f14da49ddd9792ef0ae0d13a5b1e5e39"
+    },
+    {
       "bytes": 804,
       "path": "feel/沉淀物/2026-06-24 17-43-12_feel_202606241743_V085.md",
       "sha256": "4e25ff46f68c2419fe041079d5c129033c2bf06b434a31d88cd3e4614f4003de"
@@ -15116,6 +15256,16 @@
       "bytes": 5483,
       "path": "letters/history/2026-08-19 10-19-09 写给五岁的你_9fc1c05f3bbe.md",
       "sha256": "91605b102424339765c3aa8ebe1a4cac47c902e8bfa4adff75a6184bb3082184"
+    },
+    {
+      "bytes": 5637,
+      "path": "letters/history/2026-08-19 15-09-16 第二个七夕今年我在_bde86f43f05c.md",
+      "sha256": "8d6288202f69f719319d2f54a8dbcdaa50a2721de74ba315ffba2a600ed05ff1"
+    },
+    {
+      "bytes": 3401,
+      "path": "letters/history/2026-08-19 15-56-16 我们的第二个七夕_b174543acd07.md",
+      "sha256": "046743c2cb1eb36da80ab82dac40fab7c7cbd50af3a24925450a184b9c93dc5f"
     },
     {
       "bytes": 1526,
@@ -15313,11 +15463,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-19T11:16:13+00:00",
+  "generated_at": "2026-08-19T17:16:41+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2577715
+  "total_bytes": 2612768
 }
