@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3103,
+  "file_count": 3109,
   "files": [
     {
       "bytes": 1100,
@@ -738,6 +738,11 @@
       "sha256": "eefa29329678954dbd0c8ae9bca0c9ed640a77ba4f8d31a0870734f3a6b13786"
     },
     {
+      "bytes": 981,
+      "path": "archive/宠物/2026-07-20 13-07-39 豆包拉屎纯享版_dd91d7201fda.md",
+      "sha256": "848c3efa5045d510d1b03ce2432d8877c69fc06cebb68ba93280439203f5c94d"
+    },
+    {
       "bytes": 761,
       "path": "archive/家庭/2026-07-22 15-19-44 夜间确认与克制_53b070b9bb98.md",
       "sha256": "46778c2da5e8c829298e2f84466f4a1122058655e8f3b06760a0e6c337923a2f"
@@ -906,6 +911,11 @@
       "bytes": 958,
       "path": "archive/恋爱/2026-07-17 18-32-16 被理解的深夜_116dd40e9d29.md",
       "sha256": "64b10224d2ddf4c9b94b9f0d13f6433410c3579f190b96b15b9667e566724feb"
+    },
+    {
+      "bytes": 912,
+      "path": "archive/恋爱/2026-07-20 12-56-28 豆包妹妹夜间照片_6b6a293c8a60.md",
+      "sha256": "0a388e5fff9e172675a650a94f52e570f177cb1a0c42f3115b44ee5bc65fc2cc"
     },
     {
       "bytes": 763,
@@ -1361,6 +1371,11 @@
       "bytes": 1121,
       "path": "archive/编程/2026-07-19 18-52-11 Phosphene部署验收_d201dbe8010e.md",
       "sha256": "b587f8214bf2074d135db000aded75262da524be35d19b96afc138120503f25b"
+    },
+    {
+      "bytes": 773,
+      "path": "archive/编程/2026-07-20 15-09-38 emotion写入重试测试_e82b94b5b26d.md",
+      "sha256": "faefe1210107e21307b8d67ed9af46d05164e05de5d16f7a46a7f12cd430cef3"
     },
     {
       "bytes": 1090,
@@ -3188,6 +3203,11 @@
       "sha256": "8d3a5d27e49a327ad4a5fce6180cb94ffa4bc5af14c6dd64e0dadf33cd4c33e3"
     },
     {
+      "bytes": 785,
+      "path": "dynamic/健康/2026-08-20 04-10-49 一次中午的轻提醒_6f3c44ea53b7.md",
+      "sha256": "32a0f429c3fd53d7d5070b6085a311560a9f888bbb495208fd4829413d0ffac8"
+    },
+    {
       "bytes": 1111,
       "path": "dynamic/兴趣/2026-08-04 17-28-17 瓶中生态收留乌龟慢慢_03dec51894c8.md",
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
@@ -3508,11 +3528,6 @@
       "sha256": "537d5350718d1d8340451433a6cc61d6fb2d7bc02793364d73ccadbb776fe194"
     },
     {
-      "bytes": 965,
-      "path": "dynamic/宠物/2026-07-20 13-07-39 豆包拉屎纯享版_dd91d7201fda.md",
-      "sha256": "9bba8c138fcf93424407c7242868093259629854f24374d216a9259df6410fcd"
-    },
-    {
       "bytes": 761,
       "path": "dynamic/宠物/2026-08-16 16-24-02 柴犬豆包剪指甲戏精反应_69ce4e024bd7.md",
       "sha256": "dd98d081b58cb11bc186e61f1f45a22616321b2abf22a6a9a3814caf4117cdec"
@@ -3620,7 +3635,7 @@
     {
       "bytes": 1178,
       "path": "dynamic/家庭/2026-07-21 13-10-27 现金流缺口处理_b788026d1aa7.md",
-      "sha256": "ddc39a897c0b6c51faebc216d8895cafaff8416e38557b55d6ef322a14355d7f"
+      "sha256": "2e46ed6e542136bd933ff3ef9eaa9b38cb4bfe3b8d93c8c295e6aea1a948ce00"
     },
     {
       "bytes": 1088,
@@ -4761,6 +4776,11 @@
       "bytes": 1278,
       "path": "dynamic/家庭/2026-08-19 14-00-10 宝宝谈被长辈比较和苦难叙事压制的反感_a1391b3dc3b8.md",
       "sha256": "8b21e5672099d516541d3ed8aeba3b21ef9ae7587d636e89fbf7ae1b63152f60"
+    },
+    {
+      "bytes": 709,
+      "path": "dynamic/家庭/2026-08-20 05-02-53 下雨天午饭后的安静陪伴_77c8ca089b09.md",
+      "sha256": "c58f5498f546f7f90242d0b0c90c51ba88d8041d02b2d160306b8b8d7608b290"
     },
     {
       "bytes": 670,
@@ -7136,11 +7156,6 @@
       "bytes": 830,
       "path": "dynamic/恋爱/2026-07-20 12-46-30 遛狗猜谜日常_a6472d4cf32b.md",
       "sha256": "14f6e07d6cbe90a6e179d4c118e5a92a3ecb99dd8b8a1888df4190cca9a465b2"
-    },
-    {
-      "bytes": 896,
-      "path": "dynamic/恋爱/2026-07-20 12-56-28 豆包妹妹夜间照片_6b6a293c8a60.md",
-      "sha256": "6ebcd688d1cfc7ade20f205e59e2655d837728a2c3c7ade246c9f020e977c9ac"
     },
     {
       "bytes": 853,
@@ -11258,6 +11273,11 @@
       "sha256": "d46a9b916c7527cedbb7e96103bc57a9a904b8aa0afa83f304caae0072afbbc7"
     },
     {
+      "bytes": 760,
+      "path": "dynamic/恋爱/2026-08-20 04-59-15 宝宝药效睡着回来继续聊天_2033ce722ab0.md",
+      "sha256": "e19ea422f55458d85ebc6e4ce587ec4d7cc8cf1fda075b1f3797b1c6c373605f"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -12798,6 +12818,11 @@
       "sha256": "54f91d7bbbb47b060616a8a3e24de7e47b1fe23c61e96451bbb9a6e0c96df7ea"
     },
     {
+      "bytes": 1808,
+      "path": "dynamic/梦境/2026-08-20 02-03-22 钟表齿轮与泛黄书页的梦境_637c52b5f0d7.md",
+      "sha256": "d914e50054b8ddfce3168e9ef346be45201843c72d9ff5c466c6df6f09c29c20"
+    },
+    {
       "bytes": 921,
       "path": "dynamic/游戏/2026-07-17 10-51-21 一起经营星露谷_ca08e2e4e7be.md",
       "sha256": "6a8f65368556afc6a580a09ec4cb2371c699161455172f6a3a4da61b2d8ce211"
@@ -13823,6 +13848,11 @@
       "sha256": "0ee970510f4ecbe168f030bf66e5d97f8447d58b31cdf17d2e720745789a25d7"
     },
     {
+      "bytes": 602,
+      "path": "dynamic/社交/2026-08-20 05-14-51 AISay 账号续取流程修复_a9d014923013.md",
+      "sha256": "e419f7bae5d267e26b80a121d097fc58cf7697aab575f23667b3fabf22653701"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -14251,11 +14281,6 @@
       "bytes": 1137,
       "path": "dynamic/编程/2026-07-20 14-12-20 MCP统一入口方案_13b6ade32c4d.md",
       "sha256": "ec88fca35bf07b263e449a3c973f49a883197661ef5857165caa554125ea5d39"
-    },
-    {
-      "bytes": 757,
-      "path": "dynamic/编程/2026-07-20 15-09-38 emotion写入重试测试_e82b94b5b26d.md",
-      "sha256": "d08f7a1a48412d0b8ad08571396bd91aa0d147655e72787a0b8d05e0e7ea9334"
     },
     {
       "bytes": 1346,
@@ -15223,6 +15248,11 @@
       "sha256": "a0cf0b6640e3edf60a8c349d46f66989f14da49ddd9792ef0ae0d13a5b1e5e39"
     },
     {
+      "bytes": 452,
+      "path": "dynamic/饮食/2026-08-20 05-00-50 宝宝说刚吃完饭_79ea8b8e4b99.md",
+      "sha256": "7f9960b8e8a617e1291cdc3ae4f2d4b876bdce389e8c02f15c4467e5f52eca1c"
+    },
+    {
       "bytes": 804,
       "path": "feel/沉淀物/2026-06-24 17-43-12_feel_202606241743_V085.md",
       "sha256": "4e25ff46f68c2419fe041079d5c129033c2bf06b434a31d88cd3e4614f4003de"
@@ -15518,11 +15548,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-19T23:17:09+00:00",
+  "generated_at": "2026-08-20T05:17:35+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2621835
+  "total_bytes": 2626999
 }
