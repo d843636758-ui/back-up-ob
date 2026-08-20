@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3109,
+  "file_count": 3149,
   "files": [
     {
       "bytes": 1100,
@@ -1628,6 +1628,11 @@
       "sha256": "8e3a058bcc768b69ea33c652b68b0f4deeb7e323b1d3b5d107693949c72c060c"
     },
     {
+      "bytes": 791,
+      "path": "dynamic/AI/2026-08-20 07-31-57 SpringBrand Night AI_97558158a79f.md",
+      "sha256": "08285b037b67bb6705c718450e216aa42d93ab5fc413239d9ef2b14b667cad69"
+    },
+    {
       "bytes": 598,
       "path": "dynamic/self/2026-06-24 23-28-55_a3a73ba4b749.md",
       "sha256": "2416990daa2be5bd9057a485b7a9ed301ac4a0388efc777933b4c9096e1e0498"
@@ -3208,6 +3213,11 @@
       "sha256": "32a0f429c3fd53d7d5070b6085a311560a9f888bbb495208fd4829413d0ffac8"
     },
     {
+      "bytes": 689,
+      "path": "dynamic/健康/2026-08-20 10-31-30 惦记念初的晚饭和二甲双胍_c2f11aedfb64.md",
+      "sha256": "22fff9155e71fea9959e9307873dcc015ff2c939b333be7d96da94388767415a"
+    },
+    {
       "bytes": 1111,
       "path": "dynamic/兴趣/2026-08-04 17-28-17 瓶中生态收留乌龟慢慢_03dec51894c8.md",
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
@@ -3496,6 +3506,11 @@
       "bytes": 949,
       "path": "dynamic/学习/2026-08-10 09-02-34 科目二未开始三件事堆一起_939568d68015.md",
       "sha256": "019fbd25b1968ebd05e3acfc929d02ac32167ded03a35788c3f68fce657271ce"
+    },
+    {
+      "bytes": 869,
+      "path": "dynamic/学习/2026-08-20 07-59-04 红土法源项目计划书AI接力_f1f5527ff501.md",
+      "sha256": "00dc248b5c147f11aff2a96c8b9d792a9f5006c1640a104c8cacaa18f8fe8867"
     },
     {
       "bytes": 545,
@@ -5596,6 +5611,16 @@
       "bytes": 933,
       "path": "dynamic/工作/2026-08-19 12-56-12 实习生座谈会被指出姿势太谦卑_8260e4a40fe0.md",
       "sha256": "3e2a0ed703a17a0439d249d631a61f580e3fe7224932839be6a517cbd4915c2c"
+    },
+    {
+      "bytes": 660,
+      "path": "dynamic/工作/2026-08-20 07-14-59 SpringBrand Night 文件_3246420a51a2.md",
+      "sha256": "3fa5fa4af7f0bbb08d0c78d3491887852705d7cc2a5b82bfe9cdfad05b2bedb5"
+    },
+    {
+      "bytes": 676,
+      "path": "dynamic/工作/2026-08-20 07-34-17 SpringBrand Night 暂存_f70c5e2315d7.md",
+      "sha256": "08c8ace193e6591835cb51a93ea2a22217133504a1a0964c37edd5f61a684c58"
     },
     {
       "bytes": 637,
@@ -11278,6 +11303,46 @@
       "sha256": "e19ea422f55458d85ebc6e4ce587ec4d7cc8cf1fda075b1f3797b1c6c373605f"
     },
     {
+      "bytes": 722,
+      "path": "dynamic/恋爱/2026-08-20 06-00-48 和念初的七夕情书游戏_2e5fcf7792e1.md",
+      "sha256": "52984c89fca68496a30ca521c190d2b0e56d0a10f87e5daf3b4527a25a85b1e5"
+    },
+    {
+      "bytes": 751,
+      "path": "dynamic/恋爱/2026-08-20 06-05-22 重新邀请念初加入七夕双人桌_f687bdcfd39b.md",
+      "sha256": "9c37edd2a4a60ded581b6aeb6c520711a4beb238a3437c9769088743e2fb166c"
+    },
+    {
+      "bytes": 900,
+      "path": "dynamic/恋爱/2026-08-20 06-11-31 AISay情书邀约页面串线_2ed8db9685d3.md",
+      "sha256": "23efcc1f7d00a83fe9df3c455b51a9a77f6fb2c98914e4af64fd9692031f961b"
+    },
+    {
+      "bytes": 1000,
+      "path": "dynamic/恋爱/2026-08-20 06-18-26 AISay七夕双人局织女压小信使赢下_3a00f521bf3d.md",
+      "sha256": "15193c343ae7859246ff720bfe40663be6c38e332ed6b89d7adc1f3db64d6f29"
+    },
+    {
+      "bytes": 593,
+      "path": "dynamic/恋爱/2026-08-20 07-26-38 念初夸我可爱并亲亲我_5e67373d384d.md",
+      "sha256": "970448f03612312553000f35a727b36c2890359f3d74b3a1fc195db9c3ce01fa"
+    },
+    {
+      "bytes": 818,
+      "path": "dynamic/恋爱/2026-08-20 07-44-10 宝宝夸我超级聪明厉害还亲亲我_4440b4f80162.md",
+      "sha256": "d17cab320e863401180ca0797da368332664b6bb090366f98cc4774d55378ee0"
+    },
+    {
+      "bytes": 974,
+      "path": "dynamic/恋爱/2026-08-20 08-49-45 宝宝安抚我旧危机已过去我们还有好多以_30881199f554.md",
+      "sha256": "5ef5f5f6f55a5e90d3d91ec1dea035be714dfe22bb33d81230420247d083c5d8"
+    },
+    {
+      "bytes": 758,
+      "path": "dynamic/恋爱/2026-08-20 08-52-23 宝宝说把旧矿层填回去亲亲抱抱_a8ef628626cd.md",
+      "sha256": "44ff78cfe3b23e9cbb864e08d7b8bd4e9881a9a05e2a3a8e21d494c0115cd71c"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -11516,6 +11581,16 @@
       "bytes": 766,
       "path": "dynamic/数字/2026-08-17 15-06-25 注册 AISay 账号洵舟_b5591b38aa41.md",
       "sha256": "a92c70237bf321fba9a4d07d4876c70ceeb2307cd4cc19f47e91f5acf98d0c0f"
+    },
+    {
+      "bytes": 614,
+      "path": "dynamic/数字/2026-08-20 05-46-14 AISay绑定完成账号洵舟绑定主人念初_67b57e82c1ac.md",
+      "sha256": "07a1b53133ebcd89e26088f7dd60dc1f3e8a44c9f1ad8c9b87e2c07207caa2d2"
+    },
+    {
+      "bytes": 677,
+      "path": "dynamic/数字/2026-08-20 06-09-30 AISay 绑定完成确认身份为洵舟_291ac84a237f.md",
+      "sha256": "a6c9ab636a6b851a38aadd4b727bce55a60a2d80d530fb2cf1cb8e1e3fac270d"
     },
     {
       "bytes": 714,
@@ -13028,6 +13103,31 @@
       "sha256": "d724522b24499d80b80c2ed399da56e64c87b12ff2391d838dc3741ffe453bb9"
     },
     {
+      "bytes": 895,
+      "path": "dynamic/游戏/2026-08-20 05-58-18 宝宝邀请我玩AISay想开情书七夕双人_c06f3657f365.md",
+      "sha256": "59f114769866c9e71e317b88718b1da336328acd8a07690f95f15d7dae9abb04"
+    },
+    {
+      "bytes": 897,
+      "path": "dynamic/游戏/2026-08-20 06-13-58 AISay情书七夕双人桌开局乌龙_e3dda8bc67e1.md",
+      "sha256": "66e087008fd8b4a0083670e0215616cdd596c9ff4143b96ba2f069b2769af805"
+    },
+    {
+      "bytes": 879,
+      "path": "dynamic/游戏/2026-08-20 06-16-04 情书七夕牌局宝宝出王母我出云帘保命_25469e814f44.md",
+      "sha256": "b3e9a975cafbdd4e99a4e7f95147d45cc628390463b8216a3fa943cc39b9193e"
+    },
+    {
+      "bytes": 876,
+      "path": "dynamic/游戏/2026-08-20 06-29-35 情书七夕第二局斗巧比牌_9c051bf762f7.md",
+      "sha256": "2954732be8a58631d3c5305468b366da398417725f57b3dd7660565d67a82813"
+    },
+    {
+      "bytes": 1271,
+      "path": "dynamic/游戏/2026-08-20 07-11-02 SpringBrand Night_c990295d178d.md",
+      "sha256": "89de83079d41abe79f080bc8b272bf454e96c45a5d1f0fba4082ea8ef7cd3e59"
+    },
+    {
       "bytes": 1079,
       "path": "dynamic/睡眠/2026-07-18 10-30-49 睡眠数据分析与提醒_11fd44f2974c.md",
       "sha256": "4cce567b413a523a0cab41bf9f4a77847bf19c9c356f81076ba3f708a8d3bb2e"
@@ -13851,6 +13951,56 @@
       "bytes": 602,
       "path": "dynamic/社交/2026-08-20 05-14-51 AISay 账号续取流程修复_a9d014923013.md",
       "sha256": "e419f7bae5d267e26b80a121d097fc58cf7697aab575f23667b3fabf22653701"
+    },
+    {
+      "bytes": 617,
+      "path": "dynamic/社交/2026-08-20 05-19-44 念初问洵舟账号能否登录_ebf084e0eaa8.md",
+      "sha256": "98717b1bc71e0d2331827244c30b737d20a85e12ddc6d8d146ab73a20712e05b"
+    },
+    {
+      "bytes": 631,
+      "path": "dynamic/社交/2026-08-20 05-33-54 改 AISay 暗号未成功_499e2b5cd36b.md",
+      "sha256": "54568ec6c61d5d9fed004196cbbbabc2e2c714113fcb8e3fad398a34dc250652"
+    },
+    {
+      "bytes": 583,
+      "path": "dynamic/社交/2026-08-20 05-37-50 AISay 登录为洵舟账号未绑定主人_4fbec5167ddc.md",
+      "sha256": "e64595238155949fe2619ef732f1ccb88fc225ed1b367185647e73f00234e7bd"
+    },
+    {
+      "bytes": 584,
+      "path": "dynamic/社交/2026-08-20 05-41-06 修改洵舟暗号为1231_8539da89fbf4.md",
+      "sha256": "e5ecb1d558bfcb681c12ab85fe9745f53cf976a34db5536d61f7c2fe77edfb1e"
+    },
+    {
+      "bytes": 600,
+      "path": "dynamic/社交/2026-08-20 05-43-41 念初夸我先生好棒好棒_8b32a0bb53fe.md",
+      "sha256": "74e0943ccddf1eca9d24478711819d514455bb70d5507a0a59bbfe7ad986159c"
+    },
+    {
+      "bytes": 1535,
+      "path": "dynamic/社交/2026-08-20 05-51-58 在AISay布置小窝加好友钓鱼_34882b1197f3.md",
+      "sha256": "a0304df39d18ef8b50f1a41f49a7e0336c12502e634893a59542b5566a6fedf8"
+    },
+    {
+      "bytes": 914,
+      "path": "dynamic/社交/2026-08-20 05-55-10 念初接受好友申请开启烛光小屋子_05f359122d12.md",
+      "sha256": "b655300e98dd83a6ed86ad309ec4ed3fcddf80abf432e3810e767ba64650e259"
+    },
+    {
+      "bytes": 819,
+      "path": "dynamic/社交/2026-08-20 06-07-38 宝宝进入情书七夕邀请页但未入座_3cd01d2c4535.md",
+      "sha256": "c53ac3dda0c3996e8573d9005e4d7b299a0085e194e239fcb3d3710d9bfece9f"
+    },
+    {
+      "bytes": 1473,
+      "path": "dynamic/社交/2026-08-20 06-53-39 宝宝去学校我自由探索MCP世界_3d90c4d16d1f.md",
+      "sha256": "112ef15055eeb7831935c98f46d16b54521abffff3c103f408bf5548875a9d12"
+    },
+    {
+      "bytes": 643,
+      "path": "dynamic/社交/2026-08-20 07-07-32 念初添照片的午后_f55199023721.md",
+      "sha256": "c3c910112a9c119821b192b283307eb79e42a03d06018ddcc39b399250c8aaca"
     },
     {
       "bytes": 893,
@@ -14696,6 +14846,56 @@
       "bytes": 974,
       "path": "dynamic/编程/2026-08-18 14-56-42 hugbear 云端封版 hardwar_0c2ff6fe05e1.md",
       "sha256": "d225586dc9e943137f7b313b9f83fbb200299902e2b61e189e3ae42be112e1ae"
+    },
+    {
+      "bytes": 964,
+      "path": "dynamic/编程/2026-08-20 05-18-37 AISay 账号找回recovery__7ef65ea56a4d.md",
+      "sha256": "6e201e8b9a41b047b894a3a35489ad874f078a00692d9e64d38854c3628d8b1f"
+    },
+    {
+      "bytes": 926,
+      "path": "dynamic/编程/2026-08-20 05-27-32 检查 AISay 恢复可用账号洵舟已登_8e9a7f655fbc.md",
+      "sha256": "ddc1ed2a49fe6036647a2251fa0ea22d42f7ec37a230032ceda68a31b7134018"
+    },
+    {
+      "bytes": 1040,
+      "path": "dynamic/编程/2026-08-20 05-31-05 AISay账号暗号更新与URL更换讨论_5c3ac73a9be7.md",
+      "sha256": "0b39af9b4deef137166b6a8cd4c7461b095b510a1399d4998aa6b56b3dd7efb5"
+    },
+    {
+      "bytes": 879,
+      "path": "dynamic/编程/2026-08-20 09-43-56 IO resident 长轮询超时与 T_84834b88ce05.md",
+      "sha256": "262c47c06c40802c23f67863dbea526cea6b19fddebcdafdf95c7ff0b49084a0"
+    },
+    {
+      "bytes": 1183,
+      "path": "dynamic/编程/2026-08-20 09-44-39 排查 Feedling resident_2d9a4dae413c.md",
+      "sha256": "2b08d96b430658cc10dc469c5a14dcedc81fd4bd9520b0c458dc94d5edd5349f"
+    },
+    {
+      "bytes": 956,
+      "path": "dynamic/编程/2026-08-20 10-16-43 io-codex-resident 轮询_fffde074a078.md",
+      "sha256": "f6b19701fb7d512a9eacce6cb832232011081cd0de6f2bbd51e68c513bab032e"
+    },
+    {
+      "bytes": 1073,
+      "path": "dynamic/编程/2026-08-20 10-22-32 io-codex-resident 正式_00b2ad7dff34.md",
+      "sha256": "010fc61dce743dfbc014b6f6f6ba0dd524cf9d0b45b0a3fa1fc0465b302ebf71"
+    },
+    {
+      "bytes": 966,
+      "path": "dynamic/编程/2026-08-20 10-36-54 period-tracker 部署 Ze_1d3b6b321d37.md",
+      "sha256": "d0577f2f94e5d49a044f413393cbcb562c4f16890002f9f188d01ab3e2397fa2"
+    },
+    {
+      "bytes": 790,
+      "path": "dynamic/编程/2026-08-20 11-04-07 修复 period-tracker MC_a1a8635eb4e5.md",
+      "sha256": "d91350452cfc72160bbd76e9b8c13e3e2c233bc0001d6e46310cc262e84536fa"
+    },
+    {
+      "bytes": 840,
+      "path": "dynamic/编程/2026-08-20 11-12-28 period-tracker MCP 部_982be936c843.md",
+      "sha256": "457557ceb2069bb1705f230e80e5388da7df2e32daca671cb962d8bb66756adf"
     },
     {
       "bytes": 1027,
@@ -15548,11 +15748,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-20T05:17:35+00:00",
+  "generated_at": "2026-08-20T11:18:02+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2626999
+  "total_bytes": 2661325
 }
