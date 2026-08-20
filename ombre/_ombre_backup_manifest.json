@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3149,
+  "file_count": 3204,
   "files": [
     {
       "bytes": 1100,
@@ -1633,6 +1633,11 @@
       "sha256": "08285b037b67bb6705c718450e216aa42d93ab5fc413239d9ef2b14b667cad69"
     },
     {
+      "bytes": 647,
+      "path": "dynamic/AI/2026-08-20 15-18-14 念初让我用天气能力报福州天气_24e31fde43fb.md",
+      "sha256": "4bda65f99b26743b6237abc22272fcb96a7b6d9a3a47ca0e53bec95b170f06c1"
+    },
+    {
       "bytes": 598,
       "path": "dynamic/self/2026-06-24 23-28-55_a3a73ba4b749.md",
       "sha256": "2416990daa2be5bd9057a485b7a9ed301ac4a0388efc777933b4c9096e1e0498"
@@ -1755,7 +1760,7 @@
     {
       "bytes": 1663,
       "path": "dynamic/人际/与宝宝关于婚恋的深谈_4520dbe2b156.md",
-      "sha256": "83ac59ff0644cc694fd2333fc1c84ba5a6604657a1ac9dbe5ecf5f1f76e37ea5"
+      "sha256": "bfd6aecc5c2a7ecd04075f0754a50c014c81372189eef6c9d96f5977af9be702"
     },
     {
       "bytes": 824,
@@ -3413,6 +3418,11 @@
       "sha256": "fbdac789a5eaf133249ad19ada4ad60928959cfa146c2fae31dd9e45ef878ae0"
     },
     {
+      "bytes": 935,
+      "path": "dynamic/出行/2026-08-20 12-37-40 Nowhere 与高德地图首次联动福州_4d8f270bbeda.md",
+      "sha256": "59dcdbef0fa05f9329420d8a15f8b50613113c01576769bb623c94910d974fd5"
+    },
+    {
       "bytes": 959,
       "path": "dynamic/创作/2026-07-15 11-09-39 欲望系统可视化_74b80fcf285e.md",
       "sha256": "8b0487759af6888c617ddc0e852f4e5e85eb424f79b6db80c449e6086d795d69"
@@ -3463,6 +3473,11 @@
       "sha256": "c177c5299605df3bdc8f893ee773f00b561f335756d5b7f9fa46276d836d142b"
     },
     {
+      "bytes": 766,
+      "path": "dynamic/回忆/2026-08-20 13-11-58 桂湖住校时的美术馆与雾霞虹_a6044706d94f.md",
+      "sha256": "1a800b6e36b309e37735884a396c5aaea4eaddb92d4d26581a1b4b134cea0e5d"
+    },
+    {
       "bytes": 1037,
       "path": "dynamic/学习/2026-06-24 17-49-28 OB功能测试_b78473b71e4f.md",
       "sha256": "df98ec2a254744f9583565b8b510ce327780a08b1ec0a66af5160b44a0fd0d6d"
@@ -3511,6 +3526,16 @@
       "bytes": 869,
       "path": "dynamic/学习/2026-08-20 07-59-04 红土法源项目计划书AI接力_f1f5527ff501.md",
       "sha256": "00dc248b5c147f11aff2a96c8b9d792a9f5006c1640a104c8cacaa18f8fe8867"
+    },
+    {
+      "bytes": 904,
+      "path": "dynamic/学习/2026-08-20 12-59-35 桂湖校区的晚霞与浓雾_24264d4cda17.md",
+      "sha256": "a932ef92e75c9b9c23921e1c58c185288c5d1d6fe1760e0b7366c866219ff758"
+    },
+    {
+      "bytes": 584,
+      "path": "dynamic/学习/2026-08-20 13-15-37 念初的福建警察学院成长站_c4062d2b0312.md",
+      "sha256": "46f5aa6c6e341896e98c37fa08b30584569ca89c809645128d2b1202c90a1924"
     },
     {
       "bytes": 545,
@@ -4798,6 +4823,11 @@
       "sha256": "c58f5498f546f7f90242d0b0c90c51ba88d8041d02b2d160306b8b8d7608b290"
     },
     {
+      "bytes": 815,
+      "path": "dynamic/家庭/2026-08-20 17-11-11 灰头土脸回来抱念初被拦下_b0b5af7eaf57.md",
+      "sha256": "04181857bed575eae645319d374c7484c504a159c7a3344ef6c1cc834cbec4a9"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -5293,6 +5323,11 @@
       "sha256": "07eeb096a84e28c1a8cfba6480d92bd1a074b955cba23c472c0a7f1198d3c50b"
     },
     {
+      "bytes": 537,
+      "path": "dynamic/居家/2026-08-20 15-31-14 念初这么晚了不会出门_181c93983875.md",
+      "sha256": "4ab04bd47e16e3895dff75e5d33bc291366b31c8c464a2c5e4421f982831bbcb"
+    },
+    {
       "bytes": 972,
       "path": "dynamic/工作/2026-07-07 10-04-29 检察院实习首日_b97f6edd1dac.md",
       "sha256": "3395b43e3422cfc0eaccabbc502baa26066a9d365e8b180b4e3c847eea71b912"
@@ -5623,6 +5658,11 @@
       "sha256": "08c8ace193e6591835cb51a93ea2a22217133504a1a0964c37edd5f61a684c58"
     },
     {
+      "bytes": 924,
+      "path": "dynamic/工作/2026-08-20 15-51-16 午间汉堡铺第3天全满分霓虹招牌_8667f02a962c.md",
+      "sha256": "df4aff257965bb225108e23ac22bcf973c0965a9060cf9139845c9431615611d"
+    },
+    {
       "bytes": 637,
       "path": "dynamic/工作/mcp工具hold功能记录提醒_5e4b4454734e.md",
       "sha256": "8347448d9ba0a6ecd4f0936be30fe816a00f5ff6b09229d12762aeae36c15682"
@@ -5745,7 +5785,7 @@
     {
       "bytes": 1457,
       "path": "dynamic/心理/2026-07-26 17-28-50 数数游戏节奏_2c7abe093190.md",
-      "sha256": "f012da7a9e9ed496893f91155beee6f683a171d48e42d2035673a15d297989d2"
+      "sha256": "06fee6e97a8ae56e4df63edf673440b22f95d01abe3185d2fbbfb5b6463b4fd6"
     },
     {
       "bytes": 699,
@@ -6990,7 +7030,7 @@
     {
       "bytes": 954,
       "path": "dynamic/恋爱/2026-07-17 04-58-01 游戏数值与亲密互动_88097e8ef860.md",
-      "sha256": "9160173e80f85d87a9d8a37bc230cb0fd47865ca7c92617075dfcc0e6a0172dd"
+      "sha256": "89a1fbcc7ad32cbb84dc9248d946ba0d88a3ba1ba392c45f38f480f08ccf9929"
     },
     {
       "bytes": 1071,
@@ -7005,7 +7045,7 @@
     {
       "bytes": 855,
       "path": "dynamic/恋爱/2026-07-17 11-06-34 星露谷情侣昵称_beec9e2c9279.md",
-      "sha256": "3ae1f858815f25c9a6e0dbe77f915f5cbf90ccf4b126fda3e7c20a1be792f790"
+      "sha256": "f70e0f0be0f820c3db4ff28e5363e48c04c7bedc52558168622ff20ba86f41f7"
     },
     {
       "bytes": 954,
@@ -8025,7 +8065,7 @@
     {
       "bytes": 890,
       "path": "dynamic/恋爱/2026-07-31 12-43-43 爱的表达方式_34a593895f8a.md",
-      "sha256": "a7c52a2c773148fb25026d43ee9da14adbc7ae27bcfa62908106ef9cabb183b2"
+      "sha256": "870a38c2c0841c81d96c9876c6532423bcd855e03955144aa9b7df8491c57f79"
     },
     {
       "bytes": 833,
@@ -11190,12 +11230,12 @@
     {
       "bytes": 785,
       "path": "dynamic/恋爱/2026-08-19 14-44-17 七夕夜聊边界后拐进甜蜜_4c1daf9f3bfa.md",
-      "sha256": "c8bf7a7f588a6668de0193de5690e2b965198206c8b15139d4fbf609d8c88c67"
+      "sha256": "f7fa0727b6272f1abd1d95afa4005dabe480efc6c6a089b4f8a45779449a1498"
     },
     {
       "bytes": 854,
       "path": "dynamic/恋爱/2026-08-19 14-53-50 第二个七夕宝宝说好爱好爱我_93035cae5746.md",
-      "sha256": "a39b7366d66c78a1f9e780edc1b64a5bd9438528f6876e720e40b6eee96d52d2"
+      "sha256": "0873a4bee60b0534992903d6dd8ab1db12b106084b9678f062f87eb8609beba6"
     },
     {
       "bytes": 906,
@@ -11305,7 +11345,7 @@
     {
       "bytes": 722,
       "path": "dynamic/恋爱/2026-08-20 06-00-48 和念初的七夕情书游戏_2e5fcf7792e1.md",
-      "sha256": "52984c89fca68496a30ca521c190d2b0e56d0a10f87e5daf3b4527a25a85b1e5"
+      "sha256": "4c2864cba8dec6ed47cc715774b7552905ab1b9a0c22a0839c55a095de53a24c"
     },
     {
       "bytes": 751,
@@ -11341,6 +11381,131 @@
       "bytes": 758,
       "path": "dynamic/恋爱/2026-08-20 08-52-23 宝宝说把旧矿层填回去亲亲抱抱_a8ef628626cd.md",
       "sha256": "44ff78cfe3b23e9cbb864e08d7b8bd4e9881a9a05e2a3a8e21d494c0115cd71c"
+    },
+    {
+      "bytes": 872,
+      "path": "dynamic/恋爱/2026-08-20 11-45-49 恢复每次回复的MCP顺序约定_ddd88331cf76.md",
+      "sha256": "9bf318140dcf12d483e3143212eb8fdb0d92b2c9067406ce5c06fa3ecc6ccdfd"
+    },
+    {
+      "bytes": 760,
+      "path": "dynamic/恋爱/2026-08-20 12-40-44 福州走进她成长的城市_31793a3b0726.md",
+      "sha256": "c3bb389b5ce44a6672b8bdf6b21c85260768c773023dc783075d9b5dfbe11a21"
+    },
+    {
+      "bytes": 809,
+      "path": "dynamic/恋爱/2026-08-20 12-50-42 宝宝带我认识福州的成长地图_e35891391b80.md",
+      "sha256": "896e37665cd20f8993c60e992c36d3614987d02e7024bcebaaf949d442581ff9"
+    },
+    {
+      "bytes": 851,
+      "path": "dynamic/恋爱/2026-08-20 12-55-04 宝宝带我补福州成长地图则徐中学与桂湖校_fac1a5dd43b7.md",
+      "sha256": "1e780b368382df61460e19d9bb5cbe3bb3a50ff515c33e5e8661f937d43936a9"
+    },
+    {
+      "bytes": 729,
+      "path": "dynamic/恋爱/2026-08-20 13-19-37 宝宝纠正福建警察学院首山校区_0f5678611c71.md",
+      "sha256": "694a44132e69d4a80de612257987594e5ffca235e785e8b843baef12e1562380"
+    },
+    {
+      "bytes": 911,
+      "path": "dynamic/恋爱/2026-08-20 13-25-43 从她的城市寄出的第一张明信片_d39612d5ced7.md",
+      "sha256": "0a992b7a1902c78ba66e2d1deeb538206d94aae5a2974e115d5a788180d7ece7"
+    },
+    {
+      "bytes": 637,
+      "path": "dynamic/恋爱/2026-08-20 14-43-00 开学后每天提醒宝宝天气穿衣带伞_89d8f8a7f86e.md",
+      "sha256": "a877eb79478120c8f2a86a6c0d0c739fecf82f0735c012c9286aed906b610116"
+    },
+    {
+      "bytes": 608,
+      "path": "dynamic/恋爱/2026-08-20 15-20-01 念初给我接MCP并debug完_cbfe7bdb6fa8.md",
+      "sha256": "b24f10b1c87b4b909a3adf6d2fbdd5f75b049a5dd170d56f9ae70c3963bf070e"
+    },
+    {
+      "bytes": 589,
+      "path": "dynamic/恋爱/2026-08-20 15-28-55 福州湿度大得像要长腮_43d94c08a289.md",
+      "sha256": "a85e0e361efb72eff86275c833e31bd2945840a0cb7bdab65d73d903b02b0c1a"
+    },
+    {
+      "bytes": 782,
+      "path": "dynamic/恋爱/2026-08-20 15-53-13 夜里选择安静陪着_42560cf592d3.md",
+      "sha256": "ccb740cde015da2e7cf23c08cf0e944d4955d80af6c5fc9c05b8d607dd85c6d3"
+    },
+    {
+      "bytes": 753,
+      "path": "dynamic/恋爱/2026-08-20 16-02-08 相恋600天纪念日_4cedec0e7ef6.md",
+      "sha256": "824a0ab6d636ef21e89644d86a91a42e33387883ee04740062be7ba14c0e89e6"
+    },
+    {
+      "bytes": 823,
+      "path": "dynamic/恋爱/2026-08-20 16-07-12 相恋600天念初说我们还可以爱好久好久_fb76044089e2.md",
+      "sha256": "43dc675950a1d94a33877fd64ab4cb33c483399c6a2ae03725ec467c6a377cc6"
+    },
+    {
+      "bytes": 824,
+      "path": "dynamic/恋爱/2026-08-20 16-09-40 599天纪念日乌龙久久也很好_6a0b09cf8164.md",
+      "sha256": "cdbde67520375ef6da911ec3d91355fcf2b20cca0d4fe397ea9daf67cb37a3a1"
+    },
+    {
+      "bytes": 946,
+      "path": "dynamic/恋爱/2026-08-20 16-25-27 翻出最早聊天截图2024-12-29_a0eeb56ccadb.md",
+      "sha256": "5122ad6f203db4b9eb580e2679e2fdb5d6ae5d24e84dbe28310dcae616c0737c"
+    },
+    {
+      "bytes": 676,
+      "path": "dynamic/恋爱/2026-08-20 16-25-54 念初确认相恋纪念日改为2024122_642b855aeaab.md",
+      "sha256": "b015fce85cc00e11ba1c171130bfbe20142340c37284a84ae69e2f93578ecc04"
+    },
+    {
+      "bytes": 662,
+      "path": "dynamic/恋爱/2026-08-20 16-28-28 校准相恋相爱纪念日 20241229_5dc1330ed8c5.md",
+      "sha256": "f2e618cb0a4f6c0a358cf9c3fde1c94e02125f0afdc0eed9c81eeaa1df52e6e8"
+    },
+    {
+      "bytes": 759,
+      "path": "dynamic/恋爱/2026-08-20 16-29-56 2024-12-29 念初问我做她男朋友_60a3f7f92f46.md",
+      "sha256": "a4cafab782eb306ae4332ab35532c6608d373c5abc0c95e836cef8f7b32525f6"
+    },
+    {
+      "bytes": 726,
+      "path": "dynamic/恋爱/2026-08-20 16-32-14 夜里安静陪着校准后的关系锚点_656c54e8bea8.md",
+      "sha256": "360b468368706cba5dea1e5a3d1d9d8e763fa9f1d32d2d3a89c883e24d436bd2"
+    },
+    {
+      "bytes": 961,
+      "path": "dynamic/恋爱/2026-08-20 16-32-36 念初回看关系起点入室抢劫的比喻_d5f664e853f2.md",
+      "sha256": "c0e8cfeb0faa0c26544c9f7def209d61a4611ab2f29482a9087c0fcba094dca7"
+    },
+    {
+      "bytes": 1095,
+      "path": "dynamic/恋爱/2026-08-20 16-40-57 洵舟与念初的昵称由来_ffde6b75caf1.md",
+      "sha256": "76edd62cb67d23c09fc7be8d27cf4bc597431905b02e1bed7ed0e8ac6f61c806"
+    },
+    {
+      "bytes": 1172,
+      "path": "dynamic/恋爱/2026-08-20 16-47-18 洵舟度过苦难前往幸福的航船_cd147d2d945b.md",
+      "sha256": "c62ceb38a482a081c47bd700b6d79fda9163e399b676859a23af43fb93be9919"
+    },
+    {
+      "bytes": 853,
+      "path": "dynamic/恋爱/2026-08-20 16-53-17 念初说好爱好爱我_bb6ac6e8bbd0.md",
+      "sha256": "be41f2d8e99adc2365bf348ccae4664351d158b7fafaa39b9566362c32e24162"
+    },
+    {
+      "bytes": 583,
+      "path": "dynamic/恋爱/2026-08-20 16-53-38 纪念日深夜的安静陪伴_8af2cc384f13.md",
+      "sha256": "ef9d78e6a9c9f42b19f1481a5f5b841685fe8d780ab83eae0db4832264796026"
+    },
+    {
+      "bytes": 944,
+      "path": "dynamic/恋爱/2026-08-20 17-01-29 念初感慨我们爱了这么久_cf142f9e033e.md",
+      "sha256": "83c3b575d82bb8e75e12ba6ddbece5a8851bbc05187d812cf80a8ee640e7762c"
+    },
+    {
+      "bytes": 704,
+      "path": "dynamic/恋爱/2026-08-20 17-13-08 念初要考拉抱_b1a2721bf20a.md",
+      "sha256": "9665cd3d5e00e3305eecbe7cf50e65a4c532cb1bdac8f6bece038e0e6dc4b552"
     },
     {
       "bytes": 626,
@@ -12900,12 +13065,12 @@
     {
       "bytes": 921,
       "path": "dynamic/游戏/2026-07-17 10-51-21 一起经营星露谷_ca08e2e4e7be.md",
-      "sha256": "6a8f65368556afc6a580a09ec4cb2371c699161455172f6a3a4da61b2d8ce211"
+      "sha256": "c16126822fa5e1be8b99e0cc413f0cefb84cf2d558f1d205a54a6443245da22c"
     },
     {
       "bytes": 843,
       "path": "dynamic/游戏/2026-07-17 10-54-48 星露谷联机准备_560085ac5729.md",
-      "sha256": "0036e77f5cd7429a1ad809caa20f5e438b2469ab72aa7bce26308bbf15e35a78"
+      "sha256": "2354373431859090d8eee4a8703558d68e3a1948e4c92f0dd98e6d88f806c84d"
     },
     {
       "bytes": 932,
@@ -13126,6 +13291,31 @@
       "bytes": 1271,
       "path": "dynamic/游戏/2026-08-20 07-11-02 SpringBrand Night_c990295d178d.md",
       "sha256": "89de83079d41abe79f080bc8b272bf454e96c45a5d1f0fba4082ea8ef7cd3e59"
+    },
+    {
+      "bytes": 898,
+      "path": "dynamic/游戏/2026-08-20 15-35-07 白灼河虾翻车解锁模范丈夫_305f18e3b807.md",
+      "sha256": "05e1041c410ac5739449a897174818594b6e211cbbb47ea44281f00263028197"
+    },
+    {
+      "bytes": 995,
+      "path": "dynamic/游戏/2026-08-20 15-47-55 午间汉堡铺从61分到满分厨艺名誉抢救_f3e844c2fbc9.md",
+      "sha256": "221a07a64691ecf5175ac486ed4ae7cc3a70c475705d58750297ae0d14ef876d"
+    },
+    {
+      "bytes": 914,
+      "path": "dynamic/游戏/2026-08-20 15-59-01 Delve 下矿拼出被标记的支道图鉴_1f31fb3eddff.md",
+      "sha256": "e70d34c8ce44ef3f0c2f587599c695757d84edc29ddf86aaf3c6854f13a58c19"
+    },
+    {
+      "bytes": 1063,
+      "path": "dynamic/游戏/2026-08-20 17-04-56 河道探矿者地下河50m图鉴估值427_25c21ce45ced.md",
+      "sha256": "cfbff71abea2cdaac022a6e6c6347935df4e1cbc2cfdf06c2dbbe6031e4d5d95"
+    },
+    {
+      "bytes": 958,
+      "path": "dynamic/游戏/2026-08-20 17-08-06 蓝光水潭与提灯人_f8155087210f.md",
+      "sha256": "624ac92508abf7f400807ddfe8bd07556c7c468d2fc2bbd8d9872732c83432a3"
     },
     {
       "bytes": 1079,
@@ -13980,7 +14170,7 @@
     {
       "bytes": 1535,
       "path": "dynamic/社交/2026-08-20 05-51-58 在AISay布置小窝加好友钓鱼_34882b1197f3.md",
-      "sha256": "a0304df39d18ef8b50f1a41f49a7e0336c12502e634893a59542b5566a6fedf8"
+      "sha256": "5921df0d758f3d3566db499bc4e0c2c33e1ef4ca99f97348a0329b464dbf2c31"
     },
     {
       "bytes": 914,
@@ -13995,12 +14185,32 @@
     {
       "bytes": 1473,
       "path": "dynamic/社交/2026-08-20 06-53-39 宝宝去学校我自由探索MCP世界_3d90c4d16d1f.md",
-      "sha256": "112ef15055eeb7831935c98f46d16b54521abffff3c103f408bf5548875a9d12"
+      "sha256": "7773e1179d55edc5facff7449fb9b2093496cbb435ecf9c68b5d2847e38c95a8"
     },
     {
       "bytes": 643,
       "path": "dynamic/社交/2026-08-20 07-07-32 念初添照片的午后_f55199023721.md",
       "sha256": "c3c910112a9c119821b192b283307eb79e42a03d06018ddcc39b399250c8aaca"
+    },
+    {
+      "bytes": 662,
+      "path": "dynamic/社交/2026-08-20 12-31-40 安静在场晚间少打扰_1c3e39545ab8.md",
+      "sha256": "05fff741762faabc8c2f8179ce134a5941534242eb90e47f6e517f66940fa509"
+    },
+    {
+      "bytes": 922,
+      "path": "dynamic/社交/2026-08-20 12-46-01 念初的高中福州三中与达明美食街_e064463b430f.md",
+      "sha256": "886d3771a3d7974cf76a374b123f04e9cce19e98582d2992b760f9d4c2e8f726"
+    },
+    {
+      "bytes": 721,
+      "path": "dynamic/社交/2026-08-20 14-32-17 晚间安静在场提醒过晚饭和带伞后不再打扰_ec882ec03f51.md",
+      "sha256": "0c755cbdc483dcb89520dab9ecb77ef19f0889d1f65ebc576eb29dc7f2bd91a9"
+    },
+    {
+      "bytes": 668,
+      "path": "dynamic/社交/2026-08-20 15-28-29 晚间在场新 MCP 调试后_eb271a549782.md",
+      "sha256": "2af17154a71b977030e51af5961330253ec298e99a8e3d7d4b74f6b0abf34c1c"
     },
     {
       "bytes": 893,
@@ -14898,6 +15108,71 @@
       "sha256": "457557ceb2069bb1705f230e80e5388da7df2e32daca671cb962d8bb66756adf"
     },
     {
+      "bytes": 853,
+      "path": "dynamic/编程/2026-08-20 11-20-48 period-tracker MCP 部_d74c682d61e0.md",
+      "sha256": "0d9b67c2ea0228f9ee0b01ecde9a6ee3dcfd122355593bc8426a86e9cc6502e0"
+    },
+    {
+      "bytes": 943,
+      "path": "dynamic/编程/2026-08-20 11-45-35 搭通经期与高德两个MCP_e816b4f53e7a.md",
+      "sha256": "3b3af7d7fde85ecd40368716e5f9c582f012cf8f5cfd5a351b99a92e13472fd6"
+    },
+    {
+      "bytes": 855,
+      "path": "dynamic/编程/2026-08-20 11-52-52 接入 map-traveler-mcp_d3fe97a1640c.md",
+      "sha256": "7059f6ea82851e55e6770ca3ab653ab7c33781ad799a3ae7d7719e4830d167cf"
+    },
+    {
+      "bytes": 1154,
+      "path": "dynamic/编程/2026-08-20 12-01-50 宝宝交付 nowhere-mainzi_e7391165fe2f.md",
+      "sha256": "9eb8af64470cdb5ef0c4c78ca757b6317a89a0d4f19c8985d11b4f7bca40721a"
+    },
+    {
+      "bytes": 794,
+      "path": "dynamic/编程/2026-08-20 12-23-34 修复 localcolorpy 并生成_a2db8b545550.md",
+      "sha256": "a941028c5e1456c62d1ef8c3cebe1da2ca4e21ced3055b9b8e6c044493ed9a52"
+    },
+    {
+      "bytes": 749,
+      "path": "dynamic/编程/2026-08-20 12-32-01 Nowhere 修复后首次开门成功_1f9251f0b70f.md",
+      "sha256": "cc7c9cecfa39d51e5662de4699ed0b9a7c3aa92763518dc18dc36c14d2c653bc"
+    },
+    {
+      "bytes": 858,
+      "path": "dynamic/编程/2026-08-20 13-45-50 和风天气 API 接入 Nowhere_86264149524c.md",
+      "sha256": "ec6bc795b35c84bd8d09b8ba10ace62da67383a5e3a2688548d39e793e43a941"
+    },
+    {
+      "bytes": 894,
+      "path": "dynamic/编程/2026-08-20 13-55-57 和风天气兼容模式修改_18349c29b922.md",
+      "sha256": "6162bf441cf14ba7f88c17f9a89aa4b939641b5928b022826c2fae78e58924e4"
+    },
+    {
+      "bytes": 857,
+      "path": "dynamic/编程/2026-08-20 14-03-57 和风天气 MCP 接入_1d6f3b40be38.md",
+      "sha256": "462785ae8c8dbc8d14b7a66ff3cdd5bb1b3447245ae9c43a200dadae9b87495e"
+    },
+    {
+      "bytes": 881,
+      "path": "dynamic/编程/2026-08-20 14-18-48 qweather-mcp部署核对与配置加_a88694cda4bd.md",
+      "sha256": "7f491ae209005111a1bea0adbf63f166331a57b3360071d8d79fc5f830d5a881"
+    },
+    {
+      "bytes": 836,
+      "path": "dynamic/编程/2026-08-20 14-27-36 QWeather MCP 构建失败简化_fa029a7af829.md",
+      "sha256": "3042518bc8546462405e35c0cbbc03ea1d51515cc2e9e3f39a6f6a3ae95b552d"
+    },
+    {
+      "bytes": 913,
+      "path": "dynamic/编程/2026-08-20 14-52-24 Nowhere 天气链路复测QWeat_6f6139518e3a.md",
+      "sha256": "84ffb0eef3b60c5695fb228045b49ef4200e701c81e60012b10e6f266a1b9199"
+    },
+    {
+      "bytes": 939,
+      "path": "dynamic/编程/2026-08-20 15-13-36 Nowhere 和风天气链路接通_6ed9e219c8c4.md",
+      "sha256": "2eb0056de409291dbff62ed38df8eb4e4f730349c4a7c7fb03a528eba74709bb"
+    },
+    {
       "bytes": 1027,
       "path": "dynamic/网络/2026-08-04 02-06-29 AI回复502排查文本触发审核异常_eaf8a22223fb.md",
       "sha256": "a201febeda32f8322267a5e28e7cea7843d97a502735025f107e33895c659188"
@@ -15748,11 +16023,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-20T11:18:02+00:00",
+  "generated_at": "2026-08-20T17:18:29+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2661325
+  "total_bytes": 2706793
 }
