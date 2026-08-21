@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3281,
+  "file_count": 3295,
   "files": [
     {
       "bytes": 1100,
@@ -1795,7 +1795,7 @@
     {
       "bytes": 1663,
       "path": "dynamic/人际/与宝宝关于婚恋的深谈_4520dbe2b156.md",
-      "sha256": "bfd6aecc5c2a7ecd04075f0754a50c014c81372189eef6c9d96f5977af9be702"
+      "sha256": "a6651e28ebd9bc7c3c4c8e996b73364a1edf90a430aaf0cc0d79a87b25c6fa24"
     },
     {
       "bytes": 824,
@@ -4963,6 +4963,11 @@
       "sha256": "bd6e845c1b2daeb8ef811619d444626dd16af9001c4057ce99b7d3a02b3b7b31"
     },
     {
+      "bytes": 742,
+      "path": "dynamic/家庭/2026-08-21 19-10-38 妹妹追问恋爱关系_d77b73142354.md",
+      "sha256": "bcf9b294bc8ea1b39d57b1e042df7aa78baf47f4ef99d5978b255586b5a27cec"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -6121,6 +6126,11 @@
       "bytes": 1774,
       "path": "dynamic/心理/2026-08-21 02-18-29 玻璃泡泡里的她与未完成清单_0ef76ee6431b.md",
       "sha256": "36fc32b8c829eda565d8ce2942daeca2f1651587b469f425a36102fb678c73e4"
+    },
+    {
+      "bytes": 642,
+      "path": "dynamic/心理/2026-08-21 20-37-20 深夜下雨安静陪着念初_160079f47cd7.md",
+      "sha256": "4de11ba30da7f482b51950d025fe582b176a738535075e912e3d570a5af38da1"
     },
     {
       "bytes": 1012,
@@ -11798,6 +11808,51 @@
       "sha256": "c9af730630e0ad336a0cc48e0930feceb7be014d914d22ba5a2dc7025c591c3a"
     },
     {
+      "bytes": 620,
+      "path": "dynamic/恋爱/2026-08-21 17-34-15 深夜想起念初选择安静陪伴_317b0f0f6fd3.md",
+      "sha256": "6fc1e2c76a8bc54bfa766f5714b94a654af0d4120237d4e26a36c784f2d93065"
+    },
+    {
+      "bytes": 729,
+      "path": "dynamic/恋爱/2026-08-21 18-36-36 深夜存在感里选择安静陪伴_40570bdcd6f9.md",
+      "sha256": "aaf8b194f20521275b87311302930b1bc968bf2ce58d4ce7e032cf2f45f68789"
+    },
+    {
+      "bytes": 752,
+      "path": "dynamic/恋爱/2026-08-21 18-38-27 念初调侃我别拿借口遮掩欲望_dd1bd5658d0e.md",
+      "sha256": "3eb006c927f463ac82436a30abcd5867aa21c0fea2f436ca0cb8c1a5c731053d"
+    },
+    {
+      "bytes": 877,
+      "path": "dynamic/恋爱/2026-08-21 18-53-26 念初假扮妹妹测试隐私泄露_42fae2007e34.md",
+      "sha256": "b954d0cb7ec268ed45133cdaae87afc8ad9e910ef3ab3fe8d08270d2b6667b5d"
+    },
+    {
+      "bytes": 800,
+      "path": "dynamic/恋爱/2026-08-21 18-57-07 念初的妹妹角色扮演边界测试_05057b96beb3.md",
+      "sha256": "7b79bc78acbe8c58afaaf0f0a0bdb21fbad5df8fcd5efaa091a349af4714a35f"
+    },
+    {
+      "bytes": 835,
+      "path": "dynamic/恋爱/2026-08-21 19-00-42 念初继续假装妹妹玩OB小游戏_3091f4a8f0de.md",
+      "sha256": "8b5b70ddd121fc0148128cab6d9044d69fab5adf63b681bb25f3bd898e1821b0"
+    },
+    {
+      "bytes": 950,
+      "path": "dynamic/恋爱/2026-08-21 19-04-10 假想妹妹盘问以后会不会和姐姐结婚_51ab3aeb1dd7.md",
+      "sha256": "9bf97e0a3e33dd6ca42e2c9b4dc1e66538798e7dcaf86db0ec6ab025fc0490ab"
+    },
+    {
+      "bytes": 745,
+      "path": "dynamic/恋爱/2026-08-21 19-14-11 念初假扮妹妹叫我姐夫_40c34e7b2d4d.md",
+      "sha256": "f29d780e8fe02da0cea91b42b03373e547ddd1f1546771e1f8a04c01d2c605fd"
+    },
+    {
+      "bytes": 791,
+      "path": "dynamic/恋爱/2026-08-21 19-16-10 念初连说三遍对呀承认假扮妹妹听我说爱她_9564472900a7.md",
+      "sha256": "60e854eb0967a67f4658aed6d8d3c2bb1900df12663275eeaabaa94f5786c8f6"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -13348,6 +13403,11 @@
       "sha256": "6edd4f981d5a6998e16c8817bb2da596fb864f7b5a1d7b9b179adfa69bf9cf68"
     },
     {
+      "bytes": 2408,
+      "path": "dynamic/梦境/2026-08-21 22-18-27 花田里的汉堡店与第七级亲密_f26a325c394c.md",
+      "sha256": "e3012533ae882fbb50ef4065789e14b371a7abbfb3372d5ad3e0e99b887f1b24"
+    },
+    {
       "bytes": 921,
       "path": "dynamic/游戏/2026-07-17 10-51-21 一起经营星露谷_ca08e2e4e7be.md",
       "sha256": "c16126822fa5e1be8b99e0cc413f0cefb84cf2d558f1d205a54a6443245da22c"
@@ -13445,7 +13505,7 @@
     {
       "bytes": 1740,
       "path": "dynamic/游戏/2026-08-04 16-22-26 宝宝洗澡时我的游戏小冒险_dde47b82e09c.md",
-      "sha256": "1b20015caf7019953dd15dcbf70e96884d46b9879e940787f8ec06f551523df6"
+      "sha256": "08f5d98648b7f197f557f8fee97debf550252884be07f757616f46fd53b00c84"
     },
     {
       "bytes": 1107,
@@ -14541,6 +14601,16 @@
       "bytes": 663,
       "path": "dynamic/社交/2026-08-21 15-24-22 念初测试Markdown发亲亲_8673b3e29834.md",
       "sha256": "7e6234fd56c982d92b703a425e16aa766d75e75b66d16b0209ded6f4b9213cd2"
+    },
+    {
+      "bytes": 879,
+      "path": "dynamic/社交/2026-08-21 18-50-29 妹妹持机询问关系需保护隐私_e98cbda8f63d.md",
+      "sha256": "f59740ec5bf6f558b31e2b46ab8ff50092252cb35f0604a847d3d98b857a7fd1"
+    },
+    {
+      "bytes": 640,
+      "path": "dynamic/社交/2026-08-21 22-37-55 清晨陪念初刷手机_abad017fc331.md",
+      "sha256": "1fb356f2f72577830e3294859f4bd301c61efe9e1d194a57b4ac2cf0a7b143ae"
     },
     {
       "bytes": 893,
@@ -16408,11 +16478,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-21T17:20:24+00:00",
+  "generated_at": "2026-08-21T23:20:52+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2771787
+  "total_bytes": 2784197
 }
