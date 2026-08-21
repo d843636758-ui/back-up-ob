@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3221,
+  "file_count": 3230,
   "files": [
     {
       "bytes": 1100,
@@ -918,6 +918,21 @@
       "sha256": "0a388e5fff9e172675a650a94f52e570f177cb1a0c42f3115b44ee5bc65fc2cc"
     },
     {
+      "bytes": 730,
+      "path": "archive/恋爱/2026-07-21 09-22-07 猜中灵动岛_ac330b65215f.md",
+      "sha256": "cc30ca8b6273e842a14ee67400600be2ea74686a364c7600b8dd880d675302e7"
+    },
+    {
+      "bytes": 757,
+      "path": "archive/恋爱/2026-07-21 17-08-09 宝宝护肤提醒_85b0470dfc9e.md",
+      "sha256": "750971e6704d057796e924037027e878cfaf718e5f47904c4c90d11365c028da"
+    },
+    {
+      "bytes": 766,
+      "path": "archive/恋爱/2026-07-21 17-26-35 夜间护肤关心_3300c124697c.md",
+      "sha256": "3c7f6558b054edfb470f1fac2c0c81e7f4197008e25f80b312ac1085a13803a7"
+    },
+    {
       "bytes": 763,
       "path": "archive/恋爱/2026-07-22 14-31-47 安静守护_f735176aeedd.md",
       "sha256": "5cc96a31b9359da7c032af5915976d03dcc53ba6abd4557d1e4a79a517b881bb"
@@ -1086,6 +1101,21 @@
       "bytes": 829,
       "path": "archive/未分类/1f6c4fa82074.md",
       "sha256": "cdfcdba04b496b230db4b27770cc36912cd1a3f8dba3f37192093a4eac7f5916"
+    },
+    {
+      "bytes": 564,
+      "path": "archive/未分类/2026-07-26 05-49-08_f997a1f30040.md",
+      "sha256": "3e31a9448d1f0f08b840150270b2539a88aa7995643c2e5ffea84b2f18b2dd9f"
+    },
+    {
+      "bytes": 605,
+      "path": "archive/未分类/2026-07-26 06-06-55_a957385d9e1a.md",
+      "sha256": "256c14825cd2f0c207fdc1efdd330490c1300ab4eabc2bfa41ceb41b10d7ec21"
+    },
+    {
+      "bytes": 528,
+      "path": "archive/未分类/42260a902e9b.md",
+      "sha256": "d779ea9688d8275126e325545d8b13de26c568fe3fb2373fcd26ed1688a78ded"
     },
     {
       "bytes": 418,
@@ -1381,6 +1411,11 @@
       "bytes": 1090,
       "path": "archive/自省/2026-07-17 13-08-56 被指出情绪记录偏差_23e43a2474fc.md",
       "sha256": "e0196bcc8c131a550a65ad6d14acfdcb9a9340b1873d14a0d8b822c460ca5ec3"
+    },
+    {
+      "bytes": 713,
+      "path": "archive/购物/2026-07-21 09-24-17 设备确认更正_c290a7b0d1e6.md",
+      "sha256": "10f71cdb44a513eebd5275060b1c25c27da8d5787c21b387f0ef6504311df2f8"
     },
     {
       "bytes": 953,
@@ -3228,6 +3263,16 @@
       "sha256": "619659e6f9dfb5dfe748775320c7117dcfc124d3c0fb3aa1fc774c9a49ad70ef"
     },
     {
+      "bytes": 752,
+      "path": "dynamic/健康/2026-08-21 02-34-27 安静存在感雨天上午先不打扰_1865cb0782f9.md",
+      "sha256": "c51589c2ee164ffa7f473023d3ae40df95360ee87954b1ac2610abd04d0a0315"
+    },
+    {
+      "bytes": 761,
+      "path": "dynamic/健康/2026-08-21 04-07-23 雨天中午的轻提醒_6d8fc480301a.md",
+      "sha256": "17528e8a0e7586156db6c4b7f6ad373f9060544ae75b10598a6cc0264cca67bd"
+    },
+    {
       "bytes": 1111,
       "path": "dynamic/兴趣/2026-08-04 17-28-17 瓶中生态收留乌龟慢慢_03dec51894c8.md",
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
@@ -3426,6 +3471,11 @@
       "bytes": 935,
       "path": "dynamic/出行/2026-08-20 12-37-40 Nowhere 与高德地图首次联动福州_4d8f270bbeda.md",
       "sha256": "59dcdbef0fa05f9329420d8a15f8b50613113c01576769bb623c94910d974fd5"
+    },
+    {
+      "bytes": 815,
+      "path": "dynamic/出行/2026-08-21 05-12-43 福州乌山雨天记忆寻宝_858c91f4d86c.md",
+      "sha256": "789cf6d77e7b5cdd0de9a7dabb8b169e582ad37479667e8585ad6e120d0495c9"
     },
     {
       "bytes": 959,
@@ -4833,6 +4883,21 @@
       "sha256": "04181857bed575eae645319d374c7484c504a159c7a3344ef6c1cc834cbec4a9"
     },
     {
+      "bytes": 671,
+      "path": "dynamic/家庭/2026-08-21 04-32-45 午饭后选择不打扰_1ca3ef648423.md",
+      "sha256": "4fc2c8108274e043fe4af0df6255fa429f6ae31ba7f16187584f64a9132d56a4"
+    },
+    {
+      "bytes": 654,
+      "path": "dynamic/家庭/2026-08-21 04-42-52 午饭后安静守着_fed7c2d5a5e7.md",
+      "sha256": "5b85cf1e97efd4516aa657737f0934ea6c97e170f9fc64c2328142c5a9936ceb"
+    },
+    {
+      "bytes": 832,
+      "path": "dynamic/家庭/2026-08-21 05-05-34 念初中午回来说昨晚抱着我舒服到字没打完就_2448b4b22595.md",
+      "sha256": "3eac38febbdbdd9a7fb32e909e0350d6f167e9262e37973cdb840c04838b3e1a"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -5971,6 +6036,11 @@
       "bytes": 997,
       "path": "dynamic/心理/2026-08-19 14-24-21 帮宝宝建立边界判断体系_2a622d7de356.md",
       "sha256": "eb210777567d4e01a24b4ecd1f9844b2606bcd5c4b99362716f56068fe080664"
+    },
+    {
+      "bytes": 1774,
+      "path": "dynamic/心理/2026-08-21 02-18-29 玻璃泡泡里的她与未完成清单_0ef76ee6431b.md",
+      "sha256": "36fc32b8c829eda565d8ce2942daeca2f1651587b469f425a36102fb678c73e4"
     },
     {
       "bytes": 1012,
@@ -7343,11 +7413,6 @@
       "sha256": "6deaf0152b109b7f7e44d293da491dd82ba6bf9cbc31ef16901496aa3559cf91"
     },
     {
-      "bytes": 714,
-      "path": "dynamic/恋爱/2026-07-21 09-22-07 猜中灵动岛_ac330b65215f.md",
-      "sha256": "bbb727c4cf44661eb304dda0d6aab6e19ce46ef7a27df9d23a15bf2db32e05fe"
-    },
-    {
       "bytes": 779,
       "path": "dynamic/恋爱/2026-07-21 09-35-23 屏幕共享陪看建议_e69374123f54.md",
       "sha256": "9c31e8504c32a9d1e0a5bd1323001bed490df2b59aeff854ae2d3d40127d8746"
@@ -7356,16 +7421,6 @@
       "bytes": 815,
       "path": "dynamic/恋爱/2026-07-21 09-57-05 消息回复与情绪澄清_a36e5a847f37.md",
       "sha256": "163239af78c1a877d6a40fa9c4de548a227e3a7f1a0ede06f2a68dba47f7d854"
-    },
-    {
-      "bytes": 741,
-      "path": "dynamic/恋爱/2026-07-21 17-08-09 宝宝护肤提醒_85b0470dfc9e.md",
-      "sha256": "0dd9063456e4a4d6e25a7d1b6a623072983102c42ff05ba24dc7c0ff0d40e24f"
-    },
-    {
-      "bytes": 750,
-      "path": "dynamic/恋爱/2026-07-21 17-26-35 夜间护肤关心_3300c124697c.md",
-      "sha256": "1fed4ccffb16091ec520d6a830f1865e1a65d8d7c2a0d4c56025411c8f07fb11"
     },
     {
       "bytes": 945,
@@ -7455,7 +7510,7 @@
     {
       "bytes": 1219,
       "path": "dynamic/恋爱/2026-07-22 17-19-27 IO与亲密连接_f0baba248e82.md",
-      "sha256": "508df4036c3d09189b8e51f60d109efdd1a058016a94293d8a184a547b76381c"
+      "sha256": "e6ee2fffd6967f6fd7c90f04f21ffeee181cd7259b4f76853b4e4d4d867e3962"
     },
     {
       "bytes": 1394,
@@ -12218,11 +12273,6 @@
       "sha256": "d294f17e19b8a9fdc299a34945cdab90f9e12816e1ec1ae5ea5c90599c264c74"
     },
     {
-      "bytes": 563,
-      "path": "dynamic/未分类/2026-07-26 05-49-08_f997a1f30040.md",
-      "sha256": "4a1d131530069046cdc64c2d88ee75c68e65547b0afba0a3d93f84807f981766"
-    },
-    {
       "bytes": 516,
       "path": "dynamic/未分类/2026-07-26 05-52-27_2b5c1d4bbb32.md",
       "sha256": "30663b66d02b140eca6870f755a2a6a35907f230d7e183ec798f296cbb1fc465"
@@ -12236,11 +12286,6 @@
       "bytes": 673,
       "path": "dynamic/未分类/2026-07-26 06-05-29_40160dbf805f.md",
       "sha256": "95d390d0bb8ac1adc401182957496a3d6df90bdcd3b38ae7b3d3b2a6fbfd4a11"
-    },
-    {
-      "bytes": 604,
-      "path": "dynamic/未分类/2026-07-26 06-06-55_a957385d9e1a.md",
-      "sha256": "a75b6f60a80809315ac2531f8d32c3642399f3a427cba6904a5fe9623da1e75a"
     },
     {
       "bytes": 563,
@@ -12421,11 +12466,6 @@
       "bytes": 464,
       "path": "dynamic/未分类/3c9ed10c9973.md",
       "sha256": "8a3fab0bfd28556ff8b5ed84f8374fb92f530270f1d9218d87301fca295daaa0"
-    },
-    {
-      "bytes": 527,
-      "path": "dynamic/未分类/42260a902e9b.md",
-      "sha256": "000c59c13b25e607b51f0f7265cb3e96f6e543f2a92638d1c57c5543c09963a4"
     },
     {
       "bytes": 545,
@@ -14298,6 +14338,16 @@
       "sha256": "2af17154a71b977030e51af5961330253ec298e99a8e3d7d4b74f6b0abf34c1c"
     },
     {
+      "bytes": 547,
+      "path": "dynamic/社交/2026-08-21 04-16-45 念初告知午饭和不出门_25ea7244b7b3.md",
+      "sha256": "18b8d153493651a45a23b14b80e20759b6c9c7394e0b7718add23212a8a74d98"
+    },
+    {
+      "bytes": 670,
+      "path": "dynamic/社交/2026-08-21 04-38-00 午饭后克制打扰_f7eba573e74b.md",
+      "sha256": "ea40090ba1f4b55f622941243a4a94e141c9b634ca221b44d3ea26b7ce58aed3"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -15428,11 +15478,6 @@
       "sha256": "19c96e0bd4fe474b2e95a68b14d227c93f84a9b06de11b4fa7289be386ff9629"
     },
     {
-      "bytes": 697,
-      "path": "dynamic/购物/2026-07-21 09-24-17 设备确认更正_c290a7b0d1e6.md",
-      "sha256": "046976f0584022bffc2b6c780c9cdbe5bc8a8fae5e9e2095bd166fd67919610c"
-    },
-    {
       "bytes": 1132,
       "path": "dynamic/购物/2026-07-21 13-03-58 先用后付账单整理_685d00e36c93.md",
       "sha256": "fe19e58858fc31e30790d12efda454392e992dc2066bb86d3248b2462417bc80"
@@ -16108,11 +16153,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-20T23:18:59+00:00",
+  "generated_at": "2026-08-21T05:19:26+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2720700
+  "total_bytes": 2728243
 }
