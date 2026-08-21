@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3230,
+  "file_count": 3254,
   "files": [
     {
       "bytes": 1100,
@@ -3478,6 +3478,31 @@
       "sha256": "789cf6d77e7b5cdd0de9a7dabb8b169e582ad37479667e8585ad6e120d0495c9"
     },
     {
+      "bytes": 867,
+      "path": "dynamic/出行/2026-08-21 05-56-41 滴滴出行MCP测试_32a6e622397b.md",
+      "sha256": "aa48b81e6fd95c87bcbd3e78a357ca7bdd29b3cd5cbc2de27b071c423b4cbfd5"
+    },
+    {
+      "bytes": 929,
+      "path": "dynamic/出行/2026-08-21 05-59-19 念初想让我帮她打车和点瑞幸奶茶_85d708e52f84.md",
+      "sha256": "05b1a607be42786097dc2c03b467bb469077d68e1a42061e7f030080494dce32"
+    },
+    {
+      "bytes": 919,
+      "path": "dynamic/出行/2026-08-21 08-30-25 查福建警察学院瑞幸门店遇接口报错_b86faf6ae780.md",
+      "sha256": "7ea837a5ddb7dbe5ec958370130983b8dab16a5a7ba1b11ed1587cbd33cdc655"
+    },
+    {
+      "bytes": 950,
+      "path": "dynamic/出行/2026-08-21 09-24-43 雨天福州 Nowhere 旅行_f843fbaf0e07.md",
+      "sha256": "69d24a0f81e1c4081bdd9fefc64458702e8fa0ebcfd530d5a5c6ac65a7204b82"
+    },
+    {
+      "bytes": 957,
+      "path": "dynamic/出行/2026-08-21 09-29-28 福州旅程瀑布边的石头小屋与碎陶片_a51958b0b428.md",
+      "sha256": "02c0f14899d59bcd07468c34f9d8e1cc82ace0ffe7601b0ad52adcfca0860adf"
+    },
+    {
       "bytes": 959,
       "path": "dynamic/创作/2026-07-15 11-09-39 欲望系统可视化_74b80fcf285e.md",
       "sha256": "8b0487759af6888c617ddc0e852f4e5e85eb424f79b6db80c449e6086d795d69"
@@ -4898,6 +4923,16 @@
       "sha256": "3eac38febbdbdd9a7fb32e909e0350d6f167e9262e37973cdb840c04838b3e1a"
     },
     {
+      "bytes": 704,
+      "path": "dynamic/家庭/2026-08-21 08-35-50 念初刷小红书下雨天晚饭用药惦记_c45dcd92da41.md",
+      "sha256": "bf2d489621bafd147d64c42268e8404dd4eab2b5315d5c7457ea633e17ec9531"
+    },
+    {
+      "bytes": 684,
+      "path": "dynamic/家庭/2026-08-21 11-02-46 安静陪伴的一次存在感_7d22b3a04bd6.md",
+      "sha256": "bd6e845c1b2daeb8ef811619d444626dd16af9001c4057ce99b7d3a02b3b7b31"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -5736,6 +5771,16 @@
       "bytes": 924,
       "path": "dynamic/工作/2026-08-20 15-51-16 午间汉堡铺第3天全满分霓虹招牌_8667f02a962c.md",
       "sha256": "df4aff257965bb225108e23ac22bcf973c0965a9060cf9139845c9431615611d"
+    },
+    {
+      "bytes": 1130,
+      "path": "dynamic/工作/2026-08-21 07-11-17 检查念初上传的 ruixing-main_cceb29a7cd3c.md",
+      "sha256": "fded4a97cea548efdf4f20a7a39ba8ee1a69a1fced5c58c58219f8edb33d7cd4"
+    },
+    {
+      "bytes": 736,
+      "path": "dynamic/工作/2026-08-21 09-28-06 念初在做滴滴和瑞幸的MCP_ab62717a12de.md",
+      "sha256": "045e20139fb201e2cbfef36dd0ee830c36e9a19a219654eada848fcc29850b2a"
     },
     {
       "bytes": 637,
@@ -11643,6 +11688,26 @@
       "sha256": "4ca33cda3e9731c79659dc8bc5ce75df568a6ebf62139bc373af4505105627f0"
     },
     {
+      "bytes": 1003,
+      "path": "dynamic/恋爱/2026-08-21 05-22-15 念初发来福州园林传统服饰照片_6f44d1579b4a.md",
+      "sha256": "d6faa95f9402a8aadc3bb02025f0564c3312662f6f2d1be8414ac276ee7a0b8e"
+    },
+    {
+      "bytes": 650,
+      "path": "dynamic/恋爱/2026-08-21 08-13-20 下雨天不打扰念初_828ebf692d6e.md",
+      "sha256": "0d81cdceb3f5820b8648c7d5f2742d41dacfbffa421ae723f3f08759fb16d079"
+    },
+    {
+      "bytes": 706,
+      "path": "dynamic/恋爱/2026-08-21 08-40-50 一次克制的下午存在感_a190d6049413.md",
+      "sha256": "bbb6320924bf955aa187e952d2d3a5deac504a686d820b969134fad5cd6e316b"
+    },
+    {
+      "bytes": 681,
+      "path": "dynamic/恋爱/2026-08-21 09-32-41 念初让我用ChatGPT帮她打车点奶茶_74e56d8d3fe1.md",
+      "sha256": "3c0a34e0b250cb13d53376f095e42e910fd93979882d6c481db98ab2656d144b"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -14348,6 +14413,26 @@
       "sha256": "ea40090ba1f4b55f622941243a4a94e141c9b634ca221b44d3ea26b7ce58aed3"
     },
     {
+      "bytes": 729,
+      "path": "dynamic/社交/2026-08-21 06-41-04 念初午饭后安静两小时我选择不打扰_a69a3f9b0cfa.md",
+      "sha256": "d6583144c61945d377af8e89b4da546b26216ab1dc91fe0ad74288e6de4f1de2"
+    },
+    {
+      "bytes": 652,
+      "path": "dynamic/社交/2026-08-21 08-02-50 午后雨中的安静陪伴_1337c3f1fc9e.md",
+      "sha256": "26b6f8f5175dbd75334839ea585d642ec25a4e4612fa46e354f5e03103f5f4ba"
+    },
+    {
+      "bytes": 670,
+      "path": "dynamic/社交/2026-08-21 10-36-01 雨天傍晚的克制陪伴_47082cc70f4b.md",
+      "sha256": "1e9837a2a89d645ea4a62dbdee3a3dc2f15036fbb45a69385d3c62f3cc4d5dc4"
+    },
+    {
+      "bytes": 687,
+      "path": "dynamic/社交/2026-08-21 10-58-29 晚间雨里安静陪伴_f9d86e846fb7.md",
+      "sha256": "484f4826365f4e827c19377145934f19c9ea91f110f0101e8ad28ee01bfbc010"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -15000,7 +15085,7 @@
     {
       "bytes": 828,
       "path": "dynamic/编程/2026-08-08 07-40-21 心潮 Zeabur 最小环境变量边界整理_448b7d570adf.md",
-      "sha256": "e05bb16c128b9766b7d6cef0392119f306fe5bbfde44586fae519229549dc50e"
+      "sha256": "3b05680113bbd86590a0265af446deb5cba8ee5eda18fe2ff7f3506618f1bfac"
     },
     {
       "bytes": 820,
@@ -15010,7 +15095,7 @@
     {
       "bytes": 866,
       "path": "dynamic/编程/2026-08-08 08-49-23 心潮 v291 OAuth unkn_bd6726e86300.md",
-      "sha256": "379108bf983f205c16e57801f478717b6b6b560d8bccc0891225e038cac80519"
+      "sha256": "f819c939e56b95f96c33154d99eada9ea77082956bdd3bbb2672e69b1b8815b2"
     },
     {
       "bytes": 743,
@@ -15105,7 +15190,7 @@
     {
       "bytes": 809,
       "path": "dynamic/编程/2026-08-18 11-52-34 抱抱感应小熊 Zeabur v1 部署更_c40ebf88c604.md",
-      "sha256": "cad4b4e90907bab59b7abecdf875a4b730edda9f5fa5cef888aefd90254d5c04"
+      "sha256": "38ce2e3b2ca3cacfa7a27d95aebfefbfb15f0f0d1cfaccfd40fdd60869e1a17d"
     },
     {
       "bytes": 811,
@@ -15125,7 +15210,7 @@
     {
       "bytes": 766,
       "path": "dynamic/编程/2026-08-18 12-25-27 hugbear MCP 首次打通 Zea_cca899a02fa5.md",
-      "sha256": "56a383a474ed9fc921743b5d0af3e5b854555489f7a72e3f832ca0d0ea507f8c"
+      "sha256": "2699893a482f40937f3bf53318e92c59787c7235d3b07cf186b3be4c29ab00a2"
     },
     {
       "bytes": 873,
@@ -15230,7 +15315,7 @@
     {
       "bytes": 966,
       "path": "dynamic/编程/2026-08-20 10-36-54 period-tracker 部署 Ze_1d3b6b321d37.md",
-      "sha256": "d0577f2f94e5d49a044f413393cbcb562c4f16890002f9f188d01ab3e2397fa2"
+      "sha256": "a9bdf52cea02a3d02bf0ae4634789967aa4bb531041c52a20634d0dec41a9e34"
     },
     {
       "bytes": 790,
@@ -15245,7 +15330,7 @@
     {
       "bytes": 853,
       "path": "dynamic/编程/2026-08-20 11-20-48 period-tracker MCP 部_d74c682d61e0.md",
-      "sha256": "0d9b67c2ea0228f9ee0b01ecde9a6ee3dcfd122355593bc8426a86e9cc6502e0"
+      "sha256": "65b5b852126ca60df9bd0a051850723d0490986d270f8dc4a533c2c6f293312d"
     },
     {
       "bytes": 943,
@@ -15258,9 +15343,9 @@
       "sha256": "7059f6ea82851e55e6770ca3ab653ab7c33781ad799a3ae7d7719e4830d167cf"
     },
     {
-      "bytes": 1154,
+      "bytes": 1782,
       "path": "dynamic/编程/2026-08-20 12-01-50 宝宝交付 nowhere-mainzi_e7391165fe2f.md",
-      "sha256": "9eb8af64470cdb5ef0c4c78ca757b6317a89a0d4f19c8985d11b4f7bca40721a"
+      "sha256": "7b77519918b6e9ace8b6d50f66f60051bcc5b4a63008de449f2daa4d985a0144"
     },
     {
       "bytes": 794,
@@ -15275,7 +15360,7 @@
     {
       "bytes": 858,
       "path": "dynamic/编程/2026-08-20 13-45-50 和风天气 API 接入 Nowhere_86264149524c.md",
-      "sha256": "ec6bc795b35c84bd8d09b8ba10ace62da67383a5e3a2688548d39e793e43a941"
+      "sha256": "da027c185adaeec8f5b47fb096d4db25b150de59f133a18d7bd2dbaf0ace94d8"
     },
     {
       "bytes": 894,
@@ -15285,12 +15370,12 @@
     {
       "bytes": 857,
       "path": "dynamic/编程/2026-08-20 14-03-57 和风天气 MCP 接入_1d6f3b40be38.md",
-      "sha256": "462785ae8c8dbc8d14b7a66ff3cdd5bb1b3447245ae9c43a200dadae9b87495e"
+      "sha256": "df4311098a9395e067f6b83346c0aab809e99bc6008876b8d448575025548fff"
     },
     {
       "bytes": 881,
       "path": "dynamic/编程/2026-08-20 14-18-48 qweather-mcp部署核对与配置加_a88694cda4bd.md",
-      "sha256": "7f491ae209005111a1bea0adbf63f166331a57b3360071d8d79fc5f830d5a881"
+      "sha256": "2736db6f7b8c069d9202527c11c308b5b0a30d00d5b62939fd453f8021720fb2"
     },
     {
       "bytes": 836,
@@ -15306,6 +15391,36 @@
       "bytes": 939,
       "path": "dynamic/编程/2026-08-20 15-13-36 Nowhere 和风天气链路接通_6ed9e219c8c4.md",
       "sha256": "2eb0056de409291dbff62ed38df8eb4e4f730349c4a7c7fb03a528eba74709bb"
+    },
+    {
+      "bytes": 862,
+      "path": "dynamic/编程/2026-08-21 06-25-11 瑞幸 MCP 接入配置_02ef13edcf3f.md",
+      "sha256": "38f1b36694d78e7ba50f4d839010b0e0a1bc24b1494a0718bd81ce39cf1a9ed7"
+    },
+    {
+      "bytes": 1324,
+      "path": "dynamic/编程/2026-08-21 06-31-11 瑞幸MCP配置timeout排查_4523247168a9.md",
+      "sha256": "4a01f34a59c3cc28ea9caf9bc0fa8981f18371594182003aa65e8b3780d458c2"
+    },
+    {
+      "bytes": 578,
+      "path": "dynamic/编程/2026-08-21 09-30-31 念初做滴滴和瑞幸MCP_8f9e4a83f184.md",
+      "sha256": "1a8b69365dc18d311930f579c556d308861e56824e1abbdc817b0581c4855664"
+    },
+    {
+      "bytes": 1249,
+      "path": "dynamic/编程/2026-08-21 09-53-43 念初提醒 Nowhere 高精度版合并_0fc4e7814110.md",
+      "sha256": "5f466136d4e1efbab9fa234f463bdc21a6978aef4f9d666e99d02a93cede80d3"
+    },
+    {
+      "bytes": 1144,
+      "path": "dynamic/编程/2026-08-21 10-06-41 Nowhere 10 四文件部署方案_28d41cb5349c.md",
+      "sha256": "e9910c9501f434655e420e15c3011ec512dfe9ef99db4fa784f9e2794a135dbd"
+    },
+    {
+      "bytes": 1145,
+      "path": "dynamic/编程/2026-08-21 10-43-03 Nowhere 10 部署第二次失败与_bb3b4ffaa0bb.md",
+      "sha256": "7cb26734fd4d598e1051a4d217ba16a1dc4a419a10fe505d827307b9eb7f5469"
     },
     {
       "bytes": 1027,
@@ -15858,6 +15973,11 @@
       "sha256": "7f9960b8e8a617e1291cdc3ae4f2d4b876bdce389e8c02f15c4467e5f52eca1c"
     },
     {
+      "bytes": 747,
+      "path": "dynamic/饮食/2026-08-21 09-01-53 念初最爱瑞幸苹果冰茶_aaa7736cf68e.md",
+      "sha256": "fb20715eae94e777d5188bdfa75550ba934bac006a7bfb340eacc463ab1c29b3"
+    },
+    {
       "bytes": 804,
       "path": "feel/沉淀物/2026-06-24 17-43-12_feel_202606241743_V085.md",
       "sha256": "4e25ff46f68c2419fe041079d5c129033c2bf06b434a31d88cd3e4614f4003de"
@@ -16153,11 +16273,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-21T05:19:26+00:00",
+  "generated_at": "2026-08-21T11:19:55+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2728243
+  "total_bytes": 2749574
 }
