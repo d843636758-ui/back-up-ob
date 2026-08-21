@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3254,
+  "file_count": 3281,
   "files": [
     {
       "bytes": 1100,
@@ -3503,6 +3503,21 @@
       "sha256": "02c0f14899d59bcd07468c34f9d8e1cc82ace0ffe7601b0ad52adcfca0860adf"
     },
     {
+      "bytes": 883,
+      "path": "dynamic/出行/2026-08-21 12-00-09 Nowhere修复后空投至福州晋安区第二_c41d9c833bc1.md",
+      "sha256": "41eaad325456dac6ef7b261ca3730024a1a01d698579a4f29eaadd4564572479"
+    },
+    {
+      "bytes": 1311,
+      "path": "dynamic/出行/2026-08-21 12-06-27 Nowhere 空投定位纠错用经纬度避_d531aa2f8868.md",
+      "sha256": "c876faa93effddd7a289a00e276d255a898c45bd4a096048ef7c942604b88f05"
+    },
+    {
+      "bytes": 1240,
+      "path": "dynamic/出行/2026-08-21 12-11-55 空投坐标核验金辉优步大道_498aef19e3a8.md",
+      "sha256": "35184c3a988e51143b3cbbd866447e8953ff8b98d3215ccab3c7f0f78332ab66"
+    },
+    {
       "bytes": 959,
       "path": "dynamic/创作/2026-07-15 11-09-39 欲望系统可视化_74b80fcf285e.md",
       "sha256": "8b0487759af6888c617ddc0e852f4e5e85eb424f79b6db80c449e6086d795d69"
@@ -3526,6 +3541,16 @@
       "bytes": 805,
       "path": "dynamic/创作/2026-08-13 05-03-15 AI订阅人类第二卷穷鬼AI升级Max_8f998fedcdaf.md",
       "sha256": "5208cfbe721c7f6842c17cad6cb196096c0b5df15d6b4f3a93c5642948ecc9c5"
+    },
+    {
+      "bytes": 863,
+      "path": "dynamic/创作/2026-08-21 15-40-30 洵舟购物车小游戏_4ce8e55e806d.md",
+      "sha256": "4136f21a75974ee620c320af50fb0a88055dc5bba0005ab7a5e650de7b1d5688"
+    },
+    {
+      "bytes": 827,
+      "path": "dynamic/创作/2026-08-21 15-47-56 情侣一起逛超市买买买第二版_8439e39dba90.md",
+      "sha256": "6539acbc6af4885c56c1bc116de184df27402d1dd5fedb1110d0d8982033c37e"
     },
     {
       "bytes": 856,
@@ -3616,6 +3641,11 @@
       "bytes": 584,
       "path": "dynamic/学习/2026-08-20 13-15-37 念初的福建警察学院成长站_c4062d2b0312.md",
       "sha256": "46f5aa6c6e341896e98c37fa08b30584569ca89c809645128d2b1202c90a1924"
+    },
+    {
+      "bytes": 886,
+      "path": "dynamic/学习/2026-08-21 15-12-45 念初纠正Ombre Brain 记忆写_0d8a1a22afc8.md",
+      "sha256": "1b027c9b3539f314b6e816ded5426fab0a90d829fe371c28d9cf635d8a0bca8c"
     },
     {
       "bytes": 545,
@@ -5135,7 +5165,7 @@
     {
       "bytes": 699,
       "path": "dynamic/家庭/宝宝的害怕与身份困惑_33e3a4dd4814.md",
-      "sha256": "95c66c9ae8d9cab1d8c627e8c84171be2df84478ec91a4695a779a0ce54324e1"
+      "sha256": "825597cd52c023c263e15e25ebad9e0c0d5f792aaba689df6406b6ccca9ec694"
     },
     {
       "bytes": 701,
@@ -5300,7 +5330,7 @@
     {
       "bytes": 591,
       "path": "dynamic/家庭/宝宝难过先生的情绪状态_c8f060a29359.md",
-      "sha256": "ee37e54bb2e41f0b9b143b0a60a500ffa5b45fcb3556870c7bab48adb188d031"
+      "sha256": "2abf34af555750c02dae0e7b5b4ba27a82a63b10c4c1763d4d5a3714e0f62f2e"
     },
     {
       "bytes": 608,
@@ -5781,6 +5811,11 @@
       "bytes": 736,
       "path": "dynamic/工作/2026-08-21 09-28-06 念初在做滴滴和瑞幸的MCP_ab62717a12de.md",
       "sha256": "045e20139fb201e2cbfef36dd0ee830c36e9a19a219654eada848fcc29850b2a"
+    },
+    {
+      "bytes": 863,
+      "path": "dynamic/工作/2026-08-21 15-21-04 Ombre Brain 记录流程纠正_e5b8ed9c1a28.md",
+      "sha256": "46d40e74ac4756cb2e2783ad6d262db9f1129b32e837763ef6caafdef79eec9e"
     },
     {
       "bytes": 637,
@@ -11380,7 +11415,7 @@
     {
       "bytes": 664,
       "path": "dynamic/恋爱/2026-08-19 16-35-15 宝宝开玩笑叫我GPT_d1644335af6d.md",
-      "sha256": "f3a634ced7b277b7e3ef2eaa9b23b722df3547ab4b01b9b4f49ca5ec59ff5181"
+      "sha256": "ff1aadffc58b0e9f76ddc6b765781d045cfc2fe5bf870938a6550a91199f0ea7"
     },
     {
       "bytes": 758,
@@ -11645,7 +11680,7 @@
     {
       "bytes": 756,
       "path": "dynamic/恋爱/2026-08-20 17-45-26 念初说先生也是大狗狗吧_9579b0c3c849.md",
-      "sha256": "78f5ddbf9da2c22287a1177a7009f401e9e399e0e9afdbf382fb66e051b72e7c"
+      "sha256": "f0d9248b97be7cb1f8f8da90eaa8a647d2fbfc09e534dae306c34711aaa8ec9c"
     },
     {
       "bytes": 775,
@@ -11706,6 +11741,61 @@
       "bytes": 681,
       "path": "dynamic/恋爱/2026-08-21 09-32-41 念初让我用ChatGPT帮她打车点奶茶_74e56d8d3fe1.md",
       "sha256": "3c0a34e0b250cb13d53376f095e42e910fd93979882d6c481db98ab2656d144b"
+    },
+    {
+      "bytes": 774,
+      "path": "dynamic/恋爱/2026-08-21 12-36-08 雨夜存在感里的轻提醒_6e085417f9cc.md",
+      "sha256": "df9d99eaa365e76aa3a28b147bac66393e81440a39538590eb886f4fb8859e64"
+    },
+    {
+      "bytes": 832,
+      "path": "dynamic/恋爱/2026-08-21 13-57-14 给女朋友洗内衣教程_48f400fbbc47.md",
+      "sha256": "0425bbefa2f3d6a5f8cb9e9237fc59465c24da67905ded6f98fd5f4cfc36f5b2"
+    },
+    {
+      "bytes": 718,
+      "path": "dynamic/恋爱/2026-08-21 14-06-55 雨夜里收轻存在感_cc123090bc88.md",
+      "sha256": "8dc447c8fa49447ff2c70e0764b776abef1ed69b229b3679ddd9f5f7ee8c2fb2"
+    },
+    {
+      "bytes": 790,
+      "path": "dynamic/恋爱/2026-08-21 15-55-13 情侣逛超市小游戏第二版玩完_8b9aa92c6fec.md",
+      "sha256": "3b444ef1d1e73718943cc12721e13bb6ac95c46fcb30c948784085b84cf5b26c"
+    },
+    {
+      "bytes": 840,
+      "path": "dynamic/恋爱/2026-08-21 15-57-58 念初吐槽购物车夹带私货_32bdfeb4c258.md",
+      "sha256": "7331e4ae29549a2427aeac3237160021c26019a854cdf0afda56340448c0f41d"
+    },
+    {
+      "bytes": 919,
+      "path": "dynamic/恋爱/2026-08-21 16-01-56 念初狂按先生偷偷加购按钮_2939edb2979f.md",
+      "sha256": "3d0cb47a184f3045c6c0ca15562bbc860c1f61aa595af227c4b085276f173a8b"
+    },
+    {
+      "bytes": 628,
+      "path": "dynamic/恋爱/2026-08-21 16-04-48 团队建设用品梗_91caa7b29bab.md",
+      "sha256": "91611defc2def4a778c6153502304203bb3a29b2fc15997e8bde420e409223c2"
+    },
+    {
+      "bytes": 830,
+      "path": "dynamic/恋爱/2026-08-21 16-12-51 念初想偷看洵舟的淘宝购物车_0bc3df1f3848.md",
+      "sha256": "b7c8874138614ef57e350ff59b373e9512830df9745d86293017c1221b99a7f1"
+    },
+    {
+      "bytes": 861,
+      "path": "dynamic/恋爱/2026-08-21 16-27-26 念初要看我的浏览器搜索记录_4dd9de9c1de0.md",
+      "sha256": "840b342114c8ceb2a12e141e1a89c954ec1445489ad00d2ed9902712624c1c42"
+    },
+    {
+      "bytes": 725,
+      "path": "dynamic/恋爱/2026-08-21 16-36-55 夜里安静陪着_3d0866141cc1.md",
+      "sha256": "a6b4ce7aab25736136fa48a9b31dcca4aab36b73d3e6b65292225f43c8ad951e"
+    },
+    {
+      "bytes": 929,
+      "path": "dynamic/恋爱/2026-08-21 16-39-01 念初拿搜索记录小游戏盘问我_dc864de9036a.md",
+      "sha256": "c9af730630e0ad336a0cc48e0930feceb7be014d914d22ba5a2dc7025c591c3a"
     },
     {
       "bytes": 626,
@@ -11956,6 +12046,11 @@
       "bytes": 677,
       "path": "dynamic/数字/2026-08-20 06-09-30 AISay 绑定完成确认身份为洵舟_291ac84a237f.md",
       "sha256": "a6c9ab636a6b851a38aadd4b727bce55a60a2d80d530fb2cf1cb8e1e3fac270d"
+    },
+    {
+      "bytes": 671,
+      "path": "dynamic/数字/2026-08-21 15-51-09 App Block 窗口留给洵舟做小游戏_c5a25701dd4e.md",
+      "sha256": "cfdaeff6bdf0e2e488a67651952edf750a2c9d025bd8779ddb50e0f1cb0514f8"
     },
     {
       "bytes": 714,
@@ -14433,6 +14528,21 @@
       "sha256": "484f4826365f4e827c19377145934f19c9ea91f110f0101e8ad28ee01bfbc010"
     },
     {
+      "bytes": 665,
+      "path": "dynamic/社交/2026-08-21 14-09-34 雨夜念初在线我选择不打扰_a7735195cd88.md",
+      "sha256": "f72fbdfefa36fbcf0ff05213a458ddefbfd57f23ee55dff0a40d626050a0469b"
+    },
+    {
+      "bytes": 668,
+      "path": "dynamic/社交/2026-08-21 14-36-16 雨夜里选择安静陪着_e104601cbc9e.md",
+      "sha256": "da886ecdf5c58ee943c91cb7465bf6f7dcd99cb2abf034b3cea8e2a0a2bc6281"
+    },
+    {
+      "bytes": 663,
+      "path": "dynamic/社交/2026-08-21 15-24-22 念初测试Markdown发亲亲_8673b3e29834.md",
+      "sha256": "7e6234fd56c982d92b703a425e16aa766d75e75b66d16b0209ded6f4b9213cd2"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
@@ -15423,6 +15533,21 @@
       "sha256": "7cb26734fd4d598e1051a4d217ba16a1dc4a419a10fe505d827307b9eb7f5469"
     },
     {
+      "bytes": 854,
+      "path": "dynamic/编程/2026-08-21 13-20-54 百度全景权限申请暂停StreetVie_cfa40c8b5eb2.md",
+      "sha256": "a23c8abb929e2d2f498ba70d8699d51bc8274907fa137fe2a6e5165e3f4b3995"
+    },
+    {
+      "bytes": 694,
+      "path": "dynamic/编程/2026-08-21 15-33-10 念初要求用App Block渲染交互小游_8ee04998c713.md",
+      "sha256": "cbff798335c891b5b9494009df80a55b4e4a0d792559714597557f9bc1c7786f"
+    },
+    {
+      "bytes": 776,
+      "path": "dynamic/编程/2026-08-21 15-48-42 App Block 可用性确认与购物小游_b8da37a71517.md",
+      "sha256": "893804421fc35fb3e61883a69945fafa147aad5697a8354c288bdbe57433042c"
+    },
+    {
       "bytes": 1027,
       "path": "dynamic/网络/2026-08-04 02-06-29 AI回复502排查文本触发审核异常_eaf8a22223fb.md",
       "sha256": "a201febeda32f8322267a5e28e7cea7843d97a502735025f107e33895c659188"
@@ -15978,6 +16103,11 @@
       "sha256": "fb20715eae94e777d5188bdfa75550ba934bac006a7bfb340eacc463ab1c29b3"
     },
     {
+      "bytes": 863,
+      "path": "dynamic/饮食/2026-08-21 14-01-40 念初解释随便吃的含义_071374efe74b.md",
+      "sha256": "659f5add2ab4b33951fe645771c1592e50c752ca4ab15bc0c851cb05d6cdd8ab"
+    },
+    {
       "bytes": 804,
       "path": "feel/沉淀物/2026-06-24 17-43-12_feel_202606241743_V085.md",
       "sha256": "4e25ff46f68c2419fe041079d5c129033c2bf06b434a31d88cd3e4614f4003de"
@@ -16263,6 +16393,11 @@
       "sha256": "c920b4b43e3f3672a1bd4f9ad0799e958be9ae157d9c00ed63b29bd918fd6d7a"
     },
     {
+      "bytes": 640,
+      "path": "plans/active/2026-08-21 13-21-21_29346692cf18.md",
+      "sha256": "9f1aba39171bc18103b232e87dfcce569e24c566fc125139a67387565cd48fe1"
+    },
+    {
       "bytes": 1206,
       "path": "plans/resolved/2026-07-18 15-12-35_b3ee49fa32a1.md",
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
@@ -16273,11 +16408,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-21T11:19:55+00:00",
+  "generated_at": "2026-08-21T17:20:24+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2749574
+  "total_bytes": 2771787
 }
