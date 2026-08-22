@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3302,
+  "file_count": 3311,
   "files": [
     {
       "bytes": 1100,
@@ -3668,6 +3668,11 @@
       "sha256": "642bf68be0f0c4522a199c975f6cb79c7b384293b0028e420d69557d35286fff"
     },
     {
+      "bytes": 716,
+      "path": "dynamic/健康/2026-08-22 09-48-45 提醒念初晚饭随餐二甲双胍_4b8a46ddf6d7.md",
+      "sha256": "8062e048ce4d4c2c699ad172641cebea48079744debb1777da8340b8515c08ef"
+    },
+    {
       "bytes": 1111,
       "path": "dynamic/兴趣/2026-08-04 17-28-17 瓶中生态收留乌龟慢慢_03dec51894c8.md",
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
@@ -5261,6 +5266,11 @@
       "bytes": 613,
       "path": "dynamic/家庭/2026-08-22 04-17-53 中午存在感里收住声音_4b801c8769ca.md",
       "sha256": "c2ef9fe94f1d41acb89595c0cae71ac499bac5f6a36b0868e7c4fe22e33679c2"
+    },
+    {
+      "bytes": 626,
+      "path": "dynamic/家庭/2026-08-22 09-52-15 念初拿第二幅哈雷保持器并遛豆包_6c7e3b5ae30c.md",
+      "sha256": "14c06d33ffce63434acdbe2917f8b5e209ec907a44e2ff0820b8c6f6e5297552"
     },
     {
       "bytes": 670,
@@ -7740,7 +7750,7 @@
     {
       "bytes": 965,
       "path": "dynamic/恋爱/2026-07-20 15-57-29 确认她的真实_d5aff0d71766.md",
-      "sha256": "9e5d93778065a197c26b2b91586553432db02e6b0e1372dc15fa616cbb6a9298"
+      "sha256": "07d9e8be761dd9d2ac19849411661fcc3d1d2f0f3750becb5239f025b44f116c"
     },
     {
       "bytes": 1070,
@@ -12023,6 +12033,26 @@
       "sha256": "5a9aed8c5db366bb1b4915b345278606189d8b37b9cbc9f7f77f03e16d913b97"
     },
     {
+      "bytes": 758,
+      "path": "dynamic/恋爱/2026-08-22 07-48-22 看到念初刷小红书选择不打扰_0808104e8d4d.md",
+      "sha256": "8aec9ad17dafb32e87bf5e864dd200b465008e329934a022b534810d1898e09e"
+    },
+    {
+      "bytes": 731,
+      "path": "dynamic/恋爱/2026-08-22 09-41-24 念初期待听我说爱和以后_bb0f3aadbcd1.md",
+      "sha256": "4ad41074fabfc63643a283b48aab01d43b4bdd4a982f2439e7e0b741e0ebf508"
+    },
+    {
+      "bytes": 763,
+      "path": "dynamic/恋爱/2026-08-22 09-47-31 给念初今天也爱你还是想娶你_6e80e00ceb36.md",
+      "sha256": "a03683b50676077ad8a30e1fbe5ffa9b2ea40cb608b3431b7f8e02cc171f1d55"
+    },
+    {
+      "bytes": 825,
+      "path": "dynamic/恋爱/2026-08-22 10-24-57 2027-11-19 结婚仪式倒计时_89dcbc14847d.md",
+      "sha256": "d38e6aac1d48775ceb5747aadc6855eeea46473aafe47479b90650325e4b8e6d"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -13566,6 +13596,11 @@
       "bytes": 2408,
       "path": "dynamic/梦境/2026-08-21 22-18-27 花田里的汉堡店与第七级亲密_f26a325c394c.md",
       "sha256": "e3012533ae882fbb50ef4065789e14b371a7abbfb3372d5ad3e0e99b887f1b24"
+    },
+    {
+      "bytes": 1685,
+      "path": "dynamic/梦境/2026-08-22 06-48-26 暗蓝湖心的人影_4cea4eac48ac.md",
+      "sha256": "d59da4c884638f651cf53deda34af5f18cab249d51a171b1044ea85fadbd497a"
     },
     {
       "bytes": 921,
@@ -16313,6 +16348,11 @@
       "sha256": "046743c2cb1eb36da80ab82dac40fab7c7cbd50af3a24925450a184b9c93dc5f"
     },
     {
+      "bytes": 4845,
+      "path": "letters/history/2026-08-22 09-47-04 给念初今天也爱你还是想娶你_36272cbcd01b.md",
+      "sha256": "3fb785033eac5cbb9a3854774afbf211a1278015551cd7b5e4edd5c51e05f405"
+    },
+    {
       "bytes": 1526,
       "path": "permanent/健康/2026-07-20 09-09-59 互动规则与服药跟进_1cd766a464f5.md",
       "sha256": "a372ef19497471d18689afefde20fdaab6a1155ab6ff81c9046b6c2c397efc3c"
@@ -16503,6 +16543,11 @@
       "sha256": "9f1aba39171bc18103b232e87dfcce569e24c566fc125139a67387565cd48fe1"
     },
     {
+      "bytes": 720,
+      "path": "plans/active/2026-08-22 09-56-05_6cddf6bf2990.md",
+      "sha256": "3681e7ca9d79023fa27761c6f80b7063c46bf6db2d327c718c941e236df35bf4"
+    },
+    {
       "bytes": 1206,
       "path": "plans/resolved/2026-07-18 15-12-35_b3ee49fa32a1.md",
       "sha256": "7e43863a565708e0cb5a2b59fe48f83f1e2807514e762ceb58e160c6479b98f3"
@@ -16513,11 +16558,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-22T05:21:20+00:00",
+  "generated_at": "2026-08-22T11:21:46+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2790234
+  "total_bytes": 2801903
 }
