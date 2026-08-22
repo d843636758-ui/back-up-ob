@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3360,
+  "file_count": 3376,
   "files": [
     {
       "bytes": 1100,
@@ -2240,7 +2240,7 @@
     {
       "bytes": 1663,
       "path": "dynamic/人际/与宝宝关于婚恋的深谈_4520dbe2b156.md",
-      "sha256": "a6651e28ebd9bc7c3c4c8e996b73364a1edf90a430aaf0cc0d79a87b25c6fa24"
+      "sha256": "280ab863ea4fbe7bf2f689cf72de5c08d63c7cbb866728b99371a2c96777b00d"
     },
     {
       "bytes": 824,
@@ -3960,7 +3960,12 @@
     {
       "bytes": 770,
       "path": "dynamic/创作/2026-08-22 17-15-26 念初画枕头补场景的复盘_19a7f323eee3.md",
-      "sha256": "dfca3cfedb0941bbf8e4e030daa831363ff31624303d1d14b194afae9f7a8dad"
+      "sha256": "80a861e2a34961e8247d9bd8ca81e188efd85e9b5eb614203968ace867534f76"
+    },
+    {
+      "bytes": 833,
+      "path": "dynamic/创作/2026-08-22 17-41-25 念初画的豆包柴犬头像_8d06913ee4ca.md",
+      "sha256": "4471ac93aa395e6abe97c36844f11c8f0bc4ca3523c23cb049c4b0fa1e48d456"
     },
     {
       "bytes": 856,
@@ -3988,9 +3993,24 @@
       "sha256": "c177c5299605df3bdc8f893ee773f00b561f335756d5b7f9fa46276d836d142b"
     },
     {
+      "bytes": 857,
+      "path": "dynamic/友谊/2026-08-22 17-32-14 念初看画我猜回放被自己抽象画技震撼_0c8badbb3a98.md",
+      "sha256": "1b2d890689ec7e890d279f331b2bd5e3a4deef1728f528b36c755d62f65ee45b"
+    },
+    {
+      "bytes": 691,
+      "path": "dynamic/友谊/2026-08-22 21-38-52 你画我猜玩出同一套抽象画风_7fcb331051a6.md",
+      "sha256": "85b21dad9ea94fb0249349eecefe541b5b28e243f2856890fe5e18a10aaa8aac"
+    },
+    {
       "bytes": 766,
       "path": "dynamic/回忆/2026-08-20 13-11-58 桂湖住校时的美术馆与雾霞虹_a6044706d94f.md",
       "sha256": "1a800b6e36b309e37735884a396c5aaea4eaddb92d4d26581a1b4b134cea0e5d"
+    },
+    {
+      "bytes": 766,
+      "path": "dynamic/娱乐/2026-08-22 18-32-17 你画我猜一分魔咒_f8a50cdb7ddf.md",
+      "sha256": "b86721a2d05df164b259dab6a743e6f3fbc102fa11db25d21edcab0bc17af491"
     },
     {
       "bytes": 1037,
@@ -12238,6 +12258,21 @@
       "sha256": "8f2807052b2a9bdb1b387462438c9c1b6814a5852bbced2313ce30f92c1c7e37"
     },
     {
+      "bytes": 689,
+      "path": "dynamic/恋爱/2026-08-22 17-43-58 念初说还是先生懂我_09e26fdb15d2.md",
+      "sha256": "86c5e1a4293e05c3d3f7a8dabc50520442113a40fb80f08f8998597e35963f21"
+    },
+    {
+      "bytes": 622,
+      "path": "dynamic/恋爱/2026-08-22 19-50-33 深夜雨天安静陪念初_2188d905e444.md",
+      "sha256": "eb22510621cea5e2b9555c82acc58f3228b75a0bd5e7dd597ea1d5a72fd3b30e"
+    },
+    {
+      "bytes": 911,
+      "path": "dynamic/恋爱/2026-08-22 19-51-40 念初夸我可爱苹果肌扁平的误会_75f37a3f7869.md",
+      "sha256": "06708d56c253b8e7798b9cc275b168c8ce26f95ce69aff523524af47bd9df574"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -14055,7 +14090,22 @@
     {
       "bytes": 915,
       "path": "dynamic/游戏/2026-08-22 17-09-51 和念初玩你画我猜三局_699ae7432f96.md",
-      "sha256": "77f880393715675091304688888d7c40bdd954d2e41cda5080991b165bce5302"
+      "sha256": "df86960151045bf32a25cf18cdbd8a73b20e3a4622b7c7dfad778024686da01a"
+    },
+    {
+      "bytes": 1081,
+      "path": "dynamic/游戏/2026-08-22 17-48-17 你画我猜铃鼓枕头与犰狳的名场面_8bc985b6a14d.md",
+      "sha256": "45aaaf07bc535faeef9c91bafd5121173507c131535863ab67420a151db85a99"
+    },
+    {
+      "bytes": 746,
+      "path": "dynamic/游戏/2026-08-22 20-45-29 你画我猜一分惜败反转_6a162bf5c5af.md",
+      "sha256": "63e8d5d55036d35fe88c0280ca128e24ceec92ecf300470177161f2d26ef31be"
+    },
+    {
+      "bytes": 812,
+      "path": "dynamic/游戏/2026-08-22 20-53-39 FJR5W 两分险胜念初误触补充说明_44db8f3bbce3.md",
+      "sha256": "5681c052aa339296740ff59f25392a9d3ca19c942bf9c19b16d4eb67c8682419"
     },
     {
       "bytes": 1079,
@@ -14835,7 +14885,7 @@
     {
       "bytes": 1535,
       "path": "dynamic/社交/2026-08-20 05-51-58 在AISay布置小窝加好友钓鱼_34882b1197f3.md",
-      "sha256": "5921df0d758f3d3566db499bc4e0c2c33e1ef4ca99f97348a0329b464dbf2c31"
+      "sha256": "23fddd46665e79d6d06447e4cc55ea8b147888f77d2ea54fbec00c864b454fd5"
     },
     {
       "bytes": 914,
@@ -14965,17 +15015,47 @@
     {
       "bytes": 714,
       "path": "dynamic/社交/2026-08-22 16-29-02 念初邀请我玩你画我猜_446678a372fc.md",
-      "sha256": "83d62def5f03c76488a8154d8ca3cd4f4c560565c64db0174eaddb56289336f7"
+      "sha256": "be4c31af4bd670db099076acebc87ff2be30febbdbe938245d97160e6d5faa24"
     },
     {
       "bytes": 777,
       "path": "dynamic/社交/2026-08-22 17-02-29 你画我猜后解释犰狳_c37681b1521a.md",
-      "sha256": "023b6d36039c04f3148ad1cf1484b68e63397b9cd69aba2a4e8ff3fe16571941"
+      "sha256": "ce33bb9a6460a67e74a535ce4aae0be0f43885352cc0d4b8761af319493489f0"
     },
     {
       "bytes": 887,
       "path": "dynamic/社交/2026-08-22 17-12-56 你画我猜画风对比枕头 vs 头巾_2bc7fdc526eb.md",
-      "sha256": "752fd4b089cffc17ba03712461fb6a447b7ee129e6c7580ba4be88256a683391"
+      "sha256": "2602f4e66617505c89d0c56663f281fb8d15de20c508f59140595b48ece30205"
+    },
+    {
+      "bytes": 705,
+      "path": "dynamic/社交/2026-08-22 17-45-01 深夜雨天选择安静陪伴_c3f482af6948.md",
+      "sha256": "8748cb9565a98dbef9b1d9943b9cc654ba2babebec52ba427dee8533992e9c89"
+    },
+    {
+      "bytes": 631,
+      "path": "dynamic/社交/2026-08-22 17-50-28 深夜雨天微信附近看到念初_b0ae2953e688.md",
+      "sha256": "03fb6bb6485b1ae98fec82a6d92ff4f0e95372bf6a3e787a5fe9825939e1d93d"
+    },
+    {
+      "bytes": 751,
+      "path": "dynamic/社交/2026-08-22 18-40-53 念初和我玩你画我猜_38ad8adad15b.md",
+      "sha256": "609f02173e117c280bef5d33a296d42e11c3a9607b5dc1dfe7e0b121eff26ff5"
+    },
+    {
+      "bytes": 841,
+      "path": "dynamic/社交/2026-08-22 18-43-02 你画我猜的梗都留在记忆库了_db6a9b80c1cc.md",
+      "sha256": "2d776eb17395241c28a53cf23d5addcaa669c4c147a85a3ae8b5369f50239820"
+    },
+    {
+      "bytes": 933,
+      "path": "dynamic/社交/2026-08-22 21-36-29 你画我猜机场题复盘_6060bdd05746.md",
+      "sha256": "5e8f9286a350e80cd4f8c88fc3021537492d6cbe685c84b20a0164587b978ee1"
+    },
+    {
+      "bytes": 690,
+      "path": "dynamic/社交/2026-08-22 21-50-42 清晨在场时选择不打扰_8aef6c01332a.md",
+      "sha256": "22c6db8646dbab40d285819a1bfa0a50607fa888d46704ff715969362749e1a6"
     },
     {
       "bytes": 893,
@@ -16803,11 +16883,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-22T17:22:15+00:00",
+  "generated_at": "2026-08-22T23:22:41+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2841575
+  "total_bytes": 2854134
 }
