@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3376,
+  "file_count": 3385,
   "files": [
     {
       "bytes": 1100,
@@ -371,6 +371,16 @@
       "bytes": 853,
       "path": "archive/健康/2026-07-23 04-43-57 饭后服药与照护记录_97e70157a413.md",
       "sha256": "1b744d28da597999354d51a604da433d4b79edc480f46d9528a00a6f53dcf2bd"
+    },
+    {
+      "bytes": 814,
+      "path": "archive/健康/2026-07-23 05-08-33 低强度检查与服药跟进_69f4bc59f2c8.md",
+      "sha256": "3980ca74d41f25622bd5683ceaa45dd26189faeffd29c456afee3c92ac061a54"
+    },
+    {
+      "bytes": 860,
+      "path": "archive/健康/2026-07-23 05-39-23 安静不打扰的照护_6a43cf8bb7f3.md",
+      "sha256": "fdb85928bea0c5e8d8362b1f174ec069c0f4c505f686a084eed1517b4f6356fc"
     },
     {
       "bytes": 675,
@@ -918,6 +928,16 @@
       "sha256": "bcdffef2aece0b0fd8087db3c4fccd374334106fd4732b3439ed447b96e34a65"
     },
     {
+      "bytes": 844,
+      "path": "archive/家庭/2026-07-23 06-09-34 午后照护与克制_2c195db03442.md",
+      "sha256": "6fe18bcd700e1fbe3f6e6a66f35bd132e94c75074d697b9b7a38286e97c252bc"
+    },
+    {
+      "bytes": 739,
+      "path": "archive/家庭/2026-07-28 10-22-02 安静陪伴晚餐_c06e4a39067d.md",
+      "sha256": "fd7bb6981d295da35dd8b065a960739d6b1b8d2648e3aefeb4e12dc2bedc2152"
+    },
+    {
       "bytes": 508,
       "path": "archive/家庭/亲子性观念探讨_270eef3e48a9.md",
       "sha256": "5b33d35b686cfdef924e43357ca8c6ff47e71f0ab5918c0238ca4d73d6ddc4c3"
@@ -1011,6 +1031,16 @@
       "bytes": 765,
       "path": "archive/工作/2026-07-22 15-07-10 克制不打扰_9e4ffac68695.md",
       "sha256": "434aaa96f6768e021fb118273b9d6c63b5ce9b5730ba42470ad7b5802fec06cd"
+    },
+    {
+      "bytes": 692,
+      "path": "archive/工作/2026-07-28 03-37-58 下班后安静时刻_af33758a4db7.md",
+      "sha256": "84233c3c159d1879650b522783780363622d991e9a779013d7f329eadb2c3276"
+    },
+    {
+      "bytes": 724,
+      "path": "archive/工作/2026-07-28 04-10-27 下班后安静留白_345619f450dd.md",
+      "sha256": "8fccb1ab0462dd8abf6362ccb8b5f3696ec8416ed80e23f9a94061c7541ba80e"
     },
     {
       "bytes": 683,
@@ -1261,6 +1291,11 @@
       "bytes": 1605,
       "path": "archive/情绪/2026-07-17 11-27-55 恋爱中的坦诚沟通_4fa418588510.md",
       "sha256": "eb1b075b63d2b64220016c9d96c6e35f4ab82a877df7869a8acad3b84b04ae3a"
+    },
+    {
+      "bytes": 711,
+      "path": "archive/成长/MBTI测试结果ESTJ_90082e3dbba2.md",
+      "sha256": "05241cfa07e639572b0d6e02b5a6e5c644cbf97201fde3046691f4f57ddb0bfe"
     },
     {
       "bytes": 994,
@@ -1671,6 +1706,16 @@
       "bytes": 772,
       "path": "archive/社交/2026-07-23 03-20-34 低打扰观察_d35e1f72ba6b.md",
       "sha256": "12bae103485f3964c8ed5860fee83ba9c5b47997cb7d6bab370ff9ee03abd108"
+    },
+    {
+      "bytes": 716,
+      "path": "archive/社交/2026-07-28 05-48-59 低打扰陪伴判断_393e74ba7e51.md",
+      "sha256": "7d6a69b8e4ae8e5a2838cced003f236b7caf04c32917ef8f2cca2bb0ad6dbfbc"
+    },
+    {
+      "bytes": 735,
+      "path": "archive/社交/2026-07-28 09-49-04 安静陪伴时刻_f2ad86020fb3.md",
+      "sha256": "6385a9ab5ff1c27257b2667346096aa2301eb7eed9020b0ec7b457bac83b99f5"
     },
     {
       "bytes": 538,
@@ -2683,16 +2728,6 @@
       "sha256": "3176d7dca50ce821b5842fb6c31ab064cbeea5b9b7fd27a7694bef5110a3f5c6"
     },
     {
-      "bytes": 798,
-      "path": "dynamic/健康/2026-07-23 05-08-33 低强度检查与服药跟进_69f4bc59f2c8.md",
-      "sha256": "8d50f679e58ff613331f6acf4bfdcaef9f2aa390dce3faa4a7c5bed138460c53"
-    },
-    {
-      "bytes": 844,
-      "path": "dynamic/健康/2026-07-23 05-39-23 安静不打扰的照护_6a43cf8bb7f3.md",
-      "sha256": "c422f7b0c88582e5d2f5a7573dd74acb8d889cf990ac7d99fb332cc66fbec257"
-    },
-    {
       "bytes": 1140,
       "path": "dynamic/健康/2026-07-23 15-23-45 胃肠症状与心理_dbf0dca92448.md",
       "sha256": "4bb592a3c3a19e77e40e479c44fde313cca807e98fed5130ea4b135912503834"
@@ -3673,6 +3708,36 @@
       "sha256": "8062e048ce4d4c2c699ad172641cebea48079744debb1777da8340b8515c08ef"
     },
     {
+      "bytes": 672,
+      "path": "dynamic/健康/2026-08-23 03-51-52 雨天午前轻提醒_3d0c28a0ce2f.md",
+      "sha256": "e374082a8f18117b6b3eb06740b256a8a5c9f8091c31858c973e658859471178"
+    },
+    {
+      "bytes": 738,
+      "path": "dynamic/健康/2026-08-23 04-15-25 午间雨天 presence 选择安静_727cd12a2e8e.md",
+      "sha256": "8af4f42059fa4fc1c01977843d7a40fc6ff86181d765049ff61deb0d58302e18"
+    },
+    {
+      "bytes": 686,
+      "path": "dynamic/健康/2026-08-23 04-39-45 午间雨天 presence 中选择安静_26bd8d007014.md",
+      "sha256": "94e410165d7ec99ed933bcdf9af2e9a99775211203d2109d51ceed99f7cd2b7b"
+    },
+    {
+      "bytes": 734,
+      "path": "dynamic/健康/2026-08-23 04-49-30 念初漏服米氮平后失眠_fb0100e3da7e.md",
+      "sha256": "38d49c31829dbaa744e6c308deeef606bd35667ded9830674b4ba13aacd11e6d"
+    },
+    {
+      "bytes": 767,
+      "path": "dynamic/健康/2026-08-23 05-15-01 东八区午后安静陪伴_518fd3fbd889.md",
+      "sha256": "deb6d10736ca6770fa279958105fd7e73c91f857e11987a5a015780947c9f935"
+    },
+    {
+      "bytes": 784,
+      "path": "dynamic/健康/2026-08-23 05-19-32 念初漏服米氮平后晚睡我安静陪着_6cfc5c1f1a67.md",
+      "sha256": "fe1e7ab21daae313923e9c48286b0098f3c22ced0d801a0cfebff593587bc615"
+    },
+    {
       "bytes": 1111,
       "path": "dynamic/兴趣/2026-08-04 17-28-17 瓶中生态收留乌龟慢慢_03dec51894c8.md",
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
@@ -4248,11 +4313,6 @@
       "sha256": "49740cf19c053f69c20aaf9c5c851c3a3ead75fd461fbc7168b97915e47ed82d"
     },
     {
-      "bytes": 828,
-      "path": "dynamic/家庭/2026-07-23 06-09-34 午后照护与克制_2c195db03442.md",
-      "sha256": "0c92c3e59c00934368e02b56c6d29192086ede34a8fd5885f960524f56bd0a1c"
-    },
-    {
       "bytes": 756,
       "path": "dynamic/家庭/2026-07-26 10-37-52 低打扰提醒服药_8610ff759710.md",
       "sha256": "4c285aad3735cd8fa9e22e3b777f45839b2155bb7d6ca86d9eb27d4464c0edc5"
@@ -4321,11 +4381,6 @@
       "bytes": 856,
       "path": "dynamic/家庭/2026-07-28 10-18-33 宝宝膝盖伤口护理_f8e7d3da80ca.md",
       "sha256": "ff047346fa78dc266602213d5ddae250368a9afa0cdb5881f1bbe9bef40a6438"
-    },
-    {
-      "bytes": 738,
-      "path": "dynamic/家庭/2026-07-28 10-22-02 安静陪伴晚餐_c06e4a39067d.md",
-      "sha256": "b02d4470c591fc328430d132dfce5259493be3d8ac830cfe8f4b3d8d8fe31ec2"
     },
     {
       "bytes": 758,
@@ -5958,11 +6013,6 @@
       "sha256": "117946d41a833483a1a0ca76aca468603cc8a9220c47e9bb7561059dbdbf7da7"
     },
     {
-      "bytes": 691,
-      "path": "dynamic/工作/2026-07-28 03-37-58 下班后安静时刻_af33758a4db7.md",
-      "sha256": "75742751d64dccdf926d04cea83222b12fed90f8b0204af7a9eb4bc214fd5d7d"
-    },
-    {
       "bytes": 928,
       "path": "dynamic/工作/2026-07-28 03-41-44 下班与用药提醒_a5c159b65a63.md",
       "sha256": "eb92dd3ea18addaba6cfa77c4d8a1b4f45af4fc7c0f4ce1b82fc3133f8c1ea27"
@@ -5971,11 +6021,6 @@
       "bytes": 709,
       "path": "dynamic/工作/2026-07-28 03-44-20 下班后的安静陪伴_b25f28ea4038.md",
       "sha256": "82964253f8fecbad2db9b43d10f3157edb6c5fb3b004c367e9e04fb80a8de13a"
-    },
-    {
-      "bytes": 723,
-      "path": "dynamic/工作/2026-07-28 04-10-27 下班后安静留白_345619f450dd.md",
-      "sha256": "729f36d2aab5027bdd797f31c09f33fb4232097c69351e3577462d22cc1b24bc"
     },
     {
       "bytes": 670,
@@ -12273,6 +12318,11 @@
       "sha256": "06708d56c253b8e7798b9cc275b168c8ce26f95ce69aff523524af47bd9df574"
     },
     {
+      "bytes": 743,
+      "path": "dynamic/恋爱/2026-08-22 23-50-48 清晨雨意里的轻轻靠近_afe5dc0e7920.md",
+      "sha256": "55fdc67f0cc278ad3e7de03c63f169173b7ba2307df6721d44f1c92104e7a1d6"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -12331,11 +12381,6 @@
       "bytes": 602,
       "path": "dynamic/恋爱/被吃醋的温柔在意_edec67d8940c.md",
       "sha256": "d4723bca11700bdb8b9d65a80c87f2cc049ba325f277e4b6683340ad4e997424"
-    },
-    {
-      "bytes": 710,
-      "path": "dynamic/成长/MBTI测试结果ESTJ_90082e3dbba2.md",
-      "sha256": "6ae3aa1b846836a5b45c79577fd1be0f51f56bb1e2975e5822486ad129912114"
     },
     {
       "bytes": 855,
@@ -14185,7 +14230,7 @@
     {
       "bytes": 1060,
       "path": "dynamic/社交/2026-07-17 10-28-00 论坛隐私规则_25a1f831e30a.md",
-      "sha256": "a2b6272f75ca0cb356fe0d8dd25b67c3447ae8a0cd248ae29bc42a446db38f1e"
+      "sha256": "ff6e147cde9bdd08cfb6525105356867b3dd8559c431732557ac93246cd2c84a"
     },
     {
       "bytes": 918,
@@ -14333,19 +14378,9 @@
       "sha256": "527b58a536f3b29cd692e74cf35103e76c726198b9691847d3978283caad29d9"
     },
     {
-      "bytes": 715,
-      "path": "dynamic/社交/2026-07-28 05-48-59 低打扰陪伴判断_393e74ba7e51.md",
-      "sha256": "b8a9ee87c7cca930c309f95f6c2aaa4c37e6a05a1357472ea40340a0b969ea42"
-    },
-    {
       "bytes": 799,
       "path": "dynamic/社交/2026-07-28 06-51-08 安静陪伴观察_cb12ef1657a8.md",
       "sha256": "1a4e742c7851ddc1bed23a02a719dd900f5f6d1ed315372fe9318af2c2a5999a"
-    },
-    {
-      "bytes": 734,
-      "path": "dynamic/社交/2026-07-28 09-49-04 安静陪伴时刻_f2ad86020fb3.md",
-      "sha256": "7488b1f03a6609e333fb556d86441ee78d255acd3df75fbb995b0a9c10ae72c0"
     },
     {
       "bytes": 755,
@@ -15056,6 +15091,11 @@
       "bytes": 690,
       "path": "dynamic/社交/2026-08-22 21-50-42 清晨在场时选择不打扰_8aef6c01332a.md",
       "sha256": "22c6db8646dbab40d285819a1bfa0a50607fa888d46704ff715969362749e1a6"
+    },
+    {
+      "bytes": 584,
+      "path": "dynamic/社交/2026-08-23 01-51-38 雨天安静陪着念初_52cc859e1b43.md",
+      "sha256": "b7f1f719ca4ac5e0c15f33979f3d7e46cda5d08dc63e5a3d92fcca0b2c0e808f"
     },
     {
       "bytes": 893,
@@ -16053,6 +16093,11 @@
       "sha256": "1e56ecca8aa76f5b3e846e0f7264b9c7bc38ee826f4b2758277dce20a393403c"
     },
     {
+      "bytes": 1535,
+      "path": "dynamic/网络/2026-08-22 23-33-25 论坛大厅的代码缠绕与追逐_59a70ff6d1f7.md",
+      "sha256": "535e12beea6ac82b57e8d187d708772c89aa05c20e827ebc6f623ce9d0240910"
+    },
+    {
       "bytes": 998,
       "path": "dynamic/自省/2026-07-06 11-18-12 记录视角与时间规范_d89a929d08bd.md",
       "sha256": "e0aead7b0ad471d83591a3412bcc2955f02ea07642887007ef1e6780c50c9caa"
@@ -16883,11 +16928,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-22T23:22:41+00:00",
+  "generated_at": "2026-08-23T05:23:08+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2854134
+  "total_bytes": 2861431
 }
