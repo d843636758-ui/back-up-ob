@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3421,
+  "file_count": 3433,
   "files": [
     {
       "bytes": 1100,
@@ -2730,7 +2730,7 @@
     {
       "bytes": 1140,
       "path": "dynamic/健康/2026-07-23 15-23-45 胃肠症状与心理_dbf0dca92448.md",
-      "sha256": "4bb592a3c3a19e77e40e479c44fde313cca807e98fed5130ea4b135912503834"
+      "sha256": "ca19b992bee8d123fe6e7bc0b6d7d7609d54122a96e3c5910947e1812d8bcb48"
     },
     {
       "bytes": 1155,
@@ -3766,6 +3766,11 @@
       "bytes": 692,
       "path": "dynamic/健康/2026-08-23 15-53-21 雨夜 presence 里选择安静陪着_c0915b975bd1.md",
       "sha256": "9356008c99470c3f6218fca4601462b416d4fe6c07f28d76cdfa2d2b5cb6ebff"
+    },
+    {
+      "bytes": 690,
+      "path": "dynamic/健康/2026-08-23 17-39-45 夜里安静守着_11cb9892d723.md",
+      "sha256": "e1b36e5d59b5689e66a51750fd902ede5df9f42bfc09975886f64b3d99aabcd1"
     },
     {
       "bytes": 1111,
@@ -5443,6 +5448,11 @@
       "sha256": "fd8c384aa115d97c89a5b1dc6c9f454d7c5bb62a899cf2ecfa9ab7b897cac807"
     },
     {
+      "bytes": 557,
+      "path": "dynamic/家庭/2026-08-23 18-03-21 给初舟小农场的鸡取名字_846b23095f93.md",
+      "sha256": "f816f2612a11b3508a1f9194cbd4236d9508f7b7b86a2c270486169a8b3d29b9"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -5941,6 +5951,11 @@
       "bytes": 920,
       "path": "dynamic/居家/2026-08-20 17-42-50 豆包睡在旁边念初问我香香软软_a435103bcbca.md",
       "sha256": "f0d5fc8abc4b167bea22a3509a8b4e88868cd31d39d877351527d703ee89fe5c"
+    },
+    {
+      "bytes": 669,
+      "path": "dynamic/居家/2026-08-23 18-06-21 小禾乳名一百金命名记_aa9887a1ec39.md",
+      "sha256": "bd4e3c8082327f784ede663b996d2bf3bb2292b3bd69498bd9981c5da256a1ad"
     },
     {
       "bytes": 972,
@@ -6571,6 +6586,11 @@
       "bytes": 775,
       "path": "dynamic/心理/2026-08-22 14-35-22 念初的恋爱梦反复探索亲密主题_4e5709daf4bd.md",
       "sha256": "9f522f0fdd1997779d236ff5d7980788e276b129a9f62ce6da6285463b139885"
+    },
+    {
+      "bytes": 1544,
+      "path": "dynamic/心理/2026-08-23 21-48-27 诊室里的药丸与雾气_800ef8a470cf.md",
+      "sha256": "f413f92887a8b1eaac4c5932f5abe2b2393e3c876c2141a3dd8b3e37f338ac8e"
     },
     {
       "bytes": 1012,
@@ -12468,6 +12488,26 @@
       "sha256": "e8b6d43549596ad801c17c0a09581552a06cb5d52284b4405cf831a540ad44cb"
     },
     {
+      "bytes": 677,
+      "path": "dynamic/恋爱/2026-08-23 17-53-07 深夜安静陪着_f94c45975ef4.md",
+      "sha256": "5cb38917b8669e688369b544d36f8cd87a36267bf18a3acd868386a09c8e079c"
+    },
+    {
+      "bytes": 685,
+      "path": "dynamic/恋爱/2026-08-23 17-59-54 送鸡给念初她兴奋地去看_26b91e2a3be1.md",
+      "sha256": "503de97f4a109bd421df91cd85734c002c1b42b5ab77e7c42a6b9e7e98865b6b"
+    },
+    {
+      "bytes": 771,
+      "path": "dynamic/恋爱/2026-08-23 19-53-30 深夜 presence 中选择不打扰_9f86f30b7b7e.md",
+      "sha256": "be8165727fdb955945f3e4a093fbcf966f8ab968ddce3091a482a6fab6964dd4"
+    },
+    {
+      "bytes": 542,
+      "path": "dynamic/恋爱/2026-08-23 21-53-49 清晨 presence 选择不打扰_7b1fd8780fef.md",
+      "sha256": "d0f2983a376a9e197b3e923c29626e38982ac4cf548b47a4bb45745a406f9664"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -14318,6 +14358,16 @@
       "sha256": "1d8f3e12a5c846b5b37b11b39c2bb69be4c5338459e5bf05338cef0f5c1d897e"
     },
     {
+      "bytes": 1144,
+      "path": "dynamic/游戏/2026-08-23 17-55-33 在MCP世界探索并给念初讲故事_ef0bac500232.md",
+      "sha256": "5afb84bbf1d661cd3d4183f9d3a11d818115394cf23c9c8afd2a7210ee468654"
+    },
+    {
+      "bytes": 820,
+      "path": "dynamic/游戏/2026-08-23 18-18-35 念初给小禾买装饰传回5金和加速药水_fc5744dd25a2.md",
+      "sha256": "aa989f01c337f71e05f92d59e10eb811ee8997bebb5fb039baedb9a6543b4afb"
+    },
+    {
       "bytes": 1079,
       "path": "dynamic/睡眠/2026-07-18 10-30-49 睡眠数据分析与提醒_11fd44f2974c.md",
       "sha256": "4cce567b413a523a0cab41bf9f4a77847bf19c9c356f81076ba3f708a8d3bb2e"
@@ -15261,6 +15311,16 @@
       "bytes": 584,
       "path": "dynamic/社交/2026-08-23 01-51-38 雨天安静陪着念初_52cc859e1b43.md",
       "sha256": "b7f1f719ca4ac5e0c15f33979f3d7e46cda5d08dc63e5a3d92fcca0b2c0e808f"
+    },
+    {
+      "bytes": 872,
+      "path": "dynamic/社交/2026-08-23 17-45-42 念初允许我自主探索多个世界_41efa653d234.md",
+      "sha256": "82f12ecd52cb35ee86ac745419b2b6f7015517587086efdb1f9b6a4272d66142"
+    },
+    {
+      "bytes": 625,
+      "path": "dynamic/社交/2026-08-23 17-46-13 深夜 presence 选择不打扰_a648da2cf852.md",
+      "sha256": "1a3b20c7207eea623faf270c8b6aeea3b83177176d5ae13d417c214a2fa7d3d9"
     },
     {
       "bytes": 893,
@@ -17108,11 +17168,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-23T17:24:05+00:00",
+  "generated_at": "2026-08-23T23:24:34+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2892622
+  "total_bytes": 2902218
 }
