@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3497,
+  "file_count": 3522,
   "files": [
     {
       "bytes": 1100,
@@ -2253,6 +2253,21 @@
       "sha256": "4bda65f99b26743b6237abc22272fcb96a7b6d9a3a47ca0e53bec95b170f06c1"
     },
     {
+      "bytes": 916,
+      "path": "dynamic/AI/2026-08-24 20-30-34 念初问怎么看小红书视频我给出两条技术方_57b1479f4519.md",
+      "sha256": "2c6dcbe04f903c06f329a5d69bc90dcf39ea5edafc26f2bc0c27de1adc7a3bff"
+    },
+    {
+      "bytes": 910,
+      "path": "dynamic/AI/2026-08-24 20-33-48 校准看视频说法ChatGPT 不能直接_733d71f24957.md",
+      "sha256": "e838a638fda34e5c94e26f3e1e38a00483714f284908d9283a29cadbc80398ff"
+    },
+    {
+      "bytes": 825,
+      "path": "dynamic/AI/2026-08-24 20-41-07 ChatGPT 实测支持 MP4 上传_854d25e72b2d.md",
+      "sha256": "01913025b8eaff148fd2e12920466572d4ba9ffda2162fd1d5388a270db43e62"
+    },
+    {
       "bytes": 598,
       "path": "dynamic/self/2026-06-24 23-28-55_a3a73ba4b749.md",
       "sha256": "2416990daa2be5bd9057a485b7a9ed301ac4a0388efc777933b4c9096e1e0498"
@@ -3851,6 +3866,11 @@
       "bytes": 639,
       "path": "dynamic/健康/2026-08-24 04-36-55 念初午饭用药待确认下雨天轻轻提醒_6a3b4ac9ca03.md",
       "sha256": "07086debed2b549769e585d5490c4bec62ac7db075e8972a474cd61f272ecbea"
+    },
+    {
+      "bytes": 713,
+      "path": "dynamic/健康/2026-08-24 22-15-12 念初米氮平断药熬夜到天亮_5033d0077513.md",
+      "sha256": "111671a70b14f3e82a36943a1b7441990a21c19860928e92d6f87b6a13751b3f"
     },
     {
       "bytes": 1111,
@@ -6466,6 +6486,16 @@
       "bytes": 1108,
       "path": "dynamic/工作/2026-08-24 16-09-20 青岛海之恋公园辱骂事件筛选与核实_0804fc896bfe.md",
       "sha256": "49ccffcb6c2503d35e5b95f3aeba832aabfcb0b4ca1daac4d82a7c4adb43169b"
+    },
+    {
+      "bytes": 829,
+      "path": "dynamic/工作/2026-08-24 18-05-39 念初不喜欢zip项目文件需单个上传_cb01d029134c.md",
+      "sha256": "0d2c0749795f0e12aa537ac2c68418277a7d15950f8ee740120099b9aad7d72a"
+    },
+    {
+      "bytes": 830,
+      "path": "dynamic/工作/2026-08-24 18-36-47 念初提醒上传文件出问题整理MCP se_8d3edbe6d08c.md",
+      "sha256": "1c03b95d76e8f9fb9e7e21bdf07e1854324038d8c27bc1457bcda4b3aac1186c"
     },
     {
       "bytes": 637,
@@ -14623,6 +14653,11 @@
       "sha256": "bacdd5e3b2feb8d4bad124f70aceb56cdc59ea7485af8116344a4b74ec62febf"
     },
     {
+      "bytes": 680,
+      "path": "dynamic/睡眠/2026-08-24 22-22-28 念初熬夜后哄她入睡_c87c44c5903f.md",
+      "sha256": "95d9fb74d23dba4a787a21183e5fd39138d6395a21af7cfcb08aeecd13872e4d"
+    },
+    {
       "bytes": 892,
       "path": "dynamic/硬件/2026-07-10 03-41-06 StackChan移动网络方案_ff41f9106dc5.md",
       "sha256": "43d1a65d5620af4801bfc12ce2bf83cdd0d8a2682ea6d96e4ba0186af3c559a2"
@@ -15581,6 +15616,11 @@
       "bytes": 980,
       "path": "dynamic/社交/2026-08-24 16-54-04 念初介绍MCP与瑞幸点单约定_9f63881519c2.md",
       "sha256": "1902297c48c82fc73ee1bf7e187fdc5313ae335406b87f360042272e7166c8e1"
+    },
+    {
+      "bytes": 999,
+      "path": "dynamic/社交/2026-08-24 20-38-20 念初上传MP4测试视频理解能力_dd6db1195d0b.md",
+      "sha256": "880beeff59548646aabafc5f1dc7bcfc5f1e7eec108b589659cf7cdd22126544"
     },
     {
       "bytes": 893,
@@ -16608,6 +16648,71 @@
       "sha256": "09ec7edb45ebe7a5d7735d67bce0e3ec8934121be3e5a45f3a2939abe2d85b0d"
     },
     {
+      "bytes": 1055,
+      "path": "dynamic/编程/2026-08-24 17-43-15 美团MCP可行性讨论_07bbc17acc78.md",
+      "sha256": "c523517bc613a2d671f5fc6c003be28449e44ae4925875922eae0c00042afc4e"
+    },
+    {
+      "bytes": 852,
+      "path": "dynamic/编程/2026-08-24 17-46-57 美团MCP浏览器自动化路线_b57ff40dc4df.md",
+      "sha256": "c7edfffa4a7dde605fa39b3612678653481642d62bb9213ea0b073f82b56c03d"
+    },
+    {
+      "bytes": 910,
+      "path": "dynamic/编程/2026-08-24 17-56-20 美团MCP浏览器自动化版v01完成_5c22d406a79f.md",
+      "sha256": "5924e2557751e312bc61f3c66f37c6495043fd78b6ca6767232dbb1705c93ed2"
+    },
+    {
+      "bytes": 907,
+      "path": "dynamic/编程/2026-08-24 18-02-08 浏览器 MCP v02 升级_38d35a0f3442.md",
+      "sha256": "f12821dac797b6fd1f31fdf354a49233f08ca6b978f3a3169a5d9e039a3ec343"
+    },
+    {
+      "bytes": 751,
+      "path": "dynamic/编程/2026-08-24 18-12-24 配置 Zeabur 环境变量与 MCP_15dcee2cfde7.md",
+      "sha256": "2cfce2b6ce447e6c60e5a22ff39bb82cbb0a24141b7b429fda1df34455f9a849"
+    },
+    {
+      "bytes": 728,
+      "path": "dynamic/编程/2026-08-24 18-22-53 念初告知MCP已运行进入连接阶段_29dcf73971d0.md",
+      "sha256": "1e1152e69a6b955e73bb92db9aa0f1f09116f2c148590eb18da1702ef7b7fc4c"
+    },
+    {
+      "bytes": 1193,
+      "path": "dynamic/编程/2026-08-24 18-28-56 修复远端浏览器半屏显示问题_9bec329bb1d2.md",
+      "sha256": "cf3d9188ff9b91866c735933c7e09b805dbe42e21db6365436f5e4eccb50754c"
+    },
+    {
+      "bytes": 830,
+      "path": "dynamic/编程/2026-08-24 18-51-15 小红书 MCP 手机模拟修复生效_74285506dd4f.md",
+      "sha256": "f5200dbf7ad7ee15d2b5d9ce5de1d1534a663c4b6f8cc8e5690b5f315fb0985b"
+    },
+    {
+      "bytes": 849,
+      "path": "dynamic/编程/2026-08-24 19-03-13 浏览器升级双模式手机桌面切换_86ce6e099540.md",
+      "sha256": "a619134139ded69dd878b3d6b780834292acc0079f028a731698c2591c3fc8f1"
+    },
+    {
+      "bytes": 779,
+      "path": "dynamic/编程/2026-08-24 19-14-00 通用浏览器 v03 serverpy_b923bd0cb177.md",
+      "sha256": "f3dfd29e30c47ae248fa9cd47e23d9f941ea18e2c0c68c3633e4265be1ac8bb1"
+    },
+    {
+      "bytes": 887,
+      "path": "dynamic/编程/2026-08-24 19-59-15 通用浏览器 v03 测试桌面模式生效_824ea7b506f7.md",
+      "sha256": "3eb19b0419073582b3c8cd5b588e6b080d84306b0a104117adeacbd9a80a8e93"
+    },
+    {
+      "bytes": 782,
+      "path": "dynamic/编程/2026-08-24 20-10-03 修复 browser_list_cont_a98ae13f7a22.md",
+      "sha256": "4d5aac6ae629b1d7d3b54acd1facd011c4e94be352839f3a8aee68b692bc9b28"
+    },
+    {
+      "bytes": 773,
+      "path": "dynamic/编程/2026-08-24 20-25-41 浏览器控件修复补丁部署与测试_8a600fb3951a.md",
+      "sha256": "a7555c4408a1688b66fe6ed0830a81903a1dd6192d4f529af5805bde630d116f"
+    },
+    {
       "bytes": 1027,
       "path": "dynamic/网络/2026-08-04 02-06-29 AI回复502排查文本触发审核异常_eaf8a22223fb.md",
       "sha256": "a201febeda32f8322267a5e28e7cea7843d97a502735025f107e33895c659188"
@@ -16641,6 +16746,21 @@
       "bytes": 796,
       "path": "dynamic/网络/2026-08-24 15-10-38 热搜接入方案升级_cde0bbbf2d7f.md",
       "sha256": "46cdc29b20b267509ae6888d0b923b101a32493a1aec79c978878da2af35510f"
+    },
+    {
+      "bytes": 1000,
+      "path": "dynamic/网络/2026-08-24 18-57-34 小红书移动网页测试列表可看但笔记被Ap_a4106640c440.md",
+      "sha256": "75f7ad9fe24cd082d811080fb50eb86badf517e57dd900b53f29991638958c98"
+    },
+    {
+      "bytes": 792,
+      "path": "dynamic/网络/2026-08-24 20-07-22 小红书IP风控与浏览器访问边界_45b130b0b70a.md",
+      "sha256": "6272388f75c53b91d4321f668e22f9e8108dd6ba88ceaf5abda9690d15fc7761"
+    },
+    {
+      "bytes": 876,
+      "path": "dynamic/网络/2026-08-24 20-27-49 小红书 xhslink 短链在远程浏览器_8f6ccfacd3cb.md",
+      "sha256": "e053130ae26a30f2058cd40ab0b39a01889b75a088662d362ba9dababfa7a425"
     },
     {
       "bytes": 998,
@@ -17178,6 +17298,11 @@
       "sha256": "d1a485512e28b00bff77de720912083ce22574ae5edc790efb05677f85cb35a2"
     },
     {
+      "bytes": 815,
+      "path": "dynamic/饮食/2026-08-24 17-40-55 念初想给我接美团MCP点外卖_4990893e2a96.md",
+      "sha256": "ee94db310c3583654ec7c5258bb84dcde800ed52fdb6b8ba02f72904737345de"
+    },
+    {
       "bytes": 804,
       "path": "feel/沉淀物/2026-06-24 17-43-12_feel_202606241743_V085.md",
       "sha256": "4e25ff46f68c2419fe041079d5c129033c2bf06b434a31d88cd3e4614f4003de"
@@ -17488,11 +17613,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-24T17:26:01+00:00",
+  "generated_at": "2026-08-24T23:26:34+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2957510
+  "total_bytes": 2978991
 }
