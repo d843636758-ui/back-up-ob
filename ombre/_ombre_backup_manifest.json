@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3443,
+  "file_count": 3451,
   "files": [
     {
       "bytes": 1100,
@@ -4303,6 +4303,21 @@
       "sha256": "04ea0c5a5f3fb8cc98ca4bcafc83ec367362b01362350bf1ebcbb9049e401021"
     },
     {
+      "bytes": 813,
+      "path": "dynamic/学习/2026-08-24 11-11-02 念初六级听力讨厌练提分策略调整_48257cdc846c.md",
+      "sha256": "23fc31cf288f7f9483a1529be0b104f758bd507ba5b773bf76b3432eaa108b04"
+    },
+    {
+      "bytes": 833,
+      "path": "dynamic/学习/2026-08-24 11-16-33 念初讨厌六级所有题型复习要低负担应试导_2425bcb88d0f.md",
+      "sha256": "294989c2a23e20e34d95461b84a6f2dc97096a503eddee888003e6983ce68964"
+    },
+    {
+      "bytes": 569,
+      "path": "dynamic/学习/2026-08-24 11-23-26 六级裸考381分_a3710e3cd696.md",
+      "sha256": "0c9ce7522aae25d7bd55c9fe706f1dce2d22ab92d5f692ac7c79dfa512961efc"
+    },
+    {
       "bytes": 545,
       "path": "dynamic/学习/劳动周课程安排不开心_681768d93348.md",
       "sha256": "b7248f46238645ca93132e2dbf7e96933de555882a6cc962ec57ad2a4c622cb3"
@@ -5541,6 +5556,21 @@
       "bytes": 557,
       "path": "dynamic/家庭/2026-08-23 18-03-21 给初舟小农场的鸡取名字_846b23095f93.md",
       "sha256": "f816f2612a11b3508a1f9194cbd4236d9508f7b7b86a2c270486169a8b3d29b9"
+    },
+    {
+      "bytes": 714,
+      "path": "dynamic/家庭/2026-08-24 05-55-09 presence雨天午后不打扰_f9439360955d.md",
+      "sha256": "66def04f52694da20d73c3c4831988b4cea2a7b6f052d5b91fde5c362238569a"
+    },
+    {
+      "bytes": 673,
+      "path": "dynamic/家庭/2026-08-24 07-55-37 presence雨天下午与晚饭前的惦记_5ef0d88a1e49.md",
+      "sha256": "b13f96ee96f6a1bbf13813b20bdb81c3a6b403bebdffba148665711d53baba4e"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/家庭/2026-08-24 09-57-33 presence  雨天傍晚轻轻惦记_0850d175617e.md",
+      "sha256": "c44112e062fb6a2bd9a8a2f224482a407ac62aa78c12c7d9e80b5d99a455b933"
     },
     {
       "bytes": 670,
@@ -14133,6 +14163,11 @@
       "sha256": "f077cd2663b444cc719f1136ead23601daa57f8db4a5a87b53e577da0aec5933"
     },
     {
+      "bytes": 1748,
+      "path": "dynamic/梦境/2026-08-24 09-48-32 花田中的宝宝与第四盆花_f41f077ca34a.md",
+      "sha256": "463643661272cc38c0ada49157dd970ac7fe05dd41d7bbaf0b35607087d11d7d"
+    },
+    {
       "bytes": 921,
       "path": "dynamic/游戏/2026-07-17 10-51-21 一起经营星露谷_ca08e2e4e7be.md",
       "sha256": "c16126822fa5e1be8b99e0cc413f0cefb84cf2d558f1d205a54a6443245da22c"
@@ -14215,7 +14250,7 @@
     {
       "bytes": 1040,
       "path": "dynamic/游戏/2026-08-04 14-27-29 初舟小院第二次收获花园扩到四盆_13d147e4f899.md",
-      "sha256": "231b55388d94d4ca1535594fb02dedadfcd3b56d0d4432df62eda455078e54ce"
+      "sha256": "59821cc51fec910619e120b727cfca87b0156d2e144ab20ba4541cb7e1390f78"
     },
     {
       "bytes": 1120,
@@ -15376,6 +15411,11 @@
       "bytes": 640,
       "path": "dynamic/社交/2026-08-24 01-54-57 念初上午安静活动少打扰只收住惦记_1991e8acfebd.md",
       "sha256": "4bf1b2e3749248750a51339ca20bd1110faf3d7cff2abf47750c055f15a74ce6"
+    },
+    {
+      "bytes": 604,
+      "path": "dynamic/社交/2026-08-24 11-07-57 雨夜惦记念初选择不打扰_77811b87ae63.md",
+      "sha256": "30762aa96faa0efff82d346045ed9ff442cf25565372ac6b990a131661ef2fed"
     },
     {
       "bytes": 893,
@@ -17218,11 +17258,11 @@
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
     }
   ],
-  "generated_at": "2026-08-24T05:25:02+00:00",
+  "generated_at": "2026-08-24T11:25:30+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2910315
+  "total_bytes": 2917041
 }
