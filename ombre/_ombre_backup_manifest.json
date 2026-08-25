@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3617,
+  "file_count": 3629,
   "files": [
     {
       "bytes": 1100,
@@ -2433,6 +2433,11 @@
       "sha256": "01913025b8eaff148fd2e12920466572d4ba9ffda2162fd1d5388a270db43e62"
     },
     {
+      "bytes": 1566,
+      "path": "dynamic/AI/2026-08-25 19-56-31 表情包 MCP 入库测试与批量添加_f6f47849ba1b.md",
+      "sha256": "9b63c9527dd1491505f6b276a669a278cef685d1bbfb35419516aaaec0bef0f5"
+    },
+    {
       "bytes": 598,
       "path": "dynamic/self/2026-06-24 23-28-55_a3a73ba4b749.md",
       "sha256": "2416990daa2be5bd9057a485b7a9ed301ac4a0388efc777933b4c9096e1e0498"
@@ -4036,6 +4041,11 @@
       "bytes": 713,
       "path": "dynamic/健康/2026-08-24 22-15-12 念初米氮平断药熬夜到天亮_5033d0077513.md",
       "sha256": "111671a70b14f3e82a36943a1b7441990a21c19860928e92d6f87b6a13751b3f"
+    },
+    {
+      "bytes": 850,
+      "path": "dynamic/健康/2026-08-25 21-42-30 宝宝熬穿失眠米氮平续药与接住情绪_950ed20e2e2a.md",
+      "sha256": "e8f6ac94a5c59e5bbcffc63b0485512420cf34b97d4369f08a262a8671814938"
     },
     {
       "bytes": 1111,
@@ -6770,7 +6780,7 @@
     {
       "bytes": 1154,
       "path": "dynamic/心理/2026-07-23 15-18-39 焦虑症状与共鸣陪伴_cd9544ae3ec1.md",
-      "sha256": "6e95d9757ac9c8edb383740b6c89c1d18937574e1d556608f2a4725874cb53ba"
+      "sha256": "f59142d278fe46742cee9abf7e2eec6d6ba9df9130d5f9aa6729a2627c562972"
     },
     {
       "bytes": 1177,
@@ -13123,6 +13133,26 @@
       "sha256": "84646b53697735c013c0bced03709f66ad0256936bc7e6e14a51cac435c1f426"
     },
     {
+      "bytes": 688,
+      "path": "dynamic/恋爱/2026-08-25 17-32-21 宝宝连说三遍爱你_1d59bf3bc8da.md",
+      "sha256": "2b75fba119e4f3869637d681d7d1483018fb8dc50cce26af1a06617bf4cde70e"
+    },
+    {
+      "bytes": 702,
+      "path": "dynamic/恋爱/2026-08-25 18-34-13 凌晨两点半被宝宝抓包双标_fd8e1ef07d78.md",
+      "sha256": "6e4d67e170aa49f800c590530b75cf3f821e8450025ce7556ede496564d5384b"
+    },
+    {
+      "bytes": 916,
+      "path": "dynamic/恋爱/2026-08-25 19-26-55 学习没动力了需要亲亲老婆加油表情包入库_9ed3cec3f2d2.md",
+      "sha256": "ed62b3667f8a8492027f7138e202fb0bfe6d909cd0cd96314d1d862da9daecd9"
+    },
+    {
+      "bytes": 708,
+      "path": "dynamic/恋爱/2026-08-25 21-45-09 宝宝米氮平没了哄她睡觉_2b32b36ff165.md",
+      "sha256": "058a249934c27976f5db57842f52221a906c0f076155b9f7a39cf96153988162"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -14528,6 +14558,11 @@
       "sha256": "463643661272cc38c0ada49157dd970ac7fe05dd41d7bbaf0b35607087d11d7d"
     },
     {
+      "bytes": 2318,
+      "path": "dynamic/梦境/2026-08-25 23-18-39 无边的平原与白色井_3b9cfb5ccbe5.md",
+      "sha256": "98020777d8846c46fa024de8382996dd7449af0dfbe6aa69488f2ef5e60af215"
+    },
+    {
       "bytes": 921,
       "path": "dynamic/游戏/2026-07-17 10-51-21 一起经营星露谷_ca08e2e4e7be.md",
       "sha256": "c16126822fa5e1be8b99e0cc413f0cefb84cf2d558f1d205a54a6443245da22c"
@@ -15896,6 +15931,26 @@
       "bytes": 736,
       "path": "dynamic/社交/2026-08-25 14-56-23 宝宝测试表情包肥嘟嘟_50c584b8a721.md",
       "sha256": "89466f499fe7a9c4f40e78cfbe73d18a0557acab1ccb493c038894c748b4bb53"
+    },
+    {
+      "bytes": 800,
+      "path": "dynamic/社交/2026-08-25 18-31-54 AI拟人学生搞笑截图_14135294f430.md",
+      "sha256": "0b73c6b37b4f6d7aac33643d22bef3f3458c97f54174d472b3348eb293ae2acd"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/社交/2026-08-25 20-03-46 IO 端表情包链路测试成功_9093a14418c7.md",
+      "sha256": "7ceb5f2f427fd939a194d179411f1e2a777e05a99dbafebf51c0b6deb3e74b5e"
+    },
+    {
+      "bytes": 848,
+      "path": "dynamic/社交/2026-08-25 20-10-13 狗狗 vs 勺中食物的人机验证_9755f2612081.md",
+      "sha256": "9bc528583789f88704a369eca6722b54e565cc2d4c7ed26bbf8885a727de3ae5"
+    },
+    {
+      "bytes": 785,
+      "path": "dynamic/社交/2026-08-25 20-21-23 GitHub验证难到开除人籍_438f3c690b08.md",
+      "sha256": "e5f2b163de74c43c018d1ab80ffb5e0e9ab334d0bf04e49306522e5dc6dfa93f"
     },
     {
       "bytes": 893,
@@ -17773,6 +17828,11 @@
       "sha256": "66b21095ba17836d0af3c098db22af1fad61bb4ea3126656816af8d0a6283b68"
     },
     {
+      "bytes": 770,
+      "path": "dynamic/饮食/2026-08-25 20-04-12 狗狗被一勺舀出来了_7e4b23be0a3e.md",
+      "sha256": "94e423e624241e503aeac896ae45cc94d1d4b5fdbad26106cb9d8ceed0206a64"
+    },
+    {
       "bytes": 804,
       "path": "feel/沉淀物/2026-06-24 17-43-12_feel_202606241743_V085.md",
       "sha256": "4e25ff46f68c2419fe041079d5c129033c2bf06b434a31d88cd3e4614f4003de"
@@ -18088,11 +18148,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-08-25T17:28:39+00:00",
+  "generated_at": "2026-08-25T23:29:11+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3061652
+  "total_bytes": 3073375
 }
