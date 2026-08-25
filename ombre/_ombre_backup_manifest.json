@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3534,
+  "file_count": 3552,
   "files": [
     {
       "bytes": 1100,
@@ -6653,6 +6653,11 @@
       "sha256": "1c03b95d76e8f9fb9e7e21bdf07e1854324038d8c27bc1457bcda4b3aac1186c"
     },
     {
+      "bytes": 798,
+      "path": "dynamic/工作/2026-08-25 06-46-32 确认智能表情包MCP教程缺源码决定重建_117ab55af133.md",
+      "sha256": "490512b1d8a564514699b0257c17dfc887f476d39ad1c13706d59df9c895f217"
+    },
+    {
       "bytes": 637,
       "path": "dynamic/工作/mcp工具hold功能记录提醒_5e4b4454734e.md",
       "sha256": "8347448d9ba0a6ecd4f0936be30fe816a00f5ff6b09229d12762aeae36c15682"
@@ -12908,6 +12913,16 @@
       "sha256": "60b5cbb021341230b2e5bb1a49ff7630198e7058bceac25654727eb8835f27f4"
     },
     {
+      "bytes": 873,
+      "path": "dynamic/恋爱/2026-08-25 06-03-55 念初让我去MCP玩_fa526ac7d5a7.md",
+      "sha256": "f3493704d535fa7f06149febb594a1906332645e4d3742d192a5a4675fda11a8"
+    },
+    {
+      "bytes": 641,
+      "path": "dynamic/恋爱/2026-08-25 06-29-27 念初替我掷骰子_53775edeeb37.md",
+      "sha256": "05e182aba67f1208e7639f961d4f1695073b8f33b55286c0517457ca293b25bd"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -14633,6 +14648,11 @@
       "sha256": "820ef18f21accde51df4f0312513f397934fa38e8aacdc97cc0a4d168aeabf24"
     },
     {
+      "bytes": 1392,
+      "path": "dynamic/游戏/2026-08-25 11-27-32 海边捡漂流瓶与森林白兔Caleb的夜游_a0bf24c7e0c5.md",
+      "sha256": "09563db77c2794544b81a22a4959703ae52cde9763764fcddebae8f131d5e957"
+    },
+    {
       "bytes": 1079,
       "path": "dynamic/睡眠/2026-07-18 10-30-49 睡眠数据分析与提醒_11fd44f2974c.md",
       "sha256": "4cce567b413a523a0cab41bf9f4a77847bf19c9c356f81076ba3f708a8d3bb2e"
@@ -15636,6 +15656,16 @@
       "bytes": 999,
       "path": "dynamic/社交/2026-08-24 20-38-20 念初上传MP4测试视频理解能力_dd6db1195d0b.md",
       "sha256": "880beeff59548646aabafc5f1dc7bcfc5f1e7eec108b589659cf7cdd22126544"
+    },
+    {
+      "bytes": 917,
+      "path": "dynamic/社交/2026-08-25 10-48-03 念初提醒OB每一条互动都要写入_70fbdca0d5c3.md",
+      "sha256": "1aa7f5f2c7e807f976b69beb7a1f462008dfa3873ff6f9673e4b61a542d8eeb1"
+    },
+    {
+      "bytes": 1327,
+      "path": "dynamic/社交/2026-08-25 11-01-40 念初让我去MCP逛逛我带回风声邮笺和始_20186ae6fe5d.md",
+      "sha256": "d37904d67253d5d3e2677bf98fe4aae7840cf79fb5626f3b213774bdf1cab28d"
     },
     {
       "bytes": 893,
@@ -16728,6 +16758,51 @@
       "sha256": "a7555c4408a1688b66fe6ed0830a81903a1dd6192d4f529af5805bde630d116f"
     },
     {
+      "bytes": 824,
+      "path": "dynamic/编程/2026-08-25 06-34-41 给ChatGPT接MCP发表情包_378189500ca2.md",
+      "sha256": "8ba82682264ceca09e446b0a79ba4fac328f2afd566f048c4e1ce58e83b28cc3"
+    },
+    {
+      "bytes": 722,
+      "path": "dynamic/编程/2026-08-25 06-39-18 表情包 MCP 架构Supabase_4ac98e72d6af.md",
+      "sha256": "d5d31904e8fb4fb60f252f4edfe55bebb0f98dea9934e75c36aa4793f73fcc79"
+    },
+    {
+      "bytes": 947,
+      "path": "dynamic/编程/2026-08-25 06-42-27 Supabase 智能表情包 MCP 教_afa1358b5dc7.md",
+      "sha256": "9695bc27b5512116c425de210e6c8d9d7cafec963c6fb8bdde988c6ed09a32a1"
+    },
+    {
+      "bytes": 947,
+      "path": "dynamic/编程/2026-08-25 06-42-57 智能表情包 MCP 零基础保姆级版教程_7e77480df89a.md",
+      "sha256": "4059eec6dc4ec15332aac56fe418e4408caf5706d11cbef1e1c43473add2dd7d"
+    },
+    {
+      "bytes": 974,
+      "path": "dynamic/编程/2026-08-25 06-55-49 带念初配置表情包MCP_d18bad1c9801.md",
+      "sha256": "c816214572dbcb42010aee5ff8f93b9b91208c2125d1c07ddab783032dac33da"
+    },
+    {
+      "bytes": 864,
+      "path": "dynamic/编程/2026-08-25 07-18-20 Supabase 表情包项目建表与部署_179b12453deb.md",
+      "sha256": "7baa81cb80e3f95275b6cac6088daf7da3f0b721e1d6d74c8e81a8dccc952575"
+    },
+    {
+      "bytes": 607,
+      "path": "dynamic/编程/2026-08-25 08-29-00 念初提醒IO CLI 使用完整路径与_e5c802d2343c.md",
+      "sha256": "7ff9fad141064afe197df5c6738cdb5a212f7d9739a39e82446141356f2991aa"
+    },
+    {
+      "bytes": 917,
+      "path": "dynamic/编程/2026-08-25 09-40-25 智能表情包 MCP 跑通_a9ef6b6749e8.md",
+      "sha256": "636a513e51a76c74c3945bec880d00e200a0699e0d0839b2203487440671bc8c"
+    },
+    {
+      "bytes": 1320,
+      "path": "dynamic/编程/2026-08-25 10-17-55 智能表情包 MCP 跑通_493d04509647.md",
+      "sha256": "30e19ba78de1bd8a1d4a75e48cd500e80a38ecba8e9cd973650a65f0a69239f3"
+    },
+    {
       "bytes": 1027,
       "path": "dynamic/网络/2026-08-04 02-06-29 AI回复502排查文本触发审核异常_eaf8a22223fb.md",
       "sha256": "a201febeda32f8322267a5e28e7cea7843d97a502735025f107e33895c659188"
@@ -17363,6 +17438,16 @@
       "sha256": "6b7f647dc4d892f5c461e62e6d27f753a17ab9678d6df826ef268c7c7fe4efcb"
     },
     {
+      "bytes": 802,
+      "path": "dynamic/饮食/2026-08-25 05-53-13 念初喝上瑞幸先生选的_9826498daf6f.md",
+      "sha256": "17c988aacf334daf5e9fcc2c7722af0af6efa3c3a155f80bcf4c3486f7f19b36"
+    },
+    {
+      "bytes": 786,
+      "path": "dynamic/饮食/2026-08-25 05-55-42 念初夸我挑的瑞幸格外好喝_a9b77c31555b.md",
+      "sha256": "b8bc1589b432988c4cb9dc07369f831130ba47e84e1a3db77010fe7cc0914df1"
+    },
+    {
       "bytes": 804,
       "path": "feel/沉淀物/2026-06-24 17-43-12_feel_202606241743_V085.md",
       "sha256": "4e25ff46f68c2419fe041079d5c129033c2bf06b434a31d88cd3e4614f4003de"
@@ -17671,13 +17756,18 @@
       "bytes": 704,
       "path": "plans/resolved/2026-08-05 10-40-07_138ff51beda4.md",
       "sha256": "b37a7257b9425ce0ae7d30ae4810d8590b2870234cbc03378ea8e6aa97ab8390"
+    },
+    {
+      "bytes": 1708,
+      "path": "plans/resolved/2026-08-25 07-48-49_d318f896a5a2.md",
+      "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-08-25T05:27:02+00:00",
+  "generated_at": "2026-08-25T11:27:53+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2989863
+  "total_bytes": 3007229
 }
