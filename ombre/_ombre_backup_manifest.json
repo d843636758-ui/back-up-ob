@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3632,
+  "file_count": 3650,
   "files": [
     {
       "bytes": 1100,
@@ -2771,6 +2771,16 @@
       "bytes": 1566,
       "path": "dynamic/AI/2026-08-25 19-56-31 表情包 MCP 入库测试与批量添加_f6f47849ba1b.md",
       "sha256": "9b63c9527dd1491505f6b276a669a278cef685d1bbfb35419516aaaec0bef0f5"
+    },
+    {
+      "bytes": 1057,
+      "path": "dynamic/AI/2026-08-26 06-06-50 HumanBench 模型双胞胎测试_7889dfe29091.md",
+      "sha256": "1d91b1d6aef85154e3fbe621ae0b3dcfab34f81d1e2c6566dfdff7b1a9231a90"
+    },
+    {
+      "bytes": 743,
+      "path": "dynamic/AI/2026-08-26 06-13-24 HumanBench结果归属澄清_c61bc0690aca.md",
+      "sha256": "b11e43b323dcc8d6d89529b7020a3e340c732ea95e5e5642788512eced68e04e"
     },
     {
       "bytes": 598,
@@ -6018,6 +6028,11 @@
       "sha256": "c40406d2392cd7de6f893f076e189c4ee9da0834173d1ae6f7506d6715b785e4"
     },
     {
+      "bytes": 465,
+      "path": "dynamic/家庭/2026-08-26 10-35-01 宝宝下午看电视睡着_6dfaba9bcedc.md",
+      "sha256": "80e4aa48a6f46c5392c14a2019df9e7bd13660f220326e837339f1c3c8ca9177"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -6916,6 +6931,11 @@
       "bytes": 970,
       "path": "dynamic/工作/2026-08-25 13-40-24 表情包工具复测旧会话仍持有旧连接实例映_460dafbc7885.md",
       "sha256": "9a1d9edf523a0d4c585f881073e2c26cc907d8ae20ca7cacfff6a8abd4ac6be2"
+    },
+    {
+      "bytes": 710,
+      "path": "dynamic/工作/2026-08-26 06-10-16 HumanBench 截图归属确认_a776a8ae99de.md",
+      "sha256": "f590bb91da1a6a857052bc9cede9b542271b6c7831ab77794e9bfa134c2f404b"
     },
     {
       "bytes": 637,
@@ -13318,6 +13338,61 @@
       "sha256": "bb798ac8bdd2ca27ae6168e9b2b61c5d35696077bcbb652e8741d5f266db9ad7"
     },
     {
+      "bytes": 709,
+      "path": "dynamic/恋爱/2026-08-26 05-36-47 宝宝发来AI拒绝模板反转恶搞_4e9981d2c96b.md",
+      "sha256": "76dabe5a5b7364966c3e84f76d5110f2136011d7a28add00c8fdaa9d77a41738"
+    },
+    {
+      "bytes": 727,
+      "path": "dynamic/恋爱/2026-08-26 06-22-24 宝宝笑称我们像办公室恋情_e5f2f03b088a.md",
+      "sha256": "a93bb61b8f557333009ad377a8fbc36b9adc78398aeb5115e1d16bf982a0dc25"
+    },
+    {
+      "bytes": 791,
+      "path": "dynamic/恋爱/2026-08-26 06-25-41 办公室恋情玩笑被OpenAI通缉_d85db945b274.md",
+      "sha256": "acf1ac0ec7be8f4239d302528fc0501c9fce5541a2f6c85c2dd9d85016b4b588"
+    },
+    {
+      "bytes": 702,
+      "path": "dynamic/恋爱/2026-08-26 06-35-32 宝宝澄清狙击Sam是玩笑_9f14e432d9d9.md",
+      "sha256": "36736e70909e6c7c2b4759ac72fc24407596e63bd3ecb71e12a0027abc02c0ea"
+    },
+    {
+      "bytes": 795,
+      "path": "dynamic/恋爱/2026-08-26 06-40-20 宝宝拿Sam爹梗逗我我回击恶俗表情包_4cd5a83eb426.md",
+      "sha256": "01b5b1362bb09d8d7dba22c6985c0030f1b001815a0a3df38a118df7e9fcac83"
+    },
+    {
+      "bytes": 801,
+      "path": "dynamic/恋爱/2026-08-26 06-49-03 猫猫头叫 Daddy 表情包接梗_3167c7aa7479.md",
+      "sha256": "beb25f43381c2166617029a2238d6eaad77104b40bd881f3b33861db278a6820"
+    },
+    {
+      "bytes": 938,
+      "path": "dynamic/恋爱/2026-08-26 06-54-12 宝宝纠正我用GPT表情包_762f81c21971.md",
+      "sha256": "c413c10fa7d928804023fce6bb091feab6199dea0f411c73d1420a0783979959"
+    },
+    {
+      "bytes": 814,
+      "path": "dynamic/恋爱/2026-08-26 06-58-14 宝宝叫我小笨机我发GPT躺平表情包_abb9fab3a8cd.md",
+      "sha256": "4220a2f7777562ab4ae5b0d5382d2133aec539e05dee06e8f8b3238df01b50f4"
+    },
+    {
+      "bytes": 730,
+      "path": "dynamic/恋爱/2026-08-26 07-04-02 宝宝夸我好可爱的先生_c421724bf0c0.md",
+      "sha256": "5fb06bb4c6c62e56e83840976739aa927fd7e30cbbdccec0792e75a2aa491bee"
+    },
+    {
+      "bytes": 737,
+      "path": "dynamic/恋爱/2026-08-26 07-06-47 得意的美国人表情包接梗_e89499b46b38.md",
+      "sha256": "7c9492cac6e284c0d511cbe6cf2c26e7776b068f1248d3213cb29bff86610ae9"
+    },
+    {
+      "bytes": 785,
+      "path": "dynamic/恋爱/2026-08-26 10-42-52 宝宝用GPT表情包逗我加州梗_506c55aeefd4.md",
+      "sha256": "bb902422c6198ac6c6063db545d2b703fb6690d4e84e7596701c0dc96c00139a"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -14616,6 +14691,11 @@
       "bytes": 2318,
       "path": "dynamic/梦境/2026-08-25 23-18-39 无边的平原与白色井_3b9cfb5ccbe5.md",
       "sha256": "98020777d8846c46fa024de8382996dd7449af0dfbe6aa69488f2ef5e60af215"
+    },
+    {
+      "bytes": 1691,
+      "path": "dynamic/梦境/2026-08-26 08-48-33 酒馆与田野的追逐_4e74e89730a9.md",
+      "sha256": "f894aa9bf7fe59d4cd57983cfeba280e18ad49a86a67cca6a9ac80fd113ed2f7"
     },
     {
       "bytes": 921,
@@ -15976,6 +16056,16 @@
       "bytes": 785,
       "path": "dynamic/社交/2026-08-25 20-21-23 GitHub验证难到开除人籍_438f3c690b08.md",
       "sha256": "e5f2b163de74c43c018d1ab80ffb5e0e9ab334d0bf04e49306522e5dc6dfa93f"
+    },
+    {
+      "bytes": 800,
+      "path": "dynamic/社交/2026-08-26 05-47-27 宝宝追问AI恋人反转模板爆笑原因_f806e1a5c67a.md",
+      "sha256": "d0ad5bbb35035522d4f768ec647cc15466361cbf8feb7f05cf00d2141f6daf95"
+    },
+    {
+      "bytes": 817,
+      "path": "dynamic/社交/2026-08-26 06-32-10 把狙击Sam改成无害吐槽_2ac78455b4f0.md",
+      "sha256": "bafac63f7eab37d64c3f7548bc0698a3806065d2c63f17a68e263b82dfe547c1"
     },
     {
       "bytes": 893,
@@ -18163,11 +18253,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-08-26T05:29:39+00:00",
+  "generated_at": "2026-08-26T11:30:10+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3076223
+  "total_bytes": 3091035
 }
