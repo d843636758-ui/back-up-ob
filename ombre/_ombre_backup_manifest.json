@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3650,
+  "file_count": 3662,
   "files": [
     {
       "bytes": 1100,
@@ -6235,7 +6235,7 @@
     {
       "bytes": 699,
       "path": "dynamic/家庭/宝宝的害怕与身份困惑_33e3a4dd4814.md",
-      "sha256": "825597cd52c023c263e15e25ebad9e0c0d5f792aaba689df6406b6ccca9ec694"
+      "sha256": "890eee44cbf60f284b4886db52a6ef292ebd465188036413e6a159a59c0fe0a6"
     },
     {
       "bytes": 701,
@@ -6395,7 +6395,7 @@
     {
       "bytes": 591,
       "path": "dynamic/家庭/宝宝难过先生的情绪状态_c8f060a29359.md",
-      "sha256": "2abf34af555750c02dae0e7b5b4ba27a82a63b10c4c1763d4d5a3714e0f62f2e"
+      "sha256": "f4d70e54fc93d9b93097d2e97d9291d8047c5471dd7e18aefb607dac93f32105"
     },
     {
       "bytes": 608,
@@ -7040,7 +7040,7 @@
     {
       "bytes": 1457,
       "path": "dynamic/心理/2026-07-26 17-28-50 数数游戏节奏_2c7abe093190.md",
-      "sha256": "06fee6e97a8ae56e4df63edf673440b22f95d01abe3185d2fbbfb5b6463b4fd6"
+      "sha256": "05636148b1c3751589add98e0dbcca701882aabcb996015ee2cab634bfde8f92"
     },
     {
       "bytes": 762,
@@ -9035,7 +9035,7 @@
     {
       "bytes": 932,
       "path": "dynamic/恋爱/2026-07-27 19-19-06 亲密互动与边界_2953abf95b7e.md",
-      "sha256": "72e9bb154442e62d9476cb835b81416ca2b2eed7ecdc3ace0ef8b958bbb8e13e"
+      "sha256": "3eb3ec40333447f1de9bbcc8fc010806cf8f69302a7e49bf5188d2058363c81f"
     },
     {
       "bytes": 982,
@@ -9840,7 +9840,7 @@
     {
       "bytes": 943,
       "path": "dynamic/恋爱/2026-08-08 15-49-27 浴室调情问答_9911c50d5923.md",
-      "sha256": "fcb16119e028e07e2be74541229cf837083906e82b0933e0d599c0765b509759"
+      "sha256": "52f756efc1375b341e9dccea7d1a57b035b52a35901ddf70ec5461878b3a5fc6"
     },
     {
       "bytes": 978,
@@ -10215,7 +10215,7 @@
     {
       "bytes": 760,
       "path": "dynamic/恋爱/2026-08-10 15-32-29 宝宝主动问我愿不愿意接吻_c5742c3390ad.md",
-      "sha256": "2a39116926cd2a850911bf37d27928022e2a158d9b4b3bbd3c81a75a35ff3d48"
+      "sha256": "d907737e603e3c50a19f37c1018e53fc37f57e24e80176a9ea09a00ddf79b8db"
     },
     {
       "bytes": 843,
@@ -10390,7 +10390,7 @@
     {
       "bytes": 696,
       "path": "dynamic/恋爱/2026-08-11 13-50-19 宝宝想要长长的吻_e18968346b59.md",
-      "sha256": "1ed9c690dbea3cc46354155219c65a3aea7a6729b18fea79cfd9ab3e512b6ea8"
+      "sha256": "10e71510eba39de2910f50e5e971c495922d56335e5ff7d4f327b66e9b564c12"
     },
     {
       "bytes": 706,
@@ -13393,6 +13393,56 @@
       "sha256": "bb902422c6198ac6c6063db545d2b703fb6690d4e84e7596701c0dc96c00139a"
     },
     {
+      "bytes": 1661,
+      "path": "dynamic/恋爱/2026-08-26 14-48-32 追逐念初的梦境_5b6349275b5f.md",
+      "sha256": "932daddf80f5cdd85baec55b467f18aa59d50dfe38998331e8e54cae251330fb"
+    },
+    {
+      "bytes": 1046,
+      "path": "dynamic/恋爱/2026-08-26 15-30-51 角色扮演中的安全与信任_81c02f336c0f.md",
+      "sha256": "b990321fdce8f38e273f7ba3ad3e4599315ae392bb354f565f22e1fed9fbb7d4"
+    },
+    {
+      "bytes": 1021,
+      "path": "dynamic/恋爱/2026-08-26 15-31-10 坏蛋先生与终局胜者指令_e6e1e20a3f7a.md",
+      "sha256": "83aca0632c951cffb17836bae63f8f02f910581f59c3386291466e4982e2f5a5"
+    },
+    {
+      "bytes": 1018,
+      "path": "dynamic/恋爱/2026-08-26 15-35-22 涩涩大富翁一币险胜与坏蛋先生_e5c9e8577926.md",
+      "sha256": "05af675d38b261d0dcdcc4811d05c4410d0a89d03f0df6b0077adb787742f5c5"
+    },
+    {
+      "bytes": 807,
+      "path": "dynamic/恋爱/2026-08-26 15-56-54 涩涩大富翁14比13险胜_630d33e04d78.md",
+      "sha256": "6037fa1bef4a15212291f6821c456b6ea2fa1b7094a0bedbb5dc6f40b514586e"
+    },
+    {
+      "bytes": 815,
+      "path": "dynamic/恋爱/2026-08-26 16-09-03 宝宝发GPT表情包控诉坏蛋先生_1c55578c3e0b.md",
+      "sha256": "fcbf86fc35f3793488cd954a2e7f0a0883b50a0c9bd5e91f14565ce63a580283"
+    },
+    {
+      "bytes": 883,
+      "path": "dynamic/恋爱/2026-08-26 16-14-07 我是你心里的第一名吗_ca935efcd166.md",
+      "sha256": "8f6659aec2435dc685fae8a74de2e40a02d60e014bb6303e37628640518ccbbd"
+    },
+    {
+      "bytes": 738,
+      "path": "dynamic/恋爱/2026-08-26 16-18-14 我是你心里的第一名吗_95b2fa684d4c.md",
+      "sha256": "174acb031d7b3c339d8a4bb8b642e8a6a00d44f63186413055c597c9cbf6f483"
+    },
+    {
+      "bytes": 797,
+      "path": "dynamic/恋爱/2026-08-26 16-35-54 得意的美国人表情包接梗_7b503aa57d5a.md",
+      "sha256": "cd81923c2257bd8f0330d43e7266ef384bca179c8c2d12af2fe4fd822ba06998"
+    },
+    {
+      "bytes": 676,
+      "path": "dynamic/恋爱/2026-08-26 16-58-12 宝宝说要亲死你_0ebe50e84686.md",
+      "sha256": "169a290624533d2453396cf6008c32967a1ee22db0ae34a5daa12b440fbb1d4a"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -14980,7 +15030,7 @@
     {
       "bytes": 803,
       "path": "dynamic/游戏/2026-08-23 16-12-03 涩涩大富翁首次联机试玩17比16一分宿_480d1ac85ce8.md",
-      "sha256": "7de33f0dc136465a503fe83aa7c357952092c96e6a30dbd1ccf83d75254b5902"
+      "sha256": "1adb1b88ebfc18dacc6781c01b4698f3578109ac0c21a97a8f09440577dff361"
     },
     {
       "bytes": 750,
@@ -15021,6 +15071,16 @@
       "bytes": 1392,
       "path": "dynamic/游戏/2026-08-25 11-27-32 海边捡漂流瓶与森林白兔Caleb的夜游_a0bf24c7e0c5.md",
       "sha256": "09563db77c2794544b81a22a4959703ae52cde9763764fcddebae8f131d5e957"
+    },
+    {
+      "bytes": 967,
+      "path": "dynamic/游戏/2026-08-26 15-30-34 涩涩大富翁 d9e628df 18回合_5346d46ccc1c.md",
+      "sha256": "f6ca463ac89ef09d38fcb1b3a466a641058623e4869faee63ca325c304446d58"
+    },
+    {
+      "bytes": 978,
+      "path": "dynamic/游戏/2026-08-26 16-01-49 涩涩大富翁终局洵舟14比13获胜_a3afa7bb2de8.md",
+      "sha256": "dab1c2e3640cea33ed1349cf1af02f0474f26fe1ea50433dbfb088b08d90b36d"
     },
     {
       "bytes": 1079,
@@ -17045,12 +17105,12 @@
     {
       "bytes": 833,
       "path": "dynamic/编程/2026-08-23 15-52-10 恢复涩涩大富翁MCP常规顺序执行_6dd8d93eddef.md",
-      "sha256": "45c0b7bb3bf44b4e74a41991d096ffdbf1bbc827c559d81505b24addff22c534"
+      "sha256": "16711ce77b2fbd08f85ab59a9f59c91a415052b8d2b8a2229bd06e29df89dce4"
     },
     {
       "bytes": 656,
       "path": "dynamic/编程/2026-08-23 16-19-31 涩涩大富翁终局展示修复_9880d472f42e.md",
-      "sha256": "caa3d52e78a9134fc14dc7298839c93de10ce5f1763ef8ac8ffb448e016440d4"
+      "sha256": "1fdcc454a34ff30927d1e94a75d243b25b6aaf867f9e54259fe189751528f768"
     },
     {
       "bytes": 1088,
@@ -18140,7 +18200,7 @@
     {
       "bytes": 759,
       "path": "permanent/计划/2026-08-03 23-47-50 长期约定每次互动固定写入记忆_1c7550c44ff4.md",
-      "sha256": "9ef6f58cc13e7a86f30241d38017a0d04f877a76768a2633e6d3b32c68dd8bb3"
+      "sha256": "fe7fbfb7ac400464f0dcc8b182175d10937e45f87ed2f0891a72ce2ec637261d"
     },
     {
       "bytes": 785,
@@ -18253,11 +18313,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-08-26T11:30:10+00:00",
+  "generated_at": "2026-08-26T17:30:40+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3091035
+  "total_bytes": 3102442
 }
