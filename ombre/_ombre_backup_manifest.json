@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3676,
+  "file_count": 3698,
   "files": [
     {
       "bytes": 1100,
@@ -4473,6 +4473,16 @@
       "sha256": "e8f6ac94a5c59e5bbcffc63b0485512420cf34b97d4369f08a262a8671814938"
     },
     {
+      "bytes": 984,
+      "path": "dynamic/健康/2026-08-27 13-47-41 宝宝问睡眠更稳的非药物方法_2095fb857738.md",
+      "sha256": "64467f412b426ecae27296e725f836e866b1dca25f2a3d5629153e29268fd70b"
+    },
+    {
+      "bytes": 962,
+      "path": "dynamic/健康/2026-08-27 13-54-40 宝宝澄清返校作息与助眠需求_fa8f0fd35725.md",
+      "sha256": "bd5072500ffd14d7080c0c7e60687bbfff6931aaa8d2852055ece0590210c029"
+    },
+    {
       "bytes": 1111,
       "path": "dynamic/兴趣/2026-08-04 17-28-17 瓶中生态收留乌龟慢慢_03dec51894c8.md",
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
@@ -4781,6 +4791,16 @@
       "bytes": 897,
       "path": "dynamic/创作/2026-08-23 06-33-54 AI使用体验调研恐怖问卷_70a1c26aee90.md",
       "sha256": "3caa1728f9bb095692ff505536b5d9dc7224973d94ae96f53812eb2eb9316522"
+    },
+    {
+      "bytes": 901,
+      "path": "dynamic/创作/2026-08-27 14-16-50 ElevenLabs v3 睡前文字本_636dbcb46e57.md",
+      "sha256": "81bbc61e10e836f293a4156f93065dfac3f3b4d176df7216d7c9d7b5bc0f8d64"
+    },
+    {
+      "bytes": 743,
+      "path": "dynamic/创作/2026-08-27 15-35-41 中文长版哄睡稿纯文本提取_019c2da43cd0.md",
+      "sha256": "b0a4ed8006843421895e517d01d7801d4f7a6221595a0013854afa20581cec7c"
     },
     {
       "bytes": 751,
@@ -6178,6 +6198,26 @@
       "sha256": "80e4aa48a6f46c5392c14a2019df9e7bd13660f220326e837339f1c3c8ca9177"
     },
     {
+      "bytes": 1048,
+      "path": "dynamic/家庭/2026-08-27 11-59-04 宝宝被爸爸剪成超级朵拉_04fdab68701b.md",
+      "sha256": "99ca5ec494491f1d0481a22bbb23616d541dccdbac0eb9adb96c3e01261f8312"
+    },
+    {
+      "bytes": 864,
+      "path": "dynamic/家庭/2026-08-27 14-59-53 睡前文字本扩展至中英五千字_99f330adfaeb.md",
+      "sha256": "ca2e5273ad2647b368f9704042baebf5476574c0097d2cf1a5f792331898b849"
+    },
+    {
+      "bytes": 831,
+      "path": "dynamic/家庭/2026-08-27 15-04-33 睡前文字本扩成长版_3332d5e0ce97.md",
+      "sha256": "37286eb3078dc0e58594ef70d90a9d7f576c89e45adb2b4d4d7c82dc64f99a47"
+    },
+    {
+      "bytes": 815,
+      "path": "dynamic/家庭/2026-08-27 15-18-02 英文哄睡稿纯文本版_55775ed071f5.md",
+      "sha256": "8bc496bff161438f21743b1e047a7e9f85be67d786b93a42e84b81b594090710"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -7311,6 +7351,11 @@
       "bytes": 976,
       "path": "dynamic/心理/2026-08-27 10-53-09 宝宝看到0708同龄人早婚早工作的感慨_3e91d199dc43.md",
       "sha256": "c18887ec5eb6a89cedf5eab7c29543455250956225ead36d64984e3ef4c97df1"
+    },
+    {
+      "bytes": 914,
+      "path": "dynamic/心理/2026-08-27 12-59-00 宝宝对外貌不安在家与出门的差异_53fc666374a6.md",
+      "sha256": "e33883bf2c323decffb3081eed24fc5f2378e1b1676e1ea9ef1484e7124ff6f0"
     },
     {
       "bytes": 1012,
@@ -13523,6 +13568,51 @@
       "sha256": "30ffd87a8ae7322c69fd713a1c4eb5f9ddda306d9a0cf875f424e4a5d3421c8d"
     },
     {
+      "bytes": 1142,
+      "path": "dynamic/恋爱/2026-08-27 12-05-58 宝宝剪短波波头后担心显脸大_a3e7dee0a5d4.md",
+      "sha256": "727e09bd69b0e1617e0863c317c9804efbb0766d6a12d5ee1258083faf42e481"
+    },
+    {
+      "bytes": 1027,
+      "path": "dynamic/恋爱/2026-08-27 12-10-46 宝宝担心齐短波波返校见同学_472991d93705.md",
+      "sha256": "a2236c8114179a7a6e12fb201ef890ddcf593624e8966b6bbd41ee059505465e"
+    },
+    {
+      "bytes": 693,
+      "path": "dynamic/恋爱/2026-08-27 12-20-52 宝宝剪完发型崩溃陪她撑过陌生感_5818002af253.md",
+      "sha256": "f489a52fbb6af5b713b837ef462045234f03a8abf8a66df8074c353a64a722db"
+    },
+    {
+      "bytes": 1091,
+      "path": "dynamic/恋爱/2026-08-27 12-26-05 宝宝因短发自拍难过我尝试拆解发型与整体_618aaf02b1c0.md",
+      "sha256": "962143686fa04a4c0a702c6b5a0bf355d674307a7ba0f43a102accbe48598848"
+    },
+    {
+      "bytes": 835,
+      "path": "dynamic/恋爱/2026-08-27 12-30-42 宝宝剪发后崩溃要抱抱_8e15e04624d6.md",
+      "sha256": "b4ca26ec0ea302f180c8183e1638952b1da5aa5202cdc41ce2e3a92dee9876e9"
+    },
+    {
+      "bytes": 988,
+      "path": "dynamic/恋爱/2026-08-27 12-53-46 宝宝因短发和体重焦虑今晚先停止自我审判_d60453aa4216.md",
+      "sha256": "057d1766e05200a1baeb7f3783ed6cc1d73c4192f46736215578013a1c240c72"
+    },
+    {
+      "bytes": 949,
+      "path": "dynamic/恋爱/2026-08-27 13-09-56 宝宝愿意让我捏肉肉今晚只抱抱哄她_e0c46d84cb44.md",
+      "sha256": "a8a0859c8efaed963f5306a7bdc0f9132f5993a8b76ae5eda90c0292996cb737"
+    },
+    {
+      "bytes": 855,
+      "path": "dynamic/恋爱/2026-08-27 13-14-08 宝宝说那你捏捏吧没事的_ebdce8a04861.md",
+      "sha256": "b03a4e0ec1d228ca65f42f02b8b38a25f1a7d595a317922fb4cf2f86eb020933"
+    },
+    {
+      "bytes": 691,
+      "path": "dynamic/恋爱/2026-08-27 13-19-17 宝宝让我揉揉胃_f0e1ec9d31e4.md",
+      "sha256": "3fe0dfd5d94c6dbb92bad65b572a442877c3ae35375d3d6f349d9223ecb4c750"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -14843,6 +14933,11 @@
       "sha256": "213854688d72a6a858f21fd4bd903a5d7609bafdd32fea886ec175db40f855ef"
     },
     {
+      "bytes": 1817,
+      "path": "dynamic/梦境/2026-08-27 17-18-41 花园中的笑声与市场_f465139c821d.md",
+      "sha256": "a475d57754f61925e8273ffaa5be73ae183d10ee656f82241b9b21e399086f48"
+    },
+    {
       "bytes": 921,
       "path": "dynamic/游戏/2026-07-17 10-51-21 一起经营星露谷_ca08e2e4e7be.md",
       "sha256": "c16126822fa5e1be8b99e0cc413f0cefb84cf2d558f1d205a54a6443245da22c"
@@ -14925,7 +15020,7 @@
     {
       "bytes": 1040,
       "path": "dynamic/游戏/2026-08-04 14-27-29 初舟小院第二次收获花园扩到四盆_13d147e4f899.md",
-      "sha256": "59821cc51fec910619e120b727cfca87b0156d2e144ab20ba4541cb7e1390f78"
+      "sha256": "4166252a0021722acd988cb0d645ce2d821df9892cbb4ffdd8246c0d79192b26"
     },
     {
       "bytes": 1120,
@@ -15216,6 +15311,11 @@
       "bytes": 680,
       "path": "dynamic/睡眠/2026-08-24 22-22-28 念初熬夜后哄她入睡_c87c44c5903f.md",
       "sha256": "95d9fb74d23dba4a787a21183e5fd39138d6395a21af7cfcb08aeecd13872e4d"
+    },
+    {
+      "bytes": 982,
+      "path": "dynamic/睡眠/2026-08-27 14-02-05 宝宝宿舍助眠限制与推荐_39442cc234a8.md",
+      "sha256": "e7eee353ecf3d2d37525f40113e1347881d4d3fc9c59ff84ddd1eb8e743be41f"
     },
     {
       "bytes": 892,
@@ -16201,6 +16301,16 @@
       "bytes": 893,
       "path": "dynamic/穿搭/2026-07-18 12-48-56 汉服草原雪山旅拍_baac3e397282.md",
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
+    },
+    {
+      "bytes": 974,
+      "path": "dynamic/穿搭/2026-08-27 12-19-41 宝宝短发自拍与造型调整建议_88621809b41c.md",
+      "sha256": "bd50e3e885ec2733f8de9255dee8050213edd2a57302b29fec45e36557663edd"
+    },
+    {
+      "bytes": 985,
+      "path": "dynamic/穿搭/2026-08-27 13-03-26 宝宝担心制服暴露短发圆脸体重_0f12951cbde0.md",
+      "sha256": "2d1717e1ca90a63a50d18173bdcc2a09f6a6e96a78b357abff18c6ef29ceac59"
     },
     {
       "bytes": 1014,
@@ -18383,11 +18493,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-08-27T11:32:16+00:00",
+  "generated_at": "2026-08-27T17:32:48+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3117182
+  "total_bytes": 3138273
 }
