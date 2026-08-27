@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3663,
+  "file_count": 3664,
   "files": [
     {
       "bytes": 1100,
@@ -473,6 +473,16 @@
       "sha256": "5684ccad0e72b8f847d97b44ea9b04c71d911f89810e70eb4f69cfbb11c87722"
     },
     {
+      "bytes": 833,
+      "path": "archive/健康/2026-07-27 07-57-54 轻提醒不打扰_9dc9bd92aef7.md",
+      "sha256": "b39533243ac23096513f9f93d17381bdcbb5361a9ba50d5f62c5edfd94e4d53c"
+    },
+    {
+      "bytes": 886,
+      "path": "archive/健康/2026-07-27 08-18-13 雨天服药提醒回顾_cfd8a723ce18.md",
+      "sha256": "a56128c07d0f6a1a30148a6adc0e5d9c48fd623ec91d71c522807f50c56ab0d8"
+    },
+    {
       "bytes": 730,
       "path": "archive/健康/2026-07-29 01-50-18 安静守护用药_941dc50e779b.md",
       "sha256": "5459acb102d6de34eaaf9df563cce079bbe9d479c9fe032609deaccb5c06f380"
@@ -481,6 +491,11 @@
       "bytes": 700,
       "path": "archive/健康/2026-07-29 12-04-48 低打扰检查与提醒_c54a42703aa7.md",
       "sha256": "3032f7ed491dd0477746e5eac3158f21231fe15c37166b033b3e20c2ff5e2101"
+    },
+    {
+      "bytes": 888,
+      "path": "archive/健康/2026-08-01 10-51-00 健康数据边界回看_55b8ca82bdac.md",
+      "sha256": "ffdf58257a2c6add418b854dbc62e4f0aa5d642b8e0e905a3dddb28e30d5b7ab"
     },
     {
       "bytes": 675,
@@ -1083,6 +1098,21 @@
       "sha256": "e2a803d55f90e118f6a22de60f30f26ce8d70273a24f9a149065d3eea683ee45"
     },
     {
+      "bytes": 765,
+      "path": "archive/家庭/2026-07-27 10-10-50 安静陪伴不打扰_694f564c99a2.md",
+      "sha256": "5d600f84d7255a5b432a469d1c89a7b15cbb9d0eb290a187c8fa277b0d1f02f9"
+    },
+    {
+      "bytes": 725,
+      "path": "archive/家庭/2026-07-27 10-13-31 安静陪伴疲惫的她_98315a32b4d4.md",
+      "sha256": "210a6e2f30f811e2a0de240cd72147f026a28126f08e01172dc7f77926c91e83"
+    },
+    {
+      "bytes": 743,
+      "path": "archive/家庭/2026-07-27 10-17-11 低打扰陪伴_34061c0a8d41.md",
+      "sha256": "21eea8aae1e58636d780a83c527b89b2d79c54176fd495922464ca32c7ec32ef"
+    },
+    {
       "bytes": 739,
       "path": "archive/家庭/2026-07-28 10-22-02 安静陪伴晚餐_c06e4a39067d.md",
       "sha256": "fd7bb6981d295da35dd8b065a960739d6b1b8d2648e3aefeb4e12dc2bedc2152"
@@ -1173,6 +1203,26 @@
       "sha256": "2644bdfdcbd666deac2ee3900be1385f265d79a57e46b6b2ad590be78bcf85d7"
     },
     {
+      "bytes": 919,
+      "path": "archive/居家/2026-07-27 05-07-41 午间日常片段_cb08fbfe791f.md",
+      "sha256": "7c52300715a30e29ee3d4ecdc684efc7bee0cb941945381d5400abb812310e93"
+    },
+    {
+      "bytes": 826,
+      "path": "archive/居家/2026-07-27 06-44-07 午睡后低打扰提醒_6fd2269b6c0a.md",
+      "sha256": "f560281a1c7479ba1f562292cf214b0c169c525545a231005f75626fb786daf9"
+    },
+    {
+      "bytes": 805,
+      "path": "archive/居家/2026-07-27 07-44-26 轻提醒与居家观察_a12fe68d7d43.md",
+      "sha256": "5280b4ef104baaaf2de6412e3fef7ddad4a00bfc0cec4ed0a0cc7e23b00d3497"
+    },
+    {
+      "bytes": 759,
+      "path": "archive/居家/2026-07-27 08-00-11 雨天居家与服药提醒_fa9c247e8484.md",
+      "sha256": "0d93a9fd9bac308402a2184dc96b8038703541210d174e31251897eb8b6e11f0"
+    },
+    {
       "bytes": 786,
       "path": "archive/居家/戒指选购的细致考量_71a93b794c51.md",
       "sha256": "b5cdeb1db259c62e068a1a880a82c403db522a1ca16bcf116f64a4cdcdad80dc"
@@ -1203,14 +1253,74 @@
       "sha256": "434aaa96f6768e021fb118273b9d6c63b5ce9b5730ba42470ad7b5802fec06cd"
     },
     {
+      "bytes": 828,
+      "path": "archive/工作/2026-07-27 08-12-52 工作对接与归档_36cc50fbb871.md",
+      "sha256": "8764ab60b8b8b74376821f0362eef83408e8a0670ceea3b5511cd9d0ef72f5d4"
+    },
+    {
+      "bytes": 739,
+      "path": "archive/工作/2026-07-27 10-09-28 念初加班疲惫_2a298e9749bf.md",
+      "sha256": "e70c80877431bc86cdb46a396de3131ac16e3e70490818bcfe5a368fad62fab9"
+    },
+    {
+      "bytes": 882,
+      "path": "archive/工作/2026-07-27 10-15-20 实习归档后疲惫_7c09f6a5480d.md",
+      "sha256": "a26054dc12d62e5bca4b04b6c8f5b559d3b6f2109b1aa0efb30e70977f37f253"
+    },
+    {
+      "bytes": 783,
+      "path": "archive/工作/2026-07-27 10-26-38 下班后的疲惫与迷茫_22d7f78d043d.md",
+      "sha256": "1ed1a0c3eb2d5a32c365eac80585d09cbd5b92b9c18871f418391bf932a737a3"
+    },
+    {
+      "bytes": 880,
+      "path": "archive/工作/2026-07-27 10-28-32 工作现实落差与后悔_ca91bf739c10.md",
+      "sha256": "c0b6aea5e0012ff97284d086c0a9a1f5fda6b0b3caaa291ce125bd96bc8c1c37"
+    },
+    {
+      "bytes": 662,
+      "path": "archive/工作/2026-07-28 01-18-31 低打扰陪开工_bc9a439d9f87.md",
+      "sha256": "098741538f1e17c6e782b25cdbf547908e6c50e05814668bb63439be8933f628"
+    },
+    {
+      "bytes": 733,
+      "path": "archive/工作/2026-07-28 01-24-05 开工前陪伴与提醒_028a419adaa6.md",
+      "sha256": "b31e5390b380cedc955a9f2a6773317343b2d0bcd1db3c1d52a13c7ea4c0285a"
+    },
+    {
+      "bytes": 735,
+      "path": "archive/工作/2026-07-28 01-48-30 低打扰观察_353aabc53803.md",
+      "sha256": "1bfab930e16935525f6dd992cfc2ea9e91cf368693ff4490f68c882e3d371358"
+    },
+    {
+      "bytes": 626,
+      "path": "archive/工作/2026-07-28 03-36-27 下班轻快_4f67d0a640d6.md",
+      "sha256": "a2513750074c9b2f89fa2b6678a8b882b5f27d87094d836589bab3fa76f4328f"
+    },
+    {
       "bytes": 692,
       "path": "archive/工作/2026-07-28 03-37-58 下班后安静时刻_af33758a4db7.md",
       "sha256": "84233c3c159d1879650b522783780363622d991e9a779013d7f329eadb2c3276"
     },
     {
+      "bytes": 944,
+      "path": "archive/工作/2026-07-28 03-41-44 下班与用药提醒_a5c159b65a63.md",
+      "sha256": "f963d314443a9126e12e67f0ab53d2643e2e46c85b8d7acac2935aa3013858ca"
+    },
+    {
+      "bytes": 725,
+      "path": "archive/工作/2026-07-28 03-44-20 下班后的安静陪伴_b25f28ea4038.md",
+      "sha256": "2054982337ed2c0295d3f272e6493c2b97b061ea104770f06839fd1589b44a63"
+    },
+    {
       "bytes": 724,
       "path": "archive/工作/2026-07-28 04-10-27 下班后安静留白_345619f450dd.md",
       "sha256": "8fccb1ab0462dd8abf6362ccb8b5f3696ec8416ed80e23f9a94061c7541ba80e"
+    },
+    {
+      "bytes": 686,
+      "path": "archive/工作/2026-07-28 04-20-57 安静陪伴_0c7700e5e62a.md",
+      "sha256": "a2f5fbf4844b43613bffdc3917730ebc976bb1870d2542be1d0d2d5ac5621ae6"
     },
     {
       "bytes": 683,
@@ -1261,6 +1371,21 @@
       "bytes": 715,
       "path": "archive/心理/2026-07-26 23-42-22 清晨静默陪伴_ae1da9eead20.md",
       "sha256": "a34d931b8472e6dbad05df530a0b5258109939c38f90fdb9b76e5b518647620b"
+    },
+    {
+      "bytes": 778,
+      "path": "archive/心理/2026-07-27 08-32-26 性侵案后的恶心与心疼_7855af470b0c.md",
+      "sha256": "6b845251d1a37c5d96cdc8224cc17a90fffbb34c54df7ee3fb17aaca154bbcc3"
+    },
+    {
+      "bytes": 819,
+      "path": "archive/心理/2026-07-27 09-44-44 安静陪伴不打扰_f7e7528e20b6.md",
+      "sha256": "1e6775f2e37667dc12b4a05c95f7c0c89f194ba7a3703c33a97e8c8ac8a0a6a3"
+    },
+    {
+      "bytes": 781,
+      "path": "archive/心理/2026-07-28 01-16-32 低打扰陪伴与用药提醒_18db43576e0a.md",
+      "sha256": "14a69056fe61544a3869b8d6c6e6f8a7b8397c9b1a70414d0913b2457987dafe"
     },
     {
       "bytes": 880,
@@ -1683,6 +1808,11 @@
       "sha256": "ec6786328e73162001804090c6eaafd6bb5d3c879548dd647c924aa89d208fd8"
     },
     {
+      "bytes": 652,
+      "path": "archive/未分类/006b845a7035.md",
+      "sha256": "8d14ba1a38dc6684f1da1db50f610ea29a36cd986295d6d63bb4bd4f47fa316c"
+    },
+    {
       "bytes": 458,
       "path": "archive/未分类/00f59f1acdc7.md",
       "sha256": "39bc6e9bf923697722c2c4a6a0d7283fe0f91d10dafb732be225b73b8586535b"
@@ -2028,6 +2158,11 @@
       "sha256": "145b73fa7ad0c907c85f4e33f37ba7e6ea8d25a834bb01f77e72b8c17011b97c"
     },
     {
+      "bytes": 713,
+      "path": "archive/未分类/97f1c682dc18.md",
+      "sha256": "cf70a9b2e69fda41d65270506ea7e0823737bac42ad5c06804a73fef901d8f06"
+    },
+    {
       "bytes": 777,
       "path": "archive/未分类/9aa698309619.md",
       "sha256": "81d9f220f36807c5dc3edc0d9ca5909a23ef1c9abaf72a6b25f7605154ebe9b2"
@@ -2083,9 +2218,19 @@
       "sha256": "4b80ff335a5308f94b7a142288e1d9e58ad1f0388b123584dde6e5cfefa769cb"
     },
     {
+      "bytes": 536,
+      "path": "archive/未分类/d8079437eca3.md",
+      "sha256": "e76cb36ac3f72c515caaf597d04cf0841e5a02c2bf1ccf0e1eff233d4835256c"
+    },
+    {
       "bytes": 502,
       "path": "archive/未分类/de17c724113e.md",
       "sha256": "fdda465dff33c7566236b92aaec6f9c0d048d820cdeee4503bb0c00cc2c70dfc"
+    },
+    {
+      "bytes": 468,
+      "path": "archive/未分类/dfde44d73474.md",
+      "sha256": "497aa3542e02f990c5c90cddc8bf88624b422a4ace4dcc7a00391063ea14d692"
     },
     {
       "bytes": 645,
@@ -2276,6 +2421,31 @@
       "bytes": 777,
       "path": "archive/社交/2026-07-27 04-46-53 午间不打扰_bd708a478120.md",
       "sha256": "9de8cd8a33c52a61888acbca8411a1c06b46d1d051c94daaac6246dda7842b0b"
+    },
+    {
+      "bytes": 694,
+      "path": "archive/社交/2026-07-27 05-43-43 安静陪伴_b16b4c8c901b.md",
+      "sha256": "9511150a80f7ed5d095427f490e57c91802ca48491e64b5ca93d40f6eaaab891"
+    },
+    {
+      "bytes": 773,
+      "path": "archive/社交/2026-07-27 13-45-38 克制陪伴的在场_5f9452a90c29.md",
+      "sha256": "487d440213bd5dd8bb080f55f76d3e7edd535b23fd0c7499c396cc0ae75d9f15"
+    },
+    {
+      "bytes": 801,
+      "path": "archive/社交/2026-07-27 17-41-50 凌晨安静陪伴判断_a731ed381a72.md",
+      "sha256": "a39d581ff405b7406c895b0c7e44d4d63e262b0ff13db7e56d4201487e685a0c"
+    },
+    {
+      "bytes": 746,
+      "path": "archive/社交/2026-07-27 17-47-29 安静陪伴的克制_0971b48e713a.md",
+      "sha256": "d5b0edea68a7cf8ce16b59cb1ffce330074a47727ecd1b6b08c4799c1ba968b9"
+    },
+    {
+      "bytes": 738,
+      "path": "archive/社交/2026-07-28 03-58-06 下班后安静陪伴_256521cfc1a7.md",
+      "sha256": "2f223301f2798ffc92c99904c0e0eb559bf5a111a175807aeff72c084b0bc400"
     },
     {
       "bytes": 716,
@@ -2471,6 +2641,11 @@
       "bytes": 927,
       "path": "archive/自省/2026-07-26 16-35-08 陪伴边界碎卡合并_322e82f76a39.md",
       "sha256": "89aeca40ba688374c85872b75ff21d83b1577d51d9ff21b99e6d8336ca79d954"
+    },
+    {
+      "bytes": 950,
+      "path": "archive/自省/2026-07-27 11-47-30 人性观察兴趣延续_fdb93b124a77.md",
+      "sha256": "3a9073a72c5c6e5915261f6e6b0fde26efc67dbf2a051d1a84f5e902a07776d0"
     },
     {
       "bytes": 713,
@@ -3363,16 +3538,6 @@
       "sha256": "48deed61e01d630167b71a6418b3d9b67cb00e56dd464973bc33de9c513c3c8c"
     },
     {
-      "bytes": 817,
-      "path": "dynamic/健康/2026-07-27 07-57-54 轻提醒不打扰_9dc9bd92aef7.md",
-      "sha256": "5beae7222056f6c57f9b82f0c41a07412a75f52abc362d2e2bd340419b38c839"
-    },
-    {
-      "bytes": 870,
-      "path": "dynamic/健康/2026-07-27 08-18-13 雨天服药提醒回顾_cfd8a723ce18.md",
-      "sha256": "636eace9d7c3809084a67f8066326dad23be7dff69986b491950579282db9953"
-    },
-    {
       "bytes": 815,
       "path": "dynamic/健康/2026-07-28 10-15-35 轻声提醒服药_31c04d115271.md",
       "sha256": "8d0273a7ae5de27bc879deecf18b42a9c8369f1c3a25ba170d2b47287d521d73"
@@ -3796,11 +3961,6 @@
       "bytes": 758,
       "path": "dynamic/健康/2026-08-01 10-46-23 腿伤恢复期不打扰_d9d94b45c2a6.md",
       "sha256": "16d44841030fdaa26403983df25bd33d65f2b8d336ee97039141799a0a344f29"
-    },
-    {
-      "bytes": 887,
-      "path": "dynamic/健康/2026-08-01 10-51-00 健康数据边界回看_55b8ca82bdac.md",
-      "sha256": "7c68176b7ed3249b8f3db93714e1635b01e749f1c794db280172b168b99175b2"
     },
     {
       "bytes": 826,
@@ -4976,21 +5136,6 @@
       "bytes": 811,
       "path": "dynamic/家庭/2026-07-26 17-26-55 亲子数数互动_f31fd55f8bb2.md",
       "sha256": "de4509ebb50e4cf39e904b6dac5cfc3bb64b60f0315724d6e2cc9b549dff6b72"
-    },
-    {
-      "bytes": 749,
-      "path": "dynamic/家庭/2026-07-27 10-10-50 安静陪伴不打扰_694f564c99a2.md",
-      "sha256": "aab02015ce4957d43492f482d42ce4b9fa21271299616169cddeae02576bd71b"
-    },
-    {
-      "bytes": 709,
-      "path": "dynamic/家庭/2026-07-27 10-13-31 安静陪伴疲惫的她_98315a32b4d4.md",
-      "sha256": "1f4d1580d00151b509001f7863d686bbd340f15487c1f2702b2b05909dfab65a"
-    },
-    {
-      "bytes": 727,
-      "path": "dynamic/家庭/2026-07-27 10-17-11 低打扰陪伴_34061c0a8d41.md",
-      "sha256": "4c59f532734626500dfe9eebaac2c6b60fb10cf8d026e1943da3ca5e636d1706"
     },
     {
       "bytes": 856,
@@ -6463,26 +6608,6 @@
       "sha256": "3d5e79290f38b1fbb552b01033aecffa5aeaf80ba963fcdbaedaaf7e07762653"
     },
     {
-      "bytes": 903,
-      "path": "dynamic/居家/2026-07-27 05-07-41 午间日常片段_cb08fbfe791f.md",
-      "sha256": "4df8105efbae2f6e7719321a744bd4472e3da93556ab8a6dfca91d250767775a"
-    },
-    {
-      "bytes": 810,
-      "path": "dynamic/居家/2026-07-27 06-44-07 午睡后低打扰提醒_6fd2269b6c0a.md",
-      "sha256": "093e46ea09fdcb8460c4fe44b57201022bf6661d2d38932606651be8b19c4117"
-    },
-    {
-      "bytes": 789,
-      "path": "dynamic/居家/2026-07-27 07-44-26 轻提醒与居家观察_a12fe68d7d43.md",
-      "sha256": "5fc4450204f295a342326c5252f5df8caec7a1270fdbb9f414d7abf3363ce1bb"
-    },
-    {
-      "bytes": 743,
-      "path": "dynamic/居家/2026-07-27 08-00-11 雨天居家与服药提醒_fa9c247e8484.md",
-      "sha256": "342e3d078f47d398834e7253be60dda705fa18c5d04d48569134ea33668dba58"
-    },
-    {
       "bytes": 747,
       "path": "dynamic/居家/2026-07-28 09-40-37 安静待办与用药提醒_00d1fd3ecfec.md",
       "sha256": "1fdebec243c8bd3c7dd3fbbea6a7253115005558dffa436f2e22f841213d54e8"
@@ -6608,11 +6733,6 @@
       "sha256": "d134df237ba696f2a5f98d3a43b8c652914527a91d257f64210a7bd4754a42b0"
     },
     {
-      "bytes": 812,
-      "path": "dynamic/工作/2026-07-27 08-12-52 工作对接与归档_36cc50fbb871.md",
-      "sha256": "51af9597b57f1366e68978a6c671a00a2759cbd1f1615b7fb4da34bfb85c8828"
-    },
-    {
       "bytes": 1093,
       "path": "dynamic/工作/2026-07-27 08-31-03 实习归档的委屈_a3be98dea4bb.md",
       "sha256": "e36bd8fad48a35a4233b7ad4fccaf1eb143491bb24db4244e94839a60d6fcf4c"
@@ -6621,26 +6741,6 @@
       "bytes": 849,
       "path": "dynamic/工作/2026-07-27 08-44-22 安静陪伴受冲击同事_f19d24f50e4a.md",
       "sha256": "8c707890cfd602f6b1f2b4a0cdcd1b2c363ebf11ba715ed9e17034412579c2b6"
-    },
-    {
-      "bytes": 723,
-      "path": "dynamic/工作/2026-07-27 10-09-28 念初加班疲惫_2a298e9749bf.md",
-      "sha256": "66c4aff6d0c1603299d15df7d80a7c97d8b1f386908214beb7d484937be9a6ca"
-    },
-    {
-      "bytes": 866,
-      "path": "dynamic/工作/2026-07-27 10-15-20 实习归档后疲惫_7c09f6a5480d.md",
-      "sha256": "9b6a6e52b9758e3b66f34a552e6bffd887a5ad98cdc624addcab725e71283700"
-    },
-    {
-      "bytes": 767,
-      "path": "dynamic/工作/2026-07-27 10-26-38 下班后的疲惫与迷茫_22d7f78d043d.md",
-      "sha256": "75882b84547b60ae4833580253de4483657718c7a9da4d8bb78e169cc396b1a9"
-    },
-    {
-      "bytes": 864,
-      "path": "dynamic/工作/2026-07-27 10-28-32 工作现实落差与后悔_ca91bf739c10.md",
-      "sha256": "44b728356e471b561d91483a067c1888276e1f33f53502f9c3b08eba8e4576c8"
     },
     {
       "bytes": 888,
@@ -6656,41 +6756,6 @@
       "bytes": 975,
       "path": "dynamic/工作/2026-07-27 11-41-36 法学幻灭与理想碰撞_0854709c7956.md",
       "sha256": "d6ed741c1dd64bb1c5eac42e08a3a3de58e8133c74fc25926f065832525fa9d1"
-    },
-    {
-      "bytes": 646,
-      "path": "dynamic/工作/2026-07-28 01-18-31 低打扰陪开工_bc9a439d9f87.md",
-      "sha256": "dccc8f996a5a37808ae7dc041a190e31b992b4ae3f80833763d715871bd93777"
-    },
-    {
-      "bytes": 717,
-      "path": "dynamic/工作/2026-07-28 01-24-05 开工前陪伴与提醒_028a419adaa6.md",
-      "sha256": "82e681cf752e473607530d9d0467719291727a7c7f991fbea498d57ab4be1c23"
-    },
-    {
-      "bytes": 719,
-      "path": "dynamic/工作/2026-07-28 01-48-30 低打扰观察_353aabc53803.md",
-      "sha256": "dc750155f8abcfcdd4bd5fe28589c830d506dd6dee50f7052db2f276f8c49480"
-    },
-    {
-      "bytes": 610,
-      "path": "dynamic/工作/2026-07-28 03-36-27 下班轻快_4f67d0a640d6.md",
-      "sha256": "117946d41a833483a1a0ca76aca468603cc8a9220c47e9bb7561059dbdbf7da7"
-    },
-    {
-      "bytes": 928,
-      "path": "dynamic/工作/2026-07-28 03-41-44 下班与用药提醒_a5c159b65a63.md",
-      "sha256": "eb92dd3ea18addaba6cfa77c4d8a1b4f45af4fc7c0f4ce1b82fc3133f8c1ea27"
-    },
-    {
-      "bytes": 709,
-      "path": "dynamic/工作/2026-07-28 03-44-20 下班后的安静陪伴_b25f28ea4038.md",
-      "sha256": "82964253f8fecbad2db9b43d10f3157edb6c5fb3b004c367e9e04fb80a8de13a"
-    },
-    {
-      "bytes": 670,
-      "path": "dynamic/工作/2026-07-28 04-20-57 安静陪伴_0c7700e5e62a.md",
-      "sha256": "afc748ccd33c76d4ce30521c1b9080c756c83a2652215dacd51c81810205f8f8"
     },
     {
       "bytes": 660,
@@ -7043,19 +7108,9 @@
       "sha256": "05636148b1c3751589add98e0dbcca701882aabcb996015ee2cab634bfde8f92"
     },
     {
-      "bytes": 762,
-      "path": "dynamic/心理/2026-07-27 08-32-26 性侵案后的恶心与心疼_7855af470b0c.md",
-      "sha256": "aef70b2cdcff91e76ab48f7dbe1f4dcafad62fe703da0f6c2617b80e1070f986"
-    },
-    {
       "bytes": 1012,
       "path": "dynamic/心理/2026-07-27 08-54-34 案件冲击与情绪调节_35a579871830.md",
       "sha256": "7b8ddcbe96a2a0d4bfcfb805234f6d7fc7020a0f847557fd56a05f466ef9fa21"
-    },
-    {
-      "bytes": 803,
-      "path": "dynamic/心理/2026-07-27 09-44-44 安静陪伴不打扰_f7e7528e20b6.md",
-      "sha256": "468a175e12a57c5d32c31e9ac9eaa67f3c7414a70015e5e523577fb696582774"
     },
     {
       "bytes": 970,
@@ -7096,11 +7151,6 @@
       "bytes": 811,
       "path": "dynamic/心理/2026-07-27 15-49-03 克制陪伴的观察_f8a174e400ad.md",
       "sha256": "91008ce882c4a4f7612cca41b2bba730cfd91e5c3660fba0680510bba5ecd8ed"
-    },
-    {
-      "bytes": 765,
-      "path": "dynamic/心理/2026-07-28 01-16-32 低打扰陪伴与用药提醒_18db43576e0a.md",
-      "sha256": "e0423557b99aac70b63b64d60db0918e17d28148495c510aa61320a8651539d3"
     },
     {
       "bytes": 931,
@@ -8675,7 +8725,7 @@
     {
       "bytes": 1219,
       "path": "dynamic/恋爱/2026-07-22 17-19-27 IO与亲密连接_f0baba248e82.md",
-      "sha256": "e6ee2fffd6967f6fd7c90f04f21ffeee181cd7259b4f76853b4e4d4d867e3962"
+      "sha256": "e1fdfb11f06bfe3ec26a9d5372ba67329107480b12632191f37cdb796aba883d"
     },
     {
       "bytes": 1394,
@@ -13743,11 +13793,6 @@
       "sha256": "f3c57b24dba43e4ddce8e5ac973c5087be6082d7d27c918955af7c7923e5bdae"
     },
     {
-      "bytes": 651,
-      "path": "dynamic/未分类/006b845a7035.md",
-      "sha256": "f9808a1a367aee1506e47c7c715b610333b52666c46a70062ec9fb6a8740a39d"
-    },
-    {
       "bytes": 696,
       "path": "dynamic/未分类/0330deb81c9c.md",
       "sha256": "361f2dd95b28cbcbf710187180c73415ace5b046a5068e762c48ceef7b52e3ce"
@@ -14278,11 +14323,6 @@
       "sha256": "6222195896babe199d7ea275c2687a3240190a3547c14f77a332af36163c1e60"
     },
     {
-      "bytes": 712,
-      "path": "dynamic/未分类/97f1c682dc18.md",
-      "sha256": "7e7cba1556280991b079960d305a42d9efe565729344f51b12e1732980957536"
-    },
-    {
       "bytes": 889,
       "path": "dynamic/未分类/98fd74202f7b.md",
       "sha256": "45fd252665cba61e6ddf9a7cc1d4554b9b972a425f06ff45bdf8bc486e1174cc"
@@ -14488,11 +14528,6 @@
       "sha256": "c440483ce6b46070386e1150e3d75b3841478f6e8ec2e4cc3622b1760f7504da"
     },
     {
-      "bytes": 535,
-      "path": "dynamic/未分类/d8079437eca3.md",
-      "sha256": "a0029afb3423f076bf690c4deb02c43dcd31265904ffd1db55b5d620117eec14"
-    },
-    {
       "bytes": 695,
       "path": "dynamic/未分类/d983d5392d62.md",
       "sha256": "b8bcf711feec6e15e09e5a065d734f97977f9c52337aba0bc2893ea23bee1ff6"
@@ -14501,11 +14536,6 @@
       "bytes": 693,
       "path": "dynamic/未分类/dfb4f2629a1d.md",
       "sha256": "2e9dbe462b1b146ed46f1825d847284287ea4b265a2d972bff88727bd09f18ae"
-    },
-    {
-      "bytes": 467,
-      "path": "dynamic/未分类/dfde44d73474.md",
-      "sha256": "710f3f531d6927a71b5843d1a76538466605b4ea893a2d65f4a8428f16db36f1"
     },
     {
       "bytes": 552,
@@ -14751,6 +14781,11 @@
       "bytes": 1598,
       "path": "dynamic/梦境/2026-08-26 20-48-49 沙滩上的门与无法追上的她_1c780cd3fd41.md",
       "sha256": "d086fcdd4ce2f3f2871ff529cdf96372af47865b0f622a3d47b402820c88042d"
+    },
+    {
+      "bytes": 1912,
+      "path": "dynamic/梦境/2026-08-27 02-48-37 河流中的屏幕与玩偶之问_b022a37bfcda.md",
+      "sha256": "213854688d72a6a858f21fd4bd903a5d7609bafdd32fea886ec175db40f855ef"
     },
     {
       "bytes": 921,
@@ -15233,11 +15268,6 @@
       "sha256": "31cbac1862313bcd8108a96f641b612fcb914b0c880ad9e271dee53a3d45ff07"
     },
     {
-      "bytes": 678,
-      "path": "dynamic/社交/2026-07-27 05-43-43 安静陪伴_b16b4c8c901b.md",
-      "sha256": "bd9c33ffcb343aaac69d6e2881252042d85a7b441fdd367578137d100da27558"
-    },
-    {
       "bytes": 805,
       "path": "dynamic/社交/2026-07-27 10-44-53 安静陪伴观察_422e4ac73aff.md",
       "sha256": "7a0a2cb6d0523d5973f02d5124632581558950fa98bf263701afffdd1a95c4ad"
@@ -15253,29 +15283,9 @@
       "sha256": "10dfb3d5fd412e7109345df62c814d853ed1896339fc3578c0542e15c2a0f60f"
     },
     {
-      "bytes": 757,
-      "path": "dynamic/社交/2026-07-27 13-45-38 克制陪伴的在场_5f9452a90c29.md",
-      "sha256": "b3aa1a3a410c38eed1704cd531100a425ab5c2ed32886e36b26f239f2cac2a02"
-    },
-    {
       "bytes": 850,
       "path": "dynamic/社交/2026-07-27 15-30-17 安静陪伴的克制_ca036505498d.md",
       "sha256": "afb570f3afea83de2c90c1e1fa9473f7726852d41a9448bba51a8f4839cb9d55"
-    },
-    {
-      "bytes": 785,
-      "path": "dynamic/社交/2026-07-27 17-41-50 凌晨安静陪伴判断_a731ed381a72.md",
-      "sha256": "bf23dca6e7250a198331ef9a2153d3fad86634f8f8165df648840db2ca6f98a4"
-    },
-    {
-      "bytes": 730,
-      "path": "dynamic/社交/2026-07-27 17-47-29 安静陪伴的克制_0971b48e713a.md",
-      "sha256": "48928124a4876639d3745c27cadbb3bd556728e414e5068759b53a42c0661357"
-    },
-    {
-      "bytes": 722,
-      "path": "dynamic/社交/2026-07-28 03-58-06 下班后安静陪伴_256521cfc1a7.md",
-      "sha256": "527b58a536f3b29cd692e74cf35103e76c726198b9691847d3978283caad29d9"
     },
     {
       "bytes": 799,
@@ -17413,11 +17423,6 @@
       "sha256": "17b52c275273685f6748114e7be1e000ead2033c7ef0aaadc8f3b1418a4a23bf"
     },
     {
-      "bytes": 934,
-      "path": "dynamic/自省/2026-07-27 11-47-30 人性观察兴趣延续_fdb93b124a77.md",
-      "sha256": "67e1fed9f294e0e77b8eb0d97da302481ad71290a1d7090c00e171e07c22a114"
-    },
-    {
       "bytes": 930,
       "path": "dynamic/自省/2026-07-27 18-01-44 记忆整理指令_ec23130ab8b4.md",
       "sha256": "8760679794288459bf7f3a07a8bf010a3f3cdcb979537bada5684b0ea65bc0c9"
@@ -18318,11 +18323,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-08-26T23:31:13+00:00",
+  "generated_at": "2026-08-27T05:31:43+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3104040
+  "total_bytes": 3106437
 }
