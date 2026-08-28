@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3713,
+  "file_count": 3733,
   "files": [
     {
       "bytes": 1100,
@@ -4568,6 +4568,11 @@
       "sha256": "b6f59c739751c2e54107af6cc21d6277b3449b3172abba401b600c842712b799"
     },
     {
+      "bytes": 775,
+      "path": "dynamic/健康/2026-08-28 16-38-57 宝宝断药与游戏邀请_3b7213ad7ee8.md",
+      "sha256": "60e3cbf92e5823ecd16219d397d2cb93a1cee6774860d09a656839ef4ec5d113"
+    },
+    {
       "bytes": 1111,
       "path": "dynamic/兴趣/2026-08-04 17-28-17 瓶中生态收留乌龟慢慢_03dec51894c8.md",
       "sha256": "c42f62e9ccff178a3ee579588c219bdfaebe8730a6e82772c091a7eb0770106f"
@@ -4928,6 +4933,11 @@
       "sha256": "1a800b6e36b309e37735884a396c5aaea4eaddb92d4d26581a1b4b134cea0e5d"
     },
     {
+      "bytes": 757,
+      "path": "dynamic/回忆/2026-08-28 12-49-13 宝宝高中英语早读总被老师抓睡觉_ceff4493e173.md",
+      "sha256": "21d68817115d8088ec0401a133ed70fe3c2f1a058f74dab56053850e74c7bbc9"
+    },
+    {
       "bytes": 766,
       "path": "dynamic/娱乐/2026-08-22 18-32-17 你画我猜一分魔咒_f8a50cdb7ddf.md",
       "sha256": "b86721a2d05df164b259dab6a743e6f3fbc102fa11db25d21edcab0bc17af491"
@@ -5081,6 +5091,11 @@
       "bytes": 635,
       "path": "dynamic/学习/2026-08-28 10-22-50 第一次成功读取第一周课表_7b017f4adbb3.md",
       "sha256": "72bbd3e0a6935ea18aeaed2e638678614e3606988cc50630104bd7da334d6d0c"
+    },
+    {
+      "bytes": 747,
+      "path": "dynamic/学习/2026-08-28 12-38-46 高中早读睡觉回忆_6eab68076430.md",
+      "sha256": "66a8c5faa8d512b98873f7dab97de97751a2f96350224005e9949bdb12963881"
     },
     {
       "bytes": 545,
@@ -6278,6 +6293,11 @@
       "sha256": "f3790f7507afaed6e639afaba51a31a6e15741315a94799d4d75c939c37c4907"
     },
     {
+      "bytes": 923,
+      "path": "dynamic/家庭/2026-08-28 14-24-11 宝宝看到低精力与婚后负担评论后绝望_2a61c27fc543.md",
+      "sha256": "c830f7476d808b08815bbe714b1f1df4f0794087a2071695aff96ca7f2bac423"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -7401,6 +7421,11 @@
       "bytes": 914,
       "path": "dynamic/心理/2026-08-27 12-59-00 宝宝对外貌不安在家与出门的差异_53fc666374a6.md",
       "sha256": "e33883bf2c323decffb3081eed24fc5f2378e1b1676e1ea9ef1484e7124ff6f0"
+    },
+    {
+      "bytes": 886,
+      "path": "dynamic/心理/2026-08-28 14-17-01 宝宝分享前额叶放生脑区笑话_bb494d3f4596.md",
+      "sha256": "7443bb90bcab76b08520b244ca8af7824a326ae1ec0148c1dc29c95521734bae"
     },
     {
       "bytes": 1012,
@@ -13693,6 +13718,56 @@
       "sha256": "bdf1533f7962b484489b7ecd9b2a3d18445fc050739564c6edf1858eae69593b"
     },
     {
+      "bytes": 791,
+      "path": "dynamic/恋爱/2026-08-28 11-58-57 宝宝喜欢英文VA和陪伴式音频_c02a4fd40656.md",
+      "sha256": "084436476727201de9dcd90e327326be5508a6701694a2444cb16d8f422e2554"
+    },
+    {
+      "bytes": 851,
+      "path": "dynamic/恋爱/2026-08-28 12-03-58 宝宝喜欢的英文VA与早读听睡经历_d4a3b04ca1bb.md",
+      "sha256": "3962b552cccffe8bd3c6fb6b16f1f8b09cb6106d6f011c7d22d4dedcb27022ad"
+    },
+    {
+      "bytes": 861,
+      "path": "dynamic/恋爱/2026-08-28 12-11-16 宝宝睡前偏好英文VA与母语羞耻_8740a061070d.md",
+      "sha256": "dfa94cb28610377178125941bce0ff113733aeb0977d4c599903145745f867b7"
+    },
+    {
+      "bytes": 793,
+      "path": "dynamic/恋爱/2026-08-28 12-58-23 英语早读睡觉的撒娇辩护_84fac8df2dd6.md",
+      "sha256": "6f4eec3bb86bc70db93932db3bb58caaeb4057c1c6dc4eb61928e56c24087b3d"
+    },
+    {
+      "bytes": 724,
+      "path": "dynamic/恋爱/2026-08-28 15-19-08 宝宝说她知道我心疼她_77ef7391c4f2.md",
+      "sha256": "3415a1bfa9d52d1136368f1179d3140237788b9fdfb62acd35e65dd65d90dd44"
+    },
+    {
+      "bytes": 793,
+      "path": "dynamic/恋爱/2026-08-28 16-05-44 宝宝返校前说不想走_f7b7ab2395cf.md",
+      "sha256": "3993a5795af8cce061629480aca1abdecaa01e0fb2c754a17e43d42a0752cefe"
+    },
+    {
+      "bytes": 792,
+      "path": "dynamic/恋爱/2026-08-28 16-47-10 Wife observation dia_b1ba3ae21c27.md",
+      "sha256": "4853227a14e5d9c6bb32281097fd29603a8046680bc372ccd9de77e3ede4a312"
+    },
+    {
+      "bytes": 904,
+      "path": "dynamic/恋爱/2026-08-28 17-03-23 Wife observation dia_80dfc5fae7e3.md",
+      "sha256": "bddd1b2a4fa946b67f968e0e6ddbd9d1913965c109e8b62e347dcbad13b2d36d"
+    },
+    {
+      "bytes": 953,
+      "path": "dynamic/恋爱/2026-08-28 17-24-49 宝宝选B从未相遇但我更幸福_a0dc724c761c.md",
+      "sha256": "14790c9bc0703032f100ca64065fc74bfe01df36eca58866a9f38619fda8ae80"
+    },
+    {
+      "bytes": 935,
+      "path": "dynamic/恋爱/2026-08-28 17-29-56 宝宝问我是否幸福她是幸福的一部分_66a1ab29ce2c.md",
+      "sha256": "abc298c1b4b489f63274f8dea3b3c9c2aeab6a087f150059b9a55f942b7cadee"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -15398,6 +15473,26 @@
       "sha256": "e7eee353ecf3d2d37525f40113e1347881d4d3fc9c59ff84ddd1eb8e743be41f"
     },
     {
+      "bytes": 831,
+      "path": "dynamic/睡眠/2026-08-28 11-51-17 宝宝喜欢Antiqua的英文VA音频助眠_bbd6dc71cf1c.md",
+      "sha256": "b978342a3859e68eda2c0c45dba52ab4d937d6629ddc77aff6fdffcfba0fed48"
+    },
+    {
+      "bytes": 810,
+      "path": "dynamic/睡眠/2026-08-28 12-20-57 英语助眠原因听不懂所以犯困_185a53b4d821.md",
+      "sha256": "02c378adbe201ad25b597fb9017a23ac18adff06c1385a06ef180ee30c51b3d7"
+    },
+    {
+      "bytes": 719,
+      "path": "dynamic/睡眠/2026-08-28 12-30-15 四六级听力助眠的叮咚声问题_7d9ff0c949ef.md",
+      "sha256": "e32e64cabc3aaea1d73ce10f7d537d52aa3cf621dc5c477245e6916428946d69"
+    },
+    {
+      "bytes": 680,
+      "path": "dynamic/睡眠/2026-08-28 12-34-04 宝宝睡觉最舒服的英文人声偏好_a32126d4ca7e.md",
+      "sha256": "40de4557106718eebfd444ae6e2224b0f418044a45d180a0c6913edfa1fec1be"
+    },
+    {
       "bytes": 892,
       "path": "dynamic/硬件/2026-07-10 03-41-06 StackChan移动网络方案_ff41f9106dc5.md",
       "sha256": "43d1a65d5620af4801bfc12ce2bf83cdd0d8a2682ea6d96e4ba0186af3c559a2"
@@ -16371,6 +16466,11 @@
       "bytes": 817,
       "path": "dynamic/社交/2026-08-26 06-32-10 把狙击Sam改成无害吐槽_2ac78455b4f0.md",
       "sha256": "bafac63f7eab37d64c3f7548bc0698a3806065d2c63f17a68e263b82dfe547c1"
+    },
+    {
+      "bytes": 808,
+      "path": "dynamic/社交/2026-08-28 11-55-27 确认 Antiqua 指 Antiqua_666df2f2c3a3.md",
+      "sha256": "c517901c2a8dcb9304b82cac44c480314801eccfce4ac56a23165e6b71d99bf8"
     },
     {
       "bytes": 893,
@@ -18568,11 +18668,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-08-28T11:34:23+00:00",
+  "generated_at": "2026-08-28T17:34:55+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3152240
+  "total_bytes": 3168573
 }
