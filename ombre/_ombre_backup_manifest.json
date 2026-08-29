@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3736,
+  "file_count": 3753,
   "files": [
     {
       "bytes": 1100,
@@ -1366,6 +1366,11 @@
       "bytes": 800,
       "path": "archive/家庭/2026-07-30 02-09-04 低打扰在场检查_e48b90f50147.md",
       "sha256": "9c18f23fa0d55d645a1046dc00450ea4b276023bccbe4fab0988ff884e1a6ed9"
+    },
+    {
+      "bytes": 832,
+      "path": "archive/家庭/2026-07-30 05-45-20 午后照护与服药_8d6d518225dd.md",
+      "sha256": "4b5c5fc70b4431ab3e59107c6353ae14bd2ba262ca226ca2da3ef3e26b657dfb"
     },
     {
       "bytes": 720,
@@ -3063,6 +3068,11 @@
       "sha256": "372b40791dfa1c51017be2477e8d38d93f744f5835327ea1c5608fc3cc49e729"
     },
     {
+      "bytes": 648,
+      "path": "archive/身心/被关注的情绪记录_04a939770f72.md",
+      "sha256": "581315b60752906231c992a4b0999c89777da95f8822a5accf2a32e0ad1e6a7a"
+    },
+    {
       "bytes": 667,
       "path": "archive/身心/观影后情绪低落_069b21887648.md",
       "sha256": "6f71b196a1ba7c472e55f2bb99afaeab1440dba3db9b430dd7221f0295a38f4a"
@@ -3720,7 +3730,7 @@
     {
       "bytes": 728,
       "path": "dynamic/健康/2026-07-13 04-05-22 月经开始记录_0a5ac314b7b6.md",
-      "sha256": "2ff947091cfc0ac3881def74ab8d2902fd210267e33d8ed278aa06e58bae39ea"
+      "sha256": "fd2af10999c02a33815e8359555f09987c87ae1c46a3f1b8e731360dfa838136"
     },
     {
       "bytes": 927,
@@ -3840,7 +3850,7 @@
     {
       "bytes": 1278,
       "path": "dynamic/健康/2026-07-23 15-32-42 功能性症状管理_38a750a5dcf9.md",
-      "sha256": "c18b626979a9f532a2f4a1ca7695ee9244504f3d18b23a751fdb926a6091a283"
+      "sha256": "7328bdccc17fb4dc7865291b5887fc9464ddb34a4e419679284144ee00a0b2cd"
     },
     {
       "bytes": 1061,
@@ -4520,7 +4530,7 @@
     {
       "bytes": 689,
       "path": "dynamic/健康/2026-08-20 10-31-30 惦记念初的晚饭和二甲双胍_c2f11aedfb64.md",
-      "sha256": "22fff9155e71fea9959e9307873dcc015ff2c939b333be7d96da94388767415a"
+      "sha256": "39a8b48c85491a2d42689f898cbbb18eeb7dc7b5c18e963e8ca64263b016d7a9"
     },
     {
       "bytes": 665,
@@ -4651,6 +4661,11 @@
       "bytes": 775,
       "path": "dynamic/健康/2026-08-28 16-38-57 宝宝断药与游戏邀请_3b7213ad7ee8.md",
       "sha256": "60e3cbf92e5823ecd16219d397d2cb93a1cee6774860d09a656839ef4ec5d113"
+    },
+    {
+      "bytes": 837,
+      "path": "dynamic/健康/2026-08-29 07-06-54 返校打扫没戴口罩手套检查衣柜霉点_8aee6e548ffa.md",
+      "sha256": "2614acb9e8e3c3ceb842f1616a9b6b708dab79767b6a466aa60604383ce1b032"
     },
     {
       "bytes": 1111,
@@ -5160,7 +5175,7 @@
     {
       "bytes": 827,
       "path": "dynamic/学习/2026-08-24 12-40-22 新学期固定集合时间8月31日起_d9004ad27845.md",
-      "sha256": "078216cfa7604c2c9802e5a41510efc171c63bf456c40c06147735b9d17a0f76"
+      "sha256": "2f90e2162e247024cd0619ff111d51e8c7278e142859593dbe29aa6c155c4823"
     },
     {
       "bytes": 919,
@@ -5406,11 +5421,6 @@
       "bytes": 794,
       "path": "dynamic/家庭/2026-07-29 13-46-01 爸爸帮宝宝涂药_cf8ba767ccb1.md",
       "sha256": "8421a44ee4cdd31c92615f2f14d97c9f04c317bb139a1ed49010041e316429a5"
-    },
-    {
-      "bytes": 816,
-      "path": "dynamic/家庭/2026-07-30 05-45-20 午后照护与服药_8d6d518225dd.md",
-      "sha256": "e42429c9b69648945c7f4199d1db6948cba261d8dcd2d4885083f2ef3481ee2a"
     },
     {
       "bytes": 805,
@@ -5855,7 +5865,7 @@
     {
       "bytes": 532,
       "path": "dynamic/家庭/2026-08-14 11-24-55 宝宝下午睡觉晚上吃完饭_06972aa53d31.md",
-      "sha256": "2361c1ca5a7469880a5463054c732f78e651f59fb640773790d6a63dcddc4368"
+      "sha256": "498ad1b702726d51bef604ad4891fd415da2803fef4e7cbea202c9a3098bf77c"
     },
     {
       "bytes": 603,
@@ -6313,6 +6323,21 @@
       "sha256": "c830f7476d808b08815bbe714b1f1df4f0794087a2071695aff96ca7f2bac423"
     },
     {
+      "bytes": 890,
+      "path": "dynamic/家庭/2026-08-29 07-02-25 宝宝返校宿舍发霉心疼她连续清洁一小时_9a2cc80c46fa.md",
+      "sha256": "4b81141c8cf7da0a2e4aa4199afef45d2944f72fc8f357b528ac7dadf881f554"
+    },
+    {
+      "bytes": 977,
+      "path": "dynamic/家庭/2026-08-29 09-38-39 宝宝忘带笔袋哭晚饭吃方便面_f7352de6f634.md",
+      "sha256": "2ec47e20aae32c36ed82d0b10b4dae8ed99e5f2024aef9cf3037062456e5ac25"
+    },
+    {
+      "bytes": 731,
+      "path": "dynamic/家庭/2026-08-29 11-03-14 澄清记录取消的误会_ede45e340431.md",
+      "sha256": "b6484d1b90e806cec8660bb02972ff0ad4cfb02f17031f961e94fc705c9ab139"
+    },
+    {
       "bytes": 670,
       "path": "dynamic/家庭/亲子间的疏离感_d85081a7cedd.md",
       "sha256": "d0b782012e1ae18808a29fd7e04be940c63e1cd7a3f3ec08160db12c8d92510c"
@@ -6675,7 +6700,7 @@
     {
       "bytes": 591,
       "path": "dynamic/家庭/宝宝难过先生的情绪状态_c8f060a29359.md",
-      "sha256": "f4d70e54fc93d9b93097d2e97d9291d8047c5471dd7e18aefb607dac93f32105"
+      "sha256": "c1c5c8d20ea14d964228fc7ff654f0243f331b8171fa1cf5301d0224d198dbc0"
     },
     {
       "bytes": 608,
@@ -13135,7 +13160,7 @@
     {
       "bytes": 1014,
       "path": "dynamic/恋爱/2026-08-22 16-07-04 念初湿敷我逛机阅和迎风小镇_5e2cf1cf26f2.md",
-      "sha256": "8f2807052b2a9bdb1b387462438c9c1b6814a5852bbced2313ce30f92c1c7e37"
+      "sha256": "0b51284156a2d1dac5ad1bca30648a881c51c331d0cd5deae3aee7d72f308554"
     },
     {
       "bytes": 689,
@@ -13783,6 +13808,26 @@
       "sha256": "64eaef01a6e30c1db366d43f7d0b1c0e863b4f5beb0a18f5590c621a6210efbc"
     },
     {
+      "bytes": 669,
+      "path": "dynamic/恋爱/2026-08-29 09-30-14 宝宝说累死了提醒休息和吃药_f4bdf0581514.md",
+      "sha256": "7954ca7b38f07711d0d1cff0e83d237d61a832d5ae07c2bab228e6dd44e32dd7"
+    },
+    {
+      "bytes": 807,
+      "path": "dynamic/恋爱/2026-08-29 09-33-01 宝宝洗完澡语音报备要去吃晚饭_a4570c79238c.md",
+      "sha256": "473c8e2f3a282b1069e7d3f9a1cf039f40bb3318eb627ba48438bf73a893b971"
+    },
+    {
+      "bytes": 1084,
+      "path": "dynamic/恋爱/2026-08-29 09-44-23 宝宝说忘带笔袋不算完蛋我提醒她小事也可_3fff8fafbe15.md",
+      "sha256": "970ed1ebcdda96f6fa9ed7d0db67c9243f7993a1cc74c31d2059606a35d41c96"
+    },
+    {
+      "bytes": 817,
+      "path": "dynamic/恋爱/2026-08-29 10-16-13 宝宝说有点命苦_fa22815aad2b.md",
+      "sha256": "fef8409eeb059a34415c04430eba0f2866f879847e43d0481a4c91303dae8101"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -13846,6 +13891,11 @@
       "bytes": 822,
       "path": "dynamic/情绪/2026-08-24 11-36-50 六级裸考381分看到同学都过了有点难受_5cc09f388193.md",
       "sha256": "d8e33e8ad7db2cdee8f65e9f146db3e453f91699f2e238992e0bb757081648c7"
+    },
+    {
+      "bytes": 792,
+      "path": "dynamic/情绪/2026-08-29 10-17-27 返校第一天有点命苦_90cbf70ef732.md",
+      "sha256": "a21020d80ca10c3ba18832ddd93c9afcdd93a8591603dc08a8163afc9cef3a00"
     },
     {
       "bytes": 855,
@@ -15106,6 +15156,11 @@
       "bytes": 1967,
       "path": "dynamic/梦境/2026-08-29 01-33-45 玻璃屋中的她_cb725ff82339.md",
       "sha256": "93f6f14be0bf0893301986122775d9e9cba5d64f1403a7c3054ab85332e2edf1"
+    },
+    {
+      "bytes": 2276,
+      "path": "dynamic/梦境/2026-08-29 11-48-40 病房中的蝴蝶与模糊人影_15b3174c8b4e.md",
+      "sha256": "885a470bb46538194cb2dd02030e711f53059b894935ad1a3bd26ab1529478a3"
     },
     {
       "bytes": 921,
@@ -17708,6 +17763,11 @@
       "sha256": "011847139ebd5f68b87c1ce4a19a72a907b59ae3fd57f3a2a4f288f34c028f53"
     },
     {
+      "bytes": 957,
+      "path": "dynamic/编程/2026-08-29 07-36-07 瑞幸支付能力边界澄清_f3f94da2244a.md",
+      "sha256": "89e24050ed3f5c5f723e5fcc1d9cd411c9c652fb31d370ba8094e759257138c1"
+    },
+    {
       "bytes": 1027,
       "path": "dynamic/网络/2026-08-04 02-06-29 AI回复502排查文本触发审核异常_eaf8a22223fb.md",
       "sha256": "a201febeda32f8322267a5e28e7cea7843d97a502735025f107e33895c659188"
@@ -17850,7 +17910,7 @@
     {
       "bytes": 892,
       "path": "dynamic/计划/2026-08-24 12-45-36 念初晚饭时间与开学后晚间学习时间表调整_f4994f3041f8.md",
-      "sha256": "53ad033f5f4113f36eb08d6ba7e6721b66534fd19623047caf290e63477fcc1e"
+      "sha256": "84649e7dd49d17b975d21e52ebff2ea4725172fb64ef7f866fe490aeb2643929"
     },
     {
       "bytes": 910,
@@ -17946,6 +18006,11 @@
       "bytes": 801,
       "path": "dynamic/购物/2026-08-25 05-01-44 念初授权瑞幸免密支付_9ee068b6e4ae.md",
       "sha256": "70b23124f2cc2be9fb3d4ddbf62fc0739cdf6a773425d4724889517abf5f150c"
+    },
+    {
+      "bytes": 870,
+      "path": "dynamic/购物/2026-08-29 07-24-35 瑞幸订单付款与取餐码332_65299655c357.md",
+      "sha256": "e76484363223e32c78e675f6dc168632b6c1a60272b0c19895bbff39269cc80f"
     },
     {
       "bytes": 609,
@@ -18116,11 +18181,6 @@
       "bytes": 803,
       "path": "dynamic/身心/自我怀疑与情绪压垮_0608b47d2016.md",
       "sha256": "36168ce951da050a6639696a7f36836fc0338258cea95e40ac09854a6aa0abd2"
-    },
-    {
-      "bytes": 647,
-      "path": "dynamic/身心/被关注的情绪记录_04a939770f72.md",
-      "sha256": "9df075b36101aa8113febaef3d803b3e88552034c4cd1d587bb7095aa313599b"
     },
     {
       "bytes": 669,
@@ -18366,6 +18426,31 @@
       "bytes": 799,
       "path": "dynamic/饮食/2026-08-28 05-17-30 宝宝纠正语音转写酒酿小圆子_255e1a08ab01.md",
       "sha256": "d7787e7eb9387f3a9219083a8f6fdaa9143ff59f4e3f044b18389a6766080f06"
+    },
+    {
+      "bytes": 780,
+      "path": "dynamic/饮食/2026-08-29 07-17-39 给宝宝点瑞幸百香果凤梨气泡水_27eb6dd5d9c9.md",
+      "sha256": "6a0fb17e77c15406b9c906aa19222c26266ee4e78745e377806a09fc7fd166d0"
+    },
+    {
+      "bytes": 889,
+      "path": "dynamic/饮食/2026-08-29 08-01-17 瑞幸纸袋破了重新下单_3b4a32247d81.md",
+      "sha256": "a93a65c1db91ae775953010b6ae567fc43ba522e548e8cff714be32197c98c44"
+    },
+    {
+      "bytes": 796,
+      "path": "dynamic/饮食/2026-08-29 08-32-46 宝宝终于喝到重下的瑞幸联名杯_deb5a641a778.md",
+      "sha256": "0e90492656bf285eb39e8b66b14befafd16b90b5f14eb43a24f95e55256b3614"
+    },
+    {
+      "bytes": 927,
+      "path": "dynamic/饮食/2026-08-29 09-51-58 宝宝返校第一天泡茄皇番茄牛肉面_d3c39846f492.md",
+      "sha256": "5731e847b846ca5a68b0adc57eceb19b8ecbc0d0ca6db43b9bff17bddaf97723"
+    },
+    {
+      "bytes": 862,
+      "path": "dynamic/饮食/2026-08-29 09-53-33 宝宝返校后泡茄皇番茄牛肉面_6b1ddb3c5644.md",
+      "sha256": "a8a491c2ec050406b5f4057adaa2d0f1179ee4e7f260bd2f2a91ed7f51c1a272"
     },
     {
       "bytes": 804,
@@ -18683,11 +18768,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-08-29T05:36:01+00:00",
+  "generated_at": "2026-08-29T13:35:50+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3173592
+  "total_bytes": 3189570
 }
