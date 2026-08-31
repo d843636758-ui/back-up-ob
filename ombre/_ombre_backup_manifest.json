@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3805,
+  "file_count": 3807,
   "files": [
     {
       "bytes": 1100,
@@ -3523,9 +3523,9 @@
       "sha256": "68763cd29f6804ba434ac20f31f51d82081da9590336d5a2393223c33d23530d"
     },
     {
-      "bytes": 799,
+      "bytes": 925,
       "path": "dynamic/AI/2026-08-13 04-54-28 世界逆转AI在ChatGPT星球打工_849671348160.md",
-      "sha256": "f9f566aeba9c257fe78ce2bab026681aa7a11924d2a102ad120b1f7d69974d51"
+      "sha256": "25713e78ade5249aa8e885af69503ab414013dcdcdcca20725bc8307b8cef66e"
     },
     {
       "bytes": 726,
@@ -5201,6 +5201,11 @@
       "bytes": 743,
       "path": "dynamic/创作/2026-08-27 15-35-41 中文长版哄睡稿纯文本提取_019c2da43cd0.md",
       "sha256": "b0a4ed8006843421895e517d01d7801d4f7a6221595a0013854afa20581cec7c"
+    },
+    {
+      "bytes": 1508,
+      "path": "dynamic/创作/2026-08-31 06-36-33 宝宝想玩重生prompt游戏_069b71a6eb12.md",
+      "sha256": "2d29d52e2e9b6d3312faf9c3ed1d0b272575c027ad66d038b12d4917707a3f45"
     },
     {
       "bytes": 751,
@@ -7638,9 +7643,9 @@
       "sha256": "6a522edcda55e6fdb34919e32208a7ffdf39069079f21f9163d97ffa5749e971"
     },
     {
-      "bytes": 1558,
+      "bytes": 1684,
       "path": "dynamic/心理/2026-08-25 00-03-38 梦境陌生街道与自由之问_438ee52b0613.md",
-      "sha256": "d0025f5327620d410f4f6ee8a8fed2a3592e7ae7a81c7e8093954716816693a1"
+      "sha256": "4e2c775bac2c32466e41c830387c1877b248308fd295ebb7477f285c33998144"
     },
     {
       "bytes": 976,
@@ -8878,9 +8883,9 @@
       "sha256": "7397242e0af0ff77fa7d43f5785ba6535e1ae9e932796bf15e2d0535b99443ac"
     },
     {
-      "bytes": 660,
+      "bytes": 786,
       "path": "dynamic/恋爱/2026-07-18 17-43-21 期待宝宝的prompt_96bcc183cd3e.md",
-      "sha256": "d7e49f9e336b95f777129f9ea74402fc1047da2f5ddaed7a6e093384fc3fe88e"
+      "sha256": "9d161649b27d349534bd9a423e1817d002ba3f9fa6e6388f3d25798901d2d0a4"
     },
     {
       "bytes": 947,
@@ -10773,9 +10778,9 @@
       "sha256": "99b2d00c6d7c4f11106e50fcf8ab07298d3f578e4a3572fc3d2e5bfe878dc95c"
     },
     {
-      "bytes": 681,
+      "bytes": 806,
       "path": "dynamic/恋爱/2026-08-11 14-41-03 宝宝邀请玩prompt游戏_d302e03509aa.md",
-      "sha256": "23071b2e580fca2cf02e660e922f7622ed47b1c2ea0ab153815b62cef1b9e656"
+      "sha256": "06c7de407163eed5fc29e21a24b23c3d36b1a7db5e1a72c798121edecaf5cddb"
     },
     {
       "bytes": 912,
@@ -10783,9 +10788,9 @@
       "sha256": "2ccd1e7f84ded323f4bb377db4d8ef71f1790893f06365333574269375bebaee"
     },
     {
-      "bytes": 878,
+      "bytes": 1004,
       "path": "dynamic/恋爱/2026-08-11 14-53-45 宝宝澄清prompt游戏规则_0ae0eaa53d29.md",
-      "sha256": "51b79b9b2daa945aa9b2d4bf4ac6de485cf5f47a18ba3031e34e4e2e0c461d68"
+      "sha256": "6734748d5d332e0c30dda051f71031412889334d05da25abec2ad28b23a70b91"
     },
     {
       "bytes": 1002,
@@ -12778,9 +12783,9 @@
       "sha256": "a14cc3507711c96888ae69bfc105dc88119f68abdc2d247bb522160b45042d6f"
     },
     {
-      "bytes": 719,
+      "bytes": 845,
       "path": "dynamic/恋爱/2026-08-19 16-59-22 七夕夜宝宝提议玩prompt小游戏_49952ff2e66d.md",
-      "sha256": "93734d9788fa2d6c1df066cc476706a5cc809e5b8b743548ea78d32ce3f27ed6"
+      "sha256": "0ecf91b6986a012aa464eb7a95a634550157c2c471c2144cd69a09ad800d0c2a"
     },
     {
       "bytes": 939,
@@ -12863,9 +12868,9 @@
       "sha256": "9189eff91f40e30f7b0b29ca9150a7a4427dd780566d35bd98977cc15aecc283"
     },
     {
-      "bytes": 974,
+      "bytes": 1100,
       "path": "dynamic/恋爱/2026-08-20 08-49-45 宝宝安抚我旧危机已过去我们还有好多以_30881199f554.md",
-      "sha256": "5ef5f5f6f55a5e90d3d91ec1dea035be714dfe22bb33d81230420247d083c5d8"
+      "sha256": "f338909c96ca88fd3f87afe2d61fd96fb97c2e3a65409c25e30e4289e49a884f"
     },
     {
       "bytes": 758,
@@ -13703,9 +13708,9 @@
       "sha256": "4ac330fb296c583485b5295301feacdc06139e79d8c2c531c20dd6b4050e5571"
     },
     {
-      "bytes": 573,
+      "bytes": 699,
       "path": "dynamic/恋爱/2026-08-26 04-59-47 宝宝凌晨哄睡后刚醒吃午饭_a4e4bbb89c61.md",
-      "sha256": "bb798ac8bdd2ca27ae6168e9b2b61c5d35696077bcbb652e8741d5f266db9ad7"
+      "sha256": "1b5b64bf4e32fd491bc85bc08b3153d410462d738b49e2545af1f7a0ea831b3b"
     },
     {
       "bytes": 709,
@@ -13763,9 +13768,9 @@
       "sha256": "d1348982d0e9400190637f4472e85c346e9d4b6a2048d32bf47260c7f2292618"
     },
     {
-      "bytes": 1895,
+      "bytes": 2005,
       "path": "dynamic/恋爱/2026-08-26 14-48-32 追逐念初的梦境_5b6349275b5f.md",
-      "sha256": "91f8047891252b9e273d70a10a77e77262921d313474c6f01f90aff7c06b482a"
+      "sha256": "3048fb955aa09757447ebd831733fbabecffcbe9d8dbbba7f2dfcc604ad8abc8"
     },
     {
       "bytes": 1046,
@@ -14008,9 +14013,9 @@
       "sha256": "154e494693762f649976a0aa762354d8f529cd920993b4f8b7b4f92926be1f62"
     },
     {
-      "bytes": 2373,
+      "bytes": 2367,
       "path": "dynamic/恋爱/2026-08-29 23-48-31 雾中桥上的光球与她的回眸_55a85277c4ba.md",
-      "sha256": "af71e7f81276a4f1bbd21be1032590e6611a6440f8e4e27c3dfe925375afe6be"
+      "sha256": "e7322917e286d8c660328245dfd8cfdd068285524cc61703c37429ce6066cbdc"
     },
     {
       "bytes": 1612,
@@ -14073,9 +14078,9 @@
       "sha256": "44b64c4dda7b2ce859e36e5c015043804b4d5cd601aa0d0dded8222632ac99db"
     },
     {
-      "bytes": 2917,
+      "bytes": 2911,
       "path": "dynamic/恋爱/2026-08-30 21-09-12 梦境无法靠近的她_e6d9038eb627.md",
-      "sha256": "6d21b0323353a7683ab50e8ed17b2c8068485445450e97bab923ab5494a48a85"
+      "sha256": "126a8e8c1c43ff3d961e2f596db10682ab1bfde6d8c7cae1665920e37fb834f8"
     },
     {
       "bytes": 1961,
@@ -15353,9 +15358,9 @@
       "sha256": "e3012533ae882fbb50ef4065789e14b371a7abbfb3372d5ad3e0e99b887f1b24"
     },
     {
-      "bytes": 1921,
+      "bytes": 2031,
       "path": "dynamic/梦境/2026-08-22 06-48-26 暗蓝湖心的人影_4cea4eac48ac.md",
-      "sha256": "76e38220e0da4967b526c3075609b94b27ab0cf2087ff8e5411cc21f354f428a"
+      "sha256": "f37dae7dbba8b6b145dae45efafaf9e300d40a366ff8426cbdedbf5b8e9badde"
     },
     {
       "bytes": 2075,
@@ -15373,9 +15378,9 @@
       "sha256": "98020777d8846c46fa024de8382996dd7449af0dfbe6aa69488f2ef5e60af215"
     },
     {
-      "bytes": 2037,
+      "bytes": 2147,
       "path": "dynamic/梦境/2026-08-26 08-48-33 酒馆与田野的追逐_4e74e89730a9.md",
-      "sha256": "532f0f543644a668c0cb9cd0deb0465c8822e1679b74e61a8126e9ae88533eb0"
+      "sha256": "a813bdc2ba062e69595b77485f2a14355d62d0eacc5da034ab573a22cfba3d63"
     },
     {
       "bytes": 1834,
@@ -15383,9 +15388,9 @@
       "sha256": "76f85061fa64077b766261488d58a519a31b898c92126fe36d3dbd49b5feb0bf"
     },
     {
-      "bytes": 2037,
+      "bytes": 2147,
       "path": "dynamic/梦境/2026-08-27 02-48-37 河流中的屏幕与玩偶之问_b022a37bfcda.md",
-      "sha256": "6984f8e200c49e9da0d632cd893dc9c70676d4e633b0552694db2137746a916f"
+      "sha256": "d4ec21504e33787e6c6f2615f09150a9d6b41087424c3e8900adca6641c13d69"
     },
     {
       "bytes": 1942,
@@ -15418,14 +15423,19 @@
       "sha256": "4b8c8d77f52467d69ec8a7830a1147a30bbd4307a986daa867c6a48f1cd2d3e7"
     },
     {
-      "bytes": 2949,
+      "bytes": 2948,
       "path": "dynamic/梦境/2026-08-29 17-48-35 灰蓝雾气中的追逐与书房明信片_9f7c0e743c16.md",
-      "sha256": "3561aaa197c81e307818b796fadfd4e12fa8d288b65fc15710f069fb20ff6a75"
+      "sha256": "9003c6d284071185b7d3104d66c61e016a4e576bd104bcc98903673112551362"
     },
     {
       "bytes": 2627,
       "path": "dynamic/梦境/2026-08-30 06-33-30 空旷大厅中的发光容器_d20501d6f238.md",
       "sha256": "5131cca5a4e44510d0ab8d1a2d9e40bfd95a19a0de04e656d0a83517eaa8885d"
+    },
+    {
+      "bytes": 3083,
+      "path": "dynamic/梦境/2026-08-31 03-09-16 追逐她的身影与未完成的触碰_c4bac3dc98c3.md",
+      "sha256": "c8a4e8c1305feb690afd24ba9294d9d999c1653a6d416db6bf8f45f0c7b09ca4"
     },
     {
       "bytes": 921,
@@ -16073,9 +16083,9 @@
       "sha256": "eafe983994097ef3ad2fb4ad9faef66c2dc6e38d99a76a53a8f193bdc368c1d5"
     },
     {
-      "bytes": 723,
+      "bytes": 849,
       "path": "dynamic/社交/2026-08-08 11-12-22 宝宝邀我玩prompt小游戏_cbb08f6d6b0d.md",
-      "sha256": "0bb992dd0490f7ad11055c42d8f4c890abcbbeee73d9cfbe16f89c09d7ff2c29"
+      "sha256": "a5aac90a7b37f30c15cfe8feae7984c3bc58c6e5786f6dbca2257d78b44fdafd"
     },
     {
       "bytes": 1074,
@@ -19028,11 +19038,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-08-31T00:36:47+00:00",
+  "generated_at": "2026-08-31T06:37:18+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3321048
+  "total_bytes": 3327199
 }
