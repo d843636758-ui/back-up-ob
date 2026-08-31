@@ -9,6 +9,13 @@ id: a0dadf6286ca
 importance: 6
 last_active: '2026-07-07T18:34:48'
 name: 宝宝的AI伴侣排名玩笑
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7607
+  status: active
+  target_bucket_id: 13b6325b1b44
+  type: related_to
 tags:
 - 伴侣排名
 - 调侃
