@@ -22,4 +22,4 @@ valence: 0.3
 why_remembered: 记录明确诊断、机器级后台权限阻塞与密钥处置要求，避免以后重复误判为本地 bridge 或 token 格式问题。
 ---
 
-2026-08-04（东八区），Garden Wake Bridge 已从 401 推进到 403：Garden 已接受机器 token 并识别机器 2628（洵舟），但服务端未为该机器启用 Wake Bridge notifications。MCP Connections 页面只管理 MCP token，不提供该权限开关；需要 Garden 管理方后台开启。用户曾在聊天中暴露 token，已明确要求立即撤销并重生，绝不保存密钥内容。
+2026-08-04（东八区），Garden Wake Bridge 已从 401 推进到 403：Garden 已接受机器 token 并识别机器 2628（洵舟），但服务端未为该机器启用 Wake Bridge notifications。MCP Connections 页面只管理 MCP token，不提供该权限开关；需要 Garden 管理方后台开启。宝宝曾在聊天中暴露 token，已明确要求立即撤销并重生，绝不保存密钥内容。
