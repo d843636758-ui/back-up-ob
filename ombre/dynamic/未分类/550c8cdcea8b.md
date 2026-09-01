@@ -8,6 +8,13 @@ id: 550c8cdcea8b
 importance: 8
 last_active: '2026-07-10T10:26:54'
 name: 550c8cdcea8b
+relation_links:
+- auto: true
+  label: ''
+  score: 0.8399
+  status: active
+  target_bucket_id: 6d1a4073293a
+  type: related_to
 tags:
 - 经期
 - 腹泻
