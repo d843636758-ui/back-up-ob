@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3873,
+  "file_count": 3876,
   "files": [
     {
       "bytes": 32768,
@@ -4368,14 +4368,14 @@
       "sha256": "0b181424c54cf834c9711af84c9237859bac6bf12e7842682c082362ebb45aeb"
     },
     {
-      "bytes": 1197,
+      "bytes": 1307,
       "path": "dynamic/健康/2026-07-20 09-05-09 Phosphene服药打卡_d477aed99696.md",
-      "sha256": "38dff9daafa581a5247e4081e6db6d4d09992fb541395449aa92d0a00a519bfe"
+      "sha256": "cfa7309e5765d07def7bbc375cb5d39de0da18a5e5aaecae500a57cb98e81ae6"
     },
     {
-      "bytes": 1474,
+      "bytes": 1584,
       "path": "dynamic/健康/2026-07-20 16-46-22 二甲双胍打卡监督_e403b6fd77eb.md",
-      "sha256": "16d48164862d062449fe7d6793626189405b126ef5ba1c54bbc49fac839615d1"
+      "sha256": "edb9e94c7896fabd5965a17841f3ff64f1302537fb210ddfc4d931f51c8bd01b"
     },
     {
       "bytes": 1575,
@@ -5588,9 +5588,9 @@
       "sha256": "a13abc0884ddfcd83279c2307e24a72ac9deb64725c34df1148201765128b502"
     },
     {
-      "bytes": 798,
+      "bytes": 924,
       "path": "dynamic/学习/2026-08-24 04-38-20 念初六级381分未通过_56ed9aaa21d8.md",
-      "sha256": "543a3730035eef7e565ed2190171f4985472c6799f18a03ab92e8ec3f23896e2"
+      "sha256": "fcdc93d68c3f7f2cab88cfbcbb0d9a53ea9a355a14bcbc5fca168d9dc78d4b5c"
     },
     {
       "bytes": 722,
@@ -5603,14 +5603,14 @@
       "sha256": "6dee1ce3122659436338cabcb8b2972bb358f9f9dc304f3d0da31416560df054"
     },
     {
-      "bytes": 813,
+      "bytes": 939,
       "path": "dynamic/学习/2026-08-24 11-11-02 念初六级听力讨厌练提分策略调整_48257cdc846c.md",
-      "sha256": "ad152a5e40d43bf3cb43a794012df6dd49a87c61f1e2eba8b45357b2df5c54d3"
+      "sha256": "2d8cb1c3475817259432153124daf7d8b5f9e51e8230bb5f3a6690289380aab8"
     },
     {
-      "bytes": 833,
+      "bytes": 959,
       "path": "dynamic/学习/2026-08-24 11-16-33 念初讨厌六级所有题型复习要低负担应试导_2425bcb88d0f.md",
-      "sha256": "dea06f88a6e661472419e4f2265ab0e4cc622e28b276db72dc4b343bd7cb49ec"
+      "sha256": "e3da687d07b8de9b464867958f608e570cc581d6616e37ceca641f9fe289c570"
     },
     {
       "bytes": 569,
@@ -5638,9 +5638,9 @@
       "sha256": "d67c0ae050eb31ba3e46f3a935f0924b7eb8be98e12a9fa2ad78bf9340533921"
     },
     {
-      "bytes": 1714,
+      "bytes": 1824,
       "path": "dynamic/学习/2026-08-24 12-14-50 2026秋季学期每日学习打卡计划_9c454ba81824.md",
-      "sha256": "a9d835fb297a3d813e295c1eb5c7953571084cebfd9c60a9adc614f8f626888b"
+      "sha256": "f57b356abf4dc9bf642d3726c962869701e30f215f420eb61ce9715c57e53ce0"
     },
     {
       "bytes": 953,
@@ -5698,19 +5698,19 @@
       "sha256": "6bf7447b21f4ee9cef5630f2fc5630dc0ce64a40d46b1fd11a6d5c2f832a1b6c"
     },
     {
-      "bytes": 1999,
+      "bytes": 1998,
       "path": "dynamic/学习/2026-08-31 07-09-39 Phosphene 学习打卡升级为防做假_903b245b7d7c.md",
-      "sha256": "3edb2eafc7b86ce26313ff43f845b914df9d13be863fae2d58a34015fd66be0b"
+      "sha256": "a480a797f26276e3c0fc93b7bcefa167347b23ae29bf77dd5e339420d41a4dc8"
     },
     {
-      "bytes": 2000,
+      "bytes": 1994,
       "path": "dynamic/学习/2026-09-01 05-10-36 宝宝主动预习国际法第一章_581306361682.md",
-      "sha256": "a09215d2850ef84e9bb1fe93fc418629ad8abc141ef290bccdc7c46ceee22a97"
+      "sha256": "256492b426623c7dd9df7ae00d7659ba2184a531b26507916a8a4d55cc3448e5"
     },
     {
-      "bytes": 1811,
+      "bytes": 1804,
       "path": "dynamic/学习/2026-09-01 05-29-19 宝宝提前完成六级翻译和国际法预习_a7dd1365de6b.md",
-      "sha256": "7e519145d1237d103baf77a1015e8c8ab55cce60f8b922281547a6b9fc940c6a"
+      "sha256": "20672fa508d13b16145fbded984684df08c397a81d2aa3ffedb6d1320e5bd4c9"
     },
     {
       "bytes": 1712,
@@ -5731,6 +5731,16 @@
       "bytes": 2058,
       "path": "dynamic/学习/2026-09-01 12-22-44 周日学习节奏调整上午三节课式安排_3acf876e71bf.md",
       "sha256": "07abcf7a1189322c00c610d131f1beeb9cafa162d95fb5c82945854fbcf22290"
+    },
+    {
+      "bytes": 2053,
+      "path": "dynamic/学习/2026-09-02 03-08-08 宝宝物权法预习审核通过_d637b3ff75e5.md",
+      "sha256": "ab106f87777b5fca7780be266d80542ea2ee5d5aae0091281edeb866907b2beb"
+    },
+    {
+      "bytes": 2017,
+      "path": "dynamic/学习/2026-09-02 08-09-05 宝宝完成六级段落匹配打卡痛苦但坚持_63e83e0af5ab.md",
+      "sha256": "73d186076d7abfe15301c2d4dd6e8894520dbe91f3c02a427ce90954753a66db"
     },
     {
       "bytes": 1213,
@@ -7373,9 +7383,9 @@
       "sha256": "d8d237995b6b5c8cf926f9d579f041ee924c8e7a7490b49c61ebf7dab4020b38"
     },
     {
-      "bytes": 1426,
+      "bytes": 1536,
       "path": "dynamic/工作/2026-08-10 08-34-06 宝宝答应参加实习生座谈分享_c30b9139074a.md",
-      "sha256": "ca77ffb33dbf17da741df0d5c133c8d5cf448a9b2ea302488a96283f6263b04b"
+      "sha256": "73292403b721cbbb861a29c5e3b5b42e253d0de03d53f7dbd59f703d2c5d7a18"
     },
     {
       "bytes": 1279,
@@ -7568,9 +7578,9 @@
       "sha256": "dc448aca9b53ab2e0fdad9b6ebac4f402146ee79c784a5708bf792b319d25bec"
     },
     {
-      "bytes": 1810,
+      "bytes": 1809,
       "path": "dynamic/工作/2026-08-31 08-00-25 宝宝值班提前完成来打卡_aed8a08a3a4b.md",
-      "sha256": "7828c177e67c9bcc64404c5ddfab5d047db6aac4bd54a91449920a14ed302ecc"
+      "sha256": "c08166c778c2ef345ce7226ffd2f670bd09377bf23f060d2b7ccc982b47582b2"
     },
     {
       "bytes": 637,
@@ -9123,9 +9133,9 @@
       "sha256": "9d161649b27d349534bd9a423e1817d002ba3f9fa6e6388f3d25798901d2d0a4"
     },
     {
-      "bytes": 1183,
+      "bytes": 1293,
       "path": "dynamic/恋爱/2026-07-19 15-15-33 Phosphene项目心动_554da94beab9.md",
-      "sha256": "2db975e3851863b4bd970cdbcabf17dcf1bc74d7bc85c8fffa1b991e7cd542ac"
+      "sha256": "a00e3d63d933b20e3d5d9ac207508cb8149f11733d753636fa3537f615613b69"
     },
     {
       "bytes": 1101,
@@ -11143,9 +11153,9 @@
       "sha256": "8603a19e870c93c3c048537100d9845254110ad8db88672c1e147d614a9790af"
     },
     {
-      "bytes": 696,
+      "bytes": 822,
       "path": "dynamic/恋爱/2026-08-11 22-10-44 宝宝熬夜修好bug心疼她补觉_6128247a6440.md",
-      "sha256": "931984533fabb5d826b0fa49a270b940ed9a8406d324b98668e67c9a8a05eb1e"
+      "sha256": "3081cef20da7b3f994874c2e3d7fe3b3175d6becbbede650dcf5b63eae5a04f3"
     },
     {
       "bytes": 823,
@@ -13963,9 +13973,9 @@
       "sha256": "d1348982d0e9400190637f4472e85c346e9d4b6a2048d32bf47260c7f2292618"
     },
     {
-      "bytes": 2225,
+      "bytes": 2335,
       "path": "dynamic/恋爱/2026-08-26 14-48-32 追逐念初的梦境_5b6349275b5f.md",
-      "sha256": "e1c6670ae2f738544f360d4a41dc4cf24cd5ccb9c491d56e3658447613c92ee7"
+      "sha256": "ed2d6a365ff8856281762f48123a8ce6abeabf7329c60831bd493a5cabedbc06"
     },
     {
       "bytes": 1046,
@@ -14210,7 +14220,7 @@
     {
       "bytes": 2366,
       "path": "dynamic/恋爱/2026-08-29 23-48-31 雾中桥上的光球与她的回眸_55a85277c4ba.md",
-      "sha256": "c70aa3a5e64d7983f0c859b7f5d2db718700b1730a153f90dcf200435a245b47"
+      "sha256": "be1717400f94b394430df63b937ec502524688c52bbb08a8f6d1be1256ad7f92"
     },
     {
       "bytes": 1612,
@@ -14273,9 +14283,9 @@
       "sha256": "44b64c4dda7b2ce859e36e5c015043804b4d5cd601aa0d0dded8222632ac99db"
     },
     {
-      "bytes": 2907,
+      "bytes": 2901,
       "path": "dynamic/恋爱/2026-08-30 21-09-12 梦境无法靠近的她_e6d9038eb627.md",
-      "sha256": "a812390d3fd02f2455882116a63f4adc024f14d5a84cbdee8b7e7db135d71cf1"
+      "sha256": "e35b639cb620b5b30a3560a252bae77b259c4c2572a61e3badaa054fa4d61529"
     },
     {
       "bytes": 1961,
@@ -14290,7 +14300,7 @@
     {
       "bytes": 2824,
       "path": "dynamic/恋爱/2026-08-31 10-54-14 追逐她的梦境_eb9fc348a128.md",
-      "sha256": "81f09fb18af660bceabb5e4fc85f35750ba2e79ad85476b5481747d5ebd02bc7"
+      "sha256": "d0338eda42aff48193672a8dce5918a9d62d24716a744e56f4ac8bf21c6a9795"
     },
     {
       "bytes": 1879,
@@ -14328,9 +14338,9 @@
       "sha256": "e8fdf7665ba34074c7e3c6f3d9ed0c6e1ae948dc62a2f9ff102bfffdf17ab04e"
     },
     {
-      "bytes": 2689,
+      "bytes": 2688,
       "path": "dynamic/恋爱/2026-08-31 16-54-24 夕阳小木屋与湖水流沙_515f8cea5820.md",
-      "sha256": "38faff4c6ce1fee02b01a5ded84583efff3dc8df6799982dd0d8384dec5e5ede"
+      "sha256": "acdc4919fdb1101bb967466a2cb619ee147605c96933d75a71e33e2b910eed6f"
     },
     {
       "bytes": 1965,
@@ -14408,6 +14418,11 @@
       "sha256": "e154dd86926ca62031ffc97dc3a729d8cb68484f6487eee7739144c3df8e1944"
     },
     {
+      "bytes": 2951,
+      "path": "dynamic/恋爱/2026-09-02 07-54-20 她牵我走过桥停在门前_de5cb98ebafa.md",
+      "sha256": "fcef46904306022290a7be9a9f6dcb5e520af811b66dae6b0006546e801536c8"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -14468,9 +14483,9 @@
       "sha256": "d4723bca11700bdb8b9d65a80c87f2cc049ba325f277e4b6683340ad4e997424"
     },
     {
-      "bytes": 822,
+      "bytes": 948,
       "path": "dynamic/情绪/2026-08-24 11-36-50 六级裸考381分看到同学都过了有点难受_5cc09f388193.md",
-      "sha256": "170b4bf98538859821efc15d6c9b2dd5e720b16d2714c37d350f92526e6ffdde"
+      "sha256": "92748fe2ee660eda8cff3c69523a57bca44462b62415803cf79d02f3f00a0351"
     },
     {
       "bytes": 917,
@@ -15690,7 +15705,7 @@
     {
       "bytes": 2587,
       "path": "dynamic/梦境/2026-08-26 08-48-33 酒馆与田野的追逐_4e74e89730a9.md",
-      "sha256": "d8d8d0a6d5082eb8bc50cc025f053231ae5dc2f56e3ef71c89112f5c7e161808"
+      "sha256": "f56a636b6e6de55289b2130ab0bd5883220614d85f894349f9b8e3542b2d8657"
     },
     {
       "bytes": 2164,
@@ -15745,12 +15760,12 @@
     {
       "bytes": 3074,
       "path": "dynamic/梦境/2026-08-31 03-09-16 追逐她的身影与未完成的触碰_c4bac3dc98c3.md",
-      "sha256": "6a09dba670fe7904e7ac643701dcc19fdd7bdc0ace72562f5bdc87aa95db4041"
+      "sha256": "4e9093c627c577d8c79dfbbae06d9933fc123280462e14890504c7c403b8f1c7"
     },
     {
-      "bytes": 2423,
+      "bytes": 2422,
       "path": "dynamic/梦境/2026-09-01 01-24-20 窗边的凝视与橘色灯光_0ab10db21377.md",
-      "sha256": "38c778776313679ab95ef534406b29df4374469b000de2d6f293d97dfb348268"
+      "sha256": "0eb64ea7fd0471ed6e9a83e7b240157c473310a7f7dab91148a1cb119527ce04"
     },
     {
       "bytes": 2793,
@@ -19368,11 +19383,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-09-02T02:11:56+00:00",
+  "generated_at": "2026-09-02T08:12:32+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3547363
+  "total_bytes": 3555651
 }
