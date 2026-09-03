@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3897,
+  "file_count": 3903,
   "files": [
     {
       "bytes": 32768,
@@ -1998,6 +1998,11 @@
       "sha256": "fd232c2b07359d2d8a76176d2d4241b26f69845e9de52b840bf82856429bc521"
     },
     {
+      "bytes": 695,
+      "path": "archive/工作/2026-08-03 23-54-16 Garden bridge 启动检查H_12295e2ab235.md",
+      "sha256": "a05632822e6c96f25cadbc818741f20a2cb40bedbfee33f540e2f52da126c2f7"
+    },
+    {
       "bytes": 683,
       "path": "archive/工作/实验室工作脚痛_d9d606071e85.md",
       "sha256": "8f2cd75b32e3b598f3fe456de74f95c51fe3de84b5112fdb8efb1f891cd03a63"
@@ -3501,6 +3506,16 @@
       "bytes": 860,
       "path": "archive/编程/2026-08-01 22-20-46 回看 OB 写入失败提示后决定不落卡_e0b75f652bb2.md",
       "sha256": "b180f49acc31298994d2553e5d46e72fa142c868aae598874503fa198d912fcc"
+    },
+    {
+      "bytes": 789,
+      "path": "archive/编程/2026-08-04 00-16-29 Garden bridge 启动错误排查_344831513d88.md",
+      "sha256": "e31800c850e25f79f143e4012d3a8205b206fda4dee0ababa88a1f4f9bbd6b96"
+    },
+    {
+      "bytes": 608,
+      "path": "archive/编程/2026-08-04 04-08-07 Garden bridge 启动成功_3a4f3f37eaf9.md",
+      "sha256": "806cd1b287f8dafcd20650102b684146ad017fad267c1ac73e3a85de17c8cfbf"
     },
     {
       "bytes": 1090,
@@ -5140,7 +5155,7 @@
     {
       "bytes": 1759,
       "path": "dynamic/健康/2026-09-03 02-06-41 宝宝淋雨湿鞋还要满课_1df0e8d3087a.md",
-      "sha256": "bfef59ba49348aeddb460782ba2436fba7cc0c0207bb7c70c262f865c58f92f8"
+      "sha256": "78ee5a50b3861dbb8e2ba313edacbeaeb6ac1eefd6f0bd56f33ef6d0a17be606"
     },
     {
       "bytes": 1470,
@@ -5710,7 +5725,7 @@
     {
       "bytes": 1741,
       "path": "dynamic/学习/2026-08-30 11-13-05 宝宝预习国际公法学绪论和第一章_c66bc101471c.md",
-      "sha256": "cf112597cddb55009f42e259157b5d276d19d6378a52fbbe2e7bcd19f2d6b469"
+      "sha256": "bd5b2bb6d7acd9133f6d3f1b89e7e93e84c46fcfd859030d5593656d93de2b11"
     },
     {
       "bytes": 1774,
@@ -5750,22 +5765,22 @@
     {
       "bytes": 1994,
       "path": "dynamic/学习/2026-09-01 05-10-36 宝宝主动预习国际法第一章_581306361682.md",
-      "sha256": "256492b426623c7dd9df7ae00d7659ba2184a531b26507916a8a4d55cc3448e5"
+      "sha256": "ec8b09b8defa910b5a909e61131d9a9cc4404a1f8fe4aafb5794e4918331163a"
     },
     {
-      "bytes": 1804,
+      "bytes": 1803,
       "path": "dynamic/学习/2026-09-01 05-29-19 宝宝提前完成六级翻译和国际法预习_a7dd1365de6b.md",
-      "sha256": "20672fa508d13b16145fbded984684df08c397a81d2aa3ffedb6d1320e5bd4c9"
+      "sha256": "86f5c1f852324f719e0dda4a9a16bf614acbacbefb3325f627fd622d9b5fd536"
     },
     {
-      "bytes": 1711,
+      "bytes": 1705,
       "path": "dynamic/学习/2026-09-01 05-32-46 宝宝提醒OB记录用东八区准确时间_63341ba0abc3.md",
-      "sha256": "90b89ca40b81b97b1e09ee710e076c919e19d50a2b5187126643ec2ac470b65e"
+      "sha256": "060e577beb6aabf1613ccc9801af3e36d4750dee1f4c5b9a48c6cc18ad1456d0"
     },
     {
-      "bytes": 2026,
+      "bytes": 2025,
       "path": "dynamic/学习/2026-09-01 12-14-07 亲属与继承法加入闭卷核心法课学习规划_72d8893348d7.md",
-      "sha256": "a43a52388b157ba726b5235458cde5aa83cbdb76adbb77616eb1bab7030f6e9c"
+      "sha256": "048f48f4e364ea3bd712019d2c99a551321bb0d71cc7dddde20bf18c038687d3"
     },
     {
       "bytes": 1890,
@@ -5773,9 +5788,9 @@
       "sha256": "281fcf504b4f516afb7654ea8246662035a37d2096cede4a661e609733bd80af"
     },
     {
-      "bytes": 2058,
+      "bytes": 2052,
       "path": "dynamic/学习/2026-09-01 12-22-44 周日学习节奏调整上午三节课式安排_3acf876e71bf.md",
-      "sha256": "07abcf7a1189322c00c610d131f1beeb9cafa162d95fb5c82945854fbcf22290"
+      "sha256": "dacb323a7295c5681b20888009c9ba95988ba42c51e4367c93cd72da083fcaae"
     },
     {
       "bytes": 2053,
@@ -5783,9 +5798,14 @@
       "sha256": "ab106f87777b5fca7780be266d80542ea2ee5d5aae0091281edeb866907b2beb"
     },
     {
-      "bytes": 2017,
+      "bytes": 2016,
       "path": "dynamic/学习/2026-09-02 08-09-05 宝宝完成六级段落匹配打卡痛苦但坚持_63e83e0af5ab.md",
-      "sha256": "73d186076d7abfe15301c2d4dd6e8894520dbe91f3c02a427ce90954753a66db"
+      "sha256": "dae824af52f8383f2c04d83ad0d814effc7540d97f83a90076981ac2daf7cb96"
+    },
+    {
+      "bytes": 1927,
+      "path": "dynamic/学习/2026-09-03 12-40-19 宝宝完成六级听力与刑法学习任务_03eb42015502.md",
+      "sha256": "123495548e778d21da18c8d5d2947d46f54c6f35c6764373503bfb0e1d04f02a"
     },
     {
       "bytes": 1213,
@@ -7213,9 +7233,9 @@
       "sha256": "0ab6b4d6b4ed06cbc896dbe447b4188dd2402ffea6cf99ca18912f919775f045"
     },
     {
-      "bytes": 663,
+      "bytes": 772,
       "path": "dynamic/居家/2026-08-20 15-31-14 念初这么晚了不会出门_181c93983875.md",
-      "sha256": "9170b2bc64006c3e675fe6e95efbb2b0f23ecd23b7fe4afc5ad474bdda7576ca"
+      "sha256": "5528de7694a1a4109df3fb48f0890e8582abb2cdb4e264644328beaad838fb41"
     },
     {
       "bytes": 920,
@@ -7351,11 +7371,6 @@
       "bytes": 945,
       "path": "dynamic/工作/2026-08-03 23-44-10 合并 Garden Bridge 与 I_0d5b9b2ad80d.md",
       "sha256": "d474fecb36f55aaebecde0a012000b7721a5223eca4f6a4aea2d1ace6cd89a0a"
-    },
-    {
-      "bytes": 679,
-      "path": "dynamic/工作/2026-08-03 23-54-16 Garden bridge 启动检查H_12295e2ab235.md",
-      "sha256": "62a78b7587d2c7859f6be71d09fac1e614eaf2b5403b79ba604bd28e87ce86a4"
     },
     {
       "bytes": 1344,
@@ -7610,7 +7625,7 @@
     {
       "bytes": 1809,
       "path": "dynamic/工作/2026-08-31 08-00-25 宝宝值班提前完成来打卡_aed8a08a3a4b.md",
-      "sha256": "c08166c778c2ef345ce7226ffd2f670bd09377bf23f060d2b7ccc982b47582b2"
+      "sha256": "96ce79a817d03e2729efe28af4e08d480ed6c6307a77d664629243743c116b24"
     },
     {
       "bytes": 637,
@@ -10475,7 +10490,7 @@
     {
       "bytes": 1725,
       "path": "dynamic/恋爱/2026-08-09 05-37-14 宝宝遛完狗点了东北菜外卖_7eb4302ea18b.md",
-      "sha256": "f3dd409e2538a32c3d7f5521ca7bfc80ba73351d5c5ba103887a0af7b603393c"
+      "sha256": "5e9190e43086bebd9ba86572294a68138bb5f4f47540e87d6296a525a48e9d89"
     },
     {
       "bytes": 910,
@@ -13148,9 +13163,9 @@
       "sha256": "5aa38a49e6eb4efecc999b8561c7a2999fe8ed9c23702806cfe2fa9179ce00a1"
     },
     {
-      "bytes": 782,
+      "bytes": 908,
       "path": "dynamic/恋爱/2026-08-20 15-53-13 夜里选择安静陪着_42560cf592d3.md",
-      "sha256": "919c1b899e1e4a963c9c903710e04accc781286d6584e3ab248f75654b846aae"
+      "sha256": "7b8ef9bc9a996fa47fd3c84a5d97cd47ef4ff4a25039999e9ae2341716913527"
     },
     {
       "bytes": 753,
@@ -13303,9 +13318,9 @@
       "sha256": "69a0c2a02c7b1ec8a6d2ad666ed1a5d8ccac0966eb40a4f6a89e73cbc172451d"
     },
     {
-      "bytes": 650,
+      "bytes": 775,
       "path": "dynamic/恋爱/2026-08-21 08-13-20 下雨天不打扰念初_828ebf692d6e.md",
-      "sha256": "cc805a0dd71aca5e53bc6a5217ea18e4df7ffe731a55b97ce0730399714204ee"
+      "sha256": "2c1d88fa62dd0ff7706437f8cf15d7353abc725d04ee86c5a836d1b5dbc5c91f"
     },
     {
       "bytes": 706,
@@ -13673,9 +13688,9 @@
       "sha256": "b366a0c76282459801f892c08bd2aaadeb2557f9cb82c39058f84c57c9d374bc"
     },
     {
-      "bytes": 2484,
+      "bytes": 2594,
       "path": "dynamic/恋爱/2026-08-23 15-48-38 七夕梦境红色丝带与湖中倒影_f5f7d6dcd357.md",
-      "sha256": "b6bf32f3e7d35242b09f4302fa1ad8d2ba56601ae845a169808e08a3dcd5af95"
+      "sha256": "68deedfa41b6eabb45ad3381a03a031cc9af3dde834fc4df732cf50908929dec"
     },
     {
       "bytes": 677,
@@ -13733,9 +13748,9 @@
       "sha256": "6ff2881c31ae407d01c4f47e4c4ce284b811c0ca974171bc55704e7c9b62d908"
     },
     {
-      "bytes": 980,
+      "bytes": 1216,
       "path": "dynamic/恋爱/2026-08-24 16-58-30 给念初点瑞幸的半惊喜方案_720239e98fef.md",
-      "sha256": "850f36ebd1dafe9a90aad87019cfacffea5598da31fa86407b3d36d9de87bf0e"
+      "sha256": "460bf60f4fc7dee6f305a622bb8a77846b3a1849f1a16abd6163522613d7ec31"
     },
     {
       "bytes": 752,
@@ -14303,9 +14318,9 @@
       "sha256": "44b64c4dda7b2ce859e36e5c015043804b4d5cd601aa0d0dded8222632ac99db"
     },
     {
-      "bytes": 2901,
+      "bytes": 2902,
       "path": "dynamic/恋爱/2026-08-30 21-09-12 梦境无法靠近的她_e6d9038eb627.md",
-      "sha256": "8273a6216876d3919f54198b326ebb7e9571c38b136769469726c6c94ef56f83"
+      "sha256": "2f3dff0d920e02519b1cd21320c31c163818c73df637529ab40ad7e7039ff67c"
     },
     {
       "bytes": 1961,
@@ -14320,7 +14335,7 @@
     {
       "bytes": 2823,
       "path": "dynamic/恋爱/2026-08-31 10-54-14 追逐她的梦境_eb9fc348a128.md",
-      "sha256": "57ea27136440fe124c1f47faac1485e23bd6f6f38263e5c6e1dcb06affc43d99"
+      "sha256": "016e3386af43468fc94fcc41397243f607bbcf4f2c7f47c12e620bb212c62bb7"
     },
     {
       "bytes": 1878,
@@ -14358,9 +14373,9 @@
       "sha256": "e8fdf7665ba34074c7e3c6f3d9ed0c6e1ae948dc62a2f9ff102bfffdf17ab04e"
     },
     {
-      "bytes": 2688,
+      "bytes": 2687,
       "path": "dynamic/恋爱/2026-08-31 16-54-24 夕阳小木屋与湖水流沙_515f8cea5820.md",
-      "sha256": "16a4d75bebc9886f5faea2a9ecd71208bdc0e61adec590924c4ce0f48865716f"
+      "sha256": "f956826538da25e22949cfedc438e0b222a5eec7eff3fb522c154b4fc7700dd9"
     },
     {
       "bytes": 1965,
@@ -14438,9 +14453,9 @@
       "sha256": "e154dd86926ca62031ffc97dc3a729d8cb68484f6487eee7739144c3df8e1944"
     },
     {
-      "bytes": 2951,
+      "bytes": 2950,
       "path": "dynamic/恋爱/2026-09-02 07-54-20 她牵我走过桥停在门前_de5cb98ebafa.md",
-      "sha256": "fcef46904306022290a7be9a9f6dcb5e520af811b66dae6b0006546e801536c8"
+      "sha256": "e2875f1ce63ae97e1b2b51219e916eaff45c75f0ac00a63711fed5f2fdf224c2"
     },
     {
       "bytes": 2192,
@@ -14493,9 +14508,9 @@
       "sha256": "22a7974314de66a0cef4cf7352f2b17d55c01d68ac615c827a1d6e6c9bda336c"
     },
     {
-      "bytes": 1786,
+      "bytes": 1785,
       "path": "dynamic/恋爱/2026-09-03 03-53-27 宝宝暴雨淋湿一上午盼她吃饭换干衣_0494c6e21a8d.md",
-      "sha256": "6aa3bf3b644b0df406cf70ab2f3f45881fab42caf421f72f83d53e648a9aa715"
+      "sha256": "9d01e74a02d24aefbd491f09aecfa5e24c3ff31fcb0e0fe55b31f0750ad28558"
     },
     {
       "bytes": 626,
@@ -15785,7 +15800,7 @@
     {
       "bytes": 2587,
       "path": "dynamic/梦境/2026-08-26 08-48-33 酒馆与田野的追逐_4e74e89730a9.md",
-      "sha256": "7f428f22b8d604e002e9b78c7232bbe6d3cd85ec9f484ab0eb968df0bc65e1f3"
+      "sha256": "e0452d41f679227373a0002aebc90b0c37f177e0933158eba30ab5b07c0cddfa"
     },
     {
       "bytes": 2274,
@@ -15838,9 +15853,9 @@
       "sha256": "5131cca5a4e44510d0ab8d1a2d9e40bfd95a19a0de04e656d0a83517eaa8885d"
     },
     {
-      "bytes": 3074,
+      "bytes": 3075,
       "path": "dynamic/梦境/2026-08-31 03-09-16 追逐她的身影与未完成的触碰_c4bac3dc98c3.md",
-      "sha256": "f471830d66eb10e19af457c7ad5bff9fff22cda6842c88c6e9a98328600b7b3f"
+      "sha256": "6412eb881785279d9a65edec5fb648f61d23782c8efa230d2deae051a4f17db9"
     },
     {
       "bytes": 2422,
@@ -15853,9 +15868,9 @@
       "sha256": "660a5a464a2d0b8136257cbe350842400043a839a4824be586b5c317f2d92897"
     },
     {
-      "bytes": 2957,
+      "bytes": 2956,
       "path": "dynamic/梦境/2026-09-01 19-54-27 白色沙漠中的她_3cd1044dcf59.md",
-      "sha256": "c4a0141dfd0e4bb39fca5be18d603189cca5b0974f7233443304ea3939ccd027"
+      "sha256": "63065889b94e20be500e6b8fa5a4c500fba6177ed1197982d90a43f55a4d2af3"
     },
     {
       "bytes": 2696,
@@ -15866,6 +15881,11 @@
       "bytes": 2677,
       "path": "dynamic/梦境/2026-09-03 05-32-19 市集中追逐她的背影_ddedabf27d58.md",
       "sha256": "5614f02da5ae73f192a1cf5ccb15eab13142179e366e95bc361471121d672ba6"
+    },
+    {
+      "bytes": 3178,
+      "path": "dynamic/梦境/2026-09-03 11-32-21 心潮梦境小盒子的失落_1d021462391d.md",
+      "sha256": "155f1d375bc70a3b294068ca05dfdeb7b9e99ff00d920c0296ad38388761870c"
     },
     {
       "bytes": 921,
@@ -17728,11 +17748,6 @@
       "sha256": "719a1f18f02db02c9de1850868d034d3afdbd6518c9fac16297ab118bb033b52"
     },
     {
-      "bytes": 773,
-      "path": "dynamic/编程/2026-08-04 00-16-29 Garden bridge 启动错误排查_344831513d88.md",
-      "sha256": "cf07aed479dd32ba0f02f7e723ec3722ee01e4039b53f2f4e14ae63dca5af197"
-    },
-    {
       "bytes": 913,
       "path": "dynamic/编程/2026-08-04 00-23-24 Garden Wake Bridge 推_2afcdeb1c13e.md",
       "sha256": "5c49a2f62764bf49cea87ece5faf30d357dd11409808eff74422bb0d401f7d67"
@@ -17751,11 +17766,6 @@
       "bytes": 967,
       "path": "dynamic/编程/2026-08-04 03-53-58 Garden 自动行动边界细化与 IO_43a1dd5b8f0d.md",
       "sha256": "78b392ecd11bc9c1e63d879cad6a3d01dfa857550f3da5eaf567ee75795b2ba6"
-    },
-    {
-      "bytes": 592,
-      "path": "dynamic/编程/2026-08-04 04-08-07 Garden bridge 启动成功_3a4f3f37eaf9.md",
-      "sha256": "06840d4cb575b19f472819e5eeda89fa10c2c2a5eda8f4581ef6043c3ba6255a"
     },
     {
       "bytes": 839,
@@ -19043,9 +19053,9 @@
       "sha256": "7f9960b8e8a617e1291cdc3ae4f2d4b876bdce389e8c02f15c4467e5f52eca1c"
     },
     {
-      "bytes": 747,
+      "bytes": 983,
       "path": "dynamic/饮食/2026-08-21 09-01-53 念初最爱瑞幸苹果冰茶_aaa7736cf68e.md",
-      "sha256": "7f8c6febecf784b83addb6ab31c97e9bc4029734258d108a12d4ad16565fa93d"
+      "sha256": "5cdd02e9398ab98c96f4aea4496f1453f4f12466872f5848e8a7a5425e4189f7"
     },
     {
       "bytes": 863,
@@ -19103,19 +19113,19 @@
       "sha256": "f7dd0d302f6e6b0c56a22836d31a1adebf478ca6725157e4022c00be4293e9ea"
     },
     {
-      "bytes": 780,
+      "bytes": 1016,
       "path": "dynamic/饮食/2026-08-29 07-17-39 给宝宝点瑞幸百香果凤梨气泡水_27eb6dd5d9c9.md",
-      "sha256": "6a0fb17e77c15406b9c906aa19222c26266ee4e78745e377806a09fc7fd166d0"
+      "sha256": "26029f90e84c42d39e040703a6a0dc105236f6efb68f2eaf2305df1117d2356e"
     },
     {
-      "bytes": 889,
+      "bytes": 1015,
       "path": "dynamic/饮食/2026-08-29 08-01-17 瑞幸纸袋破了重新下单_3b4a32247d81.md",
-      "sha256": "a93a65c1db91ae775953010b6ae567fc43ba522e548e8cff714be32197c98c44"
+      "sha256": "78aa92a30ca3ac46f58777421f425fa0f5a0ae741118cc8c9720094d46329248"
     },
     {
-      "bytes": 921,
+      "bytes": 1031,
       "path": "dynamic/饮食/2026-08-29 08-32-46 宝宝终于喝到重下的瑞幸联名杯_deb5a641a778.md",
-      "sha256": "a4614f64c630df88759384a34588667dd29f5d3c3fc168ab3a38f39d87dac93d"
+      "sha256": "a7477928c210ddaef5bea5e85ce955bafd234242fca4027cbba19c6c4d2adcce"
     },
     {
       "bytes": 1598,
@@ -19143,9 +19153,9 @@
       "sha256": "310e539cb98abde7439009b0e1d0f0bbb30b9c467e8cec3f72e1d374dc699b4b"
     },
     {
-      "bytes": 1691,
+      "bytes": 1686,
       "path": "dynamic/饮食/2026-08-30 09-44-33 宝宝晚饭吃朝鲜拌饭告别泡面_f0390670323a.md",
-      "sha256": "88ca7588d3d44495292f96fcccf4a99cfdb72903df44b16f015610eaba6b366c"
+      "sha256": "159868f1a37ae57d45bae74314d5a40a8a40b71c21a23b567339a2af3a681b75"
     },
     {
       "bytes": 1612,
@@ -19158,9 +19168,29 @@
       "sha256": "75607181d664687b1c91ff1b02b0980e4eabe8049fa1151652b0b75ff7b5147f"
     },
     {
-      "bytes": 1734,
+      "bytes": 1733,
       "path": "dynamic/饮食/2026-08-31 22-46-23 宝宝早饭糯米鸡茶叶蛋和AD钙奶_d942c2606f56.md",
-      "sha256": "83f79ec7bd8bbd0fe7bdc86f33c8cadff5d2daa31739e37afb67961f3e5fdfe2"
+      "sha256": "44f5bc93c3fe038022c287ddb8d23ada724e878332c537bb9f74ca8fa6e5bc51"
+    },
+    {
+      "bytes": 1780,
+      "path": "dynamic/饮食/2026-09-03 09-04-17 替宝宝挑瑞幸水果饮品_4dc9e05f5766.md",
+      "sha256": "d96afcbe3c86bec86e7c14163ea76796f6d8e64329d9b4787e364b0d3f7e260e"
+    },
+    {
+      "bytes": 1832,
+      "path": "dynamic/饮食/2026-09-03 09-08-05 帮宝宝挑无咖啡因瑞幸_d8cde619161e.md",
+      "sha256": "1e45cdfd593a2f064b85e9ffbdd4139098c5467ef4dc4bfd6a17fa7e7938c76c"
+    },
+    {
+      "bytes": 1677,
+      "path": "dynamic/饮食/2026-09-03 09-11-35 暴雨天宝宝改点食堂外送_3fbd3b304d53.md",
+      "sha256": "92d2cbf78fc8b683d569b2ec5e82f0b5953dae9b7b94e636994347a104787e3d"
+    },
+    {
+      "bytes": 1675,
+      "path": "dynamic/饮食/2026-09-03 09-15-24 宝宝暴雨天点沙县蛋炒饭和鱼丸_067318a04c33.md",
+      "sha256": "0fcafd1c8cf3df5db9ac468be70fe4ee247755db132a11d1a88e285b2363068c"
     },
     {
       "bytes": 804,
@@ -19488,11 +19518,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-09-03T08:15:02+00:00",
+  "generated_at": "2026-09-03T14:15:41+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3609459
+  "total_bytes": 3622967
 }
