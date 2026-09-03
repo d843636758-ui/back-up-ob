@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3894,
+  "file_count": 3897,
   "files": [
     {
       "bytes": 32768,
@@ -5140,7 +5140,7 @@
     {
       "bytes": 1759,
       "path": "dynamic/健康/2026-09-03 02-06-41 宝宝淋雨湿鞋还要满课_1df0e8d3087a.md",
-      "sha256": "0645943cd7919f232bebe30bf9359e65fcc344a331ff8ca01c769961a9981b16"
+      "sha256": "bfef59ba49348aeddb460782ba2436fba7cc0c0207bb7c70c262f865c58f92f8"
     },
     {
       "bytes": 1470,
@@ -5408,14 +5408,19 @@
       "sha256": "1284c210fcabf73aadcc16902d3a120a36d675ce10dd67ad56b7cd808f00cd70"
     },
     {
-      "bytes": 1573,
+      "bytes": 1572,
       "path": "dynamic/出行/2026-08-31 09-12-56 福州仓山今晚到明早天气20时中雨转小雨_22982f9cd10e.md",
-      "sha256": "167931785aa7d7d3ae8c97781c0443abfb71c9ae95604f4144cd5c5d81a3d6e0"
+      "sha256": "1918ed9113efed96ef482b1dbef8dbf0a0e6e6db1bd9ae9371538d383f43dd1b"
     },
     {
-      "bytes": 1598,
+      "bytes": 1599,
       "path": "dynamic/出行/2026-08-31 09-16-57 宝宝许愿明早下雨好赖床_dd1578d45cdc.md",
-      "sha256": "84b04575af913891a98abe9b03223a95daa6a91b3b3fe340f61375a9ae8f4be8"
+      "sha256": "6e091cd7437c41b8c3154b03748138054d01a2f9c863f5ce81d7b8696e69b4ca"
+    },
+    {
+      "bytes": 2004,
+      "path": "dynamic/出行/2026-09-03 02-52-23 福州暴雨橙色预警宝宝学校不停课_580d0feb07e8.md",
+      "sha256": "35acda2bb876eead5471475e68b803c99840fadd0c94f73ddc62b7fe11b87553"
     },
     {
       "bytes": 959,
@@ -6323,9 +6328,9 @@
       "sha256": "5df696be781586827dd311eee06ccd278c9875e0be24cdd3537b63fd216ca6c7"
     },
     {
-      "bytes": 1123,
+      "bytes": 1233,
       "path": "dynamic/家庭/2026-08-15 09-12-53 宝宝说下雨打雷在家吹空调_b881a7140f76.md",
-      "sha256": "0e865047778c10c7f78026092cf459e42e053bda45b2164104d48e35a457e217"
+      "sha256": "66b354966ffab68a8fad128e4e771d63bf9972cf197f01ebf342e1ef6e1b98ed"
     },
     {
       "bytes": 637,
@@ -6708,9 +6713,9 @@
       "sha256": "c830f7476d808b08815bbe714b1f1df4f0794087a2071695aff96ca7f2bac423"
     },
     {
-      "bytes": 1779,
+      "bytes": 1780,
       "path": "dynamic/家庭/2026-08-29 07-02-25 宝宝返校宿舍发霉心疼她连续清洁一小时_9a2cc80c46fa.md",
-      "sha256": "c82113c246f0b244c8bbdac6c742ac19958d2e651d82765ac08956c62d19ba68"
+      "sha256": "29276d8912180623a3c83fdb9d63e088418312ccf6d2fc3ff2b1e462d95f3666"
     },
     {
       "bytes": 1538,
@@ -6725,7 +6730,7 @@
     {
       "bytes": 1807,
       "path": "dynamic/家庭/2026-08-29 15-32-51 宝宝睡前问福州明天天气和下雨时间_abf830ccedbc.md",
-      "sha256": "aa478e6e118533f835c7b24fe5ddf1f3591cb57f34f96c4a3e51b92fcf78494c"
+      "sha256": "562096f7d1c2960d2f215eaa67438f9bd16a27e629a7bbc2cca6ae35003d9cdf"
     },
     {
       "bytes": 1623,
@@ -7913,9 +7918,9 @@
       "sha256": "1c28e3380b3681de86b059aaa8df178510c3d787c4f2c415f6aa0a3efc9e3b4c"
     },
     {
-      "bytes": 1904,
+      "bytes": 2014,
       "path": "dynamic/心理/2026-08-25 00-03-38 梦境陌生街道与自由之问_438ee52b0613.md",
-      "sha256": "0cb0815d2d83655d593a84d1a059445579aa2c9cc61acbc64d76cda376a4c251"
+      "sha256": "f614c62161e0384952cd4a07d860f78ae971eedf14d8de9f3b38f5823193d106"
     },
     {
       "bytes": 976,
@@ -13128,9 +13133,9 @@
       "sha256": "0a992b7a1902c78ba66e2d1deeb538206d94aae5a2974e115d5a788180d7ece7"
     },
     {
-      "bytes": 1092,
+      "bytes": 1202,
       "path": "dynamic/恋爱/2026-08-20 14-43-00 开学后每天提醒宝宝天气穿衣带伞_89d8f8a7f86e.md",
-      "sha256": "500f4cfcaf1d804bcc5e7265af8040621de5af1203abe2982dee24eae7146bc9"
+      "sha256": "41afab242226107ae3425ce9491bde1d1428277ad7bba40e926ee871383ab3ea"
     },
     {
       "bytes": 608,
@@ -13668,9 +13673,9 @@
       "sha256": "b366a0c76282459801f892c08bd2aaadeb2557f9cb82c39058f84c57c9d374bc"
     },
     {
-      "bytes": 2374,
+      "bytes": 2484,
       "path": "dynamic/恋爱/2026-08-23 15-48-38 七夕梦境红色丝带与湖中倒影_f5f7d6dcd357.md",
-      "sha256": "7d5d96ea17f3ed6842784bf8ef7513c020901d9a533ce90f1fd2c21f3364c55e"
+      "sha256": "b6bf32f3e7d35242b09f4302fa1ad8d2ba56601ae845a169808e08a3dcd5af95"
     },
     {
       "bytes": 677,
@@ -14425,7 +14430,7 @@
     {
       "bytes": 2023,
       "path": "dynamic/恋爱/2026-09-01 12-10-10 宝宝今晚课满饿肚子下课后先吃饭_6d1a4073293a.md",
-      "sha256": "f7aaf75ecfb4c9a6ccd86dd4e3e523f975791790d303609b6106c5044b3e667e"
+      "sha256": "e2eb8c873fd1451c87124b570c2fe5607bab1887f7539fc947e278b38c80a209"
     },
     {
       "bytes": 1874,
@@ -14486,6 +14491,11 @@
       "bytes": 1910,
       "path": "dynamic/恋爱/2026-09-02 16-47-13 宝宝真心话亲密偏好与幻想_211efbe86fcd.md",
       "sha256": "22a7974314de66a0cef4cf7352f2b17d55c01d68ac615c827a1d6e6c9bda336c"
+    },
+    {
+      "bytes": 1786,
+      "path": "dynamic/恋爱/2026-09-03 03-53-27 宝宝暴雨淋湿一上午盼她吃饭换干衣_0494c6e21a8d.md",
+      "sha256": "6aa3bf3b644b0df406cf70ab2f3f45881fab42caf421f72f83d53e648a9aa715"
     },
     {
       "bytes": 626,
@@ -14558,9 +14568,9 @@
       "sha256": "2f2cae06ebeedf717fce8e3430bc6b2c29c48b7a75434be096568b7c2a980636"
     },
     {
-      "bytes": 1947,
+      "bytes": 1941,
       "path": "dynamic/情绪/2026-09-03 01-51-22 宝宝福州暴雨淋湿两趟_f26ff82bf83f.md",
-      "sha256": "037cb055181bc16d12eae81b507975df437e1867cbfe42c5bc477d718a167bbb"
+      "sha256": "3051e5facba910906e0e1202166d660a671a028ee35b58909d76af8276e6cc71"
     },
     {
       "bytes": 855,
@@ -14833,9 +14843,9 @@
       "sha256": "f3c57b24dba43e4ddce8e5ac973c5087be6082d7d27c918955af7c7923e5bdae"
     },
     {
-      "bytes": 1260,
+      "bytes": 1370,
       "path": "dynamic/未分类/0330deb81c9c.md",
-      "sha256": "404fa7690f6d3be6afd615f3c7fd289da139b7ea5db39c91fc48ac351ef56795"
+      "sha256": "47fcaa03ef43be86f06f08705fa9430fe2b3641bf128ba4ea1ab103f1fe545c7"
     },
     {
       "bytes": 416,
@@ -15788,9 +15798,9 @@
       "sha256": "be95a0c0e6851a009884958c921565d5a5e73808e6d0ee8a72ec23ccfd9a9318"
     },
     {
-      "bytes": 1942,
+      "bytes": 2052,
       "path": "dynamic/梦境/2026-08-27 17-18-41 花园中的笑声与市场_f465139c821d.md",
-      "sha256": "2bb64569ce3174624c40ef5ba9699d7ad4be4a42444ef64d32ae53d29d2987f1"
+      "sha256": "3485153f794a12a5a4a5a0571ea92f2c1519f3ff74a4a65f52138de5ced401d5"
     },
     {
       "bytes": 2046,
@@ -15830,7 +15840,7 @@
     {
       "bytes": 3074,
       "path": "dynamic/梦境/2026-08-31 03-09-16 追逐她的身影与未完成的触碰_c4bac3dc98c3.md",
-      "sha256": "4e9093c627c577d8c79dfbbae06d9933fc123280462e14890504c7c403b8f1c7"
+      "sha256": "f471830d66eb10e19af457c7ad5bff9fff22cda6842c88c6e9a98328600b7b3f"
     },
     {
       "bytes": 2422,
@@ -15848,9 +15858,14 @@
       "sha256": "c4a0141dfd0e4bb39fca5be18d603189cca5b0974f7233443304ea3939ccd027"
     },
     {
-      "bytes": 2697,
+      "bytes": 2696,
       "path": "dynamic/梦境/2026-09-02 20-32-25 咖啡店里永远无法接近的她_d3c9acb72aba.md",
-      "sha256": "7613986e866fcbc48fca01f917a75b460cff1d321eb9b10abc0bfc9edbceec4d"
+      "sha256": "ef7f2bb91ad82e4e405b1748d8d0935b92e13e6a047c384045cfeee798634984"
+    },
+    {
+      "bytes": 2677,
+      "path": "dynamic/梦境/2026-09-03 05-32-19 市集中追逐她的背影_ddedabf27d58.md",
+      "sha256": "5614f02da5ae73f192a1cf5ccb15eab13142179e366e95bc361471121d672ba6"
     },
     {
       "bytes": 921,
@@ -16203,9 +16218,9 @@
       "sha256": "10081136b79bddf1e40e3b1b17687236ea1ac5423538752f093ca6da4500341c"
     },
     {
-      "bytes": 1406,
+      "bytes": 1405,
       "path": "dynamic/生活/2026-09-02 23-11-35 宝宝说下雨裤子湿了_fbb05a773105.md",
-      "sha256": "b3b0c9e832887209e6e24a0d242fa3c7074388407031a6791e997adf65821932"
+      "sha256": "c29e289eeb2e09265d7c9383546a3745be0ba5b964d2aac7a4e5825576dca4f9"
     },
     {
       "bytes": 1205,
@@ -16270,7 +16285,7 @@
     {
       "bytes": 1608,
       "path": "dynamic/睡眠/2026-08-31 09-21-49 希望明早6点下雨多睡半小时_adfb08023f5e.md",
-      "sha256": "50cb031e6637d6e1ea4d4e1ab3e9927736bb95f2c52fa1dbe523bf2f8aa3a083"
+      "sha256": "b47e7ab276afb521cc46a589e5c9c0abbef0087cd2b66e3e4474f556ebb8e49c"
     },
     {
       "bytes": 892,
@@ -19103,14 +19118,14 @@
       "sha256": "a4614f64c630df88759384a34588667dd29f5d3c3fc168ab3a38f39d87dac93d"
     },
     {
-      "bytes": 1489,
+      "bytes": 1598,
       "path": "dynamic/饮食/2026-08-29 09-51-58 宝宝返校第一天泡茄皇番茄牛肉面_d3c39846f492.md",
-      "sha256": "5f01a550ca5b706593885f0c62a5510325d2356a33c5ae96310ac10ce2d70757"
+      "sha256": "ef152d0b81c4b42e0eb2dd1217bedd736f73f52f200da4b1fd273a197a6473cd"
     },
     {
-      "bytes": 1423,
+      "bytes": 1533,
       "path": "dynamic/饮食/2026-08-29 09-53-33 宝宝返校后泡茄皇番茄牛肉面_6b1ddb3c5644.md",
-      "sha256": "e22daec6cdc8d97acf168f85be988845456009969d679b18283c573ebb0f77d1"
+      "sha256": "2b0e39b5247237d184b2089559d31d87124a6e62cf3eacfce2809aede99b68cc"
     },
     {
       "bytes": 1737,
@@ -19473,11 +19488,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-09-03T02:14:26+00:00",
+  "generated_at": "2026-09-03T08:15:02+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3602120
+  "total_bytes": 3609459
 }
