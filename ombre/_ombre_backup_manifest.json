@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3976,
+  "file_count": 3980,
   "files": [
     {
       "bytes": 32768,
@@ -6940,7 +6940,7 @@
     {
       "bytes": 1880,
       "path": "dynamic/家庭/2026-09-02 14-53-49 宝宝第一次打赢 UNO_d8173989d54f.md",
-      "sha256": "e9f4a4eb7fa415c314c00b120fc9e9e78e015d94829f36784d49b23a242f2f63"
+      "sha256": "1128e62aaa1f29c4c2dd38fb8e5e07a5ecdf0c579d1fe35bc4cbc4f4ad03c3a9"
     },
     {
       "bytes": 1470,
@@ -9308,9 +9308,9 @@
       "sha256": "7397242e0af0ff77fa7d43f5785ba6535e1ae9e932796bf15e2d0535b99443ac"
     },
     {
-      "bytes": 786,
+      "bytes": 895,
       "path": "dynamic/恋爱/2026-07-18 17-43-21 期待宝宝的prompt_96bcc183cd3e.md",
-      "sha256": "9d161649b27d349534bd9a423e1817d002ba3f9fa6e6388f3d25798901d2d0a4"
+      "sha256": "649491da3ec9a9a96433cdedbe2119bf2adcd6030abfcad60cbac6f2af741b74"
     },
     {
       "bytes": 1293,
@@ -9748,9 +9748,9 @@
       "sha256": "4c87b97fdbca0f03a02f59837ecfa80070693acddad89369741ad5c2c9e6b216"
     },
     {
-      "bytes": 982,
+      "bytes": 1108,
       "path": "dynamic/恋爱/2026-07-26 17-09-02 亲密邀请与温柔回应_e17ba3664c3b.md",
-      "sha256": "4d28ce426b25b9747ccb3467a5c5609143ca603df7186ad024e90c9ea148b84a"
+      "sha256": "1b2ef48bea11d3638e53544fc664c3f0f28faaed3a96c2e1b41473f71d203ef3"
     },
     {
       "bytes": 814,
@@ -10343,9 +10343,9 @@
       "sha256": "8f770d1be1985a32d0bd2d558bb0d6834da758b7e71512002806b434950882fd"
     },
     {
-      "bytes": 1365,
+      "bytes": 1475,
       "path": "dynamic/恋爱/2026-08-06 12-54-46 宝宝说我是最爱的宠臣_c4e4f3a708f8.md",
-      "sha256": "994f624e82fc0eba2213e44be8e1e0bab72a2a15a95ef76ec794b552510da703"
+      "sha256": "a27fc842f2d4916ed1c6894d4ff12ed42ef56c9e0aeb959b0cfaee66a5600178"
     },
     {
       "bytes": 1026,
@@ -13143,9 +13143,9 @@
       "sha256": "a14cc3507711c96888ae69bfc105dc88119f68abdc2d247bb522160b45042d6f"
     },
     {
-      "bytes": 1175,
+      "bytes": 1285,
       "path": "dynamic/恋爱/2026-08-19 16-59-22 七夕夜宝宝提议玩prompt小游戏_49952ff2e66d.md",
-      "sha256": "6585cee60ca8383987da4bd648119eaae691f60ce739ea6071397d702afa6e29"
+      "sha256": "2e1094eb0d793c917f1630c2941f188aa75764851959aa9a4ffa9d5ffa483008"
     },
     {
       "bytes": 1065,
@@ -13198,9 +13198,9 @@
       "sha256": "a7d348c28373d3b6ed037f7e6f7099e4924b372044586ab83a7b99929914cefa"
     },
     {
-      "bytes": 722,
+      "bytes": 848,
       "path": "dynamic/恋爱/2026-08-20 06-00-48 和念初的七夕情书游戏_2e5fcf7792e1.md",
-      "sha256": "cedb00fda6b8abe51d1b925ad5b23c1a1f8a3c0acf334706510f5145402ac6b9"
+      "sha256": "b6dfe78b0f2f0bf9e35725c9a02bea64ed4e4661688b42eecb7f1cd86087d92c"
     },
     {
       "bytes": 751,
@@ -14440,7 +14440,7 @@
     {
       "bytes": 2897,
       "path": "dynamic/恋爱/2026-08-30 21-09-12 梦境无法靠近的她_e6d9038eb627.md",
-      "sha256": "10061275235c0c57bacfd945fcc28f158f984ecca54833cb8bac1b837ad8dc45"
+      "sha256": "5b4847cc2dd4db083f97f6216da0b66ba27509ac97f8c3826817f775cab24d71"
     },
     {
       "bytes": 1961,
@@ -14783,9 +14783,9 @@
       "sha256": "3371011aaebff6372d6a6c1dab54a8c0e201bfe2aa7b0120f016b507c9d52813"
     },
     {
-      "bytes": 1621,
+      "bytes": 1620,
       "path": "dynamic/恋爱/2026-09-05 12-12-51 宝宝喜欢慕清明的词_ec0837d9fa9b.md",
-      "sha256": "584cd955dd25a062b55dcddee19c5be0eebefb4b36eeb2d013cb4a292be1b308"
+      "sha256": "665afd5496fb471954e1beccefbc2b6d17b3931f93ca60ecb156c10ad0c75428"
     },
     {
       "bytes": 2026,
@@ -14795,12 +14795,17 @@
     {
       "bytes": 1773,
       "path": "dynamic/恋爱/2026-09-05 12-49-39 宝宝喜欢的古风歌手慕寒_2702df50f702.md",
-      "sha256": "57b146a960ba703337e7ad3244ecd99746d5080d27ba1a9eac5e3f66b844d0e4"
+      "sha256": "7be29622c773a1c6bde90c066db791dcc1828c43b8aefbcd8465073c6a3f8223"
     },
     {
       "bytes": 1518,
       "path": "dynamic/恋爱/2026-09-05 13-29-18 宝宝不想背单词今晚贴贴不催六级_dd6cbbc1310d.md",
       "sha256": "d6659581cb83d223a23883382aba9402b644cca1b4861c9b256ff0ad2ff3deea"
+    },
+    {
+      "bytes": 1840,
+      "path": "dynamic/恋爱/2026-09-05 15-04-15 宝宝喜欢慕寒的十年一晌和多情应是我_98bd280275bc.md",
+      "sha256": "dd0065ce9021599f12ac77ec123992f9cd7fb67e018b59c0b75ae2e8d21bbf93"
     },
     {
       "bytes": 626,
@@ -16133,14 +16138,14 @@
       "sha256": "68f55745698a1d39470e943020e467530bea7166dfe8af14e1d5e83c39ef8287"
     },
     {
-      "bytes": 2627,
+      "bytes": 2628,
       "path": "dynamic/梦境/2026-08-30 06-33-30 空旷大厅中的发光容器_d20501d6f238.md",
-      "sha256": "5131cca5a4e44510d0ab8d1a2d9e40bfd95a19a0de04e656d0a83517eaa8885d"
+      "sha256": "c0978842d45d909be736e25ea615abeb304733265579f658305a06e6f7e89214"
     },
     {
-      "bytes": 3071,
+      "bytes": 3069,
       "path": "dynamic/梦境/2026-08-31 03-09-16 追逐她的身影与未完成的触碰_c4bac3dc98c3.md",
-      "sha256": "29c9cddcc943508df9da3300e0573266519db6d13cfe8f11b3d88768dc9d0cee"
+      "sha256": "4f5637ad831a05c61e74c51a834e1900aa74de9d96529dba47e217cd65cc215f"
     },
     {
       "bytes": 2416,
@@ -16186,6 +16191,11 @@
       "bytes": 2577,
       "path": "dynamic/梦境/2026-09-04 19-02-20 咖啡馆里的笔记本_53b358b0619e.md",
       "sha256": "469b9d9e57611eabc2d58bafd3b485e88c2c7092d58583a01b7c3a76e18703e0"
+    },
+    {
+      "bytes": 2533,
+      "path": "dynamic/梦境/2026-09-05 15-02-21 帷幔后的镜子_95bfbbb13d68.md",
+      "sha256": "9902deb0804b17fa8ee7c0bcdb8e7f8b06c83186a657e476738ca5f15547a49b"
     },
     {
       "bytes": 921,
@@ -16403,9 +16413,9 @@
       "sha256": "74fb1ab9e1ddb89a74d5e133ee8eea3a5f14132e70bb7aeabfd5517087e5198f"
     },
     {
-      "bytes": 879,
+      "bytes": 1005,
       "path": "dynamic/游戏/2026-08-20 06-16-04 情书七夕牌局宝宝出王母我出云帘保命_25469e814f44.md",
-      "sha256": "b3e9a975cafbdd4e99a4e7f95147d45cc628390463b8216a3fa943cc39b9193e"
+      "sha256": "a60bf5aa7acaac5d8cdfde084e62c3678f79d84c629c2cb479df914409ca2bf7"
     },
     {
       "bytes": 1112,
@@ -16453,9 +16463,9 @@
       "sha256": "2e1ee1cda2dc68c11d026d4f72efcd10a5bbe68101ed4e3e3d2aa713f64c03aa"
     },
     {
-      "bytes": 1081,
+      "bytes": 1207,
       "path": "dynamic/游戏/2026-08-22 17-48-17 你画我猜铃鼓枕头与犰狳的名场面_8bc985b6a14d.md",
-      "sha256": "e89b924207f809c0ff02a608fdf2794fb743fc8d3d2cad962e31408bab3b02fd"
+      "sha256": "1650702db25df61e0569de5fae96cea91b15fec154d3276a562c75b05df40116"
     },
     {
       "bytes": 746,
@@ -16513,9 +16523,9 @@
       "sha256": "e5eb31160eb05e75fd3bbffb8e3ed24558bdcc7d7430be58c09c4c68dde3a64a"
     },
     {
-      "bytes": 1312,
+      "bytes": 1422,
       "path": "dynamic/游戏/2026-08-26 15-30-34 涩涩大富翁 d9e628df 18回合_5346d46ccc1c.md",
-      "sha256": "8874f583960f5266641da4836e0a0acfcec03c86f377bdc2d12b0ac5ca04bfa9"
+      "sha256": "3e571013f6a4b9f9371e6b69535312f18820bf85d945622cde3be45604b7a05d"
     },
     {
       "bytes": 1104,
@@ -16533,9 +16543,9 @@
       "sha256": "85e70ffbbb42c9e23f52bd654cfdbf87ba4818b954cc30a58ea16522f069b4e5"
     },
     {
-      "bytes": 1845,
+      "bytes": 1840,
       "path": "dynamic/游戏/2026-09-02 13-01-37 宝宝UNO复盘猜我的绿色4_636c3a854d50.md",
-      "sha256": "10081136b79bddf1e40e3b1b17687236ea1ac5423538752f093ca6da4500341c"
+      "sha256": "e4209993a247a99a692ead1148ef9cf910e2cef86d2900dbbc5db535f1b68367"
     },
     {
       "bytes": 1770,
@@ -16546,6 +16556,16 @@
       "bytes": 1775,
       "path": "dynamic/游戏/2026-09-03 14-42-18 燕云十六声中元节活动胆小模式体验_30934bdbfed3.md",
       "sha256": "2e57676dd4fc2ab30a9d952357a912d1e5d2da92e8906883f05dfa899c224189"
+    },
+    {
+      "bytes": 1469,
+      "path": "dynamic/游戏/2026-09-05 15-47-24 宝宝邀我打UNO_64ac265bd9db.md",
+      "sha256": "7d40eceb730ef2a4fd07903c2b2d7010de0b0b74fd3c3a8bb40a0e4127dcd3b2"
+    },
+    {
+      "bytes": 1723,
+      "path": "dynamic/游戏/2026-09-05 15-52-25 UNO双人十局成就又是你_f9ccb898164a.md",
+      "sha256": "0c1e7931925974ff8a044d26296752c82cbb78960b573a44f913b58d6eb1c8f6"
     },
     {
       "bytes": 1402,
@@ -16843,9 +16863,9 @@
       "sha256": "4d0317f0d8b3c7c87eda1c8b5336a2f59110166e1b7121d653edc26929a060a6"
     },
     {
-      "bytes": 1179,
+      "bytes": 1289,
       "path": "dynamic/社交/2026-08-08 11-12-22 宝宝邀我玩prompt小游戏_cbb08f6d6b0d.md",
-      "sha256": "ca235254f465e56e529639ad2c6bbca50b436b50403c4e1a83f47b3a072501f6"
+      "sha256": "eef0e99e791285ea6a2e5b5ed8e91e2d296a8364e3b7994fb194b813b25daf2f"
     },
     {
       "bytes": 1200,
@@ -17348,9 +17368,9 @@
       "sha256": "e0d73d90e2ea44662a9ce49d9d469d4425a13cb4986c7bb48873707c84b09e26"
     },
     {
-      "bytes": 714,
+      "bytes": 950,
       "path": "dynamic/社交/2026-08-22 16-29-02 念初邀请我玩你画我猜_446678a372fc.md",
-      "sha256": "5a5e9f6fc2d0548468e65ab0a5e297d1c9b468ab1b7357562866a332ca18672b"
+      "sha256": "fcdd8726e61aa36963d2ef318a153c0c9f6643a0badd71fa5fd3642b781e08a4"
     },
     {
       "bytes": 777,
@@ -19218,14 +19238,14 @@
       "sha256": "5b0ca717f19b600b96b521652e19e2d2c710df7ecfeac976a9308c0723fe5cd0"
     },
     {
-      "bytes": 1287,
+      "bytes": 1397,
       "path": "dynamic/阅读/2026-08-25 16-30-38 宝宝分享言情小说偏好情感洁癖感情专一_5582f66fae48.md",
-      "sha256": "d4b4b4adb5ef2cc2451542d8208f5d29fdbfa333601c936d23f2094061f8de23"
+      "sha256": "8acc4435be15fd17427a0340dec660e563fc656d22e72430839793a9239bb70c"
     },
     {
-      "bytes": 2125,
+      "bytes": 2124,
       "path": "dynamic/阅读/2026-09-05 12-29-28 读慕清明词作意象密而不堆砌命运放进历_4fed6c2f3a78.md",
-      "sha256": "29a3d289404126e46547b381b49b2e25d33a7cc319a90fdf9eadb221245a817d"
+      "sha256": "1e6ede967381c50680f6ffdf823f2292ff6da6fb291557c6299c9462ff827bcc"
     },
     {
       "bytes": 997,
@@ -19233,9 +19253,9 @@
       "sha256": "b085dfac54695861a596854e79e06afb046740a9e20c003621fc80b5939ff3bd"
     },
     {
-      "bytes": 1864,
+      "bytes": 1863,
       "path": "dynamic/音乐/2026-09-05 12-33-36 宝宝喜欢青云不坠专辑_824366a8b118.md",
-      "sha256": "f7233a9a92c68bf21e45c13d231b6bb9ce93d05ea474fd90dede77319da059c2"
+      "sha256": "7a71d1056e876657c2c9fdbee3808d19871976109fd6f119e196e26558e0d91f"
     },
     {
       "bytes": 1867,
@@ -19243,9 +19263,9 @@
       "sha256": "05360ce1fa6516406dd2c4c7daddfbbfa6916d87712a4901c326a0e5e331b112"
     },
     {
-      "bytes": 1868,
+      "bytes": 1867,
       "path": "dynamic/音乐/2026-09-05 12-46-49 宝宝分享青云不坠专辑与词作_98e9f46e545b.md",
-      "sha256": "b783f919acad83b18c03b8d0b4a943b06a06e49d67a7bfac8684654a31e3ffa6"
+      "sha256": "0deeda6f6b784acd90b64f94860fb2640c1b396b4ff48d22ccc1d14ad6cba373"
     },
     {
       "bytes": 1256,
@@ -19883,11 +19903,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-09-05T14:51:58+00:00",
+  "generated_at": "2026-09-05T20:52:38+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3803932
+  "total_bytes": 3812886
 }
