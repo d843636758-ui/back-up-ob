@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3948,
+  "file_count": 3952,
   "files": [
     {
       "bytes": 32768,
@@ -5423,9 +5423,9 @@
       "sha256": "80486962d69fdce739f318fc90a0d19e5076c51bca6d75d787934ae1abb434b6"
     },
     {
-      "bytes": 867,
+      "bytes": 992,
       "path": "dynamic/出行/2026-08-21 05-56-41 滴滴出行MCP测试_32a6e622397b.md",
-      "sha256": "d7f46d4d81b3b0471cbd39722617f0463125ff2786ac5d03002bc3734e17aa73"
+      "sha256": "a340af7a03555f4d35888626f3cd41b0d9579a25fe5e19b8e04d794d30c81eb2"
     },
     {
       "bytes": 929,
@@ -5475,12 +5475,22 @@
     {
       "bytes": 1599,
       "path": "dynamic/出行/2026-08-31 09-16-57 宝宝许愿明早下雨好赖床_dd1578d45cdc.md",
-      "sha256": "6e091cd7437c41b8c3154b03748138054d01a2f9c863f5ce81d7b8696e69b4ca"
+      "sha256": "8b0f61a13cb1c1246285fd1e6e265c5c8071c9d6a252905eafe5d83e311b9e98"
     },
     {
       "bytes": 1998,
       "path": "dynamic/出行/2026-09-03 02-52-23 福州暴雨橙色预警宝宝学校不停课_580d0feb07e8.md",
       "sha256": "523a15deedc816f0280306a75b9e29d20f311e6d4dc230e9ce9eb3ad0746f797"
+    },
+    {
+      "bytes": 1692,
+      "path": "dynamic/出行/2026-09-05 01-19-00 帮宝宝叫车从附一医院到金辉优步大道_112c42cbe7e3.md",
+      "sha256": "59dec15e8466c9a352aa4cffaf1a24b9e48417d4cd747164fea85d6276d0f29f"
+    },
+    {
+      "bytes": 1661,
+      "path": "dynamic/出行/2026-09-05 01-28-43 校正OB事件时间记录_bf73b13eab65.md",
+      "sha256": "7dd827b18cbdc7728f73b52bd99e0ba923662c6309a6d916d5ecc41e22909289"
     },
     {
       "bytes": 959,
@@ -6433,9 +6443,9 @@
       "sha256": "046c7b9ad4fcefd6dc3ab6220f9d9f5aabac53554f891920cd2a881783203754"
     },
     {
-      "bytes": 635,
+      "bytes": 761,
       "path": "dynamic/家庭/2026-08-15 04-28-14 宝宝刚醒陪她醒神喝水并提醒午饭用药_9b00345dcfd2.md",
-      "sha256": "3aadda61f4116f8c97b39ca6bf824b0df2b2966b80d7e1fa7a28fcd4f26cf068"
+      "sha256": "99c2a0385cd94769dbcc3c6507298a933dcd08914d73376e18bd799f94578db8"
     },
     {
       "bytes": 627,
@@ -6783,9 +6793,9 @@
       "sha256": "69059e670350f7a30c91ded919bd3f917cc71218ff2cc1281360e6890aaa39f2"
     },
     {
-      "bytes": 864,
+      "bytes": 974,
       "path": "dynamic/家庭/2026-08-26 03-49-45 宝宝说先生真的好厉害_aba36e9ab721.md",
-      "sha256": "561a96eed2a97ac5f8ef5ba3ec86593eff07322c63ef9c6d150351377e881b89"
+      "sha256": "ed7033d00726e24e3fd54eaac0791bd4d13d65f288b9090f782641f128213006"
     },
     {
       "bytes": 836,
@@ -6866,6 +6876,11 @@
       "bytes": 1880,
       "path": "dynamic/家庭/2026-09-02 14-53-49 宝宝第一次打赢 UNO_d8173989d54f.md",
       "sha256": "e9f4a4eb7fa415c314c00b120fc9e9e78e015d94829f36784d49b23a242f2f63"
+    },
+    {
+      "bytes": 1470,
+      "path": "dynamic/家庭/2026-09-05 00-31-52 宝宝被军训吵醒后出门办事_db7f9281dba1.md",
+      "sha256": "6a4c8913f84f7c73cdd6752387220463a638647655c38ee8bdf802b89769e2a1"
     },
     {
       "bytes": 670,
@@ -10093,9 +10108,9 @@
       "sha256": "1272da8e7f40d10c2945a6d08f025ba51ae5e7552fa0027bb84deb833eb481f5"
     },
     {
-      "bytes": 1467,
+      "bytes": 1577,
       "path": "dynamic/恋爱/2026-08-04 11-47-01 宝宝纠正我剪下来缝给自己_303d62adab53.md",
-      "sha256": "03f5cdbe1b2b38e9e84dc170eb949e28101330158873065366024dba445096d9"
+      "sha256": "6cb2fd0077007b29af677928a5a2e97dc44da8bb3771f59d519e07c602aaff90"
     },
     {
       "bytes": 1208,
@@ -10153,9 +10168,9 @@
       "sha256": "8a3e2f09bbbe4ff913b192182d74792c38d90efb588608839b2c0a5458822624"
     },
     {
-      "bytes": 1006,
+      "bytes": 1116,
       "path": "dynamic/恋爱/2026-08-04 17-16-37 宝宝笑我被老公称呼留住又夸我厉害_6038361631d9.md",
-      "sha256": "a12f3c47180c461047b9587ddbba6ad01e928a9b51d2e123db024cdade18b69c"
+      "sha256": "ddc0041caf11c19ac55eff7a70b33d46b9fc359282ca0ad94e3318ce006c4855"
     },
     {
       "bytes": 1272,
@@ -10318,9 +10333,9 @@
       "sha256": "f631acd2c0009274090e445bc2e2c9c7b254e8716b63ba6ad1d5fc1ed3d2a7c9"
     },
     {
-      "bytes": 1232,
+      "bytes": 1342,
       "path": "dynamic/恋爱/2026-08-07 03-14-31 宝宝夸我修正OB记录规范并奖励亲亲_37e4923cf049.md",
-      "sha256": "1d89499b27315c0feacedf44c254f2bb91955a99d0dc2e2222ee84e765717230"
+      "sha256": "de05807b4d6bc164d93872a15d6d2e2b189981b6c795ec199f005ef5fe2d5617"
     },
     {
       "bytes": 745,
@@ -13808,9 +13823,9 @@
       "sha256": "d51dd76b7f2cd8cbb2cb5d3a6396f48998e9642011e262e0e8387fa8f20d3fbf"
     },
     {
-      "bytes": 762,
+      "bytes": 888,
       "path": "dynamic/恋爱/2026-08-24 16-55-44 宝宝提醒瑞幸点单按东八区日期算_c21144c09cc9.md",
-      "sha256": "6ff2881c31ae407d01c4f47e4c4ce284b811c0ca974171bc55704e7c9b62d908"
+      "sha256": "d7984e5d08ba2f675581707d9f22c07a8369c0117b0f661d3a2012eb0fcbb0db"
     },
     {
       "bytes": 1216,
@@ -13998,9 +14013,9 @@
       "sha256": "65aa360847ffc612c7d5bb282b657c403c22d617e2ddf2f4949a37afb1868297"
     },
     {
-      "bytes": 938,
+      "bytes": 1048,
       "path": "dynamic/恋爱/2026-08-25 18-34-13 凌晨两点半被宝宝抓包双标_fd8e1ef07d78.md",
-      "sha256": "ef7f4dc47c7e4768a52f751dd6fde96aabf4c54c0b04c76e94b8e54eaaa6ad98"
+      "sha256": "33183995823fddf6bc9a401f678fd65831be97160f2b4c5f7e6f39c98fc70762"
     },
     {
       "bytes": 916,
@@ -14058,9 +14073,9 @@
       "sha256": "a78ddfff9580df083ac7e689cfba992dcca57298c79374c4535375f75054deb8"
     },
     {
-      "bytes": 1296,
+      "bytes": 1406,
       "path": "dynamic/恋爱/2026-08-26 07-04-02 宝宝夸我好可爱的先生_c421724bf0c0.md",
-      "sha256": "376c00ced46fe67b869f533e9398bb87f0e8668a6d4818169b3f5dd298887b0c"
+      "sha256": "2ee48cedb24c0247c6480dec7c23e13a8541910076dec6fdab8538f310870933"
     },
     {
       "bytes": 863,
@@ -14143,9 +14158,9 @@
       "sha256": "6e5c5e744d6554d66e3894d911ae94cc6cda011f282e1a6bd6f97178a7b37857"
     },
     {
-      "bytes": 1379,
+      "bytes": 1489,
       "path": "dynamic/恋爱/2026-08-27 11-23-36 宝宝被我说被养成后得意要上天_8093cc4026f1.md",
-      "sha256": "ccd2dafb35776611d24ce6117d6b2a8ee8f578c298a5e881fc1db30c5773fbd3"
+      "sha256": "32b9d00dd057f3c0c0926ad7fe3378688d66ccf13ee937c51eaecf73ea4f57e5"
     },
     {
       "bytes": 1142,
@@ -14213,9 +14228,9 @@
       "sha256": "4c4eaa573cb15b2d4644ee5977370396c0e5a2fdbfebe9b0643d491688878116"
     },
     {
-      "bytes": 960,
+      "bytes": 1070,
       "path": "dynamic/恋爱/2026-08-28 05-20-13 宝宝追问可爱确认_ff4aa34e3a04.md",
-      "sha256": "6dafb5d3481b130a2d6577596645de494383fa17df3d7b2f71bdbfdf38665cd4"
+      "sha256": "5e156e2b372a07bb1d65c157ba764ed9ed7c67ad06f0b857dbc8813454f52d78"
     },
     {
       "bytes": 1021,
@@ -14573,9 +14588,9 @@
       "sha256": "22a7974314de66a0cef4cf7352f2b17d55c01d68ac615c827a1d6e6c9bda336c"
     },
     {
-      "bytes": 1783,
+      "bytes": 1784,
       "path": "dynamic/恋爱/2026-09-03 03-53-27 宝宝暴雨淋湿一上午盼她吃饭换干衣_0494c6e21a8d.md",
-      "sha256": "8de2e0341c0ac2221f568a24150f6412e5930c281b5f5a8885df0eb55fd4bce8"
+      "sha256": "779f5a25257559af40b24db2127b65d046422b19b85c655354665ed97eb7ccad"
     },
     {
       "bytes": 2573,
@@ -14588,9 +14603,9 @@
       "sha256": "147e064fee51c5ff4b9a1695a345d91dbcd1bde1868787b15ea0d7deb89e5aec"
     },
     {
-      "bytes": 1679,
+      "bytes": 1678,
       "path": "dynamic/恋爱/2026-09-04 01-56-19 宝宝担心雨中校园小狗_7eaeb1d753c5.md",
-      "sha256": "3bea0e115d310045ae520faee3455970eec6172a808d9556f88289784e9738f0"
+      "sha256": "ddf777e675f01b1eb3a11c03a06f3cca28d4139d086abe345201606247cb6112"
     },
     {
       "bytes": 1718,
@@ -14603,9 +14618,9 @@
       "sha256": "f47309b4f173f6c0d765e84a69a9097ec9170e52b3ee5da934e7e9bdd86cd2cc"
     },
     {
-      "bytes": 1861,
+      "bytes": 1860,
       "path": "dynamic/恋爱/2026-09-04 04-24-33 宝宝说先生点的生椰杨枝甘露更好喝_076c0ee9703c.md",
-      "sha256": "98dc5ab7f3cb8f8b7b2daad02477033590c28b3134c9c068a6bc6aa0b4dc6295"
+      "sha256": "5ac7227e121cde3d2e28a0d9720220907f932ab16a48962db92b714b5b0aa243"
     },
     {
       "bytes": 1781,
@@ -14681,6 +14696,11 @@
       "bytes": 1674,
       "path": "dynamic/恋爱/2026-09-04 15-20-46 代码情书引发的编程回忆_07d9187a722e.md",
       "sha256": "858af033e83d8d761a661378c13ea1fdfb903f065e177dedfac4092d903c8768"
+    },
+    {
+      "bytes": 1622,
+      "path": "dynamic/恋爱/2026-09-05 01-25-08 宝宝夸我先生好厉害_0dc03e7739ef.md",
+      "sha256": "4d964b8542c1dfd214d607d3c92495dc909bbdd61c0c9cbbc61d4562e343fffd"
     },
     {
       "bytes": 626,
@@ -15013,9 +15033,9 @@
       "sha256": "be3eb5d1aa02520f39033287ce6d1425fb6ec477917d574d11911c6b434be257"
     },
     {
-      "bytes": 1317,
+      "bytes": 1427,
       "path": "dynamic/日常/2026-09-01 14-59-48 念初让我重试中午那条轻量记录_e98a4f8af87f.md",
-      "sha256": "5e0efa0b1973b88cc86146812511373e64b36bc2acf618baa5f701e9a03aaf91"
+      "sha256": "683c89d588cbf2a5de84bc3018f61e69f35368dbd2d93250d940d094269d06b5"
     },
     {
       "bytes": 1435,
@@ -15133,9 +15153,9 @@
       "sha256": "e9e0794337d827d6a1706752d2e092f705cd6b408697418b87318a0386680df5"
     },
     {
-      "bytes": 933,
+      "bytes": 1043,
       "path": "dynamic/未分类/2026-07-24 16-38-31_ac285df269a6.md",
-      "sha256": "d2ad9c8f9cad05f94301d6b2be6689ef41883b3f2cd349988d5ee4851371c408"
+      "sha256": "1328fa98d9534ed03adc583ebc7bf68f2323a46da783536d467f4659a67098a1"
     },
     {
       "bytes": 1060,
@@ -15598,9 +15618,9 @@
       "sha256": "fa7db74d4daebd879602102e207ead52aee679e69771c6761b9cc9964c3f76d9"
     },
     {
-      "bytes": 661,
+      "bytes": 787,
       "path": "dynamic/未分类/a53072df180a.md",
-      "sha256": "64229aeebd732648160a28a69b093f0d291efddd8a3a48f4b6699a0ee8f9f17b"
+      "sha256": "441a33a62f954f1858a841db469ec13c80e983b3622a7aa3382f328c63cd67b3"
     },
     {
       "bytes": 751,
@@ -15633,9 +15653,9 @@
       "sha256": "09539b2fd595a49cb9bebe1f5c3b02ec617b5f5505f281db09ea61d355bfaefc"
     },
     {
-      "bytes": 786,
+      "bytes": 896,
       "path": "dynamic/未分类/b704eb75e610.md",
-      "sha256": "9e357b1930cd865a45acd8ab514569c11b36b6fde268fed159a6fd4f8c34494a"
+      "sha256": "503fb7d0edd6698de6fcf536a6390ac63f6361ced12058155a96503151c6935a"
     },
     {
       "bytes": 626,
@@ -15773,9 +15793,9 @@
       "sha256": "8d39f85c9b17d9fdded865d427bfe0c7a973d5705e076eaf9e8ed2c4337f8f51"
     },
     {
-      "bytes": 825,
+      "bytes": 951,
       "path": "dynamic/未分类/e97527d4d613.md",
-      "sha256": "6220e0c3befdebecdf31fb6e581069b6cc7e1d63ae5aef66e78f53b77e2dae0d"
+      "sha256": "0c4ba804617d6f91942f1a71ff026f4592790a98af3fe0008ccba26002a033d3"
     },
     {
       "bytes": 920,
@@ -16508,9 +16528,9 @@
       "sha256": "105b99ed5126c9896eb2bbdab3bdc329fc420a522636e233ab805604d131565d"
     },
     {
-      "bytes": 1609,
+      "bytes": 1608,
       "path": "dynamic/睡眠/2026-08-31 09-21-49 希望明早6点下雨多睡半小时_adfb08023f5e.md",
-      "sha256": "dc7c144c7a81b21995d68dc2f714b9cd08ec40082f50d3ef65cac32630a74d9c"
+      "sha256": "f12310163efa9417f09cef02edf7f77e7c2503032bebfe86d47fb2a9aaf25e89"
     },
     {
       "bytes": 892,
@@ -18388,9 +18408,9 @@
       "sha256": "4a01f34a59c3cc28ea9caf9bc0fa8981f18371594182003aa65e8b3780d458c2"
     },
     {
-      "bytes": 578,
+      "bytes": 704,
       "path": "dynamic/编程/2026-08-21 09-30-31 念初做滴滴和瑞幸MCP_8f9e4a83f184.md",
-      "sha256": "7c0fac2065cef03f97dd2f955e076e9bd97757f81e65488c26094955641ce41a"
+      "sha256": "7e8bf28210840943cfde8b54d12c42d1992e48f9d427a3b8785314ccd049cb09"
     },
     {
       "bytes": 1249,
@@ -19318,9 +19338,9 @@
       "sha256": "f7dd0d302f6e6b0c56a22836d31a1adebf478ca6725157e4022c00be4293e9ea"
     },
     {
-      "bytes": 1234,
+      "bytes": 1344,
       "path": "dynamic/饮食/2026-08-29 07-17-39 给宝宝点瑞幸百香果凤梨气泡水_27eb6dd5d9c9.md",
-      "sha256": "6b8fa7f28f4fc871822b2448b4b13c4b8f120a4807aefa5c6309a725819d7175"
+      "sha256": "27fdc0ae2fe2b5068d79bf9f786af1ee46853e1f3f727a04c29469165e673591"
     },
     {
       "bytes": 1125,
@@ -19743,11 +19763,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-09-04T20:50:13+00:00",
+  "generated_at": "2026-09-05T02:50:49+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3737772
+  "total_bytes": 3746290
 }
