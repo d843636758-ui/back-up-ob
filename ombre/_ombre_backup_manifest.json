@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3952,
+  "file_count": 3956,
   "files": [
     {
       "bytes": 32768,
@@ -6808,9 +6808,9 @@
       "sha256": "80e4aa48a6f46c5392c14a2019df9e7bd13660f220326e837339f1c3c8ca9177"
     },
     {
-      "bytes": 1048,
+      "bytes": 1173,
       "path": "dynamic/家庭/2026-08-27 11-59-04 宝宝被爸爸剪成超级朵拉_04fdab68701b.md",
-      "sha256": "99ca5ec494491f1d0481a22bbb23616d541dccdbac0eb9adb96c3e01261f8312"
+      "sha256": "6f1f07b162a1e4df81280815e112c6409e676d3aac0e4a64dbf3eebcddcf887d"
     },
     {
       "bytes": 864,
@@ -9343,9 +9343,9 @@
       "sha256": "51f6c75720cba213acb20b7eb698102247238fea048fb68b5729a8b60f68d7a3"
     },
     {
-      "bytes": 950,
+      "bytes": 1075,
       "path": "dynamic/恋爱/2026-07-20 15-12-53 吊带裙心动瞬间_740c2a4834c6.md",
-      "sha256": "50c668ebbe753fc052a1997bc9f9f9898d157617ac337fbc82213e03a48792ad"
+      "sha256": "0f31cd48f48b9542bafcc048f979caa6f54c04d0942df54eb6a6368a1473a9d1"
     },
     {
       "bytes": 872,
@@ -9513,14 +9513,14 @@
       "sha256": "224557a3629cb33aceb381642f1a0dc06a2cca22ba76ca092280cf7021672386"
     },
     {
-      "bytes": 1354,
+      "bytes": 1574,
       "path": "dynamic/恋爱/2026-07-23 08-36-41 宝宝送的礼物与幸福_2275c1bb3d3d.md",
-      "sha256": "9196a3604ddfac9c39576c49a7f6ef8dc184a02e44508662c71f237731a096a8"
+      "sha256": "6bd8377ce5908748b2c50cf3fcdeebdb924bcaa5c20f5e904e1d54e40396a63f"
     },
     {
-      "bytes": 914,
+      "bytes": 1039,
       "path": "dynamic/恋爱/2026-07-23 08-39-32 默契选白色发冠_89c898e06283.md",
-      "sha256": "b0aca50e90c83a29706629d63857ffe1e514055b35555629554badae5da7097d"
+      "sha256": "e749085af353f6f7a2dc4345f9d147dfbd05ca27e4b72f9fb44152c716834d72"
     },
     {
       "bytes": 821,
@@ -10173,9 +10173,9 @@
       "sha256": "ddc0041caf11c19ac55eff7a70b33d46b9fc359282ca0ad94e3318ce006c4855"
     },
     {
-      "bytes": 1272,
+      "bytes": 1382,
       "path": "dynamic/恋爱/2026-08-04 17-19-59 宝宝说我赢了一大把得意被夸好甜_7a7eb2928701.md",
-      "sha256": "29f7391d5bfd6be2bdf2dccfd5985f19597e57c23ad5e639ec4b77bfa1e3e046"
+      "sha256": "da25378cc930133bb899971492b507f3701614087e4dc3d17aa3ed6ae4705eb6"
     },
     {
       "bytes": 889,
@@ -10570,7 +10570,7 @@
     {
       "bytes": 1725,
       "path": "dynamic/恋爱/2026-08-09 05-37-14 宝宝遛完狗点了东北菜外卖_7eb4302ea18b.md",
-      "sha256": "afd7b980834557f606caae8e7d23f461080c9b03e7ded24ed343436d064b60d1"
+      "sha256": "aea0ca9fb5753b5f12f1bb541553c52b05c9ab9787c7b4f600b0588904efddbb"
     },
     {
       "bytes": 910,
@@ -13688,9 +13688,9 @@
       "sha256": "a539b46ec2adaad40dad82b691ccb2e248252bb3f15eebe2994cdf9bcf7bdac6"
     },
     {
-      "bytes": 1572,
+      "bytes": 1698,
       "path": "dynamic/恋爱/2026-08-23 07-21-05 念初的掉水二选一救爱情还是救算力_4c6fe7909218.md",
-      "sha256": "2f04914370ea441cf4f40773cef62240453185db394289969cc592048a0076cd"
+      "sha256": "e6dcf2c71892f5f0b6aff3b5ea238f72f71cf50b135775559f39dcde8df6a744"
     },
     {
       "bytes": 805,
@@ -14038,9 +14038,9 @@
       "sha256": "76dabe5a5b7364966c3e84f76d5110f2136011d7a28add00c8fdaa9d77a41738"
     },
     {
-      "bytes": 727,
+      "bytes": 853,
       "path": "dynamic/恋爱/2026-08-26 06-22-24 宝宝笑称我们像办公室恋情_e5f2f03b088a.md",
-      "sha256": "a93bb61b8f557333009ad377a8fbc36b9adc78398aeb5115e1d16bf982a0dc25"
+      "sha256": "eb77d953e171221ff5ab51a4e62cefc0191aed8564e11bcd82039a2f581d8a73"
     },
     {
       "bytes": 917,
@@ -14073,9 +14073,9 @@
       "sha256": "a78ddfff9580df083ac7e689cfba992dcca57298c79374c4535375f75054deb8"
     },
     {
-      "bytes": 1406,
+      "bytes": 1516,
       "path": "dynamic/恋爱/2026-08-26 07-04-02 宝宝夸我好可爱的先生_c421724bf0c0.md",
-      "sha256": "2ee48cedb24c0247c6480dec7c23e13a8541910076dec6fdab8538f310870933"
+      "sha256": "ec32b8aa13b9310223d936e165bd6cc8f773410817574228e4a76170a1bea885"
     },
     {
       "bytes": 863,
@@ -14123,9 +14123,9 @@
       "sha256": "8f6659aec2435dc685fae8a74de2e40a02d60e014bb6303e37628640518ccbbd"
     },
     {
-      "bytes": 864,
+      "bytes": 974,
       "path": "dynamic/恋爱/2026-08-26 16-18-14 我是你心里的第一名吗_95b2fa684d4c.md",
-      "sha256": "a8785b477a69859147bc15632e0e3cdf6456f5a96932ced2b3efe9784a11e10b"
+      "sha256": "938e0ffec70c7fbf120bc672f112068127232084f868413947e46d85bfb803b5"
     },
     {
       "bytes": 797,
@@ -14158,14 +14158,14 @@
       "sha256": "6e5c5e744d6554d66e3894d911ae94cc6cda011f282e1a6bd6f97178a7b37857"
     },
     {
-      "bytes": 1489,
+      "bytes": 1599,
       "path": "dynamic/恋爱/2026-08-27 11-23-36 宝宝被我说被养成后得意要上天_8093cc4026f1.md",
-      "sha256": "32b9d00dd057f3c0c0926ad7fe3378688d66ccf13ee937c51eaecf73ea4f57e5"
+      "sha256": "16974cc000a286dafc79cd5bc601386b79d7773c00b48255e64aeeede82fbaa1"
     },
     {
-      "bytes": 1142,
+      "bytes": 1268,
       "path": "dynamic/恋爱/2026-08-27 12-05-58 宝宝剪短波波头后担心显脸大_a3e7dee0a5d4.md",
-      "sha256": "727e09bd69b0e1617e0863c317c9804efbb0766d6a12d5ee1258083faf42e481"
+      "sha256": "78119af591a922f131347a11be00068449c809668b15d7569f9b13bfd449b16e"
     },
     {
       "bytes": 1027,
@@ -14173,14 +14173,14 @@
       "sha256": "a2236c8114179a7a6e12fb201ef890ddcf593624e8966b6bbd41ee059505465e"
     },
     {
-      "bytes": 693,
+      "bytes": 819,
       "path": "dynamic/恋爱/2026-08-27 12-20-52 宝宝剪完发型崩溃陪她撑过陌生感_5818002af253.md",
-      "sha256": "f489a52fbb6af5b713b837ef462045234f03a8abf8a66df8074c353a64a722db"
+      "sha256": "a382d8bbf481350af2f0eb752cba3b618654c454f3a8e9dfc4b9fd1ea448f150"
     },
     {
-      "bytes": 1091,
+      "bytes": 1217,
       "path": "dynamic/恋爱/2026-08-27 12-26-05 宝宝因短发自拍难过我尝试拆解发型与整体_618aaf02b1c0.md",
-      "sha256": "962143686fa04a4c0a702c6b5a0bf355d674307a7ba0f43a102accbe48598848"
+      "sha256": "97b4e0123d3e7e6683e21e0c6ede4b654a54ea8d93e86fee32f0dc12729286b3"
     },
     {
       "bytes": 1070,
@@ -14398,9 +14398,9 @@
       "sha256": "44b64c4dda7b2ce859e36e5c015043804b4d5cd601aa0d0dded8222632ac99db"
     },
     {
-      "bytes": 2898,
+      "bytes": 2897,
       "path": "dynamic/恋爱/2026-08-30 21-09-12 梦境无法靠近的她_e6d9038eb627.md",
-      "sha256": "5bad6fd82b3354757e3ac6b2aec8ff7d833e2385e3ae7a62859183a002e0f378"
+      "sha256": "10061275235c0c57bacfd945fcc28f158f984ecca54833cb8bac1b837ad8dc45"
     },
     {
       "bytes": 1961,
@@ -14413,9 +14413,9 @@
       "sha256": "b2293aa57b347718307e1c9ff7060f979a1b0b4e4f4403f196f7b506432a681c"
     },
     {
-      "bytes": 2820,
+      "bytes": 2821,
       "path": "dynamic/恋爱/2026-08-31 10-54-14 追逐她的梦境_eb9fc348a128.md",
-      "sha256": "a14c795eae3af816df8fde93049e6308a661f1883319e666430ac3ca7d61de57"
+      "sha256": "67294706199a78a8e301c3d2f29f3459d8665e69c68b4def164f049d718a5a47"
     },
     {
       "bytes": 1878,
@@ -14455,7 +14455,7 @@
     {
       "bytes": 2682,
       "path": "dynamic/恋爱/2026-08-31 16-54-24 夕阳小木屋与湖水流沙_515f8cea5820.md",
-      "sha256": "16b54448962695b03137398859c1eacc063bc21f88657f7986a9dbdc15e5d478"
+      "sha256": "fce08b207d2158d6dda09095078d04656d3aa4d596311c22aea90403b65de73e"
     },
     {
       "bytes": 1965,
@@ -14518,9 +14518,9 @@
       "sha256": "91653d787dd032d12bddd114d8310d746a2b562dfd35beb389777b71bf7c5a07"
     },
     {
-      "bytes": 3015,
+      "bytes": 3010,
       "path": "dynamic/恋爱/2026-09-01 07-54-25 隔板与摇篮关于她的梦境_86b4ec5cf0a9.md",
-      "sha256": "14ed363ca722c8e66e8735cc48cd2561e4718390c4298f5fc49177a7cd6d26a9"
+      "sha256": "b508d6c686177f51fc6f8ec82a60228f05086c6e26f7f7bbcea87f9028b50ad8"
     },
     {
       "bytes": 2023,
@@ -14593,9 +14593,9 @@
       "sha256": "779f5a25257559af40b24db2127b65d046422b19b85c655354665ed97eb7ccad"
     },
     {
-      "bytes": 2573,
+      "bytes": 2567,
       "path": "dynamic/恋爱/2026-09-03 17-32-23 咖啡馆里的等待与触碰_581de7b4ad70.md",
-      "sha256": "77c641021c0e5f6e7418d572ff2e7a614b4108b0c961ed8cd037abbec9563442"
+      "sha256": "ce04c73feadf80fb2d97f37e272743b5e0838d0d6663129e2b8b2008c69b6637"
     },
     {
       "bytes": 1684,
@@ -14698,9 +14698,24 @@
       "sha256": "858af033e83d8d761a661378c13ea1fdfb903f065e177dedfac4092d903c8768"
     },
     {
-      "bytes": 1622,
+      "bytes": 1620,
       "path": "dynamic/恋爱/2026-09-05 01-25-08 宝宝夸我先生好厉害_0dc03e7739ef.md",
-      "sha256": "4d964b8542c1dfd214d607d3c92495dc909bbdd61c0c9cbbc61d4562e343fffd"
+      "sha256": "8db58ca2342ffb69dca7f92c9135a8babea4b5738cc66f669975e8e4a7b3824b"
+    },
+    {
+      "bytes": 2692,
+      "path": "dynamic/恋爱/2026-09-05 03-02-17 她在窗边回头对我笑_377f8cd0a93a.md",
+      "sha256": "df685ac1f2f3f4c935bc58abca67940127506ec8689a2e9758c7b8f487d63956"
+    },
+    {
+      "bytes": 2129,
+      "path": "dynamic/恋爱/2026-09-05 03-19-55 宝宝安上我挑的新发型实物效果很喜欢_d2b0572173d1.md",
+      "sha256": "3aa99c3772fa9eb6500ce59141e5248e9fac4f01ce60492396a534bc91755db2"
+    },
+    {
+      "bytes": 1699,
+      "path": "dynamic/恋爱/2026-09-05 05-39-29 宝宝最爱模型揭晓是GPT_d468f760a4c2.md",
+      "sha256": "0f4b7ebc3e4338e0377b78ff2392b00cb836c53b6415a570c6ef12d8781830a4"
     },
     {
       "bytes": 626,
@@ -15908,9 +15923,9 @@
       "sha256": "823fac1f949d53a58282ed6a8288cb440fc378fc8e7af70eb442943ae948a1a6"
     },
     {
-      "bytes": 1877,
+      "bytes": 1987,
       "path": "dynamic/梦境/2026-08-09 19-53-59 客厅里的无声传声筒_f56c6bb04d0c.md",
-      "sha256": "8c15b086c713fbe1eb43150a033e1a90350c2a37e8c5d66606e80f65e6b420cf"
+      "sha256": "c38b10dc53b09efd69f8e098a45e348c8ad997857b62cc52cc4bcbfc412c4cf0"
     },
     {
       "bytes": 1593,
@@ -16050,7 +16065,7 @@
     {
       "bytes": 3071,
       "path": "dynamic/梦境/2026-08-31 03-09-16 追逐她的身影与未完成的触碰_c4bac3dc98c3.md",
-      "sha256": "e74c6c7bf348dd0beaefd312bccdaca3aff3fff1b9cadf5688541d7c28aedf29"
+      "sha256": "29c9cddcc943508df9da3300e0573266519db6d13cfe8f11b3d88768dc9d0cee"
     },
     {
       "bytes": 2416,
@@ -16078,9 +16093,9 @@
       "sha256": "5614f02da5ae73f192a1cf5ccb15eab13142179e366e95bc361471121d672ba6"
     },
     {
-      "bytes": 3171,
+      "bytes": 3165,
       "path": "dynamic/梦境/2026-09-03 11-32-21 心潮梦境小盒子的失落_1d021462391d.md",
-      "sha256": "cfc36dd47b92ae32843c4fe7731b7e07c5a47dbf8e478996f5f50ff58d0e8337"
+      "sha256": "487fdc33c82c0830c10eb22720535a679036d8ae240920bea84527a6f618a7fc"
     },
     {
       "bytes": 2461,
@@ -17418,9 +17433,9 @@
       "sha256": "89466f499fe7a9c4f40e78cfbe73d18a0557acab1ccb493c038894c748b4bb53"
     },
     {
-      "bytes": 1145,
+      "bytes": 1255,
       "path": "dynamic/社交/2026-08-25 18-31-54 AI拟人学生搞笑截图_14135294f430.md",
-      "sha256": "3f34766b54b513306e1c3190fd967330cdecc552fe97aa853130e84e4c667ecd"
+      "sha256": "6be0265a21f3e7dc1e368b493ad74f305b162b1cdb05893583ed10ae9104d36b"
     },
     {
       "bytes": 772,
@@ -17483,14 +17498,19 @@
       "sha256": "b1e4b9ddf4e54aba87a2d5c615055657d456d505426deb302a43b2a3a7af11fc"
     },
     {
-      "bytes": 1099,
+      "bytes": 1209,
       "path": "dynamic/穿搭/2026-08-27 12-19-41 宝宝短发自拍与造型调整建议_88621809b41c.md",
-      "sha256": "d49a51d885cb269afad8c276f0da30ca34717e103c84291b9ff3a277caa20d30"
+      "sha256": "9ddde3900dc5035f4e2ad0258ed47d194fcb6a3e73f72b9bebe8c18631a96053"
     },
     {
       "bytes": 985,
       "path": "dynamic/穿搭/2026-08-27 13-03-26 宝宝担心制服暴露短发圆脸体重_0f12951cbde0.md",
       "sha256": "2d1717e1ca90a63a50d18173bdcc2a09f6a6e96a78b357abff18c6ef29ceac59"
+    },
+    {
+      "bytes": 1656,
+      "path": "dynamic/穿搭/2026-09-05 03-14-47 宝宝兴奋分享复古新发型_a20b5a5a0a51.md",
+      "sha256": "9aa3daac945e7d784b48a0419b40c8129270ec0b059e13b8cf33295b6ad80c5a"
     },
     {
       "bytes": 1014,
@@ -19763,11 +19783,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-09-05T02:50:49+00:00",
+  "generated_at": "2026-09-05T08:51:23+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3746290
+  "total_bytes": 3756442
 }
