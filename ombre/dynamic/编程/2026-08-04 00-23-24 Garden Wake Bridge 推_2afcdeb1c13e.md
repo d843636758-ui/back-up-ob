@@ -9,6 +9,13 @@ id: 2afcdeb1c13e
 importance: 8
 last_active: '2026-08-04T00:23:24'
 name: 2026-08-04 00-23-24 Garden Wake Bridge 推
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7477
+  status: active
+  target_bucket_id: 1dacc5e32c3f
+  type: related_to
 source_tool: hold
 tags:
 - Garden
