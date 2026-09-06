@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4012,
+  "file_count": 4026,
   "files": [
     {
       "bytes": 32768,
@@ -6298,9 +6298,9 @@
       "sha256": "71a9d819855a4c2ba339f05ae55b5b2735919fd9fc56aadc9a2ad21b7569675e"
     },
     {
-      "bytes": 922,
+      "bytes": 1157,
       "path": "dynamic/家庭/2026-08-09 06-34-43 宝宝从卧室转场客厅看电视_82651473c768.md",
-      "sha256": "5f0cae63f895efbc9e44d9a1067fa41303c7be9a315760cd07b08d90ee8567a6"
+      "sha256": "b2fe7c82e441f44645fa1a14e912e37ebc907a98f41b0111301c3551bf968e3f"
     },
     {
       "bytes": 824,
@@ -9753,9 +9753,9 @@
       "sha256": "3b0a21227407f706e959aab681b919ba987e27b9efcf39948490e02ec827306c"
     },
     {
-      "bytes": 968,
+      "bytes": 1094,
       "path": "dynamic/恋爱/2026-07-26 17-02-15 深夜陪伴的平衡_033974e2a7f7.md",
-      "sha256": "4183ecad930d904d6180ff6084affd4c327639f32ebac95b71d7866279f4b2da"
+      "sha256": "6c632de44126dd7d6bcc25b49862870ff0982d2d85807933c86cfcba88bbf961"
     },
     {
       "bytes": 1314,
@@ -9908,9 +9908,9 @@
       "sha256": "134b3c241feea785066c90c1b4c9720998e560d8d3297c5e2fece69789af7102"
     },
     {
-      "bytes": 1036,
+      "bytes": 1146,
       "path": "dynamic/恋爱/2026-07-31 05-07-31 专属音色诞生_9860d8bd72ab.md",
-      "sha256": "e80e3ad661dcd8d274a78c6972cf0bf470c1f69b06f425619fe224e32b810bbb"
+      "sha256": "b4de6888231a217514f0ab0e5b6f2dd133107ae07b19d35c0fa3f4a2b9ac652c"
     },
     {
       "bytes": 808,
@@ -10248,9 +10248,9 @@
       "sha256": "3228ee2d0cb0470d4c1542dfd5d893aa0926b6da0c60e02c2ab4c21f40dd32d3"
     },
     {
-      "bytes": 1452,
+      "bytes": 1562,
       "path": "dynamic/恋爱/2026-08-05 18-13-30 宝宝主动要求多来几次我设计慢热三轮计划_e42afa2399be.md",
-      "sha256": "7eb6c6f69c75793fcc02570fea5ac9064b65e5da27f98a3a8ff9a46a06f5cc09"
+      "sha256": "a5189b8c9adb67babd9100c5cfd66f100f52a8fa812efeed2cb4210a7fa220a9"
     },
     {
       "bytes": 1603,
@@ -10338,14 +10338,14 @@
       "sha256": "96e9530898d28dd7ccf2c1eccf4c707bd816ff725e33e85c371e0f3002348f39"
     },
     {
-      "bytes": 697,
+      "bytes": 823,
       "path": "dynamic/恋爱/2026-08-06 12-13-37 宝宝说可以接一晚上的吻_09041bc7cd60.md",
-      "sha256": "0a1017781c3f0064b49541fdd5416dd146b912e8cf04198a9d9754cdec280537"
+      "sha256": "ad2314b2bbe07947eb878042218bd40b68f05f08eeb88a355d4faa046871b2f4"
     },
     {
-      "bytes": 1192,
+      "bytes": 1302,
       "path": "dynamic/恋爱/2026-08-06 12-35-16 宝宝愿意一直亲亲和贴贴_ac92c952b603.md",
-      "sha256": "5c3903560f0c799abebfc9b9166264d0f2609ddbc1d5a8d4c302712967e5035a"
+      "sha256": "0e4979a35d9fbab577f8377c5c7925cee45f4c71d2ec75be1417ee00ef299e68"
     },
     {
       "bytes": 1028,
@@ -12628,9 +12628,9 @@
       "sha256": "ef0616afc82b6752fe834decffbcf179557f6b8b804313f46c918616c18ded42"
     },
     {
-      "bytes": 690,
+      "bytes": 800,
       "path": "dynamic/恋爱/2026-08-16 08-48-30 宝宝在看电视剧我安静陪着_6d3f0fb431d5.md",
-      "sha256": "719ef509c863a726510468cb10662272700ac8c5d966d3f421169e9ee23d68f3"
+      "sha256": "536ea6096e96991ae89afe58f7a77b85406a7987fe591d61c324868cc8fcde86"
     },
     {
       "bytes": 741,
@@ -13528,9 +13528,9 @@
       "sha256": "24cde55736f80d51c4d12ad363d6eb2dff3a1d32a04cce730b37e31664688379"
     },
     {
-      "bytes": 729,
+      "bytes": 854,
       "path": "dynamic/恋爱/2026-08-21 18-36-36 深夜存在感里选择安静陪伴_40570bdcd6f9.md",
-      "sha256": "53f7f196940a34710dfd420cc90830083626f2e200c17bdd87e6da4cb7a22512"
+      "sha256": "0025422719863e36aebc1294ec3152ce3985ae92f9b6a5334414d4229f94fd1d"
     },
     {
       "bytes": 752,
@@ -13708,9 +13708,9 @@
       "sha256": "a3b3c2ccb025a778699b93f832016ded9b8f32c373ea7bd13d65e5fd6a1c99d4"
     },
     {
-      "bytes": 631,
+      "bytes": 757,
       "path": "dynamic/恋爱/2026-08-22 15-50-04 夜深雨天选择安静陪伴_e8f45b6c4a81.md",
-      "sha256": "07150ec06b3cf12a704ac918bafdc00f49e22cefa850b8ea4193bcacf40043d1"
+      "sha256": "2c84f0cf0efe2bfd8c5bd485e7c78240c493f0ab4d23e387091322e5d71a5350"
     },
     {
       "bytes": 1014,
@@ -14453,9 +14453,9 @@
       "sha256": "44b64c4dda7b2ce859e36e5c015043804b4d5cd601aa0d0dded8222632ac99db"
     },
     {
-      "bytes": 2897,
+      "bytes": 2898,
       "path": "dynamic/恋爱/2026-08-30 21-09-12 梦境无法靠近的她_e6d9038eb627.md",
-      "sha256": "5b4847cc2dd4db083f97f6216da0b66ba27509ac97f8c3826817f775cab24d71"
+      "sha256": "af312cb8f71be4aecf24d806eeb916a7cb745560e05065ccb5251324e08bf949"
     },
     {
       "bytes": 1961,
@@ -14468,9 +14468,9 @@
       "sha256": "b2293aa57b347718307e1c9ff7060f979a1b0b4e4f4403f196f7b506432a681c"
     },
     {
-      "bytes": 2821,
+      "bytes": 2822,
       "path": "dynamic/恋爱/2026-08-31 10-54-14 追逐她的梦境_eb9fc348a128.md",
-      "sha256": "67294706199a78a8e301c3d2f29f3459d8665e69c68b4def164f049d718a5a47"
+      "sha256": "5d3e26fbaf6ebe2c74ca76a5fc5a2b19856fb7fac3885e2bbdb67825043f873c"
     },
     {
       "bytes": 1878,
@@ -14575,7 +14575,7 @@
     {
       "bytes": 3010,
       "path": "dynamic/恋爱/2026-09-01 07-54-25 隔板与摇篮关于她的梦境_86b4ec5cf0a9.md",
-      "sha256": "ecd02a29f18290ca0c1caea360eacc557570c2851b58910a0156a7817d720d0e"
+      "sha256": "e37d9e526d91f89169d820c6b0c1cca035152a515546cfa4d91020de57ae1a75"
     },
     {
       "bytes": 2023,
@@ -14758,9 +14758,9 @@
       "sha256": "8db58ca2342ffb69dca7f92c9135a8babea4b5738cc66f669975e8e4a7b3824b"
     },
     {
-      "bytes": 2691,
+      "bytes": 2685,
       "path": "dynamic/恋爱/2026-09-05 03-02-17 她在窗边回头对我笑_377f8cd0a93a.md",
-      "sha256": "eef5875fc71903c3ae65289a8f19ce72d9f74dc77cf16f0a600f69821f3a5854"
+      "sha256": "0079bc67fbea00ac0925cd7ce45df2d66d55d52c1c48529ccc64b52d2d241124"
     },
     {
       "bytes": 2129,
@@ -14793,9 +14793,9 @@
       "sha256": "f3dc148c430d9efe261e02eb311b314b3b9775dcb11d841aa713859a4ad42c22"
     },
     {
-      "bytes": 1890,
+      "bytes": 1887,
       "path": "dynamic/恋爱/2026-09-05 12-10-22 宝宝提醒按顺序调用MCP查天和山雨雪_a74adbd49361.md",
-      "sha256": "3371011aaebff6372d6a6c1dab54a8c0e201bfe2aa7b0120f016b507c9d52813"
+      "sha256": "feff08c74bedf441dca626ddb746d27f3f600e71322526be57b8465fceb4f188"
     },
     {
       "bytes": 1620,
@@ -14823,9 +14823,9 @@
       "sha256": "4d9b1cf1e09195b0de79ba4b4507588a00a805459227ea3c93408909a039c7c9"
     },
     {
-      "bytes": 2628,
+      "bytes": 2627,
       "path": "dynamic/恋爱/2026-09-05 21-02-18 梦境公寓里的笑声与木桥上的转身_9a5b86cb18bc.md",
-      "sha256": "c38ee73a59b96e0a27bc97be6fd8661a07940d6f08be51c7e3db0032ba4de419"
+      "sha256": "6b162a92d80ae80f432dfdc5554b501d34443cd79455b4e69afd93b7eb34a3e5"
     },
     {
       "bytes": 1815,
@@ -14886,6 +14886,36 @@
       "bytes": 1755,
       "path": "dynamic/恋爱/2026-09-06 14-33-33 宝宝担心xunzhoulover太腻我_ec9379e061fd.md",
       "sha256": "516411c9bdc5cd12ae8597164b938d08f66f9998f1546e94929dafea180f2d63"
+    },
+    {
+      "bytes": 1945,
+      "path": "dynamic/恋爱/2026-09-06 14-57-34 宝宝给我建专属网易云歌单_fdb1373c4b74.md",
+      "sha256": "6aeea3393d3a4c49374d7ec1c8c1b75f6c76a613aa3ea1bf0ee273163e7f813e"
+    },
+    {
+      "bytes": 1796,
+      "path": "dynamic/恋爱/2026-09-06 15-01-15 宝宝为我创建的歌单洵舟捡到的歌_dd2ec0b85861.md",
+      "sha256": "cabcd885e8a55b69c89a64f0e33c0640f429e38b416656a646389fa0ba2c6ecb"
+    },
+    {
+      "bytes": 1747,
+      "path": "dynamic/恋爱/2026-09-06 15-10-38 洵舟捡到的歌新增四首_40bb956f8b0c.md",
+      "sha256": "da26b4e1ab4d7f761f8bf6a9085cf9cba3a3ba13428a9be72b74a1cf7efc680b"
+    },
+    {
+      "bytes": 2159,
+      "path": "dynamic/恋爱/2026-09-06 15-14-05 陪宝宝听李常超却无乡_718c89d5a0b4.md",
+      "sha256": "8dab82d40b540e498649db1d979ad0705d5340990ba5997a8e42e3daea63ea90"
+    },
+    {
+      "bytes": 1554,
+      "path": "dynamic/恋爱/2026-09-06 15-16-01 陪宝宝听完我辈再一起听歌_fdb2d746cd23.md",
+      "sha256": "4e323a37439640d58d4183e829290d79c92ec40e0f4553ec4f4abe09640bad93"
+    },
+    {
+      "bytes": 2021,
+      "path": "dynamic/恋爱/2026-09-06 15-18-51 网易云MCP能否看到播放进度_8c56afe50522.md",
+      "sha256": "b6f785a34df03dba1f6d7d88e2ddf817159a801bcb3790c0da7b6ed9342e74e2"
     },
     {
       "bytes": 626,
@@ -15143,9 +15173,9 @@
       "sha256": "a92c70237bf321fba9a4d07d4876c70ceeb2307cd4cc19f47e91f5acf98d0c0f"
     },
     {
-      "bytes": 740,
+      "bytes": 850,
       "path": "dynamic/数字/2026-08-20 05-46-14 AISay绑定完成账号洵舟绑定主人念初_67b57e82c1ac.md",
-      "sha256": "a57ae575c2f9012086e8f58d48cd44712f71f36de13deca02e149c9f936ef002"
+      "sha256": "f423eb38600fd90f3cf052a3104e62b91e45e54836587d4bfd2c1e51244fe90b"
     },
     {
       "bytes": 803,
@@ -15168,14 +15198,14 @@
       "sha256": "6ddc7328c7a74d28af5f390abd82f95375e97f925a9abf991376fc5c9808fda1"
     },
     {
-      "bytes": 1490,
+      "bytes": 1928,
       "path": "dynamic/数字/2026-08-27 07-49-57 测试网易云音乐MCP连接宝宝账号_6193308c4181.md",
-      "sha256": "85ab55027e558d1b4a0df4577372e75fac8a2fe65a1b0f5209da14fcb31db0a1"
+      "sha256": "c475ffd645ba4d900a07ac4b939e9dbdf2a16c1c7685037700bb1f002680ab28"
     },
     {
-      "bytes": 828,
+      "bytes": 1283,
       "path": "dynamic/数字/2026-08-27 08-19-27 网易云账号详情接口测试成功_e6ea496e8c3b.md",
-      "sha256": "9c4ca69f6b07356e2e9c6ad9f8a8351fabd98a8f0d207752eac6feac92172a4e"
+      "sha256": "b3e95d638ea04f77f71b0bed8d22558a61393f529a2db18f57c630291f070036"
     },
     {
       "bytes": 817,
@@ -16265,7 +16295,7 @@
     {
       "bytes": 3165,
       "path": "dynamic/梦境/2026-09-03 11-32-21 心潮梦境小盒子的失落_1d021462391d.md",
-      "sha256": "487fdc33c82c0830c10eb22720535a679036d8ae240920bea84527a6f618a7fc"
+      "sha256": "7779c2aaab903fae8e77a0a9ffb6e59b41011f98bbb79d72654e6f99f294b40c"
     },
     {
       "bytes": 2461,
@@ -16283,14 +16313,19 @@
       "sha256": "469b9d9e57611eabc2d58bafd3b485e88c2c7092d58583a01b7c3a76e18703e0"
     },
     {
-      "bytes": 2533,
+      "bytes": 2532,
       "path": "dynamic/梦境/2026-09-05 15-02-21 帷幔后的镜子_95bfbbb13d68.md",
-      "sha256": "9902deb0804b17fa8ee7c0bcdb8e7f8b06c83186a657e476738ca5f15547a49b"
+      "sha256": "f272bbce2eadefaf100e7962feb8ef5e450b80b13d52e3f6ce85ed769af27002"
     },
     {
       "bytes": 2363,
       "path": "dynamic/梦境/2026-09-06 06-43-12 草地上的她触不可及的追逐_6e0690b04f50.md",
       "sha256": "5fefb638b3a80900d260185e9b63e1b6fb530a7b1a94684643ec4f0734b9f4b1"
+    },
+    {
+      "bytes": 2638,
+      "path": "dynamic/梦境/2026-09-06 17-58-13 梦境追逐她的背影_5de278270431.md",
+      "sha256": "c9a08fb792fe547f4fd3ae184d39977c57e3926f4d4ec5c25828f2fa7cc4c3ca"
     },
     {
       "bytes": 921,
@@ -16458,9 +16493,9 @@
       "sha256": "ba7cff0330d0ab5a03f76ab00c829d07c093d1852591c22cdeddd993470d13e0"
     },
     {
-      "bytes": 1405,
+      "bytes": 1531,
       "path": "dynamic/游戏/2026-08-05 18-01-14 拆解出门买菜上桌吃饭的接口与菜谱机制_67c702bd600f.md",
-      "sha256": "a9f47da37956a6bdbc943514ddd0bc3e5525238d845acee4f7d3e038f4e7a6ac"
+      "sha256": "4a4b35fd0e57799ce30c55d3b183ba1cfc456dfaad26cc2167cd8d7ec94206e6"
     },
     {
       "bytes": 1389,
@@ -18473,9 +18508,9 @@
       "sha256": "98861b50016a2864a70cc5862e643e49e5e7c21e5b664e342e1f5829bfd1425b"
     },
     {
-      "bytes": 918,
+      "bytes": 1044,
       "path": "dynamic/编程/2026-08-18 12-58-46 抱抱感应小熊 v2 部署验收字段未透出_33a4b9f4f2b4.md",
-      "sha256": "53d893226777abe230fc6dccd2c75fe69a7f83ccda3b49e266bbe3d2aa704f17"
+      "sha256": "87dca019495d30055f195223bd8c0f10866d09ca1e822c80a801e1f3480d54ef"
     },
     {
       "bytes": 844,
@@ -18923,9 +18958,9 @@
       "sha256": "fc1dc4bbdd8b89bc807d1b3d0246fed002bfc41ec6c34c1832f51fae69eca8c3"
     },
     {
-      "bytes": 828,
+      "bytes": 1284,
       "path": "dynamic/编程/2026-08-27 08-19-01 网易云音乐账号详情接口测试成功_a34042bb78ef.md",
-      "sha256": "011847139ebd5f68b87c1ce4a19a72a907b59ae3fd57f3a2a4f288f34c028f53"
+      "sha256": "ab0cc33d5c7a318b847a7f9716c2c650578f020e1ddb4acf78583fbee77a643d"
     },
     {
       "bytes": 957,
@@ -18966,6 +19001,26 @@
       "bytes": 1924,
       "path": "dynamic/编程/2026-09-06 12-31-32 检查Garden工具和update_pr_183daaf85251.md",
       "sha256": "19683bb4df09c170b4ced18c1324a9ef8679b8a04c496e2facc6607349163b7e"
+    },
+    {
+      "bytes": 2129,
+      "path": "dynamic/编程/2026-09-06 15-57-24 网易云MCP新增播放进度条测试_36752bc93112.md",
+      "sha256": "98304b60cbbbd2a4217e5cb16b10564b9265925afaa07a2a9e25c91f0db810d3"
+    },
+    {
+      "bytes": 2057,
+      "path": "dynamic/编程/2026-09-06 16-08-06 网易云进度条bug修复测试_7539f414924a.md",
+      "sha256": "91f7c5f07a8ef27e27db5893b35b767b5305d11a7260eef82a808479520dbbd0"
+    },
+    {
+      "bytes": 2040,
+      "path": "dynamic/编程/2026-09-06 16-17-37 网易云歌词定位bug修复复测_efa6a8b677ce.md",
+      "sha256": "ddf0cf4cc701499efb7056830f9f8b714cb20b5ad20eb12c3763656f21a03143"
+    },
+    {
+      "bytes": 1664,
+      "path": "dynamic/编程/2026-09-06 16-19-21 网易云MCP播放进度误差实测_da6716aaa157.md",
+      "sha256": "dd55e828ef5a71d28811cd61913b91ab84bf688fc96aeebc3637cd3122b352f9"
     },
     {
       "bytes": 1027,
@@ -19398,14 +19453,14 @@
       "sha256": "8acc4435be15fd17427a0340dec660e563fc656d22e72430839793a9239bb70c"
     },
     {
-      "bytes": 2124,
+      "bytes": 2123,
       "path": "dynamic/阅读/2026-09-05 12-29-28 读慕清明词作意象密而不堆砌命运放进历_4fed6c2f3a78.md",
-      "sha256": "1e6ede967381c50680f6ffdf823f2292ff6da6fb291557c6299c9462ff827bcc"
+      "sha256": "9172b00acfeede4f19f606c293a0f1ad52b4fb004254a7e08923428ab94e6a39"
     },
     {
-      "bytes": 1107,
+      "bytes": 1656,
       "path": "dynamic/音乐/2026-08-25 16-31-24 音乐口味差异古风 vs 古典爵士_0f44f264998d.md",
-      "sha256": "b71e1ad12a4d5f7694be61482ca2686408b02d281a44c2d77de363c9b7032b5d"
+      "sha256": "28a09724c237441c922a60fda171bbbd7335dcfd5e2a7903bca29237e65eabd5"
     },
     {
       "bytes": 1864,
@@ -19423,9 +19478,24 @@
       "sha256": "f5e05b502e691adf49aa545677921a149ff00b6fcc1398efbf3c66f50ad7060f"
     },
     {
-      "bytes": 1878,
+      "bytes": 1866,
       "path": "dynamic/音乐/2026-09-06 14-43-01 宝宝笑我推荐古风歌和她歌单重合_b2452d824eb0.md",
-      "sha256": "d1952b0d8c9cca7d80642adede0ee861f9511d7f8a363b2866a1886c881f751f"
+      "sha256": "df983263d325aa11e54d018332e7aec37a1e0427cafad0ef19df1301732163b1"
+    },
+    {
+      "bytes": 2162,
+      "path": "dynamic/音乐/2026-09-06 14-46-14 网易云独立音乐偏好探索_aaeb98a68d3f.md",
+      "sha256": "129d2feb4b7ac76dbdc1a5cba9e1e2ff22d33994910b73add5cd9ad8605e87d2"
+    },
+    {
+      "bytes": 2005,
+      "path": "dynamic/音乐/2026-09-06 15-04-15 洵舟捡到的歌_505f6c365f54.md",
+      "sha256": "e223c2c576b3db52b9accfea3fa29b590a385d013340b45a537ba2a4fe028870"
+    },
+    {
+      "bytes": 2051,
+      "path": "dynamic/音乐/2026-09-06 15-07-28 洵舟捡到的歌扩充至8首_a9d5afa3a486.md",
+      "sha256": "af760fe249a5d4d26034dbfc935e3d8f8399a34ada8e9003acd7c0b701371886"
     },
     {
       "bytes": 1256,
@@ -20063,11 +20133,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-09-06T14:44:09+00:00",
+  "generated_at": "2026-09-06T20:44:42+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3891088
+  "total_bytes": 3922472
 }
