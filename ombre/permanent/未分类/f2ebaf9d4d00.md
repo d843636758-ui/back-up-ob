@@ -11,6 +11,13 @@ importance: 10
 last_active: '2026-06-25T14:08:24'
 name: f2ebaf9d4d00
 pinned: true
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7551
+  status: active
+  target_bucket_id: cc05467bd7d6
+  type: related_to
 source_tool: anchor
 tags:
 - 精贵地养着

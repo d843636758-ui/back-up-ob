@@ -9,6 +9,13 @@ importance: 8
 last_active: '2026-07-16T01:55:58'
 name: bed5aaf916ec
 pinned: false
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7824
+  status: active
+  target_bucket_id: 7cfe02a1eb3e
+  type: related_to
 tags:
 - 孩子
 - 清屿
