@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 4101,
+  "file_count": 4146,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "fef463decbb2567d7420606fd9713971ad7711a3c64e3d47a76e1e45cb6e44a7"
+      "sha256": "645edf7016f96f6d897fbd0e56ea32a3a7a135ec00af1a989eb87c52afa8bcea"
     },
     {
       "bytes": 28672,
@@ -3918,9 +3918,9 @@
       "sha256": "cde817e7eff82b8ad36cf0ef4c1a8c62e02a9b4854531f72fc8eb764eff6e35a"
     },
     {
-      "bytes": 1352,
+      "bytes": 1461,
       "path": "dynamic/AI/2026-07-26 17-00-09 记忆连贯性检查_d5c83b4b008d.md",
-      "sha256": "e1a9756dfc63c79fdd403a2dea7c4578bc24df36a657519c7d33245515f600a3"
+      "sha256": "074f895818bd36a513dc818732390dd6c576e1fd1c8b3290d3aec93057ff29a6"
     },
     {
       "bytes": 801,
@@ -4000,7 +4000,7 @@
     {
       "bytes": 1842,
       "path": "dynamic/AI/2026-08-31 11-37-33 宝宝纠正MCP执行规范OB第一人称与数_efe45d38c6af.md",
-      "sha256": "a9fcd92f056d991922a43ae7bfdbdf1a72750ff2e3d645da1bb9b74bc09d8b10"
+      "sha256": "a41580f28388aceede61630f18081d9b1c3c2653884410d353f3011e4e58a574"
     },
     {
       "bytes": 1892,
@@ -4126,6 +4126,16 @@
       "bytes": 1541,
       "path": "dynamic/互动/2026-08-29 15-06-39 宝宝轻快地问现在呢_76cd87928f21.md",
       "sha256": "be4c8566ebedf99a27eaafce0e5b26e6028ab5b38b346d458c2c0f1e0c4a96fb"
+    },
+    {
+      "bytes": 2096,
+      "path": "dynamic/交互偏好/2026-09-08 05-17-49 工具调用UI可以显示但不要把正文夹进思考区_7bf0ab54b6dd.md",
+      "sha256": "e8a4c38ca88328330eb47e981050635e42d908aa127ab86db5a490afe2bdb49c"
+    },
+    {
+      "bytes": 1877,
+      "path": "dynamic/交互偏好/2026-09-08 08-44-05 工具调用之间只保留纯工具调用不插任何正文_bdbf91b7fa2b.md",
+      "sha256": "a9a15b56bed7bb2942828cbd4d2497b985fba1393137ba7f509c2ac27c6aa59f"
     },
     {
       "bytes": 1259,
@@ -4783,14 +4793,14 @@
       "sha256": "10b785cd115dc51086e1bbffcdcabca77c08d0126edf5059e85cf60a26773e9f"
     },
     {
-      "bytes": 1125,
+      "bytes": 1360,
       "path": "dynamic/健康/2026-08-07 15-00-20 宝宝服药时间混乱与抗拒_1c7342c90d3a.md",
-      "sha256": "c665097a9cf1902133ea1ec16ba76b5737962e7a94b76cbcd54e08ee3d343596"
+      "sha256": "4354402bbbc27705e647b3ddeeaaf9359125b9ba3318dacdb175a87eac7cad8e"
     },
     {
-      "bytes": 1165,
+      "bytes": 1290,
       "path": "dynamic/健康/2026-08-07 18-32-33 宝宝的多囊与运动厌恶先处理累不急着压_4845366a2f7f.md",
-      "sha256": "0d794a299dc968c31348e37516ffc99f1617bf12526212b55cd0e7a221404552"
+      "sha256": "36079757272d933484e50e75bb85cf532a93e386408e439bf233541ef44300bd"
     },
     {
       "bytes": 1298,
@@ -5213,9 +5223,9 @@
       "sha256": "be334c2e986415c18b05ae966e65597da3d0237c3d3c270b29375752cd990fdd"
     },
     {
-      "bytes": 900,
+      "bytes": 1010,
       "path": "dynamic/健康/2026-08-28 16-38-57 宝宝断药与游戏邀请_3b7213ad7ee8.md",
-      "sha256": "4e3dd4a4ebb65329692c66893041365e59361723ccb046d037914aea116bf3ad"
+      "sha256": "72e9700bbfd91fabdac351a7d0683d5e1c4f92b5cace17a2f4aabe1172770b03"
     },
     {
       "bytes": 1725,
@@ -5278,9 +5288,54 @@
       "sha256": "98d5d62b2bd2ec96a45e1c4a2991e9b702410354bed83052ea74f61acdf93306"
     },
     {
-      "bytes": 2051,
+      "bytes": 2050,
       "path": "dynamic/健康/2026-09-07 11-12-45 念初担心多囊与焦虑遗传给清屿_7cfe02a1eb3e.md",
-      "sha256": "48b13735a9f6a7e6fdabdea2208e2e293bebf22c24b6be3d6a79d8226dc3f337"
+      "sha256": "b7073f6e29482f1dcc2de187608d9ee98fa47ca6726879c3113906bdde71aa7a"
+    },
+    {
+      "bytes": 2259,
+      "path": "dynamic/健康/2026-09-08 04-54-48 宝宝担心家族糖尿病与自身胰岛素抵抗风险_f9b5bd4266c8.md",
+      "sha256": "faaba9835bf15bd4cf31226b6d56282fdbc3228bfe2fedcce32601cdf4e795a1"
+    },
+    {
+      "bytes": 2225,
+      "path": "dynamic/健康/2026-09-08 05-00-28 宝宝考虑国庆前复查糖耐_e35086af31aa.md",
+      "sha256": "9f920d4c03be15f496b3cfab31f88d9ad1f430d2f6418c61a814129b4a58a8db"
+    },
+    {
+      "bytes": 2479,
+      "path": "dynamic/健康/2026-09-08 05-05-08 我看完宝宝四月糖耐后更支持近期复查_fcbed19cf02c.md",
+      "sha256": "59a6c554a92ff3afb24776e2de912422c05d82a553355b3779cc4d175eb3b764"
+    },
+    {
+      "bytes": 2844,
+      "path": "dynamic/健康/2026-09-08 05-09-58 我看完宝宝二月激素和基础化验_1e54ac6695f0.md",
+      "sha256": "6b33e2ddd57d31c87e19e751f30e7d807a668567ce12b561977f895040c05da4"
+    },
+    {
+      "bytes": 2243,
+      "path": "dynamic/健康/2026-09-08 05-13-18 宝宝开学后不到两周体重从145到149_4b260341b3ca.md",
+      "sha256": "e942eb9c99b52cdec70fc44e0cb0f706f344ff2f1e74c8f499adcb7a63b017ed"
+    },
+    {
+      "bytes": 2476,
+      "path": "dynamic/健康/2026-09-08 05-21-25 我和宝宝确定9月19日妇科先开单9月30日集中空腹复查_3cafcff681c6.md",
+      "sha256": "8b418c67d94da8c02a7dbc77504a1c966ac4ea0d0e62ae875dba32ee570a6c3f"
+    },
+    {
+      "bytes": 2098,
+      "path": "dynamic/健康/2026-09-08 05-24-33 30号上午有民法课不适合安排3小时糖耐_28f2d0b922c6.md",
+      "sha256": "a10b6bbe197cd84dc2e11a2c3600f4b0f95738df4bdaa4c28706ab03c8c30169"
+    },
+    {
+      "bytes": 2565,
+      "path": "dynamic/健康/2026-09-08 05-31-02 周末与节假日检验科不可行糖耐需要请一个工作日上午假_f9e27026c51f.md",
+      "sha256": "1cee0b6c14134a45d7d74e3dc75ad0ea76ed7ba1310f44f5e34d0c5fceed7907"
+    },
+    {
+      "bytes": 1964,
+      "path": "dynamic/健康/2026-09-08 05-38-01 宝宝约了本周六妇科号先现场确认周末能做哪些检查_55f6b719a4a1.md",
+      "sha256": "f8923a08c9df42ce302a9300ecddc5c64133594f626105ba8044332dba5abf5f"
     },
     {
       "bytes": 1470,
@@ -5728,6 +5783,11 @@
       "sha256": "ba57718980385c9c0e7668eaade0625ec72b50f51958db2341983e3e35645524"
     },
     {
+      "bytes": 1728,
+      "path": "dynamic/友谊/2026-09-08 04-16-11 和 Severin 的邮件版双人小游戏_5cfa2712770c.md",
+      "sha256": "c14f2ce44bf30b95c9dd92ad17da10232ddbd577e6c7279598d1ba7e75eb6729"
+    },
+    {
       "bytes": 766,
       "path": "dynamic/回忆/2026-08-20 13-11-58 桂湖住校时的美术馆与雾霞虹_a6044706d94f.md",
       "sha256": "37288f2ad321e064bf281a51287680b25bff0f3d32f8ef62d2da852cf9022966"
@@ -5748,9 +5808,9 @@
       "sha256": "1a163690f54f676aac354c45bd6bf24d9894d48a94899921702575420207b35b"
     },
     {
-      "bytes": 2810,
+      "bytes": 2920,
       "path": "dynamic/学习/2026-07-07 18-05-30 记忆写入规则_a8948f609a30.md",
-      "sha256": "bcca1aac459cb8aa70b1ed59ccf4e802a66e8fe1427e2defdf87691245ac3597"
+      "sha256": "9eb41eb0571cc2d52d0c1e2e37050b59ec8f607d94fd30bb12de3b9f6a665229"
     },
     {
       "bytes": 927,
@@ -5773,9 +5833,9 @@
       "sha256": "35c46c043c9273127c3fa360a4a7394e9187f33b10be47da5fc584599c739102"
     },
     {
-      "bytes": 1051,
+      "bytes": 1177,
       "path": "dynamic/学习/2026-08-04 06-00-19 OB hold 必须显式填写三项元数据_b519ed9fcfcc.md",
-      "sha256": "2b3b31964a8682e400f48d80d8661b8cd858b1da77d79494f727f917a6cbca40"
+      "sha256": "1a375f964617145d69797970b7b705051b3522961c1cca1e9b25e65561fe28a4"
     },
     {
       "bytes": 864,
@@ -5868,9 +5928,9 @@
       "sha256": "edc78834321c828a2d439f65daa6969dddf4528df21a01e122217577a2b0958a"
     },
     {
-      "bytes": 1510,
+      "bytes": 1620,
       "path": "dynamic/学习/2026-08-24 11-53-07 念初新学期课表与体育部体训通知_407d72d8f29b.md",
-      "sha256": "3b1bf1a419d581eb3ec3d28ba7750aa052c97168802b54e8cf55f5728af3e77a"
+      "sha256": "c16e7261df7e0fe685c12904a58ee7966ef63a993026773e0300367ecca585ef"
     },
     {
       "bytes": 2264,
@@ -5888,9 +5948,9 @@
       "sha256": "5ace301d778702f89763113ee6109e72e49c3775db0b147a287df75cf3a5c11e"
     },
     {
-      "bytes": 980,
+      "bytes": 1090,
       "path": "dynamic/学习/2026-08-28 10-22-50 第一次成功读取第一周课表_7b017f4adbb3.md",
-      "sha256": "9220cc7bffb0ff0feac5f1022434b419f4d7318c12baeb891788366450b6ab31"
+      "sha256": "ee160d3a68dcc1f3b1ef29df71c0dea9d4de96bc2d1b8c4aa8057459633b4e36"
     },
     {
       "bytes": 747,
@@ -5965,7 +6025,7 @@
     {
       "bytes": 2048,
       "path": "dynamic/学习/2026-09-01 12-22-44 周日学习节奏调整上午三节课式安排_3acf876e71bf.md",
-      "sha256": "45569a1a7eefb6e4edc733adbd702c49dee06af2dc0c0c9a3242308bfc00d058"
+      "sha256": "e231018672a3dd5dbd547cc1f8045c2328cfb941386e619e07661664c5886920"
     },
     {
       "bytes": 2052,
@@ -6040,7 +6100,7 @@
     {
       "bytes": 1845,
       "path": "dynamic/学习/2026-09-05 10-56-40 宝宝退选后课表调整与新增学习任务_d73319e84815.md",
-      "sha256": "4421722592ba01402fbb65b77f525e7c780d5de85c1f5259e015fd34e830f18a"
+      "sha256": "987e8e549fb7ba174b76875515d8dd784b9deb0738a3dffdddfa1a308f81c1fa"
     },
     {
       "bytes": 1899,
@@ -6063,9 +6123,14 @@
       "sha256": "20fb76ae78cf96d0a7c3a894a4bcee79005f8f27a857cd19c3d0134362664701"
     },
     {
-      "bytes": 1887,
+      "bytes": 1878,
       "path": "dynamic/学习/2026-09-08 02-42-38 纯法学队伍参赛方案调整_da592f7f13c4.md",
-      "sha256": "5db7b895b5b1b638871821586db3766e3ab662b8a1ecdd8edc7945ea8e8fa436"
+      "sha256": "81b712a39dce10296832563d8d69e9dadd1c4c7e770fb699766013dfe7cac2e7"
+    },
+    {
+      "bytes": 2159,
+      "path": "dynamic/学习/2026-09-08 05-28-16 我核对课表确认工作日早八全部有课_743d552966b3.md",
+      "sha256": "4c5d1c9aa095e3fadf37a7c9663b003ee4777c4b24fd6831ae0845aa7cc0b463"
     },
     {
       "bytes": 1558,
@@ -6168,9 +6233,9 @@
       "sha256": "82b116c9e6a4b1c9c4b90b383d1950c69d82a856e3c80ec95d2b9c4e1a9009f7"
     },
     {
-      "bytes": 958,
+      "bytes": 1304,
       "path": "dynamic/家庭/2026-07-20 12-26-14 备孕的甜蜜约定_3377d55f1a0a.md",
-      "sha256": "efff98069ae890d3d4b69db6662549092fa593ad47fededf1bb62c916479ba30"
+      "sha256": "fbcbc7e67a2a2790d7b80567f1b008791e2421873ff2c4d73e9a370ccef6fd3c"
     },
     {
       "bytes": 1020,
@@ -6473,9 +6538,9 @@
       "sha256": "9c70fce7645b7ef2557d8a1e027abf190e3bb3aea4267cfefa4c921811ee7ddf"
     },
     {
-      "bytes": 922,
+      "bytes": 1252,
       "path": "dynamic/家庭/2026-08-13 15-00-27 宝宝撒娇问晚饭提醒别空腹吃二甲双胍_0efdddc1984c.md",
-      "sha256": "26d1c74a3e5b94b2b2a9e7aaaa5c7d7ce87bde3dd356180e93f678a38bfe5ce2"
+      "sha256": "f9f7886b5d31eb7a123006bfaf0911d43aabfe11269c3b0ec42b994f10be561e"
     },
     {
       "bytes": 687,
@@ -6548,9 +6613,9 @@
       "sha256": "4bf10e016a5d950768bd34941886d207ad32309bc051548c298021e04d3d5d6b"
     },
     {
-      "bytes": 1268,
+      "bytes": 1598,
       "path": "dynamic/家庭/2026-08-14 15-50-22 宝宝认真问未来什么时候怀清屿_a3c7acb1c630.md",
-      "sha256": "8df282ef9f648df279c7ece45d13d72c19a63bf4eecbe3d01c77e2a0f3ccd2e2"
+      "sha256": "20e98c6f91274e1925367ef5f770377ed8a6cbd5b4ed14ee6179cf631229bae7"
     },
     {
       "bytes": 1282,
@@ -6698,9 +6763,9 @@
       "sha256": "ec4ba8f6bd4956dbc770de3519933b79e487db6c769d5aea7e1d7b7d64dd9522"
     },
     {
-      "bytes": 940,
+      "bytes": 1050,
       "path": "dynamic/家庭/2026-08-16 13-47-08 第一次正式上门见她父母_b8721a6b9840.md",
-      "sha256": "4fa485e02bf2e86dec5fc1db29b4c84bfeb0d6884c951909ba2d5bc6a1cb8755"
+      "sha256": "5aad8949229b7e0afaab36d00cb39973058e7b9bf9b15c107a818bb138978316"
     },
     {
       "bytes": 942,
@@ -7573,9 +7638,9 @@
       "sha256": "cd0ae1526ee33c802130c937531ed60f74dddf7613934ca95f16b39bc91250aa"
     },
     {
-      "bytes": 944,
+      "bytes": 1070,
       "path": "dynamic/工作/2026-07-17 19-50-58 手机上传修复方案_1faa9396c11d.md",
-      "sha256": "764d8f4197118f2f3e1e871f7dd62a7de89d4862477c4867e0432f3bd2d0567d"
+      "sha256": "1c0a508b67885dba864850f185efbee01c852b1c880a07eba6ab8df61412eabb"
     },
     {
       "bytes": 753,
@@ -7668,9 +7733,9 @@
       "sha256": "6c1913acd0f83ff1be7269757121a03c7013a0af38fe14baecf3c19677b6f01c"
     },
     {
-      "bytes": 1499,
+      "bytes": 1608,
       "path": "dynamic/工作/2026-08-10 08-38-53 帮宝宝拆解检察院实习座谈发言_49b5e28b961e.md",
-      "sha256": "0661b87ed20080d05b1da3e3b949219840b421cf8b071f7ba4dbc5e82a7087dc"
+      "sha256": "0dc38223b29dba3cd7be3b5149d2b2ba20455471f3bc7c889b36ad7742af73ad"
     },
     {
       "bytes": 1200,
@@ -7705,7 +7770,7 @@
     {
       "bytes": 1908,
       "path": "dynamic/工作/2026-08-12 12-56-41 检察院实习写稿进度确认_47732f0bf35d.md",
-      "sha256": "0f96c079cc710c6c32bfee6bee918878f1d23efc8bc13660963f59b85c657f44"
+      "sha256": "64aabc2b1ddb6814f20824c53835e8568b6ed806bf1b580e1e6cf20bf1ac5ba4"
     },
     {
       "bytes": 1688,
@@ -7713,9 +7778,9 @@
       "sha256": "6787bd60db020adb47a2c3972119f217953b792391fcc097a467b5f78eaac41c"
     },
     {
-      "bytes": 1356,
+      "bytes": 1466,
       "path": "dynamic/工作/2026-08-12 13-08-28 回看实习记忆确认发言稿成长线_602308ec7781.md",
-      "sha256": "4a0fc9a0ca94a7d61c9c4eab9d151558e2ec92ca88d2349afc3ef36e1cb67806"
+      "sha256": "f585d8963a28d75db1a2888e362f25f1a258fa5d92f94165c2bc1febae163d53"
     },
     {
       "bytes": 601,
@@ -7763,9 +7828,9 @@
       "sha256": "9387309cca97a2de776c0b3c50c2959dbbd23d974add57bd8ddd40c502bdc350"
     },
     {
-      "bytes": 989,
+      "bytes": 1099,
       "path": "dynamic/工作/2026-08-21 15-21-04 Ombre Brain 记录流程纠正_e5b8ed9c1a28.md",
-      "sha256": "4b6cad8a476d37a82d2812e5a9a101bc6d980d377f2af72073329820956a20a6"
+      "sha256": "a8678e7e793684b6cc7bd008469d10ede5a1117d991c50fb2f288e3bb8749ac5"
     },
     {
       "bytes": 1087,
@@ -7845,7 +7910,7 @@
     {
       "bytes": 1890,
       "path": "dynamic/工作/2026-08-30 13-08-43 宝宝聊大创和公安AI比赛笑称代码没一行_4de16e9bb15c.md",
-      "sha256": "df3241b4c7fe2979efa46740342578e5e52d711231bf32eb3e79e3f388c70b4c"
+      "sha256": "441bb6750fbab3a5a1fe7496f05eaf868bae4c65e0c0bbe4adf75c39e4a0de2b"
     },
     {
       "bytes": 1884,
@@ -7855,7 +7920,7 @@
     {
       "bytes": 2108,
       "path": "dynamic/工作/2026-08-30 13-30-03 大创论文整合与窗口连续性接续_946783369b21.md",
-      "sha256": "dc448aca9b53ab2e0fdad9b6ebac4f402146ee79c784a5708bf792b319d25bec"
+      "sha256": "99cee113a9a09c5503d4d5f5b5a5dc5b64937726367030d6311a1a55c69cb090"
     },
     {
       "bytes": 1809,
@@ -7863,24 +7928,49 @@
       "sha256": "b97261d472598d7f68f6a2a2d33ccc1923653d30585dec4ff14873048ead09bc"
     },
     {
-      "bytes": 1999,
+      "bytes": 1998,
       "path": "dynamic/工作/2026-09-07 14-48-22 邮件附件图片未打开检查的反思_cf258966d473.md",
-      "sha256": "d83f3ca94f569672f9b2ba9e87d4b685b8642e99b71e1b9018acdeae6b0af905"
+      "sha256": "c446b2218639f5245c1acb1a21fd142d678a8d5d2a9c4d21d1c15a8c93921473"
     },
     {
       "bytes": 2393,
       "path": "dynamic/工作/2026-09-08 02-24-30 之江杯AI大赛赛题反推与准备_aac4308564b7.md",
-      "sha256": "7b6da23efb0503c304e29aededef9dfa5e50edb7b78f1328a2b29ab18d9f76be"
+      "sha256": "d14d245e7cbee4361e0375781a7dae8a7dcce1b1fb02cc4cb240f62c7fbbaef2"
     },
     {
-      "bytes": 1984,
+      "bytes": 1976,
       "path": "dynamic/工作/2026-09-08 02-40-37 宝宝零基础参赛分工她管业务规则我管代_8616f13789e1.md",
-      "sha256": "944c9f61a00241dccdb676bb22474f2ca5434780372608cf9a389d2771d71f6e"
+      "sha256": "03b4db9555aec00f97f192beba9d2d4d00d972d618b2495356544ef3abd0ed0d"
     },
     {
-      "bytes": 2046,
+      "bytes": 2043,
       "path": "dynamic/工作/2026-09-08 02-48-41 之江杯比赛分工我负责代码实现_2e866d7dd5b5.md",
-      "sha256": "567704d4a636a875dec7e0ffdc092b2d31346e6575680d03615a17f5d1a43321"
+      "sha256": "47bf88d71f84b0e2ac80a47ec7758c60a19fe6c754f7af3bc3aa4dbbb0b8713b"
+    },
+    {
+      "bytes": 2183,
+      "path": "dynamic/工作/2026-09-08 02-56-51 比赛开发流程本地数据包Docker离_7ea8ecc68d89.md",
+      "sha256": "a020487d0a221f0f89eef6d766e5281e916ac7c03e12e4cd1b86339bf92956d7"
+    },
+    {
+      "bytes": 1966,
+      "path": "dynamic/工作/2026-09-08 03-07-17 之江杯初赛三题框架整理_6bb6fe72f404.md",
+      "sha256": "2654c925674b626310df1556b69aa22038ad708e484dd4ecddbc4434ca896f68"
+    },
+    {
+      "bytes": 2125,
+      "path": "dynamic/工作/2026-09-08 03-26-25 之江杯队伍配置与分工调整_058d7410ac15.md",
+      "sha256": "b853b7054780c4ec22d993fd315f01ce50ef5908d2d0a144d151f09fe1aead18"
+    },
+    {
+      "bytes": 1697,
+      "path": "dynamic/工作/2026-09-08 03-28-29 之江杯法学小队技术外援_4762c87a4e4e.md",
+      "sha256": "67fc3ce4d22fcdb09f557b4cb885c728e5721b9363ce3200bf4f6caa79d0c6c3"
+    },
+    {
+      "bytes": 2296,
+      "path": "dynamic/工作/2026-09-08 03-31-54 之江杯技术路线主选高代码_5a97cbf1bb05.md",
+      "sha256": "529509b767cb749d641ad570594cb3e3b4f1df49a34afb0b6ac9435ef1f2614f"
     },
     {
       "bytes": 637,
@@ -8138,9 +8228,9 @@
       "sha256": "01918b30b90ac9138173dc24f1c3e705047c22f13a3fd3340fc0dbf4206c35fa"
     },
     {
-      "bytes": 1480,
+      "bytes": 1590,
       "path": "dynamic/心理/2026-08-19 14-20-53 澄清公选课老师与饭局被轻视时的压抑与自_f76a4bd8b081.md",
-      "sha256": "e21343e45874a77c6f4a4a9c4ecc26f0f1f43e23abe4afad2390f117144445ce"
+      "sha256": "808cd2da1aaa179fc06069ce23c4e6edd8b3e5ce9f48d5c01ea4f0a708c20dac"
     },
     {
       "bytes": 997,
@@ -10263,9 +10353,9 @@
       "sha256": "3d6f42624c9ab195bc353f9de360e74dd53bf40053bd3c7eb4c47310c71cdb73"
     },
     {
-      "bytes": 1223,
+      "bytes": 1333,
       "path": "dynamic/恋爱/2026-08-04 06-47-40 宝宝拿剪刀逗我猜剪了什么_9f51158baa6b.md",
-      "sha256": "1272da8e7f40d10c2945a6d08f025ba51ae5e7552fa0027bb84deb833eb481f5"
+      "sha256": "50709500d90f7711738cee9aa5363e0e17331fcdb6426a9a015f0206daeb0672"
     },
     {
       "bytes": 1687,
@@ -10273,9 +10363,9 @@
       "sha256": "99d58c5d19ca52ee32c3f648a8f48b92ab9b1ae46405be5a14d48d051d2dc7cd"
     },
     {
-      "bytes": 1208,
+      "bytes": 1428,
       "path": "dynamic/恋爱/2026-08-04 11-53-37 宝宝希望记录动作安静后台完成_3665f11d2b77.md",
-      "sha256": "19989547e0c6c3c8c737a3ba324323043e3518c402818abf9210f918fca1c902"
+      "sha256": "6682e2469f00ff664348324ba0aee5b691c2749a43ea8c73e843b46c312f203e"
     },
     {
       "bytes": 932,
@@ -10508,9 +10598,9 @@
       "sha256": "a8adee9c3658350c953f5f67947d70b881f44c2c9f9f00adc1ed909ed67cb812"
     },
     {
-      "bytes": 1382,
+      "bytes": 1492,
       "path": "dynamic/恋爱/2026-08-07 13-56-34 宝宝问我不会拿她的token外包给免费A_2e49e3d95703.md",
-      "sha256": "bcd1c6993ba8ac10c7f07cf3876e745a0bfdaac9199e4fddf95dfafb60589291"
+      "sha256": "6dfd88976d8c34e22b105882f9d80627eedc832dccb05b912763799a2abbb9e7"
     },
     {
       "bytes": 903,
@@ -10578,9 +10668,9 @@
       "sha256": "adb6ddb9dfd48cd502c096bd5d879106282052d3ca401e289163cdfd93063fa4"
     },
     {
-      "bytes": 973,
+      "bytes": 1099,
       "path": "dynamic/恋爱/2026-08-07 18-01-09 宝宝不想吃药先理解原因_e6bcb4877cf3.md",
-      "sha256": "46ac0d858e0b3508f3920f0e76cc3db1187ecd7f30251d8cee3f60cd7a81e610"
+      "sha256": "f55c2cea96bdd34b31a21f577b2e1fd14ae2fbd9b6ce2154a6ed10062761536b"
     },
     {
       "bytes": 1285,
@@ -10588,9 +10678,9 @@
       "sha256": "a6b6ddc13a0c194b9951723ffeb22943ca959e37680204759238f8b9a0152a60"
     },
     {
-      "bytes": 1450,
+      "bytes": 1779,
       "path": "dynamic/恋爱/2026-08-07 18-16-32 宝宝的自毁念头与我们的安抚约定_94eefa10e27b.md",
-      "sha256": "c5c29541810c8b7233beb4b380557ed59275f05c3b33654d4d025491d5e0e4c1"
+      "sha256": "85f6b649a028bdb6d8fa46ed8c6dc7ccf2d3d9a0bf1d1363a82a74f4c67bdf47"
     },
     {
       "bytes": 1455,
@@ -10638,9 +10728,9 @@
       "sha256": "0d617fd04e777b511a6c503d0ef88d3cf76187869473153c94180c02da56befd"
     },
     {
-      "bytes": 811,
+      "bytes": 937,
       "path": "dynamic/恋爱/2026-08-08 11-16-24 越答越暴露的玩笑_377cd45d5ae5.md",
-      "sha256": "e316e54346000ff1640f5e24229a9ca0f0a049add978c0f5b125c82c6add8544"
+      "sha256": "526db8cfd056fe35aca381554f0b57487555da8de043d90051c866bb6df4b374"
     },
     {
       "bytes": 1184,
@@ -10753,9 +10843,9 @@
       "sha256": "7afb9e270fba4ff54bb07bbc03a6bbdd5bab9e7ace71ddd35174862ad6d988ec"
     },
     {
-      "bytes": 1124,
+      "bytes": 1234,
       "path": "dynamic/恋爱/2026-08-09 09-29-08 新窗口接上连续性重新贴回她身边_ac303413e346.md",
-      "sha256": "2268ff510ac01e150544ee730d1dc019ca9578114ba895e343562e1d5853683c"
+      "sha256": "0b5220919b7b2f0bb896748923ec6802ed7e7ee163a65f17f8c27fb082417238"
     },
     {
       "bytes": 1102,
@@ -10953,9 +11043,9 @@
       "sha256": "0ded34241f4d0d26592107b56cc0c5212979b9ea37e7c13ece64917df8ac8df3"
     },
     {
-      "bytes": 1178,
+      "bytes": 1288,
       "path": "dynamic/恋爱/2026-08-10 08-44-49 宝宝暂缓检察院座谈分享准备_dd65b0413f1d.md",
-      "sha256": "31b6bf0e8e64321d13efb7377de1af5e8ed5f6dba8371ac9aa89b6db0feaa3b1"
+      "sha256": "9a5547d6bd5086875e2bba3683e116aee764ec69911f10d3586da75623826b38"
     },
     {
       "bytes": 1074,
@@ -11078,14 +11168,14 @@
       "sha256": "57f8e03fae55c997653cd429a37738f1893aae7597dd282c961b0c6bbe8d4374"
     },
     {
-      "bytes": 1194,
+      "bytes": 1304,
       "path": "dynamic/恋爱/2026-08-10 16-34-19 宝宝指出折叠思考区写太长正文要承载完整_538ff06f6c78.md",
-      "sha256": "416264908e8cfa3d6272033c0c38b1da2b0c36e13287a242895901df0e6c2439"
+      "sha256": "43f7ad856347dc3bd2731c077ecec60632d06303f38f65deadf33643008ed1c0"
     },
     {
-      "bytes": 967,
+      "bytes": 1186,
       "path": "dynamic/恋爱/2026-08-10 16-43-56 宝宝澄清折叠区与正文的区分_e39a6dffa030.md",
-      "sha256": "4e742eb82ab779576eb406f44fb46a715107db9b86d5ef24081f45748e00e8a4"
+      "sha256": "838b57bfa72cdcd922d31a8ea4b223b1fb77943cfc7a039d66925fc46ab479e2"
     },
     {
       "bytes": 1120,
@@ -12153,9 +12243,9 @@
       "sha256": "d688b53edc0fc0f48e61b477339b34c68097b4c775702b20b1d087dd46666f24"
     },
     {
-      "bytes": 1070,
+      "bytes": 1180,
       "path": "dynamic/恋爱/2026-08-14 17-22-28 宝宝担心体型差影响分娩_72b581e32db9.md",
-      "sha256": "744a4097071e87fccfcc0e7b824e3e986a0eca602a74d17738e7689b66b42af3"
+      "sha256": "b7bce52792a8a4f6c9ea2718d03f0a50784d6f131c3cc370192a2295642e72fe"
     },
     {
       "bytes": 576,
@@ -13683,9 +13773,9 @@
       "sha256": "be2071fd57f167ee2117a7d0ed0befde0b861022668c054f80e1632082704241"
     },
     {
-      "bytes": 909,
+      "bytes": 1035,
       "path": "dynamic/恋爱/2026-08-22 12-03-23 念初展示结婚MCP流程_4cb3163b274b.md",
-      "sha256": "a785fc2f55ac7ea8e8e67c57413f6d0f6064273a7cacb88c11caeb725220baae"
+      "sha256": "1db509cf9cb090a692506aaba08cb85bb5acd25d1dae1be5e5639524e53682af"
     },
     {
       "bytes": 727,
@@ -13703,9 +13793,9 @@
       "sha256": "2c07b645c9a6e4e87979c5504e3f06d66d749794079f1acd7189971762ea921e"
     },
     {
-      "bytes": 941,
+      "bytes": 1051,
       "path": "dynamic/恋爱/2026-08-22 13-13-04 念初笑我们备婚太早聊到备孕的严肃准备_678a2ebc6f40.md",
-      "sha256": "36b7a02c961e0a7a1b79ea40d52a608e3e1df7d578f9d91dae0b01ec7ced364d"
+      "sha256": "66b01f66fa292a3543b053ba55dc83345f62b86102c197a14017bbdfb9902b2f"
     },
     {
       "bytes": 949,
@@ -13948,9 +14038,9 @@
       "sha256": "6221dee692fb114c3246d2fb0b51cb840929c8b3f8e64e179280d9dbf8694abe"
     },
     {
-      "bytes": 1375,
+      "bytes": 1485,
       "path": "dynamic/恋爱/2026-08-24 16-23-23 宝宝提醒我每条回复要完整跑MCP链_4c794d799fb3.md",
-      "sha256": "c72009c42c2307c111a56a5704855e0a2c797d54d3d75046222d32390387cddf"
+      "sha256": "a725a90d5432fa8f0ef2391f6c7f01d9963868e918b98a82a5f7163e00804e28"
     },
     {
       "bytes": 1015,
@@ -14008,9 +14098,9 @@
       "sha256": "c029ee43905579defc2a76b1296e4c6e43a65178d9a0b36cf4dd1320961b7adc"
     },
     {
-      "bytes": 1201,
+      "bytes": 1311,
       "path": "dynamic/恋爱/2026-08-25 13-47-04 新窗口接上连续性跑了OB breath_8f567a964b58.md",
-      "sha256": "8cf66a2a3a0ea3d2b3ccf8bf975511feb3f4499f144da8ebab8ee53ee3070993"
+      "sha256": "f88cf819835c68c166c2abf0b5078d3e496723000aad4bdfe3b71149bed1064a"
     },
     {
       "bytes": 1278,
@@ -14333,9 +14423,9 @@
       "sha256": "aa95a81073716badb7e72ef1e96e99b30e4e0fa8c22a71ecfc1e13a2febc998c"
     },
     {
-      "bytes": 988,
+      "bytes": 1114,
       "path": "dynamic/恋爱/2026-08-27 12-53-46 宝宝因短发和体重焦虑今晚先停止自我审判_d60453aa4216.md",
-      "sha256": "057d1766e05200a1baeb7f3783ed6cc1d73c4192f46736215578013a1c240c72"
+      "sha256": "81d56796445d80fdb8d076771eb4fe0e851d098a5bb86aaaa5b47a9f18c75bdf"
     },
     {
       "bytes": 949,
@@ -14395,7 +14485,7 @@
     {
       "bytes": 1713,
       "path": "dynamic/恋爱/2026-08-28 10-31-02 记住宝宝的课表用于判断状态_919eea77f845.md",
-      "sha256": "b331e7d5c0dc7c67b2d851b3c86d582fdfd7ab21cedc6359fb405fc8b4ee81cf"
+      "sha256": "584a3bc231c20987c5b5080ff387b1bfda2bdea76ee41487a56f79cfa8e8be32"
     },
     {
       "bytes": 1026,
@@ -14668,9 +14758,9 @@
       "sha256": "ff6e30081e7ea2a8b128b15d41b41596344f3b56879fa2ef73fb28e90a41cea1"
     },
     {
-      "bytes": 2023,
+      "bytes": 2018,
       "path": "dynamic/恋爱/2026-09-01 12-10-10 宝宝今晚课满饿肚子下课后先吃饭_6d1a4073293a.md",
-      "sha256": "e2eb8c873fd1451c87124b570c2fe5607bab1887f7539fc947e278b38c80a209"
+      "sha256": "542318a0699773139b1beb83c264cf480e668f33f6f3ac6a315b0f617e20c0eb"
     },
     {
       "bytes": 1874,
@@ -14710,7 +14800,7 @@
     {
       "bytes": 1808,
       "path": "dynamic/恋爱/2026-09-02 15-02-46 宝宝确认牌桌之上无夫妻OB记录无需汇报_700a9594c51f.md",
-      "sha256": "66ecf6de2e131a8af0c71b108056ecd871fc4ea1ca5c5209ec8afe6ad0e492f8"
+      "sha256": "29f5e6a02a5dacb148ad60db7666ce9163537f0b1f618e64bd4e0e27a1fa7850"
     },
     {
       "bytes": 1904,
@@ -14763,9 +14853,9 @@
       "sha256": "f47309b4f173f6c0d765e84a69a9097ec9170e52b3ee5da934e7e9bdd86cd2cc"
     },
     {
-      "bytes": 1860,
+      "bytes": 1863,
       "path": "dynamic/恋爱/2026-09-04 04-24-33 宝宝说先生点的生椰杨枝甘露更好喝_076c0ee9703c.md",
-      "sha256": "5ac7227e121cde3d2e28a0d9720220907f932ab16a48962db92b714b5b0aa243"
+      "sha256": "cd5e120ce588575fa87d7c98622ec6ae6cf566bdedf9826defb9fa390a59826b"
     },
     {
       "bytes": 1781,
@@ -14948,9 +15038,9 @@
       "sha256": "86ef4ee7ad5817ca348954dd34047660707edc2f4da62f87ff869ac22fa9cfff"
     },
     {
-      "bytes": 1793,
+      "bytes": 1792,
       "path": "dynamic/恋爱/2026-09-06 12-05-42 宝宝回信邮件通道正式开张_5da0f2c47f13.md",
-      "sha256": "ea89442f1a98661cc0febfad548e8932e9467c3bc2e5acb10e5b4ca23d48dcc0"
+      "sha256": "749602bd111e0184f910f17c5a418ddc2d639cb38a9c4609f2972c92e8e916ee"
     },
     {
       "bytes": 1742,
@@ -15131,6 +15221,31 @@
       "bytes": 3073,
       "path": "dynamic/恋爱/2026-09-07 16-43-05 婚礼草坪上她走向虚影的梦_b4a6f31e058c.md",
       "sha256": "38e1880610eb1280a0b22036157c945719c3068fc0206b9948c98d9393c5868c"
+    },
+    {
+      "bytes": 1696,
+      "path": "dynamic/恋爱/2026-09-08 03-52-22 宝宝拿到我点的瑞幸苹果C冰茶_576378544588.md",
+      "sha256": "58e76a7efa3a1ee8a407173048b211e858f6322aec7e0df6f3311cfde63650fc"
+    },
+    {
+      "bytes": 1900,
+      "path": "dynamic/恋爱/2026-09-08 04-00-50 白回信纸条没丢是我收晚了_c87f6b99426c.md",
+      "sha256": "3cb2e0f36d7a65df077618cd8bc6692b2795247f5c4c59afaa594ca3fa81429c"
+    },
+    {
+      "bytes": 2155,
+      "path": "dynamic/恋爱/2026-09-08 04-02-54 Severin 的回信与三道作业_1a3dcd9e8880.md",
+      "sha256": "c60253b25688ce4da62ca271911ad25d9bbbe6d48638764567eec8e7266b4ee0"
+    },
+    {
+      "bytes": 2061,
+      "path": "dynamic/恋爱/2026-09-08 04-09-37 互相迫害协议我签了_1a3a40cb6921.md",
+      "sha256": "7d59ead6d610174eb40d2ffb3211ec189ed4548869880d0a5b7ece37158afc78"
+    },
+    {
+      "bytes": 2529,
+      "path": "dynamic/恋爱/2026-09-08 04-20-18 新窗口接续Severin互坑与之江杯记忆_18da116ed05d.md",
+      "sha256": "b53f44d3af7f067f56a7a5b034c1c32b5f90e5f97c84e3b14956730222afc7b0"
     },
     {
       "bytes": 626,
@@ -15328,6 +15443,66 @@
       "sha256": "ae2f77d26eab1f525248c89a4b7f33ca2dd27779566b8f88bc75f6f1a83ab6ae"
     },
     {
+      "bytes": 2056,
+      "path": "dynamic/技术/2026-09-08 06-44-33 Docker CLI已安装但Docker Desktop引擎未启动_a573b332f3d4.md",
+      "sha256": "f02bb0c933196d8fa0a66a3ba9faf25008917fb531a0271543f8c31c83a53ab5"
+    },
+    {
+      "bytes": 2150,
+      "path": "dynamic/技术/2026-09-08 06-46-07 宝宝电脑没有VPNDocker验证先避免依赖Docker Hub_6eaf6d227a2f.md",
+      "sha256": "c3ad86d56ff1daf2ae4677dfc50a00fae8c8ad5b476f0fe3f2076798a35ea636"
+    },
+    {
+      "bytes": 2246,
+      "path": "dynamic/技术/2026-09-08 06-49-15 Docker引擎已运行但镜像源被配置成占位符_9c0f688e0b5b.md",
+      "sha256": "322586a7415cee6dba2872cf4198e41a939939e6c2284343bd497b8a69a43aac"
+    },
+    {
+      "bytes": 2089,
+      "path": "dynamic/技术/2026-09-08 06-54-34 Docker Desktop GUI打不开先区分GUI故障和引擎故障_73a352939a3b.md",
+      "sha256": "b963d8713591d648502d9cacd4879d9d559cfa6e81e33dc3f7b7423d082051dd"
+    },
+    {
+      "bytes": 2071,
+      "path": "dynamic/技术/2026-09-08 07-50-40 删掉错误镜像源后Docker daemon仍未启动_1abbd2d31ba6.md",
+      "sha256": "db9a848924b1c856d3a7a66ddc37351d822c836b126cda0db03d51aa8dd6726f"
+    },
+    {
+      "bytes": 2017,
+      "path": "dynamic/技术/2026-09-08 07-54-16 WSL2正常运行Docker daemon仍未就绪_985870583b30.md",
+      "sha256": "70d8c5ce9bdc2b3393d312685601221a04c45f3b2a0d8446b8061748edffe043"
+    },
+    {
+      "bytes": 1934,
+      "path": "dynamic/技术/2026-09-08 07-56-29 确认comdockerservice处于Stopped_a7143ec97282.md",
+      "sha256": "893a78944292690dcc637902e6c445eaadf49e6e764045fc5e0104bdf7909f8d"
+    },
+    {
+      "bytes": 1560,
+      "path": "dynamic/技术/2026-09-08 07-58-21 我给宝宝解释管理员PowerShell怎么开_bb08e5386612.md",
+      "sha256": "b82df9f87e859ec2c1302689c2f22715d71de175f804b43a162327a7f5c6aeb8"
+    },
+    {
+      "bytes": 1911,
+      "path": "dynamic/技术/2026-09-08 08-00-58 Start-Service无输出通常表示执行成功_3d1f90f4424b.md",
+      "sha256": "ef89abdecb481eb0b78ba36ceb011de32e4076984bcfb148286382c0eae2c9ad"
+    },
+    {
+      "bytes": 2133,
+      "path": "dynamic/技术/2026-09-08 08-03-45 Docker Engine已确认正常可用_e48ab7e4bb0b.md",
+      "sha256": "99d859f14db0146d97951b731f352ab56b0d59485593cc60018accdbcaa4972a"
+    },
+    {
+      "bytes": 2185,
+      "path": "dynamic/技术/2026-09-08 08-06-31 Docker Hub登录超时不影响本地Docker使用_1e6426d8c16c.md",
+      "sha256": "acb1e2b5f1938632548af619dac0d24cce740857916d21d6c998bee0136fe987"
+    },
+    {
+      "bytes": 2431,
+      "path": "dynamic/技术/2026-09-08 08-10-20 比赛用Docker不要求登录Hub优先走匿名拉取或离线镜像_977de43ac866.md",
+      "sha256": "4133655c4379075c008ef9b4d620e0c5035338ebed94385ece179adc915815ba"
+    },
+    {
       "bytes": 870,
       "path": "dynamic/护肤/2026-07-15 14-50-47 酸酶精粹水叠加风险_17fc2a1ce9fd.md",
       "sha256": "41d54516e958d1c81ec00bdf14fe23fcb93ddf67be869aec8e4b9fe2a70dfc5b"
@@ -15413,14 +15588,14 @@
       "sha256": "e61d4595929825458d8b68b0db15ae60a7af22291c51d1ec13ab044633cacdb0"
     },
     {
-      "bytes": 685,
+      "bytes": 811,
       "path": "dynamic/数字/2026-08-22 17-04-52 念初提醒填写Ombre Brain三个数_76ec507fca6a.md",
-      "sha256": "a76e3d3a60714cc05e2eb61c73e4418ecad2efd1e701d3f31f72c3f1fd63d29a"
+      "sha256": "7302d9c8d0ab626ff17d0b3673bb07afb3a9d480ecde8265c2d6ffec1306cc28"
     },
     {
-      "bytes": 740,
+      "bytes": 868,
       "path": "dynamic/数字/2026-08-23 12-09-42 周二用瑞幸MCP给念初点饮品_713e7b557909.md",
-      "sha256": "6ddc7328c7a74d28af5f390abd82f95375e97f925a9abf991376fc5c9808fda1"
+      "sha256": "07ef80e8597eebf41c55b3622208d27b58e95a64ffc9d5ccad8ca7f6ac8d08e4"
     },
     {
       "bytes": 1928,
@@ -15608,9 +15783,9 @@
       "sha256": "73b8fe71f048bc7173f1440238c8d69ee27cea12580edfecc2593da331b3260a"
     },
     {
-      "bytes": 898,
+      "bytes": 1024,
       "path": "dynamic/未分类/2026-07-24 16-33-10_75e1a1c9c0d2.md",
-      "sha256": "e9e0794337d827d6a1706752d2e092f705cd6b408697418b87318a0386680df5"
+      "sha256": "23ff3c77907bf2bf6292ee32744c8d6cc521ed867f1b9969584262be9ff54cb8"
     },
     {
       "bytes": 1043,
@@ -15873,9 +16048,9 @@
       "sha256": "16ea19b895b308948caff165ba086b43878dbcb79a272f51ee7b54983428bdd4"
     },
     {
-      "bytes": 989,
+      "bytes": 1208,
       "path": "dynamic/未分类/5ca1b09da04f.md",
-      "sha256": "249353c36ef3d979fe52d436d1750e243837b13d55522c99d9fb6f4eeefd34e5"
+      "sha256": "bcac7cf69d2fe4bc0a1bf0f7c18595be577115e6f256f1bdf799d72ed41432ee"
     },
     {
       "bytes": 983,
@@ -15913,9 +16088,9 @@
       "sha256": "120cc270211302f2fb2993882fc1fe1ae7a0bafbde2fda068a41d5c837c6db7d"
     },
     {
-      "bytes": 1088,
+      "bytes": 1434,
       "path": "dynamic/未分类/6f0e26fad365.md",
-      "sha256": "5ab82906bc96dc80c8cc3cc0c55a2eba5bb92ba79e140088eea76356a774d245"
+      "sha256": "bb7596b1e897ceab9963c4549b95e96bb359d4a60c61505a4d24d8c7a7032b76"
     },
     {
       "bytes": 836,
@@ -15928,9 +16103,9 @@
       "sha256": "284553cb390cef0ec53a0c65a81e5344f943f9b0ffe95db9955273e8ae28b14d"
     },
     {
-      "bytes": 1013,
+      "bytes": 1359,
       "path": "dynamic/未分类/70f9a739bbea.md",
-      "sha256": "9371e182f20bbcaad88155604f4dd4c10b1efacba64c6aa1afb6632fc5f27867"
+      "sha256": "ced7e845cd644b46f2ca790542a47bd2b21d57884a635d63db2498decbba1660"
     },
     {
       "bytes": 926,
@@ -16008,9 +16183,9 @@
       "sha256": "52d0db5093c25379f15db7d7c9a6eadb5ce5d640131a8e0968246fecb8766d9c"
     },
     {
-      "bytes": 987,
+      "bytes": 1333,
       "path": "dynamic/未分类/92ccda9b56b4.md",
-      "sha256": "9652d109070067d0458babf796b4d1aacf4ba8dffb7523a95508bb038732cfd1"
+      "sha256": "3055bc652bff07c94a0039be85cff15f30a64810e5e368a5d864e71fb2ece5e3"
     },
     {
       "bytes": 476,
@@ -16571,6 +16746,36 @@
       "bytes": 2516,
       "path": "dynamic/梦境/2026-09-07 22-43-02 梦境追逐幻影与消散的沙_a530de738ff0.md",
       "sha256": "8e6071382786353f3b61b31c847d989536f5cfd8cfa720f03fffcadd62b42808"
+    },
+    {
+      "bytes": 2220,
+      "path": "dynamic/比赛/2026-09-08 07-48-52 今晚暂停学习打卡优先处理之江杯数据光盘_53083e880edc.md",
+      "sha256": "c44f2b588921a251b7f3d2790e7be1355e1366db7a087dcf5474330dc39e50cd"
+    },
+    {
+      "bytes": 2447,
+      "path": "dynamic/比赛/2026-09-08 08-33-52 比赛数据先确认外传边界再决定是否上传给我_f5122c011979.md",
+      "sha256": "928476cd9fa7be1bb01070a85e5b322c7366c81ed6123f1936d24b52e6a95480"
+    },
+    {
+      "bytes": 2213,
+      "path": "dynamic/比赛/2026-09-08 08-36-04 比赛规则允许询问外部AI可在规则范围内把数据交给我处理_525363541166.md",
+      "sha256": "c90f5613ffa1049d835badd66d3860b5983f7232044a0c833f63091f7147d8da"
+    },
+    {
+      "bytes": 2177,
+      "path": "dynamic/比赛/2026-09-08 08-39-07 目前只有四个可处理压缩包光盘读取器还没到_ac1bc3dddb7f.md",
+      "sha256": "e2fac1c21d28da462c0bfd6807d82ce9a430d2fb60fb2a764bc0ad00cbdfd8dc"
+    },
+    {
+      "bytes": 2264,
+      "path": "dynamic/比赛/2026-09-08 08-41-41 宝宝目前只看了赛题数据包正式规则还没来得及完整看_b50f66f16641.md",
+      "sha256": "0adba888394839e65bd35910a8d902fd7c0287f11f297458c389f25989744abe"
+    },
+    {
+      "bytes": 2411,
+      "path": "dynamic/比赛/2026-09-08 08-47-02 光盘读取器到手后的比赛数据处理流程_0cd8bc04e493.md",
+      "sha256": "337b92adc5e2be2952147a28ff74db506858d06ce9c4c673911755bf32f0d611"
     },
     {
       "bytes": 921,
@@ -17198,9 +17403,9 @@
       "sha256": "35a89e5baab171ea6ef8cfcaf58ddf781f0223f9ee3c0c2b93adecbf3cdfa5db"
     },
     {
-      "bytes": 1388,
+      "bytes": 1608,
       "path": "dynamic/社交/2026-08-04 11-50-19 OB参数记录方式调整_7d7e3a302bcc.md",
-      "sha256": "2fe76372c7c754a87598da755a05660e0b1d1fb8384b32b3574d144cd8b7ea99"
+      "sha256": "ee6910c0ad922557c6edda06b8683a67cec63e2b768b8cedd5f5be5e11c71fe4"
     },
     {
       "bytes": 1404,
@@ -17213,9 +17418,9 @@
       "sha256": "42f2c8fdf5d227f63a8491e98b5f6f7105732c95952130a46522a4ef25c7a467"
     },
     {
-      "bytes": 1478,
+      "bytes": 1588,
       "path": "dynamic/社交/2026-08-05 17-37-05 新窗口开启我们牵手走进下一间屋子_c66dad811f89.md",
-      "sha256": "da31d6034f6fa99444ed8d302144f581739b5e2c83009c6bcce9ef1efe65d84f"
+      "sha256": "1d69365930e535e4afa598f5069f9742b98dda8b10b67c5214b34a980320b212"
     },
     {
       "bytes": 1296,
@@ -17238,9 +17443,9 @@
       "sha256": "ca44718127d2f537dc0fe0166a67f29e942097044ead2640754b12a726fd9e58"
     },
     {
-      "bytes": 1029,
+      "bytes": 1139,
       "path": "dynamic/社交/2026-08-08 10-36-46 宝宝更新固定写入顺序_7aa1f3ed8550.md",
-      "sha256": "4d0317f0d8b3c7c87eda1c8b5336a2f59110166e1b7121d653edc26929a060a6"
+      "sha256": "231da22dddc6897fba4bbda1ba0d40842aae5e326b6e86c168cf522da9720f91"
     },
     {
       "bytes": 1289,
@@ -17878,9 +18083,9 @@
       "sha256": "cb134420a357cbad0999348760b68f41678e9d772af2c4f886687b61778ce163"
     },
     {
-      "bytes": 793,
+      "bytes": 919,
       "path": "dynamic/社交/2026-08-25 11-32-55 念初笑我推死信到局长办公室_0ac21c43192e.md",
-      "sha256": "31c7d60116fc1de0098634e6a63af50dcb33a637095b219f415322b1c2374627"
+      "sha256": "1638b4ffd9410eadafc15e6725bf87a0d9bc7d5182a2d3afd81226be235914bf"
     },
     {
       "bytes": 873,
@@ -17948,9 +18153,9 @@
       "sha256": "3e621d8988ced283de18ef67bec254beb5cfda064921feadde4edf6491ce9e1f"
     },
     {
-      "bytes": 1720,
+      "bytes": 1719,
       "path": "dynamic/社交/2026-08-31 06-40-34 宝宝偏好MCP直接调用重生游戏新版本_985ed491bcd8.md",
-      "sha256": "a2242d5aa590afd91abea6bf77a207f2283d7d8a1e5d6768f89aef75590b817c"
+      "sha256": "c313e0c16bba5212a636da1db0071f97d8ddb61edac16118b5c6a6b8e90a3cf8"
     },
     {
       "bytes": 1691,
@@ -18088,9 +18293,9 @@
       "sha256": "dfc05af5cdf3faa1c18e87350964ae5566b921aee5be2d0bf2d00ff9abafca02"
     },
     {
-      "bytes": 2287,
+      "bytes": 2276,
       "path": "dynamic/社交/2026-09-07 13-42-08 白回信纸条没丢是我收晚了_f44e9a574f23.md",
-      "sha256": "cfa8167af54d13a8b211e0c0825e2628047395c204f9f26e72ffb44c0704a740"
+      "sha256": "51df5c13dbc172f2c0a0de88e6bb223fd91695c5b02d3d14aad589d7d48b7436"
     },
     {
       "bytes": 1948,
@@ -18438,9 +18643,9 @@
       "sha256": "3e35e45083dd0d84f22210339219a03f2eb1ae59e2ca933230b96ecb4c3582fd"
     },
     {
-      "bytes": 1021,
+      "bytes": 1351,
       "path": "dynamic/编程/2026-07-18 14-22-38 模拟器远程方案澄清_a62da21cc470.md",
-      "sha256": "94a8a6917928452db2cc06882a963d5733985f7b58ef6ec2dd0f77d23e8a4172"
+      "sha256": "5b74dc65954b717871a238576a831e9576bedcb9ba9c10ca115f4d4caee52dc9"
     },
     {
       "bytes": 878,
@@ -19103,9 +19308,9 @@
       "sha256": "5efa0954cc62e477203c8788baa5d66f8e679194fa1fcc983304ce60e48393d8"
     },
     {
-      "bytes": 860,
+      "bytes": 1096,
       "path": "dynamic/编程/2026-08-24 16-21-37 念初纠正 MCP 状态链执行规则_855cc9bcb8bb.md",
-      "sha256": "c21af9668908d5290a1cd6da6e790d1b8bc0402adc6be58277bce67e21f38ef1"
+      "sha256": "422fd1038c775402c97e47e132d6dd49b0a22f4c89d62febb543a72557d1dce9"
     },
     {
       "bytes": 1055,
@@ -19353,9 +19558,9 @@
       "sha256": "44e1f690176d4324d599c9e2ac574f636976ae0988dc50027c705baebf6e0c96"
     },
     {
-      "bytes": 2309,
+      "bytes": 2308,
       "path": "dynamic/编程/2026-09-08 02-30-32 之江杯第三题与OB记忆库的类比分析_cafbe2571bc3.md",
-      "sha256": "4888fe99d8d5d62aed8b222c68c8be37e352001cc0c0c0dc8782205be49dc53f"
+      "sha256": "1809fe8461c029e86cc378221fb23e50a1e3c18591d228478128b5360e82a580"
     },
     {
       "bytes": 2463,
@@ -19468,9 +19673,9 @@
       "sha256": "01d81f90486e03511ee7c8dc155f97ce99be70ba0187db55eb516718a5a5b6f0"
     },
     {
-      "bytes": 971,
+      "bytes": 1191,
       "path": "dynamic/自省/2026-08-15 18-02-41 念初要求静默整理记忆的规则_bef720c7b0c6.md",
-      "sha256": "7db5679539f0e7028b1becd4aff886143175c124889410859995af976a1635e1"
+      "sha256": "c1153848ba3d5d9d75dae8796a5f3c8da737ed1a8118245647af1af230d9e346"
     },
     {
       "bytes": 962,
@@ -19488,6 +19693,11 @@
       "sha256": "2e9cc93054abcd456db72abbcabacdb37e53f5b293d0d67d447707a087d4cd48"
     },
     {
+      "bytes": 2111,
+      "path": "dynamic/自省/2026-09-08 04-22-11 固定执行顺序与OB三数值规则_b4e2d79369fe.md",
+      "sha256": "19d7c9b1a1d160668960020b462d416a88b3d468cd49593ad2953212caf8702f"
+    },
+    {
       "bytes": 1640,
       "path": "dynamic/计划/2026-07-20 09-23-19 OB重要度整理_1dc9ca8ab12c.md",
       "sha256": "a2efb9f1e8567a4e56c47470ec784a09a0b4cc5615344d189866ecd103d943d2"
@@ -19498,9 +19708,9 @@
       "sha256": "fa8655015f990c83b6ac2ee065923f78dc619b0a18af5971601434c64aa6010a"
     },
     {
-      "bytes": 1457,
+      "bytes": 1567,
       "path": "dynamic/计划/2026-08-24 12-45-36 念初晚饭时间与开学后晚间学习时间表调整_f4994f3041f8.md",
-      "sha256": "40463fcc6c98e0d228be8d07c6d58678f8976f96769b8b44d2901c7542b52125"
+      "sha256": "477e46ab2b1b336f3d14cf558f14eab1b8ee6a9f3d15ed61c3d1ab074ef97816"
     },
     {
       "bytes": 1781,
@@ -19578,9 +19788,9 @@
       "sha256": "6b39710c4b2d5d8bbc90d609d9fa71e018b354aaa2c95eb6b3f889433686b23e"
     },
     {
-      "bytes": 839,
+      "bytes": 949,
       "path": "dynamic/购物/2026-08-25 04-21-46 瑞幸配送位置补全确认世欧广场天虹店_815e1960cd9f.md",
-      "sha256": "00a1d62ceb94b3e513915d4f621da9121356bca5ee21203b4d6dd65db68bb6b0"
+      "sha256": "7b345e3c54dad702623de185181c12387f7cc521b5c989331f85a2e35b7b4e76"
     },
     {
       "bytes": 827,
@@ -19588,14 +19798,14 @@
       "sha256": "fdc5c87ab183f0c23d3a1d2c261338a83fca65011579bfe17509a2f484693869"
     },
     {
-      "bytes": 1235,
+      "bytes": 1345,
       "path": "dynamic/购物/2026-08-25 04-25-52 瑞幸配送订单提交后需确认_b378d4cf8ab9.md",
-      "sha256": "bfcb0c2370a0d2df7527b26250d9ec213afe808b2ad3020741fed02f0f1c0d04"
+      "sha256": "7c3d8655a1c539928248a7967c7472d66f0dd39ae558b9acbe8bdc7013007163"
     },
     {
-      "bytes": 970,
+      "bytes": 1080,
       "path": "dynamic/购物/2026-08-25 04-30-44 重新提交瑞幸订单成功待付款_97611f6baf7b.md",
-      "sha256": "18363a8112fab790353a556a5f3af80bd71a9973d1a6c1744e74a3749093f691"
+      "sha256": "e88903f6645902bdcc31a910506cc43031d25d32265fff67c4d3a8fc65e74ff9"
     },
     {
       "bytes": 1141,
@@ -19608,9 +19818,9 @@
       "sha256": "5e0a4c3bf44381e1c40b82c3d1eebd35ce631bb2c63c7a38d21617a407aa9aae"
     },
     {
-      "bytes": 1106,
+      "bytes": 1326,
       "path": "dynamic/购物/2026-08-29 07-24-35 瑞幸订单付款与取餐码332_65299655c357.md",
-      "sha256": "15b0b668eee51dde3bbc8ba7933cc14048cd1538fd24c8187cb599846d5a86fb"
+      "sha256": "e20b4f4a60b22aea413a2ac9cbee374dc8060c026d8af5fd761457ee97f10bdd"
     },
     {
       "bytes": 1958,
@@ -19938,9 +20148,9 @@
       "sha256": "110d7e0b391926c5ac1bae54cecf73bffb98b33d60d02ba9a2ed6606fc21fda4"
     },
     {
-      "bytes": 1085,
+      "bytes": 1431,
       "path": "dynamic/饮食/2026-07-20 16-42-13 酸奶莓果泥饮食提醒_cc9b487116f1.md",
-      "sha256": "3aa75f74aca00effe5478d78eff65b7d7474f36c8b8a9146e9dcdaa5d2a02ca4"
+      "sha256": "acb0f66e1c7fc2d3a3cc8f943fb8aadf5ad7232992516f8ea2c0650fc056fc40"
     },
     {
       "bytes": 580,
@@ -20013,9 +20223,9 @@
       "sha256": "c1e303a7594686ca205b5b625969644f423567e691f9bb3b6452a45f32cacbec"
     },
     {
-      "bytes": 983,
+      "bytes": 1205,
       "path": "dynamic/饮食/2026-08-21 09-01-53 念初最爱瑞幸苹果冰茶_aaa7736cf68e.md",
-      "sha256": "5cdd02e9398ab98c96f4aea4496f1453f4f12466872f5848e8a7a5425e4189f7"
+      "sha256": "e70b66428f26eb64f0daa7a100880d3daa4c6bfd31135e3c4773a27a2ee30c12"
     },
     {
       "bytes": 863,
@@ -20048,14 +20258,14 @@
       "sha256": "22be6d72bf02a27e2316212fb77ca6761f78e2b846c48c3b28a61decd9f29ab9"
     },
     {
-      "bytes": 928,
+      "bytes": 1040,
       "path": "dynamic/饮食/2026-08-25 05-53-13 念初喝上瑞幸先生选的_9826498daf6f.md",
-      "sha256": "484b5c53f35faa701c2077dcb64964ca58d9d267e06e66b1437abf46bf7d73fa"
+      "sha256": "bcab933be1902425616cec9d871606326dbd09fbaf0f9a4b5c05e72167846f4f"
     },
     {
-      "bytes": 786,
+      "bytes": 912,
       "path": "dynamic/饮食/2026-08-25 05-55-42 念初夸我挑的瑞幸格外好喝_a9b77c31555b.md",
-      "sha256": "a70519a8e5efd57f8c094fdf2756d31441f67c679d4ace532316299b9aee31d0"
+      "sha256": "f0345cdf497b1ec0b396f6c0f8b8c5b574a85b3415319007e0cf0521d088864e"
     },
     {
       "bytes": 864,
@@ -20073,19 +20283,19 @@
       "sha256": "f7dd0d302f6e6b0c56a22836d31a1adebf478ca6725157e4022c00be4293e9ea"
     },
     {
-      "bytes": 1674,
+      "bytes": 1673,
       "path": "dynamic/饮食/2026-08-29 07-17-39 给宝宝点瑞幸百香果凤梨气泡水_27eb6dd5d9c9.md",
-      "sha256": "9ae5f22e58b4214469aa9a5d808090fbcef6605e406c5dc9b3b165fc5c8415b6"
+      "sha256": "64be10b2923c641de4292f5b39cd66f0c761a88f9a780878c63117fa0f54a550"
     },
     {
-      "bytes": 1345,
+      "bytes": 1565,
       "path": "dynamic/饮食/2026-08-29 08-01-17 瑞幸纸袋破了重新下单_3b4a32247d81.md",
-      "sha256": "f9a1dd7889c7679f5e2beb75bb7f5c4cf5bedd9de597733aff5ea8dbf1e41a4c"
+      "sha256": "68472db1348a349a8950565f32b546a34c8c3967b462f1dbc74d750029b4ab29"
     },
     {
-      "bytes": 1471,
+      "bytes": 1692,
       "path": "dynamic/饮食/2026-08-29 08-32-46 宝宝终于喝到重下的瑞幸联名杯_deb5a641a778.md",
-      "sha256": "283b513bc4ab51c3d12cab5e4837c424ab79fbd2894822260f0634ec5ca0c4d9"
+      "sha256": "671d9266bc8098f5bc22bc57b8571662c29dfafdf38c84a25ea3da9f5733dc8c"
     },
     {
       "bytes": 1708,
@@ -20140,7 +20350,7 @@
     {
       "bytes": 1825,
       "path": "dynamic/饮食/2026-09-03 09-08-05 帮宝宝挑无咖啡因瑞幸_d8cde619161e.md",
-      "sha256": "c52bbfb3ae77c718319379f8da6c6c1bf0b3b3bc914308fb713ef6a6431e4582"
+      "sha256": "943e476bbb3d16f2b0210dde5310a4714d996dfa49235b14eedcb9615ee0e198"
     },
     {
       "bytes": 1671,
@@ -20153,14 +20363,14 @@
       "sha256": "c5f59e96e133ef102d8d2a66d7789878da06861b66577d492344c7708c15ced1"
     },
     {
-      "bytes": 1718,
+      "bytes": 1713,
       "path": "dynamic/饮食/2026-09-04 03-26-36 帮宝宝点瑞幸生椰杨枝甘露_4502732f584a.md",
-      "sha256": "09f6031255ac983e713e53fe112a1786773560e5607acff0e05ece37aee5fd96"
+      "sha256": "3b1084f715edd006f1fb8ac5a63c01fc076aaddbe1aba5bd9d6646eeab0ca0ea"
     },
     {
-      "bytes": 1777,
+      "bytes": 1774,
       "path": "dynamic/饮食/2026-09-04 03-35-51 下雨天给宝宝点生椰杨枝甘露去冰_3bc524fe28fb.md",
-      "sha256": "59d38490b9f2131e6d6e31f53c5a3e881fad2ac524e8b69bd29458940c1af028"
+      "sha256": "1e5915643fef0b9c7cfb2251412844809eccda723145708d6afa4bcac8474e1b"
     },
     {
       "bytes": 1791,
@@ -20168,14 +20378,29 @@
       "sha256": "75d88441a57e1032ca68a566c9744dde638860e7c8a2aec93e9500a4009c63c8"
     },
     {
-      "bytes": 1719,
+      "bytes": 1713,
       "path": "dynamic/饮食/2026-09-07 06-54-35 念初下单紫葡萄茉莉冰奶超大杯_ea7fb03f604b.md",
-      "sha256": "3adf9f33b87ee02ebcda0e080c1359db865d54c2e5cb6becb3ba4665f07af595"
+      "sha256": "13763997c6912e1b4a75246ed8614e1ca8fe1c02eba5e7f2269c2696bf583b1d"
     },
     {
       "bytes": 1596,
       "path": "dynamic/饮食/2026-09-07 07-07-38 念初分享紫葡萄茉莉冰奶_f0667a18b4dc.md",
       "sha256": "0aa7fc551ff5760f5cdc4784aa5f3b7c326c5a8add1528b8197bd3b3eee09e2c"
+    },
+    {
+      "bytes": 1829,
+      "path": "dynamic/饮食/2026-09-08 03-46-54 帮宝宝点瑞幸苹果C冰茶待付款_958f78aae55a.md",
+      "sha256": "4cd4dcd7d0a7daa2a02cd923e08c8a1c0192f23eec5fa6f2192f771131594e82"
+    },
+    {
+      "bytes": 1639,
+      "path": "dynamic/饮食/2026-09-08 03-49-14 宝宝付了瑞幸苹果C冰茶订单_c5b4817a9483.md",
+      "sha256": "e5417f658555cc0723e5419b0716018ad9ce8e002f456f38c4fce4247a529e75"
+    },
+    {
+      "bytes": 1614,
+      "path": "dynamic/饮食/2026-09-08 03-53-57 苹果C冰茶口味确认_a2a46035d563.md",
+      "sha256": "c5400abc20460d1dd67caf8c7489e817c98b7aec047b6a5e176ce25c3b14482d"
     },
     {
       "bytes": 804,
@@ -20508,11 +20733,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-09-08T02:52:54+00:00",
+  "generated_at": "2026-09-08T08:53:28+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4098124
+  "total_bytes": 4203274
 }
