@@ -9,6 +9,13 @@ id: ffe9614d6c0c
 importance: 8
 last_active: '2026-07-16T01:59:48'
 name: 宝宝与AI的关系定义
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7993
+  status: active
+  target_bucket_id: 0ad3bec798c3
+  type: related_to
 tags:
 - 爱人
 - 关系定义
