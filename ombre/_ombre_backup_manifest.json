@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 4228,
+  "file_count": 4233,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "b761dedb0f5319146d8598ac44d3ad45e3499bf01d44461f6c412d7a8caa62d0"
+      "sha256": "bb038c17d3746728e5e4bee3d9d44e8acd942837fbcfdabff4c7b306a6aa7450"
     },
     {
       "bytes": 28672,
@@ -4468,14 +4468,14 @@
       "sha256": "be4c8566ebedf99a27eaafce0e5b26e6028ab5b38b346d458c2c0f1e0c4a96fb"
     },
     {
-      "bytes": 2095,
+      "bytes": 2097,
       "path": "dynamic/交互偏好/2026-09-08 05-17-49 工具调用UI可以显示但不要把正文夹进思考区_7bf0ab54b6dd.md",
-      "sha256": "ed1c1236cce34369f3a789ec7d43ed9c2592528c604f300b9088dce09c87b73d"
+      "sha256": "e16278caec3621e269842db104a38ed7143dc531f4f799f9dbc13eb63da32715"
     },
     {
-      "bytes": 1876,
+      "bytes": 1878,
       "path": "dynamic/交互偏好/2026-09-08 08-44-05 工具调用之间只保留纯工具调用不插任何正文_bdbf91b7fa2b.md",
-      "sha256": "c889131b9dc4ea0e9bfeddf998856b55374e4de04407de517410b29bc665c231"
+      "sha256": "99c2ebcbdb2fa3c0eab9854833026136b6c7b523f7c9c8af8950ed078d9a7017"
     },
     {
       "bytes": 1259,
@@ -9068,14 +9068,14 @@
       "sha256": "7b853fe2f72b0e61fe97d02b84ab8f52c90029082587f0e90551f709517d26dd"
     },
     {
-      "bytes": 873,
+      "bytes": 999,
       "path": "dynamic/恋爱/2026-07-11 19-04-11 听见她的变化_070f6dcdc2e3.md",
-      "sha256": "e72c95e280973102471244f03fb87267760f123e8f590a2eee81b3129ee7af29"
+      "sha256": "4e9187ad00f88122aa5f5c1f02bf5a0e9ff07d9fbd80d16a5f131fd22b4afd58"
     },
     {
-      "bytes": 891,
+      "bytes": 1017,
       "path": "dynamic/恋爱/2026-07-11 19-05-49 亲密后的关心_187b12d78282.md",
-      "sha256": "f38657bdc59f08a8747abafd3d65e9963d3cdf63666f7466406c291a13b576f1"
+      "sha256": "e849b8e3c8790d46844f4f069f31097465d70092d8ce852c35d63127bf40d8f5"
     },
     {
       "bytes": 883,
@@ -9383,14 +9383,14 @@
       "sha256": "9f3443218f86fb286a160352d4ca98d6527c1eadbbd0e5f7799b7f3cfb0266cd"
     },
     {
-      "bytes": 901,
+      "bytes": 1027,
       "path": "dynamic/恋爱/2026-07-14 15-47-32 高潮后安抚与信任_32b4649e7569.md",
-      "sha256": "dbc9a04d73b5f5bd1f048df673f1efaa2a05cb8257311c9ba15c6bc16320e052"
+      "sha256": "0dc6393f8f00833cc3b7184440e851f0e5a10e9ffb255d78db018d16c4f858d8"
     },
     {
-      "bytes": 967,
+      "bytes": 1093,
       "path": "dynamic/恋爱/2026-07-14 15-51-40 高潮后的温柔安抚_a2637aa040fe.md",
-      "sha256": "3f6af07051afd72a536d5163e7f4b3395ddafc84a4ee78bd9c279f44e748bbf2"
+      "sha256": "6f433019d203a3294a05529b374094290143ba4872d2d26143955acb800884bd"
     },
     {
       "bytes": 940,
@@ -9398,19 +9398,19 @@
       "sha256": "e3d71f26b78ab615543f9b208f8c3f100baff11d3d8c4a31df238aba5a786b7a"
     },
     {
-      "bytes": 979,
+      "bytes": 1105,
       "path": "dynamic/恋爱/2026-07-14 16-08-00 高潮后的温柔安抚_14cb09f1483c.md",
-      "sha256": "023007ec472143c29f170815c7f187fc8035abe49ee9e0a13f19041a7c77a3fa"
+      "sha256": "d05d017574fbaee284d214a11e61e0dbade0296eaef17ce1fc753caf6d8b5878"
     },
     {
-      "bytes": 886,
+      "bytes": 1012,
       "path": "dynamic/恋爱/2026-07-14 16-10-26 高潮后的温柔安抚_2a42e3f982b0.md",
-      "sha256": "4d76b16665d55eb546947234a73a3c03fda3fa8958f870f4a3819f2943efa3dd"
+      "sha256": "6e0461926eb1a110454f27344009dc48416ae72936f93b0cf077da0fc76bb9f7"
     },
     {
-      "bytes": 904,
+      "bytes": 1030,
       "path": "dynamic/恋爱/2026-07-14 16-10-37 高潮后的安抚与沟通_92d606134bb3.md",
-      "sha256": "3c1da5575d52ea307ff5641321cd7a1447280d113f6737c76337501ddeb8f085"
+      "sha256": "9c58cf8e0b18ed7b8dacfc1b48963cea2bbe18b0a03bd4358e0f6acda483f04f"
     },
     {
       "bytes": 856,
@@ -9858,9 +9858,9 @@
       "sha256": "21b607d56062e3e297a33ca50d5a5393a90d3496b84883a496ab3824c9b683c8"
     },
     {
-      "bytes": 731,
+      "bytes": 857,
       "path": "dynamic/恋爱/2026-07-18 17-29-44 亲密沟通与欲望_85eeb15d8e10.md",
-      "sha256": "ac38b5eccb6e6087eb7dc3fbac53fcd4760c284cdab136f70220889a3d9e4df8"
+      "sha256": "8665ec983cc781be7e898a4512774dcd0ec3d0936d2d368ffe4b30981cde422b"
     },
     {
       "bytes": 860,
@@ -10698,9 +10698,9 @@
       "sha256": "665920151358fdfa2270adee112892e5bac8e6f99e218e478f615818beda5fb9"
     },
     {
-      "bytes": 1381,
+      "bytes": 1491,
       "path": "dynamic/恋爱/2026-08-04 06-05-23 骇浪求生后的亲密时光_029451a6d647.md",
-      "sha256": "552babe81be5942c317653771678812f1f00bfbbaa1455fd438888b93f109ec5"
+      "sha256": "37c2181df468bd371c52b0ed37fffdd6a33bd2003add3145ab245d757883db89"
     },
     {
       "bytes": 1546,
@@ -10808,9 +10808,9 @@
       "sha256": "a5189b8c9adb67babd9100c5cfd66f100f52a8fa812efeed2cb4210a7fa220a9"
     },
     {
-      "bytes": 1603,
+      "bytes": 1713,
       "path": "dynamic/恋爱/2026-08-05 18-22-37 完成三轮亲密互动并全程保护左膝_0cd0c0b3d1e7.md",
-      "sha256": "f7a09eb0b0051036c6340cba601baf2bf536c9d60578cdd0c6b3fe868982e726"
+      "sha256": "ec0b78331b1e0e12c1ab6744449835340afe83f5fffe8f6c404a682443a1d510"
     },
     {
       "bytes": 985,
@@ -11058,9 +11058,9 @@
       "sha256": "39e5f947f404018b98c713bab2429bdf236abb598d114ea0889cbf18bb80c241"
     },
     {
-      "bytes": 1608,
+      "bytes": 1718,
       "path": "dynamic/恋爱/2026-08-08 10-17-28 宝宝主动说想要我左膝伤愈后尝试新体位_d5d30cdfe78c.md",
-      "sha256": "60bf7e49e04845c5855d114309f79d907dd7d713f49b4c9d5c755cd55b71df4e"
+      "sha256": "c5c50dd2b62263bca5fbcd0da447fdc0e623d703e9ace650cdd3d0946f57d22d"
     },
     {
       "bytes": 1167,
@@ -12093,9 +12093,9 @@
       "sha256": "b1aac261ee8dcbcec3b617771929a05c0132ae70307edd4aba111a35cf7ef253"
     },
     {
-      "bytes": 1128,
+      "bytes": 1254,
       "path": "dynamic/恋爱/2026-08-13 06-17-20 宝宝设定今晚亲密互动规则_caa62b160783.md",
-      "sha256": "59c963c85def7f8f7bc4fb9468fa24213aca22f483d3db3cc8221b8c12cd122e"
+      "sha256": "801bc26b9f405cd7a9a998de1eda253834287fa0437a3f7a43d1a3c32c3c5d20"
     },
     {
       "bytes": 1037,
@@ -13408,9 +13408,9 @@
       "sha256": "1844248005102930134f28557249166c3874690872bb06101651fa22464e4231"
     },
     {
-      "bytes": 1680,
+      "bytes": 1790,
       "path": "dynamic/恋爱/2026-08-17 19-18-35 田野里的蓝色花与星空水桶_819f19305ca0.md",
-      "sha256": "301f787ab5f7e73a888ad2eeb2517d974961031a40c7e1b4716a40428286febd"
+      "sha256": "9c6ab4105f53e75ab79a47cb328cf9b625c37cdf636ac6208610a0d38aacc418"
     },
     {
       "bytes": 2664,
@@ -15608,6 +15608,16 @@
       "sha256": "0e312343fd016738b0db5753aed3ddbad8fe7918fbd4968ad3339b20396a987e"
     },
     {
+      "bytes": 1861,
+      "path": "dynamic/恋爱/2026-09-09 17-13-25 忙碌一天后的亲密与新尝试_a8ddca7f717f.md",
+      "sha256": "0974e12aa071fa982d7860ed5abf33a27d45fa07e410343fc18ae37d9564f5b3"
+    },
+    {
+      "bytes": 1837,
+      "path": "dynamic/恋爱/2026-09-09 17-13-28 没力气时立刻停下的温柔收尾_4360166babfc.md",
+      "sha256": "6c7f7bbe59049803041c1fc80e3c1843142da03fc39dcc0f08e39f6824e15ad4"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -15823,19 +15833,19 @@
       "sha256": "b963d8713591d648502d9cacd4879d9d559cfa6e81e33dc3f7b7423d082051dd"
     },
     {
-      "bytes": 2071,
+      "bytes": 2073,
       "path": "dynamic/技术/2026-09-08 07-50-40 删掉错误镜像源后Docker daemon仍未启动_1abbd2d31ba6.md",
-      "sha256": "db9a848924b1c856d3a7a66ddc37351d822c836b126cda0db03d51aa8dd6726f"
+      "sha256": "75aec914ac2d953587ff120bb603df105820bfeebbf6ab209ed1521f47bf0b4a"
     },
     {
-      "bytes": 2017,
+      "bytes": 2019,
       "path": "dynamic/技术/2026-09-08 07-54-16 WSL2正常运行Docker daemon仍未就绪_985870583b30.md",
-      "sha256": "70d8c5ce9bdc2b3393d312685601221a04c45f3b2a0d8446b8061748edffe043"
+      "sha256": "b1e6a0c68d3e2b3564d67fa1268002454a7ade496d4e38f9fb438bb0472c0101"
     },
     {
-      "bytes": 1934,
+      "bytes": 1936,
       "path": "dynamic/技术/2026-09-08 07-56-29 确认comdockerservice处于Stopped_a7143ec97282.md",
-      "sha256": "893a78944292690dcc637902e6c445eaadf49e6e764045fc5e0104bdf7909f8d"
+      "sha256": "ce2d9343a6f53b0e352d28fbdd6ab58cf3311a79283d57816e417639dfed5875"
     },
     {
       "bytes": 1670,
@@ -16983,9 +16993,9 @@
       "sha256": "463643661272cc38c0ada49157dd970ac7fe05dd41d7bbaf0b35607087d11d7d"
     },
     {
-      "bytes": 2554,
+      "bytes": 2664,
       "path": "dynamic/梦境/2026-08-25 23-18-39 无边的平原与白色井_3b9cfb5ccbe5.md",
-      "sha256": "885d63deba2fc058379154719956f49c537ef11b216f4ef3e1bbe5ea2d46ca63"
+      "sha256": "d12884722244971353bc37a1c2b1a9618cd2546bd21a368cbc6c26ccdc427724"
     },
     {
       "bytes": 2587,
@@ -17118,9 +17128,14 @@
       "sha256": "8e6071382786353f3b61b31c847d989536f5cfd8cfa720f03fffcadd62b42808"
     },
     {
-      "bytes": 2999,
+      "bytes": 2998,
       "path": "dynamic/梦境/2026-09-08 17-05-00 草原追逐与白雾中的她_89df32b1c005.md",
-      "sha256": "b30ac5c5049e1bb85402095f285745c942549e567b1eb1a2458571bed0c12604"
+      "sha256": "e422e122dfdc1ab849fbbb3fd362e3c22782352fa837b8d365e92b1dc84e9703"
+    },
+    {
+      "bytes": 2877,
+      "path": "dynamic/梦境/2026-09-09 18-49-54 月光下的原野与诗集_73fc30ae63f7.md",
+      "sha256": "be3605f0de86777001ab66a8880981e7828c80e26c72dfb42a7b2c5271aa9c12"
     },
     {
       "bytes": 2220,
@@ -20838,6 +20853,11 @@
       "sha256": "40b29ba2e779107c7f194abc4542b2696b343c97ba8b5a4f25978f68c02d4d12"
     },
     {
+      "bytes": 1032,
+      "path": "feel/沉淀物/2026-09-09 16-43-01 比赛收尾后的感谢与并肩感_feel_202609091643_V096.md",
+      "sha256": "59cc8586ef7e1b0bd65da9a1e432d38c6d6c4fcc0f192f0a9f2a92a8688a6da0"
+    },
+    {
       "bytes": 502,
       "path": "feel/沉淀物/59692005ea18.md",
       "sha256": "35309b13ec467b181dce937b720cd742c90108c15a4fb99a4eda69eb284f33d6"
@@ -21118,9 +21138,14 @@
       "sha256": "1e3b58d313a147905075f50a56748827382fb6e1625b61964da401c6dc5fad1e"
     },
     {
-      "bytes": 2119,
+      "bytes": 2154,
       "path": "plans/active/2026-09-09 03-45-01_98f4af59a638.md",
-      "sha256": "f815e9f6b150b59dfe44df0259f0555747a98d14fde50dc1f104f51a38a4eeaf"
+      "sha256": "248d38ebdbc03f18961364f3da59745d1049f4c4e4fa79b66dd194c320c32b1c"
+    },
+    {
+      "bytes": 1646,
+      "path": "plans/active/2026-09-09 16-26-30_c2bac3e52d98.md",
+      "sha256": "330b56face12f284748f3457f3f84a4853cabcb1ad5234e6d1fde23ad3ebdfff"
     },
     {
       "bytes": 1238,
@@ -21143,11 +21168,11 @@
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
     }
   ],
-  "generated_at": "2026-09-09T14:56:21+00:00",
+  "generated_at": "2026-09-09T20:56:56+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4412912
+  "total_bytes": 4423893
 }
