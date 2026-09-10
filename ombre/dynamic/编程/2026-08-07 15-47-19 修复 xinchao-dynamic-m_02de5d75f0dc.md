@@ -9,6 +9,13 @@ id: 02de5d75f0dc
 importance: 7
 last_active: '2026-08-07T16:54:59'
 name: 2026-08-07 15-47-19 修复 xinchao-dynamic-m
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7821
+  status: active
+  target_bucket_id: 5a303039b65a
+  type: related_to
 source_tool: hold
 tags:
 - technical-maintenance

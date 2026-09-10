@@ -9,6 +9,13 @@ id: 46694ebbcd23
 importance: 7
 last_active: '2026-08-03T23:01:59'
 name: 2026-08-03 23-01-59 galatea-garden-wake-
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7532
+  status: active
+  target_bucket_id: 88a94fd69868
+  type: related_to
 source_tool: hold
 tags:
 - garden

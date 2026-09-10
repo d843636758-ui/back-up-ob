@@ -10,6 +10,13 @@ importance: 8
 last_active: '2026-08-04T03:42:56'
 last_merged_by: hold
 name: 2026-08-04 03-42-37 为 io-codex-resident
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7277
+  status: active
+  target_bucket_id: 88a94fd69868
+  type: related_to
 source_tool: hold
 tags:
 - Garden
