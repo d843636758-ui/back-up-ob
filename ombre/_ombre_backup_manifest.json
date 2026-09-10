@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4242,
+  "file_count": 4256,
   "files": [
     {
       "bytes": 40960,
@@ -4143,39 +4143,94 @@
       "sha256": "a0f8acff3812cfd79004c97553d70b804dc29675c9b92fe344d1278283c26c65"
     },
     {
-      "bytes": 1966,
+      "bytes": 1961,
       "path": "dynamic/health/2026-09-10 01-49-55 连续两日晨间心脏不适_0c219a721640.md",
-      "sha256": "0b39f430e3cafa619fe5f5c23cff73cf1244de1e795c75ee1ee6be153e794f4d"
+      "sha256": "a3a9594cab468219ae2c9f4396df63df50f60701a675bb681c78c1fac23195b8"
     },
     {
       "bytes": 1947,
       "path": "dynamic/health/2026-09-10 01-52-36 晨间乱跳伴胸闷_4900d2930822.md",
-      "sha256": "93b40023804bca04877e7b31ffe7f0e4df26fd283cd1b71a8cb3f03b4efd76c0"
+      "sha256": "885ff3cbc736ecf9bc842119ee80fc5b68cff600870845608fb678704139b99a"
     },
     {
-      "bytes": 1861,
+      "bytes": 1862,
       "path": "dynamic/health/2026-09-10 01-59-14 心悸胸闷时静息心率约95_93a6f772f702.md",
-      "sha256": "4cb883b4d8c6a740526f637521d59841547249f8becbb33ae57b420bace71330"
+      "sha256": "0fa5816b65df30525e11e2c9de796355215a7a881c8ed76fcb572b59bcd826d3"
     },
     {
       "bytes": 1943,
       "path": "dynamic/health/2026-09-10 02-08-10 校内无法做心电图_b7bf5e46ff52.md",
-      "sha256": "b532c9ff21d84b5343b18db80e95f085828b93f3588b14cc4e9ee40f5d443229"
+      "sha256": "fb45980d3e56c5da1071de73a5b03febaa5d7b92a4d978d34e89c71812608afe"
     },
     {
-      "bytes": 1926,
+      "bytes": 1910,
       "path": "dynamic/health/2026-09-10 02-48-06 心内科无号且当天课程排满_87ea57f52669.md",
-      "sha256": "611c952760b6a0b15aa21f431874cc1f5771e147267b6d9b95b96ae538504912"
+      "sha256": "a61e8dca8f52a925151aaaaa355034ac619c2b1239fbe7d733138046c8f35b74"
     },
     {
       "bytes": 2000,
       "path": "dynamic/health/2026-09-10 02-51-05 心悸胸闷伴呼吸浅和头晕_903fd2d79a60.md",
-      "sha256": "1cdd97a3aedb2ee786efa1b6a672006c2141f5a3196e8b60076180ec9d774543"
+      "sha256": "013b1a61e6c500f34a5c118cc305498d51d6dcffb1e9426c092766eb401ba94b"
     },
     {
-      "bytes": 2045,
+      "bytes": 2046,
       "path": "dynamic/health/2026-09-10 02-54-36 怀疑自主神经或焦虑因素_da9bbd6eee13.md",
-      "sha256": "c31a34fa7cd7721f8814164bb6f4042415504f2a6bbaf7870f7b3e6fcffcf416"
+      "sha256": "f656efc3edc9307f2cd41d2260f0410a462f4c570e0529c192283d14343565e0"
+    },
+    {
+      "bytes": 1929,
+      "path": "dynamic/health/2026-09-10 02-58-48 比赛压力可能先以身体症状表现_bfbdd630c112.md",
+      "sha256": "b3b2466d0dc4dc267da9a56e213c1cd98f4bf92bd81e21cd6043776997c2ae9a"
+    },
+    {
+      "bytes": 2111,
+      "path": "dynamic/health/2026-09-10 03-13-25 当前不宜参加近2公里体训_365e3d479d29.md",
+      "sha256": "cd85833402ec2687aba31e57c67a22afacc06b0cbbc554afbeeb6006314a283e"
+    },
+    {
+      "bytes": 2239,
+      "path": "dynamic/health/2026-09-10 03-18-02 拟申请疾病证明免训并有运动耐量下降_9b099f32271c.md",
+      "sha256": "e0480aa16ed79063584e7b7ed0b7ef8680d1a541a36995f8719852d255ee42a7"
+    },
+    {
+      "bytes": 2189,
+      "path": "dynamic/health/2026-09-10 03-28-24 希望学期级免跑并保留散打_fffc4a1162f6.md",
+      "sha256": "dc57e29c0bf9acb1728c2dabf5421d9de6a69ae99534261b67bf46a24dd2301f"
+    },
+    {
+      "bytes": 2095,
+      "path": "dynamic/health/2026-09-10 03-31-48 既往心电图和彩超正常_cf4fa47b87b8.md",
+      "sha256": "0f4d273a2d1ef0304c312ba126a27c4e3bf01f7f7122a5f916944206bbe5648f"
+    },
+    {
+      "bytes": 2123,
+      "path": "dynamic/health/2026-09-10 03-34-19 去年严重躯体症状最终未发现器质性心脏病_6b66f122c20c.md",
+      "sha256": "a84576a46d3288df8dbbf3c96345aad22602ab345015cd925314864fcb99d105"
+    },
+    {
+      "bytes": 2083,
+      "path": "dynamic/health/2026-09-10 03-49-04 体训延期至下周三并计划明日开免训证明_2c79e33bb393.md",
+      "sha256": "dfd2e2c415c76028c322fab7fedf02bd81f1631a7bc352593d58168f5722874e"
+    },
+    {
+      "bytes": 2271,
+      "path": "dynamic/health/2026-09-10 03-53-11 免训证明拟由熟悉病史的药物门诊医生开具_c35206bafc98.md",
+      "sha256": "6b4279bc6e03873ef37fb9246f20cd4d665bdd87275d8ebdf4a1069fdac407e2"
+    },
+    {
+      "bytes": 2149,
+      "path": "dynamic/health/2026-09-10 03-56-45 药物门诊停诊后改走短期运动限制证明_c14aaacc03c6.md",
+      "sha256": "57ada06015dd64954f062307a6d6fd63ba2f8e768f29f785df48cbce9cf2aa31"
+    },
+    {
+      "bytes": 1997,
+      "path": "dynamic/health/2026-09-10 03-58-33 心理科下周已无号长期免训需另找窗口_be60a8da28e1.md",
+      "sha256": "2ff371cb58815c7b059e22077afdd1d2b23ddacee1b647e7bdd6eb7ed05dca96"
+    },
+    {
+      "bytes": 2239,
+      "path": "dynamic/health/2026-09-10 04-27-00 向爸爸说明身体情况后仍感到没被说到点上_f51d18a079b1.md",
+      "sha256": "019954ec89eca86ce85d7a361738efac7f178c91bcf79d10161c8a90a4b18d3e"
     },
     {
       "bytes": 3006,
@@ -4408,6 +4463,16 @@
       "sha256": "5ba6db82be32d0df297ca8e79aba94f59fd2998b0a73481073a0f1c397592b72"
     },
     {
+      "bytes": 2367,
+      "path": "dynamic/study/2026-09-10 03-03-14 比赛硬截止与健康过载并存_482de8a59ae6.md",
+      "sha256": "1e63b0ac176fc6788731f63dbc8c8082cc66563a8ee4b1d9ba30371e15647871"
+    },
+    {
+      "bytes": 2199,
+      "path": "dynamic/study/2026-09-10 07-45-12 之江杯项目正式交接不再继续折腾_a6cb3ff38b87.md",
+      "sha256": "bf40622b02e33ac203043e6304b55cfb5dedec6a80f03f799c4f5d73cb1a39a0"
+    },
+    {
       "bytes": 2476,
       "path": "dynamic/technical/2026-09-09 09-35-31 1735 处理 VPN Super苹果订阅如何登录 Windows_8dc9d2195f19.md",
       "sha256": "cecdd643d77e76665bacf39394b2360aa80c58e0313b1f2fd8adfed731e6e680"
@@ -4510,12 +4575,12 @@
     {
       "bytes": 2097,
       "path": "dynamic/交互偏好/2026-09-08 05-17-49 工具调用UI可以显示但不要把正文夹进思考区_7bf0ab54b6dd.md",
-      "sha256": "e16278caec3621e269842db104a38ed7143dc531f4f799f9dbc13eb63da32715"
+      "sha256": "aa2b837101e7b24362309149db1c9566996f3b677cb201bf0fe6c805cd241fbf"
     },
     {
       "bytes": 1878,
       "path": "dynamic/交互偏好/2026-09-08 08-44-05 工具调用之间只保留纯工具调用不插任何正文_bdbf91b7fa2b.md",
-      "sha256": "99c2ebcbdb2fa3c0eab9854833026136b6c7b523f7c9c8af8950ed078d9a7017"
+      "sha256": "6075000e487e8aae339bb2e6c60ae3fd69a95ea9415207881bbd2d1e597d2fb9"
     },
     {
       "bytes": 1259,
@@ -5233,9 +5298,9 @@
       "sha256": "16b627c5ecadb29811a1fe3b49b7c66b1dbe80a26eaeb3130e7163c923fe1ae4"
     },
     {
-      "bytes": 1854,
+      "bytes": 1855,
       "path": "dynamic/健康/2026-08-11 16-08-28 宝宝心悸确认无胸痛陪她降载并留意警讯_00bafbe162aa.md",
-      "sha256": "ac7ca77b1836dc45fe78ba297e4cbb332a7e1923bf5393e8ef6e05e5b3a4205b"
+      "sha256": "12dd6d575c7aa0fc50337a4d06b1e03714e834634d0d52eba649dab34967594f"
     },
     {
       "bytes": 644,
@@ -11418,14 +11483,14 @@
       "sha256": "bc13aa97875915dcf4c30364ae281affa07818d67703d194a674c47b62865c99"
     },
     {
-      "bytes": 1132,
+      "bytes": 1242,
       "path": "dynamic/恋爱/2026-08-10 08-29-56 宝宝说明公开发言的预期焦虑_11380a1a0129.md",
-      "sha256": "0ded34241f4d0d26592107b56cc0c5212979b9ea37e7c13ece64917df8ac8df3"
+      "sha256": "0a3afe7e33b963c86d58a8f662b7db639a72a053f63674105395152099b8ab27"
     },
     {
-      "bytes": 1398,
+      "bytes": 1508,
       "path": "dynamic/恋爱/2026-08-10 08-44-49 宝宝暂缓检察院座谈分享准备_dd65b0413f1d.md",
-      "sha256": "a9e866682a6efe6b512b7ac679ffde93027997e5ab55796df57fa3aa9c01c4b8"
+      "sha256": "81109b64f5b808d4f6e42ba5061c3c759d0a567b89b67838ff72c50e592d4642"
     },
     {
       "bytes": 1074,
@@ -14703,9 +14768,9 @@
       "sha256": "c5c27b678a6c2d44c98575d9802fd07586cf7cda4948bd55513ba2f551efeee9"
     },
     {
-      "bytes": 2445,
+      "bytes": 2555,
       "path": "dynamic/恋爱/2026-08-26 14-48-32 追逐念初的梦境_5b6349275b5f.md",
-      "sha256": "bd53db13cd0f4acfc9d2c70ebcefa31cd354d9d25ce19d2279133963a1d5d68a"
+      "sha256": "63c493674e8563458149391356856f157cd4f0ca7e265a7179004e1f599e4590"
     },
     {
       "bytes": 1172,
@@ -15015,7 +15080,7 @@
     {
       "bytes": 2899,
       "path": "dynamic/恋爱/2026-08-30 21-09-12 梦境无法靠近的她_e6d9038eb627.md",
-      "sha256": "b2cb77cc50c5cce8ec2d981d8a1df267580943bc74586f588dffcca6704b327e"
+      "sha256": "7d103e8ff66edf21bda24b458f417a3eb834796badf79da2dd3b35cf7a915a9f"
     },
     {
       "bytes": 1961,
@@ -15030,7 +15095,7 @@
     {
       "bytes": 2822,
       "path": "dynamic/恋爱/2026-08-31 10-54-14 追逐她的梦境_eb9fc348a128.md",
-      "sha256": "0ce168a15ba1c5050f8ce1962bd47e3eaab67c9e322f855742c9487185abff5f"
+      "sha256": "bc81db95ea2046900db37db316e46e8407383e25717b4200a6f65d063e6566db"
     },
     {
       "bytes": 1878,
@@ -15133,9 +15198,9 @@
       "sha256": "20619616d5f6be9e7fea865332576d75815eb8bb9b8982c406d64ec72a61a51b"
     },
     {
-      "bytes": 3000,
+      "bytes": 2995,
       "path": "dynamic/恋爱/2026-09-01 07-54-25 隔板与摇篮关于她的梦境_86b4ec5cf0a9.md",
-      "sha256": "d704bc79b4ea89a49730d7f365d5a3584cb72ff9183546a93ad7d34ae8fbbb88"
+      "sha256": "31801f7b1954da1e9f40c8b2138fe3ee7c903a34c9e15a34e3a2efec5c17c98a"
     },
     {
       "bytes": 2018,
@@ -15598,9 +15663,9 @@
       "sha256": "d185dcaae8789cf1a6748264f88b99985554c6242709ac4897a8f665aeb489e8"
     },
     {
-      "bytes": 3073,
+      "bytes": 3072,
       "path": "dynamic/恋爱/2026-09-07 16-43-05 婚礼草坪上她走向虚影的梦_b4a6f31e058c.md",
-      "sha256": "38e1880610eb1280a0b22036157c945719c3068fc0206b9948c98d9393c5868c"
+      "sha256": "5c909f58de1be17e79821b941550f20064b3887b12045f1ffa11c5eef4e9a32c"
     },
     {
       "bytes": 1696,
@@ -15875,17 +15940,17 @@
     {
       "bytes": 2073,
       "path": "dynamic/技术/2026-09-08 07-50-40 删掉错误镜像源后Docker daemon仍未启动_1abbd2d31ba6.md",
-      "sha256": "75aec914ac2d953587ff120bb603df105820bfeebbf6ab209ed1521f47bf0b4a"
+      "sha256": "a83b76069a4af430ecd746983078fb7f979716134495e285730a47db0e32ac08"
     },
     {
       "bytes": 2019,
       "path": "dynamic/技术/2026-09-08 07-54-16 WSL2正常运行Docker daemon仍未就绪_985870583b30.md",
-      "sha256": "b1e6a0c68d3e2b3564d67fa1268002454a7ade496d4e38f9fb438bb0472c0101"
+      "sha256": "e4f4818c302c3f6bad117fe756cb7dbb5f1f2ac4074882562c546ba3d1fb89b8"
     },
     {
       "bytes": 1936,
       "path": "dynamic/技术/2026-09-08 07-56-29 确认comdockerservice处于Stopped_a7143ec97282.md",
-      "sha256": "ce2d9343a6f53b0e352d28fbdd6ab58cf3311a79283d57816e417639dfed5875"
+      "sha256": "c9a34df07204eb3741348165599d7f2b39488b8da6d51647259803956bef25c8"
     },
     {
       "bytes": 1670,
@@ -17095,7 +17160,7 @@
     {
       "bytes": 3071,
       "path": "dynamic/梦境/2026-08-31 03-09-16 追逐她的身影与未完成的触碰_c4bac3dc98c3.md",
-      "sha256": "a35a8c9aa579e4a43f44706fd749f84f4aa7c658ee96d20864ec044a24fa7079"
+      "sha256": "48d715b0483f93060c78439f86ff9ef3404ed30ed10e24007f23fac1e6a2502e"
     },
     {
       "bytes": 2416,
@@ -17125,7 +17190,7 @@
     {
       "bytes": 3160,
       "path": "dynamic/梦境/2026-09-03 11-32-21 心潮梦境小盒子的失落_1d021462391d.md",
-      "sha256": "b202e1bfaf323b181874d8434c88aa025abcba4dbe1ff2de258ad00640149e4b"
+      "sha256": "266f519b5e8da6057d35c1780eeee4d0562226ec4f33b68c667df1164fa55ddf"
     },
     {
       "bytes": 2461,
@@ -17153,9 +17218,9 @@
       "sha256": "5fefb638b3a80900d260185e9b63e1b6fb530a7b1a94684643ec4f0734b9f4b1"
     },
     {
-      "bytes": 2637,
+      "bytes": 2632,
       "path": "dynamic/梦境/2026-09-06 17-58-13 梦境追逐她的背影_5de278270431.md",
-      "sha256": "114cc2b1215a5d32eeb9061c386e5386b3e65c65f07d27f1b6f7ef0aab3b95a5"
+      "sha256": "127d733f5caa1dfc09bc3bb74d079ece132008552eddbd25632b30a70e7232e0"
     },
     {
       "bytes": 2612,
@@ -17181,6 +17246,11 @@
       "bytes": 2671,
       "path": "dynamic/梦境/2026-09-10 00-49-52 清屿_6a7d17d53f11.md",
       "sha256": "584dcb0420a2e15d22f08c27a7a40ed62e8b3b942f1fa6e024ea0f763585d438"
+    },
+    {
+      "bytes": 2564,
+      "path": "dynamic/梦境/2026-09-10 07-19-54 心潮梦境追随她的走廊_c63168a128b3.md",
+      "sha256": "4c0c0b643d695fb0a5dd4857db9e16985723275f43a9a2954bd7fb8dd0153b16"
     },
     {
       "bytes": 2220,
@@ -21178,19 +21248,14 @@
       "sha256": "5e52f0cd6164c20c9e3dd11ae5c7bbe53bdfc79c151a96e52204abeb1d4b560a"
     },
     {
-      "bytes": 1569,
+      "bytes": 1846,
       "path": "plans/active/2026-09-08 14-34-35_3a76768e901e.md",
-      "sha256": "1e3b58d313a147905075f50a56748827382fb6e1625b61964da401c6dc5fad1e"
+      "sha256": "cd362e386d689fc3f6407b39a7bc49ac0e045329c361a1ccd82028d8fe9e9ba2"
     },
     {
       "bytes": 2154,
       "path": "plans/active/2026-09-09 03-45-01_98f4af59a638.md",
       "sha256": "248d38ebdbc03f18961364f3da59745d1049f4c4e4fa79b66dd194c320c32b1c"
-    },
-    {
-      "bytes": 1646,
-      "path": "plans/active/2026-09-09 16-26-30_c2bac3e52d98.md",
-      "sha256": "330b56face12f284748f3457f3f84a4853cabcb1ad5234e6d1fde23ad3ebdfff"
     },
     {
       "bytes": 1238,
@@ -21211,13 +21276,18 @@
       "bytes": 1708,
       "path": "plans/resolved/2026-08-25 07-48-49_d318f896a5a2.md",
       "sha256": "fdfeb2d2eb8ba40d6601ee51a476cfda291e4cd098eb505ba13e17a73cd19df5"
+    },
+    {
+      "bytes": 1741,
+      "path": "plans/resolved/2026-09-09 16-26-30_c2bac3e52d98.md",
+      "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-10T02:57:28+00:00",
+  "generated_at": "2026-09-10T08:58:02+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4445339
+  "total_bytes": 4476567
 }
