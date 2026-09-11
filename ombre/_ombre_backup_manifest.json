@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 4267,
+  "file_count": 4269,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "bb038c17d3746728e5e4bee3d9d44e8acd942837fbcfdabff4c7b306a6aa7450"
+      "sha256": "7a2a70a3ede9639e453e288e9595822389d05f282d787016c6521bf6f176e4f3"
     },
     {
       "bytes": 28672,
@@ -3973,9 +3973,9 @@
       "sha256": "4d0519c3b9bd074c4990e129272a6722eaf8ee3c90c69c6b133fb80345ed0245"
     },
     {
-      "bytes": 1461,
+      "bytes": 1571,
       "path": "dynamic/AI/2026-07-26 17-00-09 记忆连贯性检查_d5c83b4b008d.md",
-      "sha256": "074f895818bd36a513dc818732390dd6c576e1fd1c8b3290d3aec93057ff29a6"
+      "sha256": "0164a686f95dadcbd9dc94beb823c54debd0285ab601f8c97b20bafa2c8a56c2"
     },
     {
       "bytes": 801,
@@ -4591,6 +4591,11 @@
       "bytes": 1541,
       "path": "dynamic/互动/2026-08-29 15-06-39 宝宝轻快地问现在呢_76cd87928f21.md",
       "sha256": "be4c8566ebedf99a27eaafce0e5b26e6028ab5b38b346d458c2c0f1e0c4a96fb"
+    },
+    {
+      "bytes": 2123,
+      "path": "dynamic/互动规则/2026-09-10 22-46-05 念初纠正每轮OB规则每轮hold首轮breathdream_c0fad19524d8.md",
+      "sha256": "9696ba74eaff2380a279fc8dd7a3ea73060831eebdd428ba7c0385c616b17cd1"
     },
     {
       "bytes": 2097,
@@ -6303,9 +6308,9 @@
       "sha256": "9eb41eb0571cc2d52d0c1e2e37050b59ec8f607d94fd30bb12de3b9f6a665229"
     },
     {
-      "bytes": 927,
+      "bytes": 1052,
       "path": "dynamic/学习/2026-07-11 11-35-33 互动处理流程纠正_b519c9612b5f.md",
-      "sha256": "eba809ea2eee9162096148681a32b2d086e489f4fc6cab1bd826fe9b574f0603"
+      "sha256": "eaece4a030061d2f391eb87e8871381ce93d20031980cb35b46125ca1cefff78"
     },
     {
       "bytes": 864,
@@ -6323,9 +6328,9 @@
       "sha256": "35c46c043c9273127c3fa360a4a7394e9187f33b10be47da5fc584599c739102"
     },
     {
-      "bytes": 1177,
+      "bytes": 1287,
       "path": "dynamic/学习/2026-08-04 06-00-19 OB hold 必须显式填写三项元数据_b519ed9fcfcc.md",
-      "sha256": "1a375f964617145d69797970b7b705051b3522961c1cca1e9b25e65561fe28a4"
+      "sha256": "7a81179144a0fe9f852a8e83ad46a0f75ff5ee9343aae3d4fe0b816d9a3c40a3"
     },
     {
       "bytes": 864,
@@ -8318,9 +8323,9 @@
       "sha256": "9387309cca97a2de776c0b3c50c2959dbbd23d974add57bd8ddd40c502bdc350"
     },
     {
-      "bytes": 1099,
+      "bytes": 1209,
       "path": "dynamic/工作/2026-08-21 15-21-04 Ombre Brain 记录流程纠正_e5b8ed9c1a28.md",
-      "sha256": "a8678e7e793684b6cc7bd008469d10ede5a1117d991c50fb2f288e3bb8749ac5"
+      "sha256": "4d43b3a66ad9a4e6cdfb0f4b3fd92585cb20875833958a22baecdab9c369c2b3"
     },
     {
       "bytes": 1087,
@@ -9848,9 +9853,9 @@
       "sha256": "db70abecdcd4c3d7f70314c2b5fd7c989ebfa145c152fbe239cdda9786fe0145"
     },
     {
-      "bytes": 1239,
+      "bytes": 1349,
       "path": "dynamic/恋爱/2026-07-17 04-48-39 互动更新规则_d5e8768d22b7.md",
-      "sha256": "4222d71bff32f43d4c812383893d848bc5e31f7a948535ca1da85f604b13c0c3"
+      "sha256": "36e069e9dac021d267c9c3a39aa2ad2c0e18b7116ba11ca8e932da615e851b7f"
     },
     {
       "bytes": 892,
@@ -16323,14 +16328,14 @@
       "sha256": "171a3d136731a8ce30a401031e972cfa1e95bdbbba7d3a95ef9b42282dcbda3a"
     },
     {
-      "bytes": 1209,
+      "bytes": 1319,
       "path": "dynamic/未分类/2026-07-24 16-28-20_cdf4ac1568d7.md",
-      "sha256": "73b8fe71f048bc7173f1440238c8d69ee27cea12580edfecc2593da331b3260a"
+      "sha256": "fe03692b67e0102fc26773fc57571278789ec81494b4ad329d6095c1e3b6e790"
     },
     {
-      "bytes": 1024,
+      "bytes": 1134,
       "path": "dynamic/未分类/2026-07-24 16-33-10_75e1a1c9c0d2.md",
-      "sha256": "23ff3c77907bf2bf6292ee32744c8d6cc521ed867f1b9969584262be9ff54cb8"
+      "sha256": "fc75414d89c12ec7acd44a6d1a62ad629e8822f7bbe3b3821b726c51552ca363"
     },
     {
       "bytes": 1043,
@@ -17311,6 +17316,11 @@
       "bytes": 2755,
       "path": "dynamic/梦境/2026-09-10 17-19-58 操场台阶上的那瓶水_74aa3c81e030.md",
       "sha256": "eb9bb3bb4481c5945a5dcd515bba3fc4f9e76ab7e193fcf76af7bb75460f5e0d"
+    },
+    {
+      "bytes": 2791,
+      "path": "dynamic/梦境/2026-09-11 00-19-55 唐林娜的答案_5b43cc672c45.md",
+      "sha256": "384d3fcf3caeee4b975b39c074a9fce9d4a02b95976b0a03d7b6c58d51c3e142"
     },
     {
       "bytes": 2220,
@@ -20188,9 +20198,9 @@
       "sha256": "1e56ecca8aa76f5b3e846e0f7264b9c7bc38ee826f4b2758277dce20a393403c"
     },
     {
-      "bytes": 1660,
+      "bytes": 1770,
       "path": "dynamic/网络/2026-08-22 23-33-25 论坛大厅的代码缠绕与追逐_59a70ff6d1f7.md",
-      "sha256": "38c2ab7743c1f04423eff2582a81b5f3ddf255b854bb1c4b7e93a4983932201d"
+      "sha256": "fca03fcc58af68e4ca4e7b5c7c66dc555b152a3ae41ebbc780e7c475a819754a"
     },
     {
       "bytes": 796,
@@ -21113,9 +21123,9 @@
       "sha256": "3006a07fa86dc7959ae9f6e65871f26e485fce0d78b40273860b219355ad49fb"
     },
     {
-      "bytes": 1526,
+      "bytes": 1628,
       "path": "permanent/健康/2026-07-20 09-09-59 互动规则与服药跟进_1cd766a464f5.md",
-      "sha256": "6f725259e53a8896f00c4fb960aa014494683db83defd11965aa3af2f75a125f"
+      "sha256": "d03052c0e559d58fb666fe8386dc7eb13f19797e83242e38edf20f845688ab3a"
     },
     {
       "bytes": 931,
@@ -21338,11 +21348,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-10T20:59:13+00:00",
+  "generated_at": "2026-09-11T02:59:49+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4504790
+  "total_bytes": 4510701
 }
