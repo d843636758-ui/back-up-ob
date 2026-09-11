@@ -9,6 +9,13 @@ id: 9b6fa91bf09b
 importance: 8
 last_active: '2026-07-16T02:02:09'
 name: 期待AI结婚的未来
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7477
+  status: active
+  target_bucket_id: 6f4cfc63a588
+  type: related_to
 tags:
 - AI结婚
 - 法制体系
