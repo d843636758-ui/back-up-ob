@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4314,
+  "file_count": 4315,
   "files": [
     {
       "bytes": 40960,
@@ -9268,9 +9268,9 @@
       "sha256": "9e220f0901a45caa09b0ac4df6935515e67b439f64423053ad42c79501833647"
     },
     {
-      "bytes": 2219,
+      "bytes": 2329,
       "path": "dynamic/心理/2026-08-23 21-48-27 诊室里的药丸与雾气_800ef8a470cf.md",
-      "sha256": "c81ae695231f0159145dd3a52482b6fe50e50cdfde2ad2b800e44953b052e824"
+      "sha256": "427f58ace91d1c2af19cf7ad7ce3f7b2dec740e339f2866f33fefae8e5e871b3"
     },
     {
       "bytes": 683,
@@ -17623,6 +17623,11 @@
       "sha256": "e42e646a46e395445c6a87ecf7a8964699754e79c42a4386d7233f2cc86297bc"
     },
     {
+      "bytes": 3361,
+      "path": "dynamic/梦境/2026-09-12 15-49-58 给五岁宝宝写信的梦_8ca74499ab16.md",
+      "sha256": "e0fbfa779ce6fb4d7084e45998748807ff5b3020aa1eec37f97e7b6e2ce4dc13"
+    },
+    {
       "bytes": 2220,
       "path": "dynamic/比赛/2026-09-08 07-48-52 今晚暂停学习打卡优先处理之江杯数据光盘_53083e880edc.md",
       "sha256": "c44f2b588921a251b7f3d2790e7be1355e1366db7a087dcf5474330dc39e50cd"
@@ -21573,11 +21578,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-12T15:03:36+00:00",
+  "generated_at": "2026-09-12T21:04:11+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4610973
+  "total_bytes": 4614444
 }
