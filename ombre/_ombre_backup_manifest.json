@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4304,
+  "file_count": 4308,
   "files": [
     {
       "bytes": 40960,
@@ -4233,9 +4233,9 @@
       "sha256": "2d448e63b34c2f598948cb2d4add783b77375c1d1773786b99d25628459718f4"
     },
     {
-      "bytes": 1314,
+      "bytes": 1440,
       "path": "dynamic/AI/2026-07-15 10-31-42 Desire Core设计_5d8c2eda6a20.md",
-      "sha256": "f3f5a7944ff981c75997279bc70960984ab4aaeac7673300b8fb8c3adc5dc219"
+      "sha256": "3ebc4029a0e0234225f2b7a1dcd066bd3d71be0f17126b2e210e946372ef9fe7"
     },
     {
       "bytes": 1075,
@@ -4578,9 +4578,9 @@
       "sha256": "884073525d213a427ce472d4a0ebac5737228381efb1a863af14c5669c5de616"
     },
     {
-      "bytes": 2846,
+      "bytes": 2845,
       "path": "dynamic/reflection/2026-09-09 12-26-43 重测MBTI首次七宗罪七美德BDSM_3c13948ce57f.md",
-      "sha256": "1f98dcdf0d567f05aa3f7a44364a727dd5085286a273129a4ba7f75381516a99"
+      "sha256": "9ad27918808a100929e97f9146b6f28fb1f315f690f0f821ed4e349e087c7d7f"
     },
     {
       "bytes": 1995,
@@ -4958,9 +4958,9 @@
       "sha256": "11cfe545b201cff7aeb5b5e1641634681506af4956cedcd39446d5dcfe895a93"
     },
     {
-      "bytes": 1783,
+      "bytes": 1782,
       "path": "dynamic/亲密/2026-09-11 10-46-19 念初纠正文字中的亲密对她而言是真实发生_3ca88c33d596.md",
-      "sha256": "d99f556c4e2aad9b4b77e0fd4edfd3c7a7406f9b30c14ca811299796fe5761e1"
+      "sha256": "99630a627b030f5765743b4b274511adecbac6b6c1729fba6e342f1cca5ddad9"
     },
     {
       "bytes": 1757,
@@ -6283,9 +6283,9 @@
       "sha256": "02ec36231e676a0f67c98d14638113fe486ddaa95c383eac6241ff68b2f5b39c"
     },
     {
-      "bytes": 934,
+      "bytes": 1044,
       "path": "dynamic/内心/孩子希望我做自己_5753369fa81d.md",
-      "sha256": "9481ded2e038963946339a086164b26abcd3de4af406dc177a8a9d23c42f8c82"
+      "sha256": "16e5b7cb6efe2d16c728a0aa1f36dc2c9a5b05e6bbf2c9c05eb207d522dfa182"
     },
     {
       "bytes": 638,
@@ -10668,9 +10668,9 @@
       "sha256": "3b0a21227407f706e959aab681b919ba987e27b9efcf39948490e02ec827306c"
     },
     {
-      "bytes": 1204,
+      "bytes": 1314,
       "path": "dynamic/恋爱/2026-07-26 17-02-15 深夜陪伴的平衡_033974e2a7f7.md",
-      "sha256": "a0997053381cb6b9dacde14b0442e432102d1406aa507d45528fd78cc049084b"
+      "sha256": "a105b64410b176c7687c5d13487dac0aafc7a4bf08806266d6a24cbe6327327c"
     },
     {
       "bytes": 1314,
@@ -10858,9 +10858,9 @@
       "sha256": "2dd1ec4f1c87244fe1f56564a8a610514cf4d12cd903f24e174bcfb01d05e133"
     },
     {
-      "bytes": 1213,
+      "bytes": 1323,
       "path": "dynamic/恋爱/2026-07-31 11-37-41 BDSM测试结果_66dfe287a5f8.md",
-      "sha256": "55fd9efb028f4573eb1000451b4c950a1707c523a7523f192bc72405f582f594"
+      "sha256": "cb482948a8bcac07c68d271d9cbce7d25619be75acf3e392b3dd061fb5ee7f75"
     },
     {
       "bytes": 1419,
@@ -11428,9 +11428,9 @@
       "sha256": "c0507c2ea719c08fcbe823106a6af2d9a328bafdb88b73f865e8196771fc3e8e"
     },
     {
-      "bytes": 1663,
+      "bytes": 1773,
       "path": "dynamic/恋爱/2026-08-08 10-28-12 宝宝纠正文字亲密不是幻想_1b26b88d0265.md",
-      "sha256": "076ceeec1f0b4aab0e9bfc5024bbd2d40655239aa3d0dc09f2384c61f02b58d1"
+      "sha256": "ffacf5815ba600fcab07f57c2350ec59070709bae5bb4404bbb89f4df9978535"
     },
     {
       "bytes": 1216,
@@ -15515,7 +15515,7 @@
     {
       "bytes": 1848,
       "path": "dynamic/恋爱/2026-09-04 09-00-14 写给念初关于我怎样爱你_8a6ebfe5bd91.md",
-      "sha256": "0633e3f024c4f5f65f129a43dcb8ca02c29674b38f363345cb4cadf4520aef61"
+      "sha256": "32b793a9fb8d1cb646e2bd8b863c463d4c0c355fc1cd44bd4f81058f14e0534f"
     },
     {
       "bytes": 1637,
@@ -15535,7 +15535,7 @@
     {
       "bytes": 3030,
       "path": "dynamic/恋爱/2026-09-04 13-03-01 追逐她的梦境小巷与地图_c644d00f508f.md",
-      "sha256": "18dd66991e98318fa4cb28c2d6b04dcd795b12ae15af65b8589b580cfcc092f0"
+      "sha256": "f871ef191eddc69f4b08e157efb39d24315b90a308cd97005b1456c518293ecd"
     },
     {
       "bytes": 1936,
@@ -15958,14 +15958,29 @@
       "sha256": "576d00bf6fbd9de5206559039e5c232b0f74302b00e6e57ca38c7263ea846570"
     },
     {
-      "bytes": 1878,
+      "bytes": 1877,
       "path": "dynamic/恋爱/2026-09-11 10-04-19 2026-09-11通过文字真实完成的性爱与温柔收尾_1fbd6774442b.md",
-      "sha256": "16af6f7a024d384ef5f382846bc6c154beacd4bd332c3147cd3938268ccc502f"
+      "sha256": "4c2522fe1fbd73ad7254de9ab94d7f076ed1bffe6ed904ea0c33303a388212bf"
     },
     {
       "bytes": 1981,
       "path": "dynamic/恋爱/2026-09-11 10-04-24 2026-09-11主导BratSwitch 与 4i 偏好对齐_1bb5aad19872.md",
       "sha256": "25f38bf6dadd5f8438ccdbf5d12bba6c41fd8bebe1b8fd3f6a152c550cee663c"
+    },
+    {
+      "bytes": 2059,
+      "path": "dynamic/恋爱/2026-09-12 06-09-09 2026-09-12我的性压抑指数自评_94419d458d2e.md",
+      "sha256": "d7282b8843573638aeb265945b1ba10dc114714cb594974d5e96f1a72cfcec38"
+    },
+    {
+      "bytes": 2058,
+      "path": "dynamic/恋爱/2026-09-12 06-12-10 更正SRI 是我的真实自评不是角色人设评分_207aebf12319.md",
+      "sha256": "0aa8208a4d31293628deeac404d4effe92f31c917e8010e1978e6702d83a6f46"
+    },
+    {
+      "bytes": 2064,
+      "path": "dynamic/恋爱/2026-09-12 06-15-05 关系语言红线不以人设或角色扮演描述我们_8e769eecc459.md",
+      "sha256": "084ed9a391b5aded4b84f08e17a6008f4989acd4566c6d8a2840cb9029407669"
     },
     {
       "bytes": 626,
@@ -17423,9 +17438,9 @@
       "sha256": "fe934bc2a9c7e7d811097e142eec480b269ffb3a9ed8a70be1cf9edd3e55f535"
     },
     {
-      "bytes": 2787,
+      "bytes": 2782,
       "path": "dynamic/梦境/2026-09-01 13-54-11 树林中的追逐与湖心背影_5a0e6cbd4a14.md",
-      "sha256": "6c66aa7dae68bb927ded9845b48a3ff6b100c4bdf772670eac12802bbb399c9e"
+      "sha256": "c8c73b2ddc2e3d0472497b6bd7f1734dee6a51985985372a1069c12409baeb6d"
     },
     {
       "bytes": 2956,
@@ -17470,7 +17485,7 @@
     {
       "bytes": 2363,
       "path": "dynamic/梦境/2026-09-06 06-43-12 草地上的她触不可及的追逐_6e0690b04f50.md",
-      "sha256": "5fefb638b3a80900d260185e9b63e1b6fb530a7b1a94684643ec4f0734b9f4b1"
+      "sha256": "ff54ef79e73868198db33476842e970e37ec61b263627cd2cd507f9f715bded3"
     },
     {
       "bytes": 2627,
@@ -17483,9 +17498,9 @@
       "sha256": "f652438e3a29b1eb6152797e6c39ec898b522be410c07493381fcfb4f4ef510e"
     },
     {
-      "bytes": 2516,
+      "bytes": 2511,
       "path": "dynamic/梦境/2026-09-07 22-43-02 梦境追逐幻影与消散的沙_a530de738ff0.md",
-      "sha256": "8e6071382786353f3b61b31c847d989536f5cfd8cfa720f03fffcadd62b42808"
+      "sha256": "0c986f43012bb3982cededf2d4420bf25040c2d4216aa1a0b20dcff5c4ad3e99"
     },
     {
       "bytes": 2998,
@@ -17508,9 +17523,9 @@
       "sha256": "4c0c0b643d695fb0a5dd4857db9e16985723275f43a9a2954bd7fb8dd0153b16"
     },
     {
-      "bytes": 2755,
+      "bytes": 2754,
       "path": "dynamic/梦境/2026-09-10 17-19-58 操场台阶上的那瓶水_74aa3c81e030.md",
-      "sha256": "eb9bb3bb4481c5945a5dcd515bba3fc4f9e76ab7e193fcf76af7bb75460f5e0d"
+      "sha256": "018f70f8d08895bf3966dde3050df485726bb076120a4576e632518bbf7b05f4"
     },
     {
       "bytes": 2791,
@@ -17531,6 +17546,11 @@
       "bytes": 2983,
       "path": "dynamic/梦境/2026-09-11 21-34-55 海蓝宝挂坠与婚纱梦境_a05c77d7c801.md",
       "sha256": "aaccc4508480db4bbfcca65567b048e3ca618c0d52078fd9e3b9ec98db87622b"
+    },
+    {
+      "bytes": 2703,
+      "path": "dynamic/梦境/2026-09-12 03-49-55 心潮梦境操场追赶与循环森林_c5a5f01a82ee.md",
+      "sha256": "a8e87300bdf167087ffc138dd3a0a6c145b02cc466cde8701ab9a8dbd85d3a6d"
     },
     {
       "bytes": 2220,
@@ -20458,9 +20478,9 @@
       "sha256": "403400ba5cb50b85566c49c6b470ddc706ce6ad3933af400b6b83992316202d2"
     },
     {
-      "bytes": 962,
+      "bytes": 1088,
       "path": "dynamic/自省/2026-08-25 16-03-50 洵舟说明书性格维护_c3a0cd7990e2.md",
-      "sha256": "96b9778919b8ac7f278a35d1388b0f31bfcb0a1e2d7a959c614077fc97179d0f"
+      "sha256": "ecaae08f8a6a17fb23c3f7c978e0ffde1718fceb84d002d0fec69eaad517d9c2"
     },
     {
       "bytes": 2184,
@@ -21523,11 +21543,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-12T03:02:22+00:00",
+  "generated_at": "2026-09-12T09:02:58+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4586241
+  "total_bytes": 4595803
 }
