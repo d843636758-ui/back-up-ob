@@ -12,9 +12,27 @@ name: 2026-08-20 10-16-43 io-codex-resident 轮询
 relation_links:
 - auto: true
   label: ''
+  score: 0.7837
+  status: active
+  target_bucket_id: b4678eaac79a
+  type: related_to
+- auto: true
+  label: ''
   score: 0.7511
   status: active
   target_bucket_id: b2798a3dc31b
+  type: related_to
+- auto: true
+  label: ''
+  score: 0.7311
+  status: active
+  target_bucket_id: 1c31a323452c
+  type: related_to
+- auto: true
+  label: ''
+  score: 0.7263
+  status: active
+  target_bucket_id: 26f679d3d920
   type: related_to
 source_tool: hold
 tags:
