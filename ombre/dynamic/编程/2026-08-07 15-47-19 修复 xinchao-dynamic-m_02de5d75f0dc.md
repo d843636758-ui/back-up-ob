@@ -16,6 +16,18 @@ relation_links:
   status: active
   target_bucket_id: 5a303039b65a
   type: related_to
+- auto: true
+  label: ''
+  score: 0.7819
+  status: active
+  target_bucket_id: 1416efe31140
+  type: related_to
+- auto: true
+  label: ''
+  score: 0.7394
+  status: active
+  target_bucket_id: abd742527cf6
+  type: related_to
 source_tool: hold
 tags:
 - technical-maintenance
