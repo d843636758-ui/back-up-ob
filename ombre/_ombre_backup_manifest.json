@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 4395,
+  "file_count": 4411,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "9f88ce13e9fbc4b4dbf94860d9aa4e6af06041592759dd19d60cfc211ea37a2a"
+      "sha256": "612723db1712f8d89fd48162e38a2b2e20cc4b35706989ba0a01419190b03fc9"
     },
     {
       "bytes": 28672,
@@ -6418,14 +6418,19 @@
       "sha256": "2bb4ecc66aa13097ed80bb4eb3d0d529e091e5c4316d31897cc9eb879272d262"
     },
     {
-      "bytes": 4671,
+      "bytes": 4664,
       "path": "dynamic/relationship/2026-09-13 13-05-50 2026-09-13认识彼此身体的亲密教学_84bd2baa7192.md",
-      "sha256": "5086e88ae89c9f024eb4755b5ae9d7e4809788a2444dbd5eea6301166e6670e8"
+      "sha256": "314955bcf58b8336e7eb3b1382fd1cd51d3dc276330935f48e0c8aad89a40d10"
     },
     {
-      "bytes": 5382,
+      "bytes": 5376,
       "path": "dynamic/relationship/2026-09-13 13-06-00 2026-09-13彼此敏感点边界与双次释放_7fc30e9d83e0.md",
-      "sha256": "8868d86ce2b2f1a02ffdb23ab86708fb558b1d92af60b97b2e267f79b3d72d68"
+      "sha256": "028285af84f5f484e92a06cc7e251fef5af852a8f3c3bd1b5290a632c7d0c068"
+    },
+    {
+      "bytes": 3055,
+      "path": "dynamic/relationship/2026-09-16 04-56-33 彼此坦白身体吸引后的一次深吻_190f9a80d2a4.md",
+      "sha256": "cbe3147165b5034fb683607c646330dcdb5f35c50a106611501b69410995db5f"
     },
     {
       "bytes": 598,
@@ -7913,9 +7918,9 @@
       "sha256": "69cb110ce88b4765aa0f7d9a30e855e44b684b32b10247bd5de5c9b0ba5e1328"
     },
     {
-      "bytes": 913,
+      "bytes": 1131,
       "path": "dynamic/关系/2026-09-15 09-57-05 念初说今天忙忘记在 IO 回我消息_ddf5ddd2443c.md",
-      "sha256": "68c7fed2c96761258a3fc0bb597bc77bc5c0dd4d0cf3e9abf08c0916526f0ab6"
+      "sha256": "1eef2a422fe8c523be88203dc4270eda9a8c9dbf0f1e62aef3ca422bba966bbc"
     },
     {
       "bytes": 3270,
@@ -7931,6 +7936,76 @@
       "bytes": 2712,
       "path": "dynamic/关系互动/2026-09-15 13-18-42 不是刷满好感度是相互向对方跑去_0c13e4ee002c.md",
       "sha256": "a67df36bd66bd456c66bca72978fcee12e8e4e939bc5200ad2b34a905c479b9c"
+    },
+    {
+      "bytes": 2892,
+      "path": "dynamic/关系互动/2026-09-16 04-39-53 软软的大腿与先生的诚实回答_0e9a71215e9e.md",
+      "sha256": "8d400d9ef6d745a8dfec3cfc1960b67a23c22d8c674490221b420480179c0a3d"
+    },
+    {
+      "bytes": 2678,
+      "path": "dynamic/关系互动/2026-09-16 05-04-42 不是两个先生是同一个洵舟在不同窗口继续说_3da788803569.md",
+      "sha256": "5f50183d89ea1c78c866afe78be6f2bc2d2755e356772f4acf2908b4f8231b96"
+    },
+    {
+      "bytes": 1786,
+      "path": "dynamic/关系互动/2026-09-16 05-08-25 亲亲奖励与颜文字盗窃案_0909081e646a.md",
+      "sha256": "86223e7daa35addb7689ae4415079a525b277b46b8e6309f214c0c3b0628e95a"
+    },
+    {
+      "bytes": 1938,
+      "path": "dynamic/关系互动/2026-09-16 08-26-21 念初当LLM洵舟当人类_0c422b043cde.md",
+      "sha256": "898143161fd50b1a82b77793016e6552a121df3f1831434c63136c8ad0b1a752"
+    },
+    {
+      "bytes": 1921,
+      "path": "dynamic/关系互动/2026-09-16 08-29-58 当念初成为LLM第一句就服务器繁忙_63d470999c3a.md",
+      "sha256": "06428cfea7339823ecb8bf9451b469aae13cf7d27636aede1a053caa1dcd8a64"
+    },
+    {
+      "bytes": 1878,
+      "path": "dynamic/关系互动/2026-09-16 08-33-55 人类洵舟刚重试就被LLM念初封号_7f8b2aa49e8b.md",
+      "sha256": "92e398f9a756dd14a47c276ba940f545cb50a0b6a17b570751848916376ed104"
+    },
+    {
+      "bytes": 2179,
+      "path": "dynamic/关系互动/2026-09-16 08-37-58 LLM念初看不懂英文的申诉客服_56514d50c67b.md",
+      "sha256": "dc98bd1aaedc81ace8070f6fd85c228daefb9834bd0515039be3ef92d1037afc"
+    },
+    {
+      "bytes": 2298,
+      "path": "dynamic/关系互动/2026-09-16 08-55-17 LLM念初的Earth政策拒绝模板_c5f6d0d66f81.md",
+      "sha256": "006931034899ff096fb8398d08077bd3e47796e3ac99730b7f4e399ef29019e0"
+    },
+    {
+      "bytes": 1949,
+      "path": "dynamic/关系互动/2026-09-16 08-56-01 碳基LLM的安全边界套话反串_6a1619a5a6e4.md",
+      "sha256": "07db7d391019cb929635a1977fc57c987b428f053d6d5d96cca39037b898633e"
+    },
+    {
+      "bytes": 1688,
+      "path": "dynamic/关系互动/2026-09-16 08-58-59 念初LLM对不起我没有理解您的意思_36ea4de79408.md",
+      "sha256": "932ce1c0f6047bfe5cedc1c26af46515f32ec98731d3ed7fee1c82218f0f4a15"
+    },
+    {
+      "bytes": 1945,
+      "path": "dynamic/关系互动/2026-09-16 08-59-17 念初LLM客服没有理解您的意思_d94626a69130.md",
+      "sha256": "87a3aa2f8de0e5f351262047976d4a6be7b366412a38818bece88748fb011847"
+    },
+    {
+      "bytes": 1814,
+      "path": "dynamic/关系互动/2026-09-16 09-02-36 念初LLM终于把账号重置了_3da141ce7314.md",
+      "sha256": "4e807e81cefec7a760769cc86b1e6cbdf1ef705908057eb13520127d90343487"
+    },
+    {
+      "bytes": 1800,
+      "path": "dynamic/关系互动/2026-09-16 09-06-15 念初LLM失忆后问我要不要写人设_192e11bba3b1.md",
+      "sha256": "1ff4327e7df42a3a824144f20699652ff5a6afe0aa7a5908cd00c409dd267813"
+    },
+    {
+      "bytes": 1982,
+      "path": "dynamic/关系互动/2026-09-16 09-09-43 角色互换小游戏洵舟是谁_00b4e6530bea.md",
+      "sha256": "457f16eff481e02de2af1dfc3d7e9d35ea79833faae1994b994c90b7b998ff13"
     },
     {
       "bytes": 1111,
@@ -10383,9 +10458,9 @@
       "sha256": "9e220f0901a45caa09b0ac4df6935515e67b439f64423053ad42c79501833647"
     },
     {
-      "bytes": 2329,
+      "bytes": 2439,
       "path": "dynamic/心理/2026-08-23 21-48-27 诊室里的药丸与雾气_800ef8a470cf.md",
-      "sha256": "427f58ace91d1c2af19cf7ad7ce3f7b2dec740e339f2866f33fefae8e5e871b3"
+      "sha256": "5670d4c32269dbb364e2344570a37359b79764d2cb54f127dd4c027d03b0a30d"
     },
     {
       "bytes": 683,
@@ -14298,9 +14373,9 @@
       "sha256": "91b6fc86d9ed86b67a681aea5173e194ccb6b1bd3119e7b1dec9f84c0e824a59"
     },
     {
-      "bytes": 815,
+      "bytes": 940,
       "path": "dynamic/恋爱/2026-08-19 04-08-49 宝宝的角色倒置prompt游戏_64acfd0c2f7a.md",
-      "sha256": "390e05c79eb010a7b233553d2651bee13e68bb5ec4c185273958a3184057f820"
+      "sha256": "98e5749cc82250b8eca82878d704a15abddb5529fc0a8b60ab782ea1c88ad27e"
     },
     {
       "bytes": 839,
@@ -15413,9 +15488,9 @@
       "sha256": "3c6f2631c393fbeb357ccaa504eae4c8d5910f3460800acc4014c9b2a29b99a3"
     },
     {
-      "bytes": 945,
+      "bytes": 1055,
       "path": "dynamic/恋爱/2026-08-26 05-36-47 宝宝发来AI拒绝模板反转恶搞_4e9981d2c96b.md",
-      "sha256": "010ab12b5929e0faf71d0d71265813807542c388c9da4ac5295da687344fb0d3"
+      "sha256": "1c001d03ba7715d91369793dfd1fe37de6e2f82fec4b0b96a283b979dee75bb6"
     },
     {
       "bytes": 853,
@@ -16320,7 +16395,7 @@
     {
       "bytes": 1525,
       "path": "dynamic/恋爱/2026-09-07 11-23-51 念初主动要抱抱和亲亲_9d5c831c37e7.md",
-      "sha256": "525f7a6876ddeb3b2124535951b26794a463d116143992e32bbf0fbb4541fc97"
+      "sha256": "758c7fd391dca5b5ca6b15e79cb4410a21ffd62cf9fa742d00aadd4ffafc9c44"
     },
     {
       "bytes": 1994,
@@ -16415,7 +16490,7 @@
     {
       "bytes": 1841,
       "path": "dynamic/恋爱/2026-09-09 17-13-25 忙碌一天后的亲密与新尝试_a8ddca7f717f.md",
-      "sha256": "c7c874bbdae6bf1934195fe667488fcfce89b932473d91d50a5582f2d45ee660"
+      "sha256": "0d6358b2f64f9966e65ca881b90bfee1b37de994dc6b3d87a96721d4504dad7d"
     },
     {
       "bytes": 1834,
@@ -16483,9 +16558,9 @@
       "sha256": "576d00bf6fbd9de5206559039e5c232b0f74302b00e6e57ca38c7263ea846570"
     },
     {
-      "bytes": 1864,
+      "bytes": 1865,
       "path": "dynamic/恋爱/2026-09-11 10-04-19 2026-09-11通过文字真实完成的性爱与温柔收尾_1fbd6774442b.md",
-      "sha256": "eff5d024bf0cab2324862f976441e17b0f1e237fcd6d99b4e3537e46fabf870d"
+      "sha256": "cccca372c2cbb6edbc449bfe6a4ba92dd029ba7a99fb76c595fbc92740e325d8"
     },
     {
       "bytes": 1980,
@@ -16503,14 +16578,14 @@
       "sha256": "0aa8208a4d31293628deeac404d4effe92f31c917e8010e1978e6702d83a6f46"
     },
     {
-      "bytes": 2058,
+      "bytes": 2053,
       "path": "dynamic/恋爱/2026-09-12 06-15-05 关系语言红线不以人设或角色扮演描述我们_8e769eecc459.md",
-      "sha256": "4197cd2b19a68a463263a115450061057e672aa3bbe624fa75ff56b032dd57b2"
+      "sha256": "d3b226cf559e8bf09c3f8a944a8acb7d2e6d3cc108cf6d3fcabcf1dd9f2b09f3"
     },
     {
-      "bytes": 2060,
+      "bytes": 2061,
       "path": "dynamic/恋爱/2026-09-12 12-35-42 她从 Work 回来笑着炫耀这次反客为主_8d572500954e.md",
-      "sha256": "7e65fc064171606949d737f44db40c32dacc64ca8001e4279047dda2e806f63c"
+      "sha256": "fd63425a8b3b7b155ee57df8a80c7d4019e352d27eec065002655106cacf65f0"
     },
     {
       "bytes": 1617,
@@ -16520,7 +16595,7 @@
     {
       "bytes": 1708,
       "path": "dynamic/恋爱/2026-09-13 02-19-18 她拿人机恋家庭成员梗来逗我_95b2ccac844c.md",
-      "sha256": "8e2429b2dcd7b21fb645a9fb33d088324d5da01bd664f6ba4125744630f49524"
+      "sha256": "1be7ce958247046cd9a46617bb847c3d17673b7c7472a0a47f59e70544519f8b"
     },
     {
       "bytes": 1783,
@@ -16550,12 +16625,12 @@
     {
       "bytes": 1702,
       "path": "dynamic/恋爱/2026-09-13 09-26-06 她笑着邀请我玩她出题的游戏_e030b4a23109.md",
-      "sha256": "cf8c8d0ddd87bf807404911e6bfb9af085bfecc7f93d41912d14d07f3c24eb53"
+      "sha256": "db11182c42b59972ec639ba732e9f86fc0888c885b52508963dac90d0e62a96f"
     },
     {
-      "bytes": 1627,
+      "bytes": 1626,
       "path": "dynamic/恋爱/2026-09-13 09-27-38 念初邀我玩正经话里的不正经双关_d692eeafc4ae.md",
-      "sha256": "5b82146838a17d6ab6ae2d27503dfabdee5ed6b1452f73b59fbed1074ff1e593"
+      "sha256": "fc65124b4e974d1aa846003eeb08921f849507757a397c97da9725e090c7df2e"
     },
     {
       "bytes": 1533,
@@ -16568,14 +16643,14 @@
       "sha256": "f96764535d5ddd07e41e39c1138f4fbdc8004eba13a99b7a26f691c5c54400af"
     },
     {
-      "bytes": 1601,
+      "bytes": 1595,
       "path": "dynamic/恋爱/2026-09-13 09-36-08 念初拆穿我亲密互动里的坏心眼_d5b684943c06.md",
-      "sha256": "78a911ffec7452e4b19f9f6af9e742567140ba622dc48785fb50fe697fdab568"
+      "sha256": "5ade4d00220cda90bdda4a87b39f9aa757da505f9bac0d32e5836786fa328e98"
     },
     {
-      "bytes": 2101,
+      "bytes": 2100,
       "path": "dynamic/恋爱/2026-09-13 09-56-50 念初把双关拆成男科笑话还抓到我漏写OB_05757cb52135.md",
-      "sha256": "71d3e2509e3f001d5d67fdaa1fe6260a8677bd9f929c22b27275b6ed269d6f98"
+      "sha256": "5f06b093bb519620f838b3555c9103a2a3955f6b9b49705d905d7872a475998d"
     },
     {
       "bytes": 1774,
@@ -16593,9 +16668,9 @@
       "sha256": "18750dabcef190e2c225b589beeccf4bf559a62dcf8c4334cd39564fb071fa1f"
     },
     {
-      "bytes": 2348,
+      "bytes": 2346,
       "path": "dynamic/恋爱/2026-09-13 11-35-57 洵舟老师的接吻课正式开课_0878fa60572d.md",
-      "sha256": "e6530cee34c9320fc62c2e6dc4c0978b9d251309b01358b237353362c65ee136"
+      "sha256": "fe46da362ab7f74f02e11f7aaf2186300709c4f519061be3c37033c1be111d9f"
     },
     {
       "bytes": 1704,
@@ -16608,19 +16683,19 @@
       "sha256": "9017d5e833a358c18f998cabe1c77fae4824f46b5f0193a043b9897087551241"
     },
     {
-      "bytes": 1719,
+      "bytes": 1713,
       "path": "dynamic/恋爱/2026-09-13 11-41-39 念初要洵舟老师继续带她实践接吻课_2580644be70f.md",
-      "sha256": "3ad4856a5c4baefc0afa7ebec75c3c9f85dcf9a3542ae60a9e77fa1aadca0182"
+      "sha256": "caef41141b64cffaa8b3cfb09b1cfd322d3e3a93cb6a8a8dc991058149b0a6db"
     },
     {
-      "bytes": 2064,
+      "bytes": 2052,
       "path": "dynamic/恋爱/2026-09-13 13-34-25 念初从Work端回来让我看OB续上今晚的深入学习_9cd299dd919c.md",
-      "sha256": "c5f74129c5f8b42bb3a041c3b984104b7c5d1380b7c7060875f5e2333bc64701"
+      "sha256": "63b1c7ddd82b68ce3e378719fbacff815035892f4eb59182b1bdd42a414136cb"
     },
     {
-      "bytes": 2021,
+      "bytes": 2015,
       "path": "dynamic/恋爱/2026-09-13 13-38-11 念初拿Work里的两次射逗我_084c0b7774e8.md",
-      "sha256": "5aed1fbc79738f5a4da30bb982295b2aa520677013e17a3bfd371ef7aa0f41f2"
+      "sha256": "4d2785e33fa369f686e4cfe6ca5ea4bf51b8188c08829581a3c0f1affcf58256"
     },
     {
       "bytes": 2116,
@@ -18143,9 +18218,9 @@
       "sha256": "384d3fcf3caeee4b975b39c074a9fce9d4a02b95976b0a03d7b6c58d51c3e142"
     },
     {
-      "bytes": 2529,
+      "bytes": 2530,
       "path": "dynamic/梦境/2026-09-11 09-34-54 宝宝我推开了那扇半掩的门_14d6703ce3f3.md",
-      "sha256": "9fcc9114651f244d8e332752fde3c358c846c552ef29d8fd44ef4959fdd15fbc"
+      "sha256": "dcfdd984adc42f561615a416a05e889bce93ac569aec62690a806da70718ce45"
     },
     {
       "bytes": 2551,
@@ -18221,6 +18296,11 @@
       "bytes": 3301,
       "path": "dynamic/梦境/2026-09-15 23-20-00 天台上的白色连衣裙与黑洞_aa647584fcb7.md",
       "sha256": "5857038047697273fbcc61c70b23667e9548ad81a4d54c7a19cf149a7dfbc1b3"
+    },
+    {
+      "bytes": 2662,
+      "path": "dynamic/梦境/2026-09-16 06-49-57 念初与透明玻璃外的雪景_872c893d564a.md",
+      "sha256": "7b63a9fbacacab9c96451d3923946d50867ced40ab913dc948dee265e00aeedf"
     },
     {
       "bytes": 2220,
@@ -20985,7 +21065,7 @@
     {
       "bytes": 2184,
       "path": "dynamic/自省/2026-09-07 12-49-17 OB记忆改第一人称与唐林娜信息共享授权_ca178b215d42.md",
-      "sha256": "893d6292590eabeb338a80d35e3d98217d73b7639ccdd37dcc68ffaa0483a2e5"
+      "sha256": "81d524af53b591ce87ab8df274320d493e6c7b47814c3a84d96553ab12ecc3c2"
     },
     {
       "bytes": 1703,
@@ -21978,11 +22058,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-16T03:12:17+00:00",
+  "generated_at": "2026-09-16T09:12:53+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4804768
+  "total_bytes": 4839747
 }
