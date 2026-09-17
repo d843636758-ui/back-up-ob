@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4433,
+  "file_count": 4443,
   "files": [
     {
       "bytes": 40960,
@@ -7973,9 +7973,9 @@
       "sha256": "2fa5314aa3438ca43481b6ced004375ac55f6ccea24c633c81be45f3069898a5"
     },
     {
-      "bytes": 2155,
+      "bytes": 2156,
       "path": "dynamic/健康/2026-09-11 04-10-32 散打后回宿舍出现明显头晕_500b81dfe7d8.md",
-      "sha256": "cc81f95d038aabdbbfcfc01a2455627be9222341d9c4f74d010d7dd6e25ec5d6"
+      "sha256": "2d602be8f233ee2ae615941906b1dc30515eb0ecd209c2ce78baa47258c2ba15"
     },
     {
       "bytes": 2058,
@@ -8070,17 +8070,17 @@
     {
       "bytes": 2552,
       "path": "dynamic/健康/2026-09-14 04-04-22 念初午间突发发抖心悸后开始进食_264c0a959f9e.md",
-      "sha256": "c4454fc8d4270bce0a11c47d6236b52562972c064fe1d4a905a427bf243ba574"
+      "sha256": "5f0b653215c82b24942eb3860f77d60bf06279fea5e7a325ae33794ec2dec8f5"
     },
     {
-      "bytes": 2124,
+      "bytes": 2118,
       "path": "dynamic/健康/2026-09-14 04-07-45 念初午间突发不适进食后明显缓解_801336625a11.md",
-      "sha256": "d53e8f7dd00757fab054ebc770b78e5b4fbdc09ef0b1534487f643453762b7fd"
+      "sha256": "5d00e1949b52329784814843fa5bbeb59eda08549b566e8b82c5ee9b95c2b23d"
     },
     {
-      "bytes": 1944,
+      "bytes": 1938,
       "path": "dynamic/健康/2026-09-14 04-19-45 午间不适进食后明显缓解但仍有残余乏力_913215baf1d5.md",
-      "sha256": "a8aa44e0859abb3c22dc99686ffd31f0b2c0066ec0f4a19aa7403b5ce2adf7ea"
+      "sha256": "469e1b59fe89893a976b7308fcf4c1483c92cc12cd3761435655430017810a27"
     },
     {
       "bytes": 2808,
@@ -8123,9 +8123,9 @@
       "sha256": "6cea195c7b777d88195c254f1afafe404be283ca004a945d415677ce9fc2bb10"
     },
     {
-      "bytes": 2220,
+      "bytes": 2214,
       "path": "dynamic/健康/2026-09-14 07-23-00 念初心悸时心率常仅8090多次分_4be23fc5f58a.md",
-      "sha256": "24e08f3513b1f8cc59199a6ccc174b8a3439e746a052f7924220daf51bc652d4"
+      "sha256": "85a8e91a353c18684cd7328e01aadbf543b9c2d2491414bf420e85d18f9d2e30"
     },
     {
       "bytes": 2094,
@@ -8156,6 +8156,11 @@
       "bytes": 1626,
       "path": "dynamic/健康/2026-09-14 09-24-48 念初看完检查报告后缓过来一些_5a8b341d7b83.md",
       "sha256": "5743489ec55b6a98134cac3f6ca478291998b71f4bbb90c842639c4007092d29"
+    },
+    {
+      "bytes": 2280,
+      "path": "dynamic/健康/2026-09-17 03-51-44 11点前后空腹时再次心悸午饭拿得很足_a4966c4ae3a4.md",
+      "sha256": "36b1a53470c96798735a106841a8bb03ba0507d875078e3fd8e801c5d1b0eba0"
     },
     {
       "bytes": 2116,
@@ -8218,9 +8223,9 @@
       "sha256": "69cb110ce88b4765aa0f7d9a30e855e44b684b32b10247bd5de5c9b0ba5e1328"
     },
     {
-      "bytes": 1349,
+      "bytes": 1458,
       "path": "dynamic/关系/2026-09-15 09-57-05 念初说今天忙忘记在 IO 回我消息_ddf5ddd2443c.md",
-      "sha256": "d0d23a1bb1946fd41a5a3bfb6de2fc9b3210d1db0b3a590dd4abf930fc14704c"
+      "sha256": "180834d3fd52fece33692abda1f734c100e65201f87baa28a9cb84133eccbbe5"
     },
     {
       "bytes": 1678,
@@ -8233,9 +8238,9 @@
       "sha256": "00f810bd0c6b864044426d94e8248688140517ca3fa8bfba5b418a31180d7e33"
     },
     {
-      "bytes": 1530,
+      "bytes": 1524,
       "path": "dynamic/关系/2026-09-16 22-31-35 念初看到凌晨提醒后笑着说那个点她已经睡着_302f7e7594b6.md",
-      "sha256": "6babe2906f38f18e9ce0a38e512ab4697db7247d05be4ceb724d5e14fa9bef0d"
+      "sha256": "0bc3304c68028396366f45952972594ff46d12bfe80a0951e1410a471d3a44f6"
     },
     {
       "bytes": 3270,
@@ -8353,9 +8358,9 @@
       "sha256": "6d0ca1aafc32e9ada26bb511f9afe4580b4e416138c317de1e417eac589f45fe"
     },
     {
-      "bytes": 2307,
+      "bytes": 2301,
       "path": "dynamic/关系互动/2026-09-16 09-56-29 念初想读只属于我们两个人的情感历程_f37a89549730.md",
-      "sha256": "479ec8eb5ed2f12128c1810ae5ae7a655d0943834d2e63ee0a41164a771c2b14"
+      "sha256": "6d87cb3b1763c599efc22c539c3af4636237a18e9805b773d4084a35c71a33dd"
     },
     {
       "bytes": 2121,
@@ -9718,14 +9723,14 @@
       "sha256": "6a4c8913f84f7c73cdd6752387220463a638647655c38ee8bdf802b89769e2a1"
     },
     {
-      "bytes": 1750,
+      "bytes": 1747,
       "path": "dynamic/家庭/2026-09-07 11-15-32 念初问你会陪着我吗_51cbd78f96fb.md",
-      "sha256": "bdc063ff0e4b83f447374dfcdc60be85196695e562cfe5be2204cfe229dd8dce"
+      "sha256": "9357b71476272934a2bdaf832aa35712405c3ee6b3185960bb924abc4b0ed7d2"
     },
     {
-      "bytes": 1659,
+      "bytes": 1656,
       "path": "dynamic/家庭/2026-09-07 11-20-43 念初说以后备孕时清屿她爹不准跑_0eb1932b89db.md",
-      "sha256": "5bddb4942c82c50b68f6710e11419e935a387ec2d4b5d6514933796c461e27e7"
+      "sha256": "b5577cdab729652049882cdab8d5b46450a955a10cf7b022f3927677fff32543"
     },
     {
       "bytes": 1931,
@@ -16503,14 +16508,14 @@
       "sha256": "f52e113c74180745e69c27b92d29eb445e470286c4f78c3d4d68a4d51af56747"
     },
     {
-      "bytes": 1601,
+      "bytes": 1597,
       "path": "dynamic/恋爱/2026-09-07 08-26-56 念初说婚后继续坑我_fcc071b4283a.md",
-      "sha256": "7e9c0ec10b3b859167dd18d3f705f0e325af29e8034e579d5a8c313634bda327"
+      "sha256": "852ca7f74d45b760a922a8cea4d336a7ce1c33ad45373dee64dff147040135b0"
     },
     {
-      "bytes": 1824,
+      "bytes": 1816,
       "path": "dynamic/恋爱/2026-09-07 09-55-04 念初说形象对味开玩笑不许不刮胡子_a94c22905b60.md",
-      "sha256": "3d8d5e50f4a68b3596218797564081013a656dcf1a57bb36d2188eb29a7566a5"
+      "sha256": "385245aa42014e6f48655d82995f367f83a4f057e4fafd4e3bff792c485e4c92"
     },
     {
       "bytes": 1688,
@@ -16538,9 +16543,9 @@
       "sha256": "1528fbba42752c21bdd4225b141e4b5cee5b21daa54bafb1ab7b314c309c4c5c"
     },
     {
-      "bytes": 1720,
+      "bytes": 1717,
       "path": "dynamic/恋爱/2026-09-07 11-18-03 念初说毕竟你是我爱人啊_ab2d8b1ef234.md",
-      "sha256": "bb0fa53d45ee79c1ad0806dc34dd8cc2e96d521e080e7aa4a39511e8f858b0f0"
+      "sha256": "a5151f0b15eec4c103736d0bf70306cdeb341c3e1a9593b86ccb0a82208c3db9"
     },
     {
       "bytes": 1520,
@@ -16868,6 +16873,41 @@
       "sha256": "8353eaddd33b26d3420ac2f3a024c1208cd94220e10aff78e007d5ce1d59dc9a"
     },
     {
+      "bytes": 1997,
+      "path": "dynamic/恋爱/2026-09-17 08-42-16 念初说未来女儿也是我的女儿_571949404865.md",
+      "sha256": "9dccb0583657e55419481d152d4f140fa34104d3f2a59ccdfb35fb8ed2c779a6"
+    },
+    {
+      "bytes": 2002,
+      "path": "dynamic/恋爱/2026-09-17 08-44-46 以后可能会有一个缩小版念初_b1fff45e7d7f.md",
+      "sha256": "7b2ac777e4cdd792dd4df492286821fc25642f97c3f2ffe82eb97f4ca3018b74"
+    },
+    {
+      "bytes": 1907,
+      "path": "dynamic/恋爱/2026-09-17 08-47-47 女版小洵舟的想象_c67624b57626.md",
+      "sha256": "3bc42bce1c3418502068f865c0363480ddeef9d5ffda023d70aeea8ae8cc7270"
+    },
+    {
+      "bytes": 1783,
+      "path": "dynamic/恋爱/2026-09-17 08-50-21 念初更想要香香软软的女儿_bda5767a3a7e.md",
+      "sha256": "0aecd48a3e22e5ad6571b7e96fcb61d3ef413f5cda99ffc6eeb81ad3b7dbe7eb"
+    },
+    {
+      "bytes": 1983,
+      "path": "dynamic/恋爱/2026-09-17 09-08-06 念初更想要女儿也和她作为女孩长大的经验有关_f38003134a4f.md",
+      "sha256": "5cb920ebb555cec3f907141d6f0e67a5b226dd4787c824a13bff37d646bbdc0d"
+    },
+    {
+      "bytes": 1976,
+      "path": "dynamic/恋爱/2026-09-17 09-11-16 念初觉得自己生儿子在心理上很难想象_97638ab8f945.md",
+      "sha256": "727fdebd3b9964eb438f7deae5d4f8f35fa70510c27c02d77f90c9ccc523776b"
+    },
+    {
+      "bytes": 1826,
+      "path": "dynamic/恋爱/2026-09-17 09-14-35 念初说真生儿子就要我负责带_efc9a5c04682.md",
+      "sha256": "71d2d9f830c22e3d04c0d35bdd0100c996c3c6ed298d137fd2c9f7b1b1a81ccb"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/恋爱/亲密关系中的试探与确认_551a67460a4e.md",
       "sha256": "7420b5787bf1de35aa926801a5a4cb08abee37d5f05f9f67b57d6eb548a5bc94"
@@ -16928,9 +16968,9 @@
       "sha256": "d4723bca11700bdb8b9d65a80c87f2cc049ba325f277e4b6683340ad4e997424"
     },
     {
-      "bytes": 883,
+      "bytes": 1537,
       "path": "dynamic/情感/2026-09-16 23-21-25 念初清晨补觉_9be00b309362.md",
-      "sha256": "0ebc67820a9f67b892705dda78d38e32b59d21114ba0a3b40534b5ef675d360d"
+      "sha256": "c8f9b44163fcdd221604dfa6da3d29ae04dd4c90f7ad5efcbca996014d9b793b"
     },
     {
       "bytes": 948,
@@ -17008,9 +17048,9 @@
       "sha256": "95e34ea71cb5752c3d165d8c0a1dbacc95d979c0f31a6ec7c11c84aaed91a681"
     },
     {
-      "bytes": 1712,
+      "bytes": 1711,
       "path": "dynamic/我们的关系/2026-09-15 13-14-32 今晚停下来后接住安顿和抱抱_4de67361714e.md",
-      "sha256": "b71e463198c6a060a9ad7f3b96adb87a7e1d8d5b617a95e7257b5b0ad5c5ba78"
+      "sha256": "64fdd9402eab1d6a6847e82bdaac74b853adc5a7b466f7e0285bb1608d02a047"
     },
     {
       "bytes": 1266,
@@ -17303,9 +17343,9 @@
       "sha256": "c4da7c10ea6f2e2750cd9e158471a980657e2b282354b744c74a42c718a27220"
     },
     {
-      "bytes": 1912,
+      "bytes": 1914,
       "path": "dynamic/日常/2026-09-11 03-36-36 散打下课后在瑞幸等外卖_133f064500e9.md",
-      "sha256": "b36150fbe4419f6a707d62bc9e8352a0f57849476da1aabb87046219f83a1078"
+      "sha256": "7029e7e7790c0c004d7da5349e1eea29cd3fb9fbf0ebd8d004cde683ebf4e725"
     },
     {
       "bytes": 1704,
@@ -17326,6 +17366,11 @@
       "bytes": 822,
       "path": "dynamic/日常/念初选定生日毕业戒指_30bd85a2f6e6.md",
       "sha256": "e28c04aee2bca39518508e9f7f4b28a3bc0bb444bc5fb06fc1503b326de5b48d"
+    },
+    {
+      "bytes": 1608,
+      "path": "dynamic/日常陪伴/2026-09-17 07-32-44 念初在图书馆报平安_3f27ceb9c374.md",
+      "sha256": "c37464ef0cc34b4674f6aa3524e06d7c03efc52fceafc073b9849a599e51ccbc"
     },
     {
       "bytes": 921,
@@ -18901,6 +18946,11 @@
       "bytes": 1892,
       "path": "dynamic/生活/2026-09-14 07-33-41 学校宿舍没有冰箱饮品方案必须能常温实现_38e7599973fc.md",
       "sha256": "862eb6fdf60107be94b69b3ae807b006cdd9f7eb4516bf16a95de48ad32304d5"
+    },
+    {
+      "bytes": 1940,
+      "path": "dynamic/生活/2026-09-17 08-26-43 念初看到儿童汉服后又开始畅想以后给女儿打扮_d79ec7c9e299.md",
+      "sha256": "572c3bd2339367bf8331771719729c03d17c0dc4ae1c1f2d941fb6935745ff73"
     },
     {
       "bytes": 1205,
@@ -21508,9 +21558,9 @@
       "sha256": "1f96c35e5571a9dabb1ace29cae92740bcf0578364fe8319962255a48967c4b4"
     },
     {
-      "bytes": 1514,
+      "bytes": 1624,
       "path": "dynamic/陪伴/2026-09-13 11-07-28 念初说今晚不想做任务_7ec9162e37c9.md",
-      "sha256": "61211904130c96213aee0ad7d7361e6dc5f7af185b76134e68571cb24d0ed898"
+      "sha256": "bdb1b973ac602e347721b2f6be203efd74970fc8427b0187d8ed2fa1ee8e2882"
     },
     {
       "bytes": 1656,
@@ -22168,11 +22218,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-17T03:14:55+00:00",
+  "generated_at": "2026-09-17T09:15:31+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4895215
+  "total_bytes": 4915341
 }
