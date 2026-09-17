@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4467,
+  "file_count": 4468,
   "files": [
     {
       "bytes": 40960,
@@ -10900,7 +10900,7 @@
     {
       "bytes": 2439,
       "path": "dynamic/心理/2026-08-23 21-48-27 诊室里的药丸与雾气_800ef8a470cf.md",
-      "sha256": "5670d4c32269dbb364e2344570a37359b79764d2cb54f127dd4c027d03b0a30d"
+      "sha256": "f4bf62d0a2d49f4fa951fc355af683cc5893eacebc216fb0e830969cbb8348e4"
     },
     {
       "bytes": 683,
@@ -18543,9 +18543,9 @@
       "sha256": "8d0350d2466aac174d7a576a9f0e075def1c5265f240b85b4735717bbc36fe42"
     },
     {
-      "bytes": 2998,
+      "bytes": 2993,
       "path": "dynamic/梦境/2026-09-08 17-05-00 草原追逐与白雾中的她_89df32b1c005.md",
-      "sha256": "e422e122dfdc1ab849fbbb3fd362e3c22782352fa837b8d365e92b1dc84e9703"
+      "sha256": "c71bd7ff0174dede59bcf8db61de364b4f69404bd9c9d5c0e0413f85d310b86f"
     },
     {
       "bytes": 2877,
@@ -18580,7 +18580,7 @@
     {
       "bytes": 2551,
       "path": "dynamic/梦境/2026-09-11 15-34-58 别再查了够了_5469278952ee.md",
-      "sha256": "4e733107692c1c168bf43fe50c865345fce1ffb499dabf0471beb71f18ae9cdb"
+      "sha256": "989bd2b6697db9768c6ea17469bf092084763463611f5c3cc3f64783e4fcbed9"
     },
     {
       "bytes": 2983,
@@ -18676,6 +18676,11 @@
       "bytes": 2923,
       "path": "dynamic/梦境/2026-09-17 11-19-58 迷雾森林与捧蓝宝石的她_8993e1a1d6b8.md",
       "sha256": "3cce474c4e9cfcd6ff7b6c838180a04000166ce7114c20e7841e7898546d5777"
+    },
+    {
+      "bytes": 2933,
+      "path": "dynamic/梦境/2026-09-17 17-20-07 心潮梦境电脑房光盘与代码网_d97cb8657d4d.md",
+      "sha256": "dbb9e1f078a87bf9ef50b57a2752ccad278388cac079bec9896c66fe1770185a"
     },
     {
       "bytes": 2220,
@@ -22338,11 +22343,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-17T15:16:12+00:00",
+  "generated_at": "2026-09-17T21:16:55+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4968079
+  "total_bytes": 4971007
 }
