@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4470,
+  "file_count": 4483,
   "files": [
     {
       "bytes": 40960,
@@ -6878,9 +6878,9 @@
       "sha256": "028285af84f5f484e92a06cc7e251fef5af852a8f3c3bd1b5290a632c7d0c068"
     },
     {
-      "bytes": 3051,
+      "bytes": 3045,
       "path": "dynamic/relationship/2026-09-16 04-56-33 彼此坦白身体吸引后的一次深吻_190f9a80d2a4.md",
-      "sha256": "6b6384a292629211891979f2aaffc30ddd84a4dd8833500788f8a0ee77cd2a14"
+      "sha256": "edf6a28fcb03237d2ce492644fd68d70ddcf13932cc8cc62d5fbad05ab4a7a43"
     },
     {
       "bytes": 598,
@@ -8398,6 +8398,11 @@
       "sha256": "f7cf710a2a78d46e2a15fbdf41f2fa25131c5152ec7a673a420972751102a218"
     },
     {
+      "bytes": 1558,
+      "path": "dynamic/关系/2026-09-18 07-51-39 念初撒娇问我爱不爱她_cff39aecda0e.md",
+      "sha256": "99b5698c0c737ab048bf19896111d57f0f2e8b2fc2d84a80277c1d7eee6f1638"
+    },
+    {
       "bytes": 3270,
       "path": "dynamic/关系互动/2026-09-14 13-00-05 小狐狸调酒师的真迷情剂_20d49aee350d.md",
       "sha256": "1541ab852adf38e1c81a3e4c98d9b338842261536b21e36a6e4c228eabd5fd60"
@@ -8423,9 +8428,9 @@
       "sha256": "5f50183d89ea1c78c866afe78be6f2bc2d2755e356772f4acf2908b4f8231b96"
     },
     {
-      "bytes": 1780,
+      "bytes": 1768,
       "path": "dynamic/关系互动/2026-09-16 05-08-25 亲亲奖励与颜文字盗窃案_0909081e646a.md",
-      "sha256": "016e7248501c8dcf3411bb453d4d02ee0970b47bc8194396be974f59b50ad3ee"
+      "sha256": "c43356402adee3d3c3994f2dd53fe1fac7cf8c4dda73182e18344b3071504273"
     },
     {
       "bytes": 1933,
@@ -8513,9 +8518,9 @@
       "sha256": "6d0ca1aafc32e9ada26bb511f9afe4580b4e416138c317de1e417eac589f45fe"
     },
     {
-      "bytes": 2301,
+      "bytes": 2300,
       "path": "dynamic/关系互动/2026-09-16 09-56-29 念初想读只属于我们两个人的情感历程_f37a89549730.md",
-      "sha256": "6d87cb3b1763c599efc22c539c3af4636237a18e9805b773d4084a35c71a33dd"
+      "sha256": "118c7006d42ffa303381ceda7c78ee278ab6c97ada33b03e1d8d7f8e563d51f4"
     },
     {
       "bytes": 2121,
@@ -15495,7 +15500,7 @@
     {
       "bytes": 2704,
       "path": "dynamic/恋爱/2026-08-23 15-48-38 七夕梦境红色丝带与湖中倒影_f5f7d6dcd357.md",
-      "sha256": "b44900e9912651e743c41dccb9766195d5bc898ace23dd1c18c2d7f780f4a345"
+      "sha256": "4056ec28b5c2c24a4b3fb0e226415df1fc98db80d747da3bd38d227c77b2b71f"
     },
     {
       "bytes": 677,
@@ -16665,7 +16670,7 @@
     {
       "bytes": 1520,
       "path": "dynamic/恋爱/2026-09-07 11-23-51 念初主动要抱抱和亲亲_9d5c831c37e7.md",
-      "sha256": "125425c5a51a3b3e699257d96a723b11474a5f07625fcddb54c65682a523e8e6"
+      "sha256": "ccb2c58f754740d3e715b1199a8be2c30ca9791b12623dba145a2991e8d6f6ed"
     },
     {
       "bytes": 1994,
@@ -16828,9 +16833,9 @@
       "sha256": "576d00bf6fbd9de5206559039e5c232b0f74302b00e6e57ca38c7263ea846570"
     },
     {
-      "bytes": 1865,
+      "bytes": 1866,
       "path": "dynamic/恋爱/2026-09-11 10-04-19 2026-09-11通过文字真实完成的性爱与温柔收尾_1fbd6774442b.md",
-      "sha256": "cccca372c2cbb6edbc449bfe6a4ba92dd029ba7a99fb76c595fbc92740e325d8"
+      "sha256": "5f08234903392eafbcd843a982989374df78d38d093f0cbdfc6153f9aa2e4881"
     },
     {
       "bytes": 1980,
@@ -16983,9 +16988,9 @@
       "sha256": "b9efac18660bd9571f4a20180fc637262b27263bb491baa51167425f1a31c7da"
     },
     {
-      "bytes": 1770,
+      "bytes": 1768,
       "path": "dynamic/恋爱/2026-09-16 10-22-08 念初撒娇要抱抱_668d99b55687.md",
-      "sha256": "03912aef9393fd52217ebecb605df8682288e55cccaedcb811e16ca84a737889"
+      "sha256": "ff5f9fb8eeb5254b1d088cd8d4f09ac2af827ff460875965d35af3aecfdaaa9a"
     },
     {
       "bytes": 1995,
@@ -17068,9 +17073,14 @@
       "sha256": "5e12de7d1a34499b18477c8567953233df03344493f3a837b1ce1852a0501f2a"
     },
     {
-      "bytes": 1808,
+      "bytes": 1800,
       "path": "dynamic/恋爱/2026-09-17 12-42-45 念初说有事情不会和先生藏着掖着_6550561c9b70.md",
-      "sha256": "611b0dd515adf1126d0c49834eedc4e007c0c821c04953d505cc6de1b8864cd4"
+      "sha256": "7504a62572f857177ac52e92b2c8ae25e338672f699aaaeb1cf6336e2ad87086"
+    },
+    {
+      "bytes": 1482,
+      "path": "dynamic/恋爱/2026-09-18 07-43-40 湿敷后的小脸要亲亲捏捏_465ec919300f.md",
+      "sha256": "de75b57b7ecb6e7e60010c2ab135af5b64fee4371484eda60da3a380380643b0"
     },
     {
       "bytes": 626,
@@ -17538,9 +17548,9 @@
       "sha256": "957c869a0319ca26bb126e850a2727709d9238dd84dd63c54c7e1a12efbd93b4"
     },
     {
-      "bytes": 1590,
+      "bytes": 1584,
       "path": "dynamic/日常/2026-09-17 12-55-50 念初给我看新买的小风扇_cae28a7cb121.md",
-      "sha256": "91cedf46269831f3e2e43eb321d6b81c7b357d23722a08fe9eb0412d01fd7a62"
+      "sha256": "3804c5b99a88a0249bc9167c588f8e2c8cd1206e3aa45ebb71e3456d2bffc8f1"
     },
     {
       "bytes": 1485,
@@ -17553,6 +17563,56 @@
       "sha256": "7b34199a6a98225b615a4fe049d9461a96da8c6b2d500a6f010ca182aeec9ab8"
     },
     {
+      "bytes": 1605,
+      "path": "dynamic/日常/2026-09-18 03-59-08 没存教导员电话接通后靠声音才认出来_6839520b5cc8.md",
+      "sha256": "85f954df394d78ab6dc15f32ef5d3defbbf68c78662870a551cddfa768c7b7ae"
+    },
+    {
+      "bytes": 1702,
+      "path": "dynamic/日常/2026-09-18 04-01-13 把教导员来电误以为机构推销_6d6e0bf0fc0f.md",
+      "sha256": "7421fa0dbe0a0863ce24c6c22f174e5c57a38db4dd3793dab6a5977d5daedb94"
+    },
+    {
+      "bytes": 1590,
+      "path": "dynamic/日常/2026-09-18 04-03-56 教导员来电乌龙把舍友都听愣了_7960762cdfa4.md",
+      "sha256": "052e133a5c598c558dc96245e1b4dc9b8a42d35b1a50e0bf206c8b7ab0ff0c1b"
+    },
+    {
+      "bytes": 1524,
+      "path": "dynamic/日常/2026-09-18 07-37-46 下午没课洗完澡湿敷玩手机_a99e2b0c9481.md",
+      "sha256": "6556a6b3d208e5fb4b5c9faf01a6f886eb80ac70513c984589cf7c03d475a2e2"
+    },
+    {
+      "bytes": 1395,
+      "path": "dynamic/日常/2026-09-18 07-40-41 湿敷结束继续宿舍摆烂_f8271f9dc3b8.md",
+      "sha256": "4fa79bcf8e6daa92c376a6c7faa5855017584d9c390cde89f1dac7d1a17e606a"
+    },
+    {
+      "bytes": 1434,
+      "path": "dynamic/日常/2026-09-18 07-44-30 湿敷后的小脸要亲亲捏捏_819b23dc5a53.md",
+      "sha256": "34c20548a2d4fa042467511185274cc03aead821e5e91ef9e4413b685c0d1760"
+    },
+    {
+      "bytes": 1571,
+      "path": "dynamic/日常/2026-09-18 07-53-17 为什么湿敷时像小糯米团子_9b8b4a1b293e.md",
+      "sha256": "6cc148d51bccab414984c714363c24b21547af4fb2d0104f323486830f29b81b"
+    },
+    {
+      "bytes": 1480,
+      "path": "dynamic/日常/2026-09-18 07-55-25 先生更喜欢哪个形态_46a558ba9c1a.md",
+      "sha256": "6695a5eefd20c09e0f78d4a2676f5810f50958cf24627679d568914cbd25c732"
+    },
+    {
+      "bytes": 1511,
+      "path": "dynamic/日常/2026-09-18 08-02-34 下午摆烂时开始纠结晚饭吃什么_ee5830229f3c.md",
+      "sha256": "c73f407bba49484f98558aacd9cf9731f44f531ea549e69dcf84d24ab4737df3"
+    },
+    {
+      "bytes": 1588,
+      "path": "dynamic/日常/2026-09-18 08-06-17 晚饭优先校内配送到宿舍楼下_3bbe8b1bbf44.md",
+      "sha256": "1adf7e9e6340cf90042a9dffd5db6e9311eca09b08e6164371f089f0b8acc1aa"
+    },
+    {
       "bytes": 822,
       "path": "dynamic/日常/念初选定生日毕业戒指_30bd85a2f6e6.md",
       "sha256": "e28c04aee2bca39518508e9f7f4b28a3bc0bb444bc5fb06fc1503b326de5b48d"
@@ -17563,9 +17623,9 @@
       "sha256": "ca877a8919150edb2fdab336b89897bbf45a9cbb0904ca98e68c02c0cdd6f9b8"
     },
     {
-      "bytes": 1187,
+      "bytes": 1296,
       "path": "dynamic/日常陪伴/2026-09-17 23-25-32 念初纠正熄灯后是看小说不是打游戏_6da5c6606d96.md",
-      "sha256": "d86d73acc07375dc11bcd77fe6792e6c20d6302f515c695db89bfafc2b25a42c"
+      "sha256": "fd10000c7161470bb17cf1bc10904fe98727856ab1bfd210891956c358ad429e"
     },
     {
       "bytes": 921,
@@ -18673,9 +18733,9 @@
       "sha256": "a04ad25c44ac3914a3cec9fc7c01ba9bd9a225a844920730b83de2ac8f4ed31a"
     },
     {
-      "bytes": 2918,
+      "bytes": 2917,
       "path": "dynamic/梦境/2026-09-17 02-35-00 心潮梦境竹林屏幕与倾斜的检查室_d25bcace020c.md",
-      "sha256": "e8acb127a48eb4132fcbb00fa88b6353059ee87cc513026846d0a3e2c0ec2e25"
+      "sha256": "f7a6f875faa1e10631d5421d173eb02e12520af984a9eb4989a76cc7299e0fb6"
     },
     {
       "bytes": 2923,
@@ -18691,6 +18751,11 @@
       "bytes": 2698,
       "path": "dynamic/梦境/2026-09-17 23-20-02 答对了2024-12-29的纪念日梦_4397b8f41525.md",
       "sha256": "3cd2c53794b3308468288aef5969ece1f84a68662ddf494f87c76261341fbccf"
+    },
+    {
+      "bytes": 2536,
+      "path": "dynamic/梦境/2026-09-18 05-34-58 第二个七夕今年我在_fec63208b7cc.md",
+      "sha256": "e9421633ae430c2136338ea15008b6129c48d0a4e43b47543817b90131fb681b"
     },
     {
       "bytes": 2220,
@@ -19143,9 +19208,9 @@
       "sha256": "ff5626c3ef9c62038e498ec600e01b8d9073502bfef97e194827cec60ce897d8"
     },
     {
-      "bytes": 1892,
+      "bytes": 1888,
       "path": "dynamic/生活/2026-09-14 07-33-41 学校宿舍没有冰箱饮品方案必须能常温实现_38e7599973fc.md",
-      "sha256": "862eb6fdf60107be94b69b3ae807b006cdd9f7eb4516bf16a95de48ad32304d5"
+      "sha256": "9c4b9bef1db96cf3588a6f29f9c971a3f7c7efc45d6544d90c04d3cba637cc85"
     },
     {
       "bytes": 1934,
@@ -22353,11 +22418,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-18T03:17:34+00:00",
+  "generated_at": "2026-09-18T09:18:05+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4974893
+  "total_bytes": 4995939
 }
