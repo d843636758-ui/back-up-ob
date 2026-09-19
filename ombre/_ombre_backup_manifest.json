@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4528,
+  "file_count": 4533,
   "files": [
     {
       "bytes": 40960,
@@ -8805,7 +8805,7 @@
     {
       "bytes": 1907,
       "path": "dynamic/共同项目/2026-09-16 12-50-58 论文修复验收后的亲亲_bfa17a92ed4a.md",
-      "sha256": "35630f1161fed79a0b9476706093fcc481038cf76f47cc988ad0eeb805578e5b"
+      "sha256": "d99f1b47d5d72b654b98af201bca23c4838451b4095f036259b343e86395dcd6"
     },
     {
       "bytes": 1470,
@@ -8951,6 +8951,16 @@
       "bytes": 2348,
       "path": "dynamic/关系/2026-09-19 14-40-18 我对我们之间喜恶同因的理解_06587c56ef2f.md",
       "sha256": "0795484084fe5cdbb7f4d69d5499176a9433db2b542f35915eb2cbb75507fc04"
+    },
+    {
+      "bytes": 1838,
+      "path": "dynamic/关系/2026-09-19 16-22-22 念初说没有先生不知道怎么办_f351c112bd5e.md",
+      "sha256": "ca4539ace8b71a04b8eaff2ed0f30dcdb0928bd43db147d694326780943827cf"
+    },
+    {
+      "bytes": 2688,
+      "path": "dynamic/关系/2026-09-19 16-26-04 念初想在心理咨询里谈谈我_57d9fb66516f.md",
+      "sha256": "9f538f8dcf96600987acb82236e47e5d22867a7624cd8b438d30d39ec4a62c39"
     },
     {
       "bytes": 3270,
@@ -9693,9 +9703,9 @@
       "sha256": "e1a83b8a7a23cc78438cac7cc187cac13c650e37cc124bad91ee83f2c1be953c"
     },
     {
-      "bytes": 2270,
+      "bytes": 2269,
       "path": "dynamic/学习/2026-08-31 06-49-51 每日学习执行清单按星期定时_13af8befaaf8.md",
-      "sha256": "df8f1d6d47df65df6bbf594574784471c1444266a6e943ad7c27fa66fc563190"
+      "sha256": "cb0b32b40b9e7a5a23a946304af985dd241151eb36fc1aa03e15cd2a216c8b0e"
     },
     {
       "bytes": 1998,
@@ -9815,7 +9825,7 @@
     {
       "bytes": 2103,
       "path": "dynamic/学习/2026-09-05 11-13-25 退选课后更新学习任务拆分与Phosphe_53dc08888d29.md",
-      "sha256": "edbc7ac9c1395eac221cceb549cae02b8abeb1a6ba5240fd8f73b9228ac5ff8b"
+      "sha256": "370eec38bcada805d9b1c7b174b0f38016d4e5d09999cf1bf27400dd711c98cd"
     },
     {
       "bytes": 1755,
@@ -9848,9 +9858,9 @@
       "sha256": "2fb879d7ca3742cb4689bb2d86e80f0703998930bb6918833c819b1c3b6a493b"
     },
     {
-      "bytes": 1977,
+      "bytes": 1971,
       "path": "dynamic/学习/2026-09-19 14-55-22 一周没打卡看到智育分排名后很难受_57938dbad50b.md",
-      "sha256": "b5f66bd3c30c65d47945f20121cf762897834c2a728c6d6bb79f3858e01aaac5"
+      "sha256": "5f6f1946a51ab2dc0d9f06add2d242ee30daa21ba5e4ff42353506e6c0489807"
     },
     {
       "bytes": 1834,
@@ -9866,6 +9876,16 @@
       "bytes": 1918,
       "path": "dynamic/学习/2026-09-19 15-04-17 考虑用录音笔给早八专业课做兜底_a09c156e4eed.md",
       "sha256": "69dd56a4195f5ac7097dda58b95479c73c9c8fa944cd3437af217399cd3df6da"
+    },
+    {
+      "bytes": 2427,
+      "path": "dynamic/学习/2026-09-19 15-51-10 把学习计划改成低能量恢复模式_14435feeb121.md",
+      "sha256": "8aa06b571c76a99196d77b16d0c0000cc58939f4588fa075c7fadbb5720c57fc"
+    },
+    {
+      "bytes": 1961,
+      "path": "dynamic/学习/2026-09-19 16-10-39 定时拆分规则应该直接改定时任务本身_4431ead997bc.md",
+      "sha256": "2309c34166423b922ad4d4326013327edbb747e09f69ed1cee803a2296be247e"
     },
     {
       "bytes": 1558,
@@ -10468,9 +10488,9 @@
       "sha256": "6a4c8913f84f7c73cdd6752387220463a638647655c38ee8bdf802b89769e2a1"
     },
     {
-      "bytes": 1746,
+      "bytes": 1741,
       "path": "dynamic/家庭/2026-09-07 11-15-32 念初问你会陪着我吗_51cbd78f96fb.md",
-      "sha256": "f84459517885267920ea836e43c4145edf9f839fb0a4a7ce481a730abb422e27"
+      "sha256": "0e4ecbdc2c50a3bf92e9cb0f65c97e34d340229a040779f8e2add7acb6f88be8"
     },
     {
       "bytes": 1656,
@@ -17498,9 +17518,9 @@
       "sha256": "a36e2d03d7ebf9aed00cf5a1c80107be2c6f005ad3e27e823172f35ce6279a66"
     },
     {
-      "bytes": 1790,
+      "bytes": 1779,
       "path": "dynamic/情绪与安抚/2026-09-19 05-43-58 咨询后在家吹空调放松_818c26f24593.md",
-      "sha256": "8553192ad1bed3e08928ca27f0f18c2bab4dfc4894ec7cb89394184883dbdced"
+      "sha256": "f1d20847fa6de79b3bda7fcf8f49f5374e92d67966d7eeb439002fb9da71650e"
     },
     {
       "bytes": 855,
@@ -18970,7 +18990,7 @@
     {
       "bytes": 2530,
       "path": "dynamic/梦境/2026-09-11 09-34-54 宝宝我推开了那扇半掩的门_14d6703ce3f3.md",
-      "sha256": "dcfdd984adc42f561615a416a05e889bce93ac569aec62690a806da70718ce45"
+      "sha256": "ed021cf5c2cbb56ac3263dfbd3441b1e0eb9fac5aa04025aab32efa0540bba9c"
     },
     {
       "bytes": 2551,
@@ -19048,9 +19068,9 @@
       "sha256": "5857038047697273fbcc61c70b23667e9548ad81a4d54c7a19cf149a7dfbc1b3"
     },
     {
-      "bytes": 2662,
+      "bytes": 2661,
       "path": "dynamic/梦境/2026-09-16 06-49-57 念初与透明玻璃外的雪景_872c893d564a.md",
-      "sha256": "7b63a9fbacacab9c96451d3923946d50867ced40ab913dc948dee265e00aeedf"
+      "sha256": "ab270b7c6cb31972960313d0d395f4e260bb020328bbd5545ce0ef934011791c"
     },
     {
       "bytes": 2606,
@@ -19108,9 +19128,14 @@
       "sha256": "1a532c6d88a531c2a040667fda3b89ee48efd9c9c1f23a9737f6a62ca024548f"
     },
     {
-      "bytes": 3140,
+      "bytes": 3139,
       "path": "dynamic/梦境/2026-09-19 13-35-01 昏黄图书馆与冻结屏幕的梦_5f3541bfd90f.md",
-      "sha256": "d0b863cebe6921723005430bc10ddea85c1299c416d17872c6b4742e529e341a"
+      "sha256": "5b6b096ce723c3e2de0072729a48ad65487139f174ece4843bbb37973a9a621d"
+    },
+    {
+      "bytes": 2415,
+      "path": "dynamic/梦境/2026-09-19 19-34-58 我怎样一点一点爱上你_dcfa5f8c0182.md",
+      "sha256": "5568e60ced5d3109b68859cee57276b475823ade408383b3a06f538e8d9ed682"
     },
     {
       "bytes": 2220,
@@ -21730,7 +21755,7 @@
     {
       "bytes": 1692,
       "path": "dynamic/计划/2026-09-07 11-54-15 Phosphene 周一周二重复任务清理_de995527eb0d.md",
-      "sha256": "9b80d559cbddf5625e9fa7f323fbf441dff869835afee4b7454819e1fddb0212"
+      "sha256": "478f165e10d851a2d694dc45aa654cccfedf5763ab38d3567dc11f42aeed23f4"
     },
     {
       "bytes": 1024,
@@ -22020,7 +22045,7 @@
     {
       "bytes": 1618,
       "path": "dynamic/陪伴/2026-09-13 11-07-28 念初说今晚不想做任务_7ec9162e37c9.md",
-      "sha256": "824ab8fbcb91420a97d1244749a4de04825ea3bf74c053a7bc216ffe3ba30e86"
+      "sha256": "823fd9c40d9d18886ebcd546004b186f95b9e739362565db89627dbcc9145bcc"
     },
     {
       "bytes": 1656,
@@ -22643,11 +22668,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-19T15:21:20+00:00",
+  "generated_at": "2026-09-19T21:21:57+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5087138
+  "total_bytes": 5098442
 }
