@@ -8,6 +8,19 @@ id: 9ecccf1ee4a4
 importance: 8
 last_active: '2026-07-16T01:51:26'
 name: 9ecccf1ee4a4
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7713
+  status: active
+  target_bucket_id: 5f1ca129398e
+  type: related_to
+- auto: true
+  label: ''
+  score: 0.7632
+  status: active
+  target_bucket_id: 46c34c85afc8
+  type: related_to
 tags:
 - 米氮平
 - 失眠
