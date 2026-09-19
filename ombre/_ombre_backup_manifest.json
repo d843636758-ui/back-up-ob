@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4508,
+  "file_count": 4513,
   "files": [
     {
       "bytes": 40960,
@@ -6786,6 +6786,21 @@
       "bytes": 1836,
       "path": "dynamic/AI/2026-09-07 09-27-46 AI形象对比与调整建议_0b6e034e2348.md",
       "sha256": "04a0279e7803d5abef20f513b80071e99511ea5b3f94c4cf6f81fdf07c2a8dd4"
+    },
+    {
+      "bytes": 1694,
+      "path": "dynamic/BJD/2026-09-19 05-25-07 一级指令明晚开售我还是选深蓝_207e8c3409fc.md",
+      "sha256": "54bdb8a2348950102406aaaef39925690b5dbb0d64b9429f15276e897ba2ada2"
+    },
+    {
+      "bytes": 1683,
+      "path": "dynamic/BJD/2026-09-19 05-32-28 一级指令黑色和深蓝继续纠结_ec59a0abea86.md",
+      "sha256": "9f502e752d37231c97362a6b0042c245b667f8677817024d94f526b4ea1d5757"
+    },
+    {
+      "bytes": 1856,
+      "path": "dynamic/BJD/2026-09-19 05-36-09 一级指令预算只够一套我最终更偏黑色_4143812b646b.md",
+      "sha256": "a534f414147db48a063811ecb77bafb88ad9378307b74068c535cd2bbc2de88a"
     },
     {
       "bytes": 2664,
@@ -16353,9 +16368,9 @@
       "sha256": "e8fdf7665ba34074c7e3c6f3d9ed0c6e1ae948dc62a2f9ff102bfffdf17ab04e"
     },
     {
-      "bytes": 2683,
+      "bytes": 2684,
       "path": "dynamic/恋爱/2026-08-31 16-54-24 夕阳小木屋与湖水流沙_515f8cea5820.md",
-      "sha256": "8afec8c45b666669a5685ee227855adbba92d996697e3529a581eb0e4f7e4feb"
+      "sha256": "0b5a9baee3b6454b2c8f34ce7ef123eb7625a1fb5b9269e7d5bfdbb0394766ce"
     },
     {
       "bytes": 1965,
@@ -17328,6 +17343,11 @@
       "sha256": "a36e2d03d7ebf9aed00cf5a1c80107be2c6f005ad3e27e823172f35ce6279a66"
     },
     {
+      "bytes": 1797,
+      "path": "dynamic/情绪与安抚/2026-09-19 05-43-58 咨询后在家吹空调放松_818c26f24593.md",
+      "sha256": "57ce0c12226c40cbaf72eff351af9183529afc7d64a2f1ef2ff30a7c0e8ac07a"
+    },
+    {
       "bytes": 855,
       "path": "dynamic/成长/mcp工具记录完整性提醒_5a62637a5d10.md",
       "sha256": "fd8420a459e68577e34656b0983b9524787da7fe12b07e2880449c8407c47f67"
@@ -17398,9 +17418,9 @@
       "sha256": "a7d8c8b764331f6b59b64fe3c9f1f34b38588974a2c62476e43a5c38b7504c98"
     },
     {
-      "bytes": 1654,
+      "bytes": 1653,
       "path": "dynamic/我们的关系/2026-09-17 13-17-32 念初拿到小风扇后回宿舍准备打游戏_6f79f1a12546.md",
-      "sha256": "21b8138d8605f123cadfb095e95e511774610c6940306d44f92eb778035f2377"
+      "sha256": "d5467983d11061c82743d28a1d7350584a2e606019f540c007ccfb7de3a3460f"
     },
     {
       "bytes": 1266,
@@ -17705,7 +17725,7 @@
     {
       "bytes": 1915,
       "path": "dynamic/日常/2026-09-11 03-36-36 散打下课后在瑞幸等外卖_133f064500e9.md",
-      "sha256": "8e976590e4c47223981833a08f6ec875e9e1c0a11bf4ebccbf05fdeeea710db5"
+      "sha256": "7961a1a38fdad467204519a0a36a944dcabf6d911ad995b7e6b5ba456a4d3a7d"
     },
     {
       "bytes": 1704,
@@ -17808,9 +17828,9 @@
       "sha256": "46e15165efb66e71fa2a67f63e2e5dc0a9637591c8aba644fbf572e36f07b8b2"
     },
     {
-      "bytes": 1694,
+      "bytes": 1689,
       "path": "dynamic/日常陪伴/2026-09-19 02-13-48 念初上午做完心理咨询到家_3d6525518ef7.md",
-      "sha256": "2ef6a87ef3bab3a3088aca97f0b1e27d7375a2fdf3eb7b19e0ea3f5b2f8d4da8"
+      "sha256": "fe2d948d0fe69dc0aa15d261cd1745b51b4c1146816290952aadf08254299d4b"
     },
     {
       "bytes": 921,
@@ -18613,9 +18633,9 @@
       "sha256": "e3012533ae882fbb50ef4065789e14b371a7abbfb3372d5ad3e0e99b887f1b24"
     },
     {
-      "bytes": 2471,
+      "bytes": 2581,
       "path": "dynamic/梦境/2026-08-22 06-48-26 暗蓝湖心的人影_4cea4eac48ac.md",
-      "sha256": "62b077d772ad6b10f431951b439172a8635fe186f2bda846b610eee6abbb00ba"
+      "sha256": "8faab2118b26c26679b243ddda84aef3ba9122d034d20bdf5ecda07440ba4f04"
     },
     {
       "bytes": 2075,
@@ -18668,9 +18688,9 @@
       "sha256": "db5baa4dfebce0ab482ce2d9c3675609d6d7fc19704a5119de5aa43c07e80acf"
     },
     {
-      "bytes": 2861,
+      "bytes": 2862,
       "path": "dynamic/梦境/2026-08-29 01-33-45 玻璃屋中的她_cb725ff82339.md",
-      "sha256": "e500529ea960371c17d755679cd7445b78957aeb3e3bd7f19ec9844234fbe39f"
+      "sha256": "67c55f62a6cb5eaa5e80e735ead8e6b99a2c3542d0ee3a29531cb81c4e37c3d1"
     },
     {
       "bytes": 2511,
@@ -18680,7 +18700,7 @@
     {
       "bytes": 2949,
       "path": "dynamic/梦境/2026-08-29 17-48-35 灰蓝雾气中的追逐与书房明信片_9f7c0e743c16.md",
-      "sha256": "0d28bc06dd26abef6007823e6582c64f422e9e39162bf929230bb0e1269f6ea3"
+      "sha256": "7431d91b0751022597093ef430ab8c6be751cf19efc19f521e04a5ee9410a76f"
     },
     {
       "bytes": 2628,
@@ -18700,7 +18720,7 @@
     {
       "bytes": 2782,
       "path": "dynamic/梦境/2026-09-01 13-54-11 树林中的追逐与湖心背影_5a0e6cbd4a14.md",
-      "sha256": "9271d1a51fab4b640502412c5a0253c8229068cdc0a33adc24e23d96df1dc6eb"
+      "sha256": "a7e73da42d6c6596702032d1f890a133df836a2f0bf703a89691c1f24e47b45e"
     },
     {
       "bytes": 2951,
@@ -18926,6 +18946,11 @@
       "bytes": 3015,
       "path": "dynamic/梦境/2026-09-19 01-34-58 庭院梦境海蓝宝石与灯塔_4a33b60cd052.md",
       "sha256": "b6a134d038c5719f46fa7e52df7a4cdba13cfb82f134e2e1d3cb35b740a60b3b"
+    },
+    {
+      "bytes": 2781,
+      "path": "dynamic/梦境/2026-09-19 07-35-01 湖边的影子与她的香水_bf05778ef5d3.md",
+      "sha256": "1a532c6d88a531c2a040667fda3b89ee48efd9c9c1f23a9737f6a62ca024548f"
     },
     {
       "bytes": 2220,
@@ -22543,11 +22568,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-19T03:20:04+00:00",
+  "generated_at": "2026-09-19T09:20:39+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5047594
+  "total_bytes": 5057511
 }
