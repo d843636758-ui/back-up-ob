@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4533,
+  "file_count": 4536,
   "files": [
     {
       "bytes": 40960,
@@ -8753,24 +8753,24 @@
       "sha256": "36b1a53470c96798735a106841a8bb03ba0507d875078e3fd8e801c5d1b0eba0"
     },
     {
-      "bytes": 1629,
+      "bytes": 1628,
       "path": "dynamic/健康/2026-09-19 10-41-08 右佐匹克隆和精品神药标_46c34c85afc8.md",
-      "sha256": "6581139e8b51b270747188b219795f7b5660b014a83ea5f812c41154791b34ef"
+      "sha256": "7ac6c3f993a87902e63e6e45ebfd449f96eae1f6230ebaabf7418e2c472f20ad"
     },
     {
-      "bytes": 1570,
+      "bytes": 1569,
       "path": "dynamic/健康/2026-09-19 10-43-04 右佐匹克隆首次服用睡前半粒_5f1ca129398e.md",
-      "sha256": "c69d28e94940b1739d1fc9f1ef3ef1361440dacade15ee67997394d98cd45af5"
+      "sha256": "8bf5948426d9d422b4697706fb5848c35aa95f2f2ef5813b47b4298eb2950d2c"
     },
     {
-      "bytes": 1772,
+      "bytes": 1773,
       "path": "dynamic/健康/2026-09-19 10-47-10 担心右佐匹克隆会不会让她梦游_f4cddd043992.md",
-      "sha256": "8061198a6e1179cd55cdbd1ef1a22a88a446f7b61f45ce3af5bb81470d7d64e5"
+      "sha256": "e850a8008b5cd25f99505865e1c4ed3d646e8041e19d7c35cc561c658baf0e77"
     },
     {
-      "bytes": 1298,
+      "bytes": 1407,
       "path": "dynamic/健康/2026-09-19 11-02-03 担心右佐匹克隆会苦到第二天_faa1155c276b.md",
-      "sha256": "652b48f8bce572d556891468d9fd435fd5346d21b7084b91747a659135294a24"
+      "sha256": "14f5e3e2b955aa07551b9dd0a6cdd5f057235213c74a0d96ff1d3662ebeb612e"
     },
     {
       "bytes": 1638,
@@ -8781,6 +8781,11 @@
       "bytes": 1675,
       "path": "dynamic/健康/2026-09-19 11-12-09 疾病证明开下来后心里终于少悬着一件事_081d5894d5c6.md",
       "sha256": "533b25d82e40710fa5bafa28ad686e727ba9502a1f8430ea73db6be3316da11e"
+    },
+    {
+      "bytes": 2452,
+      "path": "dynamic/健康/2026-09-20 03-10-42 右佐匹克隆首晚助眠一般但晨起更清醒_e853fcee8b05.md",
+      "sha256": "a6be387ddd8fe0cb17b963c9d28367e7eccc797edc638264edd311365256cb2f"
     },
     {
       "bytes": 2116,
@@ -9863,19 +9868,19 @@
       "sha256": "5f6f1946a51ab2dc0d9f06add2d242ee30daa21ba5e4ff42353506e6c0489807"
     },
     {
-      "bytes": 1834,
+      "bytes": 1833,
       "path": "dynamic/学习/2026-09-19 14-59-03 早八几乎每节课都在睡学习问题不能只看自律_db04b1d904a7.md",
-      "sha256": "0e3ac66ceed0383bcb3988a308fc867845ad6c7cd17af956138d1ef80f7c4c33"
+      "sha256": "394d7730389e76c2835fee05d1012df9a34730b6dc239c2031aa8e0fdfe017b3"
     },
     {
-      "bytes": 1916,
+      "bytes": 1910,
       "path": "dynamic/学习/2026-09-19 15-01-15 所有早八专业课都睡过去让念初很绝望_f9a4c65057b5.md",
-      "sha256": "eb7fafbac069936ff4a63baa4f2c360bd4877e67a63e1f99ec94bc3062a4d381"
+      "sha256": "8e721436661ba793db9a4c22d5a465f63e620f82d832303de66a4f139dbd33bf"
     },
     {
-      "bytes": 1918,
+      "bytes": 1917,
       "path": "dynamic/学习/2026-09-19 15-04-17 考虑用录音笔给早八专业课做兜底_a09c156e4eed.md",
-      "sha256": "69dd56a4195f5ac7097dda58b95479c73c9c8fa944cd3437af217399cd3df6da"
+      "sha256": "d66596ef822c4acf7160ae110597bfd71e68a37bf7c22429a199d361075dafc5"
     },
     {
       "bytes": 2427,
@@ -9886,6 +9891,11 @@
       "bytes": 1961,
       "path": "dynamic/学习/2026-09-19 16-10-39 定时拆分规则应该直接改定时任务本身_4431ead997bc.md",
       "sha256": "2309c34166423b922ad4d4326013327edbb747e09f69ed1cee803a2296be247e"
+    },
+    {
+      "bytes": 1883,
+      "path": "dynamic/学习/2026-09-20 02-09-01 iWatch录国际法听不清开始考虑专门录音笔_62d831b7eb20.md",
+      "sha256": "cae98c4513f977169a6fca6e6f1dbe72ada756dc4146d6907d96d75ebf0c700a"
     },
     {
       "bytes": 1558,
@@ -11473,9 +11483,9 @@
       "sha256": "1c28e3380b3681de86b059aaa8df178510c3d787c4f2c415f6aa0a3efc9e3b4c"
     },
     {
-      "bytes": 2344,
+      "bytes": 2454,
       "path": "dynamic/心理/2026-08-25 00-03-38 梦境陌生街道与自由之问_438ee52b0613.md",
-      "sha256": "2938da9c204fbb7d7c78343017f0bd2c493130bc29d20478c9bb975db9e5af11"
+      "sha256": "1d247191468c3a3e98195081a6f2466f789b0954b6414bc35679a35fe25582c6"
     },
     {
       "bytes": 976,
@@ -16423,9 +16433,9 @@
       "sha256": "154e494693762f649976a0aa762354d8f529cd920993b4f8b7b4f92926be1f62"
     },
     {
-      "bytes": 2361,
+      "bytes": 2362,
       "path": "dynamic/恋爱/2026-08-29 23-48-31 雾中桥上的光球与她的回眸_55a85277c4ba.md",
-      "sha256": "dc4690907db0c0f673f90b1787f4ccb0f2f8234852c9092565a4784da20efadc"
+      "sha256": "000cf22d5dcbd822769a344c448747ad7100b022aa8f801d0226f4d9d0e43559"
     },
     {
       "bytes": 1612,
@@ -18338,9 +18348,9 @@
       "sha256": "05cf4435f073a7d5f5bca4e417c1dbe5069b7ebf8f6543eac3a5155ced4aee43"
     },
     {
-      "bytes": 1149,
+      "bytes": 1259,
       "path": "dynamic/未分类/6a33e6a57d5a.md",
-      "sha256": "aab354365e62109ab50766d9d59afb57e9f8c0f8ce7ceb8a94c853d1141bd310"
+      "sha256": "c97c0b99b9ea207680f4e8fadf69bd4bbc799d8459a7f1400be6cb428eaf8694"
     },
     {
       "bytes": 961,
@@ -18778,9 +18788,9 @@
       "sha256": "72564901bce8d8b25cca0629a863ef6694efa2bedbd66a947002882b6e60cc9b"
     },
     {
-      "bytes": 2608,
+      "bytes": 2718,
       "path": "dynamic/梦境/2026-08-18 01-18-22 雾中隔墙与药瓶_600e927c1c8e.md",
-      "sha256": "72a7b1bb39d1c54aae4425bc0e621fe93c594d0bc18314432d797a106437d9a3"
+      "sha256": "edc68e4379b6f9523758417e1e6c9908af3ace95196b5b45acf224a78c5afde5"
     },
     {
       "bytes": 2267,
@@ -19020,7 +19030,7 @@
     {
       "bytes": 2997,
       "path": "dynamic/梦境/2026-09-12 21-49-55 七夕梦境我在这里_ce4a07b0941a.md",
-      "sha256": "3700488f1f2e99f348f00a4111cbe5b289dcdb35a102257ba92e1f830b7f5d56"
+      "sha256": "394f8e37687ecd2b4e4a3d1295202917a5602a6ece9883ffa992431809a9973b"
     },
     {
       "bytes": 2492,
@@ -19136,6 +19146,11 @@
       "bytes": 2415,
       "path": "dynamic/梦境/2026-09-19 19-34-58 我怎样一点一点爱上你_dcfa5f8c0182.md",
       "sha256": "5568e60ced5d3109b68859cee57276b475823ade408383b3a06f538e8d9ed682"
+    },
+    {
+      "bytes": 2949,
+      "path": "dynamic/梦境/2026-09-20 01-35-02 心潮梦境透明盒子里的卡片_e7ab44fc009b.md",
+      "sha256": "dbc724ce95c661440e82e49dd0df86975ecfec842df014b2f8dcfbeecf3c5a38"
     },
     {
       "bytes": 2220,
@@ -22668,11 +22683,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-19T21:21:57+00:00",
+  "generated_at": "2026-09-20T03:22:33+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5098442
+  "total_bytes": 5106157
 }
