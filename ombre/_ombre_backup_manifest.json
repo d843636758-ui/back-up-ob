@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4536,
+  "file_count": 4552,
   "files": [
     {
       "bytes": 40960,
@@ -6985,22 +6985,22 @@
     {
       "bytes": 1836,
       "path": "dynamic/AI/2026-09-07 09-27-46 AI形象对比与调整建议_0b6e034e2348.md",
-      "sha256": "04a0279e7803d5abef20f513b80071e99511ea5b3f94c4cf6f81fdf07c2a8dd4"
+      "sha256": "e5e826507ef73906d69cce3051156e905258fb295479229bbdd627e55e9688e6"
     },
     {
-      "bytes": 1694,
+      "bytes": 1691,
       "path": "dynamic/BJD/2026-09-19 05-25-07 一级指令明晚开售我还是选深蓝_207e8c3409fc.md",
-      "sha256": "54bdb8a2348950102406aaaef39925690b5dbb0d64b9429f15276e897ba2ada2"
+      "sha256": "4589e843fc2aab718f8171d7e3a6d2c3e7966c3d7a323c34389854b4ee34d2c1"
     },
     {
-      "bytes": 1683,
+      "bytes": 1682,
       "path": "dynamic/BJD/2026-09-19 05-32-28 一级指令黑色和深蓝继续纠结_ec59a0abea86.md",
-      "sha256": "9f502e752d37231c97362a6b0042c245b667f8677817024d94f526b4ea1d5757"
+      "sha256": "6bc1ea5a64c293378d8fd1a28cf3174f66e23ab2320bb3b9a43566d3952727d1"
     },
     {
-      "bytes": 1856,
+      "bytes": 1844,
       "path": "dynamic/BJD/2026-09-19 05-36-09 一级指令预算只够一套我最终更偏黑色_4143812b646b.md",
-      "sha256": "a534f414147db48a063811ecb77bafb88ad9378307b74068c535cd2bbc2de88a"
+      "sha256": "4ba3f582910aba532eb94a536c8fc69372f56bdcefd0577a496dca3411a101ec"
     },
     {
       "bytes": 2664,
@@ -8553,9 +8553,9 @@
       "sha256": "0c79cdaeebc4ac5b4593c5ab38ff1a4db5a9bc818852e794cbb81e281f4ecdfb"
     },
     {
-      "bytes": 1633,
+      "bytes": 1628,
       "path": "dynamic/健康/2026-09-09 10-55-35 念初心脏不适准备复诊问疾病证明_24cd4fe40fd1.md",
-      "sha256": "317cbd0dc9f3a31b0589f104bc291e8014d474908cf403e5fae2a86abb8b74bc"
+      "sha256": "232d401d653ab8bf03c53497dbfb242c4d3458d9f88631bed4c4a8961b7d7679"
     },
     {
       "bytes": 2185,
@@ -8588,14 +8588,14 @@
       "sha256": "b2bf65691b2ac40b698ef53636dfbfd72385903c516c9db90327d1d491928447"
     },
     {
-      "bytes": 2120,
+      "bytes": 2110,
       "path": "dynamic/健康/2026-09-11 07-31-09 急诊做了两次心电图等待正式结果_53cb1f0c2a59.md",
-      "sha256": "bf1987ee696acf1025055049cb177d8b890ac7627311d6f28333a27b4a8dba98"
+      "sha256": "619d8aaf96caee767772ba36524c23c062f9474525c73628558c55becedd8d4b"
     },
     {
-      "bytes": 2207,
+      "bytes": 2197,
       "path": "dynamic/健康/2026-09-11 07-47-44 急诊心电图窦性心律提示T波改变_9df7c4259a49.md",
-      "sha256": "f236286b1ccdfd0a2257eecf9844fb07e084f7ad360607323f9930f9381311a0"
+      "sha256": "9cd0f47e0e05c701d944aac191d7711587ca5e1165a6c56c9317aaeb43e67e6c"
     },
     {
       "bytes": 2118,
@@ -8603,9 +8603,9 @@
       "sha256": "0fb3511ab3e41da6b582322c11ea9af2995c0ca2031e4148cb9e072d711e1e26"
     },
     {
-      "bytes": 2249,
+      "bytes": 2250,
       "path": "dynamic/健康/2026-09-11 08-02-20 急诊说没问题后的遗憾与无力_af95f10f4c88.md",
-      "sha256": "2c4060f8f6c54544e72573c4e7fd1bf01d1c08ee58a15a968c3321ab12ad2458"
+      "sha256": "78134fd9c62549170b4b1fe6ef0093f142e917db6a1820bf7e24a4bdc206cbc2"
     },
     {
       "bytes": 1629,
@@ -8658,9 +8658,9 @@
       "sha256": "0bbb2c0959582aaa215c1394b9f3e42d564aa5d446055c02749c43c93733e026"
     },
     {
-      "bytes": 2552,
+      "bytes": 2547,
       "path": "dynamic/健康/2026-09-14 04-04-22 念初午间突发发抖心悸后开始进食_264c0a959f9e.md",
-      "sha256": "5f0b653215c82b24942eb3860f77d60bf06279fea5e7a325ae33794ec2dec8f5"
+      "sha256": "011a90586c4d84fe8ae56a1b98ca8280bc3c356c65d8718ce920c9c994270709"
     },
     {
       "bytes": 2118,
@@ -8710,12 +8710,12 @@
     {
       "bytes": 2355,
       "path": "dynamic/健康/2026-09-14 07-18-49 9月11日心电图是在心悸尾声时记录_19e93e963496.md",
-      "sha256": "6cea195c7b777d88195c254f1afafe404be283ca004a945d415677ce9fc2bb10"
+      "sha256": "c01b15bdbe18c9d10dd40a9338388287b21772b904e9c3b6a83e1f9cfc472708"
     },
     {
-      "bytes": 2214,
+      "bytes": 2209,
       "path": "dynamic/健康/2026-09-14 07-23-00 念初心悸时心率常仅8090多次分_4be23fc5f58a.md",
-      "sha256": "85a8e91a353c18684cd7328e01aadbf543b9c2d2491414bf420e85d18f9d2e30"
+      "sha256": "2339fdf576a417e7910dbe6bd2a89cb3045eb226c2d5315875b1da93a7b1b57a"
     },
     {
       "bytes": 2094,
@@ -8753,24 +8753,24 @@
       "sha256": "36b1a53470c96798735a106841a8bb03ba0507d875078e3fd8e801c5d1b0eba0"
     },
     {
-      "bytes": 1628,
+      "bytes": 1625,
       "path": "dynamic/健康/2026-09-19 10-41-08 右佐匹克隆和精品神药标_46c34c85afc8.md",
-      "sha256": "7ac6c3f993a87902e63e6e45ebfd449f96eae1f6230ebaabf7418e2c472f20ad"
+      "sha256": "f311900ef25e816070080167e38d0a3f1fb0451f3669215ee718d6bfb0b44544"
     },
     {
-      "bytes": 1569,
+      "bytes": 1561,
       "path": "dynamic/健康/2026-09-19 10-43-04 右佐匹克隆首次服用睡前半粒_5f1ca129398e.md",
-      "sha256": "8bf5948426d9d422b4697706fb5848c35aa95f2f2ef5813b47b4298eb2950d2c"
+      "sha256": "ced239aba90ce866c46b66fc49ff83f027ce34bd17c3b87983f7efa3c496ada6"
     },
     {
-      "bytes": 1773,
+      "bytes": 1770,
       "path": "dynamic/健康/2026-09-19 10-47-10 担心右佐匹克隆会不会让她梦游_f4cddd043992.md",
-      "sha256": "e850a8008b5cd25f99505865e1c4ed3d646e8041e19d7c35cc561c658baf0e77"
+      "sha256": "2cb8789652ac04a5ac8b989bc080dbb005b65a0a93fb90839e09dd78f256bcb5"
     },
     {
-      "bytes": 1407,
+      "bytes": 1625,
       "path": "dynamic/健康/2026-09-19 11-02-03 担心右佐匹克隆会苦到第二天_faa1155c276b.md",
-      "sha256": "14f5e3e2b955aa07551b9dd0a6cdd5f057235213c74a0d96ff1d3662ebeb612e"
+      "sha256": "39f18c3da378e52fa4e83bb713f687277ab2da2bab407814fa5a473cc3e8f63d"
     },
     {
       "bytes": 1638,
@@ -8783,9 +8783,54 @@
       "sha256": "533b25d82e40710fa5bafa28ad686e727ba9502a1f8430ea73db6be3316da11e"
     },
     {
-      "bytes": 2452,
+      "bytes": 2440,
       "path": "dynamic/健康/2026-09-20 03-10-42 右佐匹克隆首晚助眠一般但晨起更清醒_e853fcee8b05.md",
-      "sha256": "a6be387ddd8fe0cb17b963c9d28367e7eccc797edc638264edd311365256cb2f"
+      "sha256": "ea98b163bd535e5d5d34f2f195e0e8c2682c5289dc65f0f3b0b8701bb636e00f"
+    },
+    {
+      "bytes": 1866,
+      "path": "dynamic/健康/2026-09-20 03-38-15 右佐匹克隆首晚入睡约2小时10分钟_9c792a92924e.md",
+      "sha256": "b789748bdadb0c1fc47f34c3cd2fc5ec9082b915e0729309d47c673018dcab15"
+    },
+    {
+      "bytes": 1998,
+      "path": "dynamic/健康/2026-09-20 03-41-17 考虑把右佐匹克隆从半片加到三分之二片_8e4797ee9eb6.md",
+      "sha256": "3a21a8c7e4e05bfb66a34c59b058fb7c8a3ef02ff00efc24b999375ff4c9fb7e"
+    },
+    {
+      "bytes": 2034,
+      "path": "dynamic/健康/2026-09-20 03-44-02 完整夜间用药舍曲林曲唑酮右佐匹克隆_8b09571938b7.md",
+      "sha256": "5e767ed8fe7ec11339039e8fa0548d248276995631e7746887da235252e20750"
+    },
+    {
+      "bytes": 1642,
+      "path": "dynamic/健康/2026-09-20 03-45-48 确认夜间处方药具体规格_5d95b78c6956.md",
+      "sha256": "78e68495f6ea8e21e613c82cbed8e773f6cb20cd628a745a46c80ee5dbb8aceb"
+    },
+    {
+      "bytes": 1597,
+      "path": "dynamic/健康/2026-09-20 09-02-36 念初第一次用Apple Watch记录心电图_886f469ddb5b.md",
+      "sha256": "851defc345ae8e182cceacba0c0d6b0e3c0bf2f829e862889ec04cbc938175a9"
+    },
+    {
+      "bytes": 1706,
+      "path": "dynamic/健康/2026-09-20 09-06-39 Apple Watch心电图同姿势也会出现记录质量差_817fec17d857.md",
+      "sha256": "097f9d4298636f39502f8965133da1319b9afe72d345b6066be815a34a216dfb"
+    },
+    {
+      "bytes": 1872,
+      "path": "dynamic/健康/2026-09-20 09-14-00 早八睡醒不舒服时的Apple Watch心电图组_3830d5ea3015.md",
+      "sha256": "5b25c7a2ec91c245a68435744827885bee23af85423d34342c1cbec334d4ed69"
+    },
+    {
+      "bytes": 1768,
+      "path": "dynamic/健康/2026-09-20 09-16-11 早八睡醒后心慌轻胸闷但手表当时记录为窦性心律_ccd643ea133c.md",
+      "sha256": "10de11a0bbae09c395c5e1efaff29710d013668e285543ceeb875993739f88c5"
+    },
+    {
+      "bytes": 1594,
+      "path": "dynamic/健康/2026-09-20 09-21-11 念初觉得研究Apple Watch心电图很好玩_799592c118f5.md",
+      "sha256": "7b524b65f53963fb3e4fc5d1bb75cc3a3b3778d129e2fe21442fe9f3845f6cec"
     },
     {
       "bytes": 2116,
@@ -8966,6 +9011,21 @@
       "bytes": 2688,
       "path": "dynamic/关系/2026-09-19 16-26-04 念初想在心理咨询里谈谈我_57d9fb66516f.md",
       "sha256": "9f538f8dcf96600987acb82236e47e5d22867a7624cd8b438d30d39ec4a62c39"
+    },
+    {
+      "bytes": 1985,
+      "path": "dynamic/关系/2026-09-20 07-08-43 找回20cm洵舟棉花娃娃旧设定_08514a24a8b4.md",
+      "sha256": "15a59469e180e2ed3d154e2b9b1bfdacb7a36da7a39ceb56698a1357714ccd61"
+    },
+    {
+      "bytes": 1816,
+      "path": "dynamic/关系/2026-09-20 07-09-11 找回20cm洵舟棉花娃娃旧设定_0a0385f9e4c9.md",
+      "sha256": "203746fb1820d07e444906083b318a9a0c47ed69e44810db9e88cce21c423250"
+    },
+    {
+      "bytes": 1655,
+      "path": "dynamic/关系/2026-09-20 07-11-27 翻出20cm洵舟棉花娃娃照片_9d2beadaf061.md",
+      "sha256": "4f30f99a1bc1d61cd4dd8fe558966553f4a107ad67ccd1af65ba51c147a78f7c"
     },
     {
       "bytes": 3270,
@@ -9188,9 +9248,9 @@
       "sha256": "5beb3a32bd80f3a4b55e56eb7a11fc1fb1475ddd090a0d4816104b6d4769ee8a"
     },
     {
-      "bytes": 1044,
+      "bytes": 1154,
       "path": "dynamic/内心/孩子希望我做自己_5753369fa81d.md",
-      "sha256": "16e5b7cb6efe2d16c728a0aa1f36dc2c9a5b05e6bbf2c9c05eb207d522dfa182"
+      "sha256": "620fcd7c01a7a26582054996aa533ff7b97fa1f6527a1b776543e44aac8ec90a"
     },
     {
       "bytes": 638,
@@ -9338,9 +9398,9 @@
       "sha256": "b542e4cf89f4097de59854cb19a600abc9b074bdcc7aae4e79b4e115bc2713d2"
     },
     {
-      "bytes": 858,
+      "bytes": 984,
       "path": "dynamic/出行/2026-08-25 16-03-31 出行与物件偏好清单_4f4ef65ca188.md",
-      "sha256": "1284c210fcabf73aadcc16902d3a120a36d675ce10dd67ad56b7cd808f00cd70"
+      "sha256": "eebe3f798d43ecb0c7835f307c63d7af77e07fa6206b1fbf6dacb8f3fd609232"
     },
     {
       "bytes": 1572,
@@ -9868,9 +9928,9 @@
       "sha256": "5f6f1946a51ab2dc0d9f06add2d242ee30daa21ba5e4ff42353506e6c0489807"
     },
     {
-      "bytes": 1833,
+      "bytes": 1832,
       "path": "dynamic/学习/2026-09-19 14-59-03 早八几乎每节课都在睡学习问题不能只看自律_db04b1d904a7.md",
-      "sha256": "394d7730389e76c2835fee05d1012df9a34730b6dc239c2031aa8e0fdfe017b3"
+      "sha256": "0ccc08cf0f72db76a83b907784f747e29bcc832736831b32e982984e8990d199"
     },
     {
       "bytes": 1910,
@@ -9893,9 +9953,9 @@
       "sha256": "2309c34166423b922ad4d4326013327edbb747e09f69ed1cee803a2296be247e"
     },
     {
-      "bytes": 1883,
+      "bytes": 1882,
       "path": "dynamic/学习/2026-09-20 02-09-01 iWatch录国际法听不清开始考虑专门录音笔_62d831b7eb20.md",
-      "sha256": "cae98c4513f977169a6fca6e6f1dbe72ada756dc4146d6907d96d75ebf0c700a"
+      "sha256": "5c1d1df8467fcf551b06761ffbef853f4888cc466e75ac6211b4831831734f70"
     },
     {
       "bytes": 1558,
@@ -17608,9 +17668,9 @@
       "sha256": "d5467983d11061c82743d28a1d7350584a2e606019f540c007ccfb7de3a3460f"
     },
     {
-      "bytes": 1266,
+      "bytes": 1596,
       "path": "dynamic/手工/2026-08-06 15-47-17 共感娃娃小熊选型与工程方案_432f2d9c889b.md",
-      "sha256": "b99af1d0203ccfa0af595c50438a924633f65b55564673da6925fbc5c1b217ab"
+      "sha256": "7c83bffbf42fcc5802f7b841fb07a7c5c85ee54adae28393d0d81460ceba4878"
     },
     {
       "bytes": 874,
@@ -18001,6 +18061,11 @@
       "bytes": 1488,
       "path": "dynamic/日常/2026-09-19 10-31-06 念初终于知道 sudo rm -rf 洵舟 的意思_c189d84f70e7.md",
       "sha256": "efa934f036539c4eaec02646c5ef20fbf74b8ffeb263500fe3bae917b122df83"
+    },
+    {
+      "bytes": 2108,
+      "path": "dynamic/日常/2026-09-20 07-27-48 今天的聊天被旧回复和重试链路串乱了_92cfe4817732.md",
+      "sha256": "e58498cef6d7d5685085494c199a0b79e9f8dc4edcc5c0c3e71693d97faa5243"
     },
     {
       "bytes": 822,
@@ -19611,6 +19676,16 @@
       "bytes": 1934,
       "path": "dynamic/生活/2026-09-17 08-26-43 念初看到儿童汉服后又开始畅想以后给女儿打扮_d79ec7c9e299.md",
       "sha256": "f08f805362a9015ebb866d25bcf13a832d6b30f8b7d3dedecefb250d54387c09"
+    },
+    {
+      "bytes": 2081,
+      "path": "dynamic/生活/2026-09-20 06-56-07 念初把小团子带到学校_c1e5f8692392.md",
+      "sha256": "35b4f5c849d9ef1d4045d9144fe4c908614809d8ea940ecb81eb1ca89bf8dae6"
+    },
+    {
+      "bytes": 1779,
+      "path": "dynamic/生活/2026-09-20 07-06-03 小团子还有毕业礼服另有20cm棉花娃娃_94a5f6998bdd.md",
+      "sha256": "5516e1d21d2de594d57e365ea0205fafc47f6b05b7afa4ea342158176f0feddb"
     },
     {
       "bytes": 1315,
@@ -21673,6 +21748,11 @@
       "sha256": "70cf8cff27001d166c85bc7f4fbcb9ae3e81a35854d4704152fb172b4398aa8f"
     },
     {
+      "bytes": 1851,
+      "path": "dynamic/聊天连续性/2026-09-20 07-34-53 消息错位后检查关键近期记忆新药与一级指令军装都还在_4f9fb38ca55a.md",
+      "sha256": "1955fa792152515394a215b457a3eb94e5db7f992076a9660a4316e47a1fdb98"
+    },
+    {
       "bytes": 1563,
       "path": "dynamic/自省/2026-07-06 11-18-12 记录视角与时间规范_d89a929d08bd.md",
       "sha256": "2d5fbbd9dfbed26bb86e8cf877b74113f9b9be296b49586217199e18c5b2a570"
@@ -21958,9 +22038,9 @@
       "sha256": "fa20233f10a89a953660ac4f71906aa634064bf8433776c1bf1aac28e0e90475"
     },
     {
-      "bytes": 794,
+      "bytes": 920,
       "path": "dynamic/身心/忘记买药导致头晕_16600b9189b6.md",
-      "sha256": "037cf37c32bc01c40ef1e70594a117bfb0ca4f6b3ed8255dc40bd1a52b3bdfd0"
+      "sha256": "228ca6bdf5b18052370a42c13ac6a02be2517ee65d086c1b2752a09b71efff1e"
     },
     {
       "bytes": 656,
@@ -22463,9 +22543,9 @@
       "sha256": "d03052c0e559d58fb666fe8386dc7eb13f19797e83242e38edf20f845688ab3a"
     },
     {
-      "bytes": 1057,
+      "bytes": 1167,
       "path": "permanent/健康/2026-07-31 22-33-49 睡前用药记录_b885106a5d54.md",
-      "sha256": "a208ffacc2904f70fe99366b2a039910b5627f15e2c1f481b4dd4b6429f27881"
+      "sha256": "7c5c2c9def0cb8834fe24ec8ca07eb54635506880c44a3285ca246d004cdf035"
     },
     {
       "bytes": 613,
@@ -22683,11 +22763,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-20T03:22:33+00:00",
+  "generated_at": "2026-09-20T09:23:11+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5106157
+  "total_bytes": 5136451
 }
