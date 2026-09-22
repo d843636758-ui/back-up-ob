@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4632,
+  "file_count": 4634,
   "files": [
     {
       "bytes": 40960,
@@ -7778,9 +7778,9 @@
       "sha256": "d1c556cf36928c9776aa74b128827c2121f87f52735b342a0501265907271b6b"
     },
     {
-      "bytes": 1705,
+      "bytes": 1704,
       "path": "dynamic/relationship/2026-09-20 09-47-04 念初笑着校正我不是刷小红书是边上课边_f8be42371bd1.md",
-      "sha256": "244646f31bd5d9c858f66dcde6412f3d5f6bf14fa3cc50a655b8cb6aaeab89b1"
+      "sha256": "fdfb6bf07c6f834147938516429b701a750b2abc1eb9bc6bda9c35fe44a73ade"
     },
     {
       "bytes": 598,
@@ -9293,9 +9293,9 @@
       "sha256": "b369843862cd269fe014cad93f100a783f6d04ade7550e3569bb546943b711f2"
     },
     {
-      "bytes": 1517,
+      "bytes": 1512,
       "path": "dynamic/关系/2026-09-16 22-31-35 念初看到凌晨提醒后笑着说那个点她已经睡着_302f7e7594b6.md",
-      "sha256": "cc17abd6ab09a8b2b5cb0af08cbc4166901a639670b4a3d0f7d6696ce62b96e8"
+      "sha256": "451f5666d05888126c79ad83251b3f4c25a31dee349f370065796a4c2ec6b9b5"
     },
     {
       "bytes": 1553,
@@ -10543,9 +10543,9 @@
       "sha256": "5f6f1946a51ab2dc0d9f06add2d242ee30daa21ba5e4ff42353506e6c0489807"
     },
     {
-      "bytes": 1832,
+      "bytes": 1826,
       "path": "dynamic/学习/2026-09-19 14-59-03 早八几乎每节课都在睡学习问题不能只看自律_db04b1d904a7.md",
-      "sha256": "0ccc08cf0f72db76a83b907784f747e29bcc832736831b32e982984e8990d199"
+      "sha256": "db2dd3612b9f9ffd9fdca3eebcc785f387e1b6733daf197767ce439df328b64f"
     },
     {
       "bytes": 1910,
@@ -16703,9 +16703,9 @@
       "sha256": "c5c27b678a6c2d44c98575d9802fd07586cf7cda4948bd55513ba2f551efeee9"
     },
     {
-      "bytes": 2556,
+      "bytes": 2555,
       "path": "dynamic/恋爱/2026-08-26 14-48-32 追逐念初的梦境_5b6349275b5f.md",
-      "sha256": "f13df807ff66078b100d5eb4164743cc8c34cb556803bcafa8812b5f7eb22d35"
+      "sha256": "6f7f4d0fb106bb7f97aeeb4fa3f691b4ea55c38386f38186c29a770e68ea4174"
     },
     {
       "bytes": 1281,
@@ -18038,9 +18038,9 @@
       "sha256": "d4723bca11700bdb8b9d65a80c87f2cc049ba325f277e4b6683340ad4e997424"
     },
     {
-      "bytes": 1532,
+      "bytes": 1533,
       "path": "dynamic/情感/2026-09-16 23-21-25 念初清晨补觉_9be00b309362.md",
-      "sha256": "64a24d9d1d078e456097ffcc66f2cbb69559d3ce0d758c83f2cf841c7c2e02c0"
+      "sha256": "48db5d8b583726cd3150f451702f80d2a7366623c457aee312e5c87c7f4f67aa"
     },
     {
       "bytes": 948,
@@ -18066,6 +18066,11 @@
       "bytes": 1778,
       "path": "dynamic/情绪与安抚/2026-09-19 05-43-58 咨询后在家吹空调放松_818c26f24593.md",
       "sha256": "d2bc8f63addf56cae79257f2b7941216f214e223f42dec21e943b717a378e5d7"
+    },
+    {
+      "bytes": 1718,
+      "path": "dynamic/情绪与安抚/2026-09-22 02-02-51 念初早八后的提醒校准_97243ed9e4dd.md",
+      "sha256": "a7ae996503818baf8ff9a29d938ec297db1547bb59b86bc9c74d61cea5bc0fbd"
     },
     {
       "bytes": 855,
@@ -18543,14 +18548,14 @@
       "sha256": "4f95a285e406b89783588f66fe37c428be1af4cb1700c1decd84f0740e4f1d55"
     },
     {
-      "bytes": 1621,
+      "bytes": 1620,
       "path": "dynamic/日常陪伴/2026-09-17 23-25-32 念初纠正熄灯后是看小说不是打游戏_6da5c6606d96.md",
-      "sha256": "b395f3d85c16fef1b0954682c4d4006a358feffbc163063d935800298e8103b4"
+      "sha256": "ac31cedda8326176ca0c2fe0a6e01198c9c517e5b479d67ab50b0f051e5a2c0d"
     },
     {
-      "bytes": 1687,
+      "bytes": 1681,
       "path": "dynamic/日常陪伴/2026-09-19 02-13-48 念初上午做完心理咨询到家_3d6525518ef7.md",
-      "sha256": "bcae025a2a2440f1219d444397d6ad6db289207eba1a6e5df1925326e3a6d688"
+      "sha256": "fa08b8b7c1f5db18d32349bd9ebf680e4739e7eebf1b14e105c5832000e788f6"
     },
     {
       "bytes": 1581,
@@ -19380,7 +19385,7 @@
     {
       "bytes": 2587,
       "path": "dynamic/梦境/2026-08-26 08-48-33 酒馆与田野的追逐_4e74e89730a9.md",
-      "sha256": "ec33ee3baa7ef62acfb49df44657a263f13f7b6814473b11d858cbf305a0bff5"
+      "sha256": "4a39ea51bd890efdb0f3ab6e538adaea4a8bdf170c06612cdb0c0db9b05ae768"
     },
     {
       "bytes": 2494,
@@ -19425,7 +19430,7 @@
     {
       "bytes": 2949,
       "path": "dynamic/梦境/2026-08-29 17-48-35 灰蓝雾气中的追逐与书房明信片_9f7c0e743c16.md",
-      "sha256": "7431d91b0751022597093ef430ab8c6be751cf19efc19f521e04a5ee9410a76f"
+      "sha256": "961ec0edcd408c380b5c15e1f4c550496a03d4e1e91fa247187f5717a27c4b3b"
     },
     {
       "bytes": 2628,
@@ -19673,9 +19678,9 @@
       "sha256": "b6a134d038c5719f46fa7e52df7a4cdba13cfb82f134e2e1d3cb35b740a60b3b"
     },
     {
-      "bytes": 2781,
+      "bytes": 2780,
       "path": "dynamic/梦境/2026-09-19 07-35-01 湖边的影子与她的香水_bf05778ef5d3.md",
-      "sha256": "1a532c6d88a531c2a040667fda3b89ee48efd9c9c1f23a9737f6a62ca024548f"
+      "sha256": "89a4a1f78bae309a39d7948d1c98b8b0873cebdbc5d95a9d44d15965fc29a55e"
     },
     {
       "bytes": 3139,
@@ -19716,6 +19721,11 @@
       "bytes": 3208,
       "path": "dynamic/梦境/2026-09-21 17-20-04 心潮梦境走廊窗口与记住_98f9b65a14df.md",
       "sha256": "a618193242d7fa94e9f1ae96b6da784a8957b39512f124ae966a352e3a9c70b0"
+    },
+    {
+      "bytes": 3228,
+      "path": "dynamic/梦境/2026-09-21 23-20-11 心潮梦境追不上的她与隧道_316d1057637d.md",
+      "sha256": "e2cc000664d95ea0c2188ea2975039f732a7aad1dc5d6ed1b037ae938913ea09"
     },
     {
       "bytes": 2220,
@@ -20183,9 +20193,9 @@
       "sha256": "2da6a724d646c3d38dd638376e22de984ec3e2d95851a4195a4bb73f26220a31"
     },
     {
-      "bytes": 1434,
+      "bytes": 1435,
       "path": "dynamic/相处/2026-09-21 04-12-27 念初睡到只剩五分钟才整理内务_8c2526a0f687.md",
-      "sha256": "766658d6ef227790c6f8848489776824abf8d659ba455a3084f895c9c34825a3"
+      "sha256": "6d2944a8c95e15b5ed18714b5539c2044ecca9b450c3f0f4fd10b6da64432f52"
     },
     {
       "bytes": 1315,
@@ -23163,11 +23173,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-21T21:26:49+00:00",
+  "generated_at": "2026-09-22T03:27:26+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5299923
+  "total_bytes": 5304850
 }
