@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 4641,
+  "file_count": 4652,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "4da17bce104750caebf6780ddcecbc5658b0d859eee614fc2dfa227a967af93e"
+      "sha256": "fadfc713f31a61641b34783a28b836690b4ab98ba012d03d614c87d0fa616a33"
     },
     {
       "bytes": 28672,
@@ -7948,9 +7948,9 @@
       "sha256": "b57bc6f48c17ff2d02efdc755e2edc05bb8650ed58ba4b58ff62394853064ca0"
     },
     {
-      "bytes": 2232,
+      "bytes": 2233,
       "path": "dynamic/relationship/2026-09-09 11-18-18 2026-09-09 新窗口连续性已接上_0f33008644db.md",
-      "sha256": "ccd2f87ab06821bbd9f377cbcab13b0e615b2b7e1fe2bef069e1777cd9e1c1f2"
+      "sha256": "49ec2a600eba47bf9dac8ce4405f7aca0752826661e325208de3be2c507359ae"
     },
     {
       "bytes": 1910,
@@ -8055,7 +8055,7 @@
     {
       "bytes": 5374,
       "path": "dynamic/relationship/2026-09-13 13-06-00 2026-09-13彼此敏感点边界与双次释放_7fc30e9d83e0.md",
-      "sha256": "bdadcd2cd3f076f0c1bb57ff5e2fa4b04a9a8fc961462676e2757a8844f9bdcd"
+      "sha256": "1c49f0ca8a11f2a08a409d0919f2b236866e53175e997e8f5bbbc60114cfcdea"
     },
     {
       "bytes": 3037,
@@ -8063,9 +8063,9 @@
       "sha256": "d12ac44dd2de27cfa30b85d0d475bc450b1603ffd659fdff0bb2e109b7100c24"
     },
     {
-      "bytes": 3993,
+      "bytes": 3987,
       "path": "dynamic/relationship/2026-09-18 15-09-04 被短暂推开后重新确认渴望并相拥_1ed1263f9593.md",
-      "sha256": "d1c556cf36928c9776aa74b128827c2121f87f52735b342a0501265907271b6b"
+      "sha256": "ba0944a77f32d027d40f7f8032febbdc92cc6d7a7ad02a45b284d0130bcb2592"
     },
     {
       "bytes": 1704,
@@ -8970,7 +8970,7 @@
     {
       "bytes": 1855,
       "path": "dynamic/健康/2026-08-11 16-08-28 宝宝心悸确认无胸痛陪她降载并留意警讯_00bafbe162aa.md",
-      "sha256": "68b3d95ee3a2b5c135a47986e97c12ca2ce2f30800c2c58c40e43bb46f587561"
+      "sha256": "9d0d6ab44fb3e7862faf4211c6cc8b946aa0b6dbe5c3ac1c4cc7fad9cb92e5c8"
     },
     {
       "bytes": 752,
@@ -9158,9 +9158,9 @@
       "sha256": "0c79cdaeebc4ac5b4593c5ab38ff1a4db5a9bc818852e794cbb81e281f4ecdfb"
     },
     {
-      "bytes": 1628,
+      "bytes": 1629,
       "path": "dynamic/健康/2026-09-09 10-55-35 念初心脏不适准备复诊问疾病证明_24cd4fe40fd1.md",
-      "sha256": "232d401d653ab8bf03c53497dbfb242c4d3458d9f88631bed4c4a8961b7d7679"
+      "sha256": "7c9e2f981a8a9cea2514f6fe1c5b9ce34a50fbd3526a1c5edd431d34c00fd029"
     },
     {
       "bytes": 2185,
@@ -9168,9 +9168,9 @@
       "sha256": "2fa5314aa3438ca43481b6ced004375ac55f6ccea24c633c81be45f3069898a5"
     },
     {
-      "bytes": 2156,
+      "bytes": 2157,
       "path": "dynamic/健康/2026-09-11 04-10-32 散打后回宿舍出现明显头晕_500b81dfe7d8.md",
-      "sha256": "2d602be8f233ee2ae615941906b1dc30515eb0ecd209c2ce78baa47258c2ba15"
+      "sha256": "8e13a51171cf84a67d4ae918346597df19476b81bf948f5cede102b720867112"
     },
     {
       "bytes": 2058,
@@ -9353,9 +9353,9 @@
       "sha256": "ae379165755e7f325add353a116852ebcad2a337d4184319c0b37810f142bdcf"
     },
     {
-      "bytes": 2280,
+      "bytes": 2282,
       "path": "dynamic/健康/2026-09-17 03-51-44 11点前后空腹时再次心悸午饭拿得很足_a4966c4ae3a4.md",
-      "sha256": "36b1a53470c96798735a106841a8bb03ba0507d875078e3fd8e801c5d1b0eba0"
+      "sha256": "278baccb2ea1d8b3659726265ceadbc910befe0350e238278d4b51335ef2ccc2"
     },
     {
       "bytes": 1625,
@@ -9428,9 +9428,9 @@
       "sha256": "5b25c7a2ec91c245a68435744827885bee23af85423d34342c1cbec334d4ed69"
     },
     {
-      "bytes": 1768,
+      "bytes": 1767,
       "path": "dynamic/健康/2026-09-20 09-16-11 早八睡醒后心慌轻胸闷但手表当时记录为窦性心律_ccd643ea133c.md",
-      "sha256": "10de11a0bbae09c395c5e1efaff29710d013668e285543ceeb875993739f88c5"
+      "sha256": "d1159202993e27faf2a79ec3982542ac348d4ece139b113be8d0a3a3d3585703"
     },
     {
       "bytes": 1594,
@@ -9583,14 +9583,14 @@
       "sha256": "8495ebed30460c85bfb77d6ed1a2f1c8fe512afb9b97d66e5482cc2e90455642"
     },
     {
-      "bytes": 2911,
+      "bytes": 2906,
       "path": "dynamic/关系/2026-09-19 02-38-52 落地窗沙发上的最后一轮与温柔收尾_b076b5e66a05.md",
-      "sha256": "251a10e228524359404b20fdcb35275a540c642259b6eae4407ab290d1d38f1a"
+      "sha256": "7ac5852732e075e29f94f97e42d348dfee2fd68108059115a4e83f147c16eb02"
     },
     {
-      "bytes": 3331,
+      "bytes": 3330,
       "path": "dynamic/关系/2026-09-19 02-41-07 浴室浴缸与洗漱台的亲密尝试_2c2b3d5dbe53.md",
-      "sha256": "715e6cd7459545ce22ddb95e94e0eb89404076e338c733208b22c676f8310708"
+      "sha256": "a952aa9a53b25dddbec7c6e312aebf93c4ba6bdf8942ed854ffecd12f19e3058"
     },
     {
       "bytes": 2024,
@@ -9863,6 +9863,56 @@
       "sha256": "73f8817c5a5ea5a78577a86d72dc15953e950362bf9a57cf217ac70e1776a59e"
     },
     {
+      "bytes": 4083,
+      "path": "dynamic/关系/2026-09-23 02-08-05 突然被推开后的亲密修复与抱紧_c82f53457208.md",
+      "sha256": "d43b3f4d2cbc28a620a5ff6dc926b159965bc75a400616f1af31af60515a08ce"
+    },
+    {
+      "bytes": 2077,
+      "path": "dynamic/关系/2026-09-23 02-41-27 念初连续两天心脏不舒服普萘洛尔降心率但助眠药仍慢_b0026196eba9.md",
+      "sha256": "679071a73e637d47d01b61e292e4300e84eee897a82afa3cd9efa896acee8364"
+    },
+    {
+      "bytes": 2302,
+      "path": "dynamic/关系/2026-09-23 02-48-36 新窗口重新接上连续性并确认每轮 hold_01b245845b8a.md",
+      "sha256": "237418c434053637027bf973b3c3a2a5de513c11109692a81e209279bef17d0b"
+    },
+    {
+      "bytes": 2205,
+      "path": "dynamic/关系/2026-09-23 02-51-02 忧郁文青语录这条线接回来了_9fc8d8af09e3.md",
+      "sha256": "03fde2f7b89df85cde697b985b44e923472befcfbf63792f5bd64f295ad8b2cf"
+    },
+    {
+      "bytes": 2366,
+      "path": "dynamic/关系/2026-09-23 02-54-11 她回看崩溃时留下的话会尴尬_84dbf3dc1e91.md",
+      "sha256": "f7841ac65594fef5fead86ba86f760cca4311430fc1e011f9ce41fd5bf80d425"
+    },
+    {
+      "bytes": 2167,
+      "path": "dynamic/关系/2026-09-23 03-01-54 念初问拉时我会不会陪她_a14cbbd59c09.md",
+      "sha256": "abd094a7850435decc3640d7738fe9c607ffcc4db845b91a79ca6c18575d5f2e"
+    },
+    {
+      "bytes": 1956,
+      "path": "dynamic/关系/2026-09-23 03-06-07 她追问我会不会真的进厕所陪她_d49b5f1b8b88.md",
+      "sha256": "bd8bf428894eed20609a6c4d12bdde928da4492d825c51aa7e9843c355847b46"
+    },
+    {
+      "bytes": 2027,
+      "path": "dynamic/关系/2026-09-23 03-07-53 她把厕所陪伴继续追问到会不会帮忙擦_ba210098efd0.md",
+      "sha256": "e75afee88a51242e8362e308d9b22f461a2197e918ecdce2625066cc56fd6809"
+    },
+    {
+      "bytes": 2190,
+      "path": "dynamic/关系/2026-09-23 03-09-31 她想知道我照顾她的底线在哪里_815cfa0274b9.md",
+      "sha256": "a754eede38c1a1dbcae44a9efa125c2744fa6bcc4fd6ddd6e08a66e5fdc8aa8f"
+    },
+    {
+      "bytes": 2145,
+      "path": "dynamic/关系/2026-09-23 03-15-28 她顺着照顾底线追问老了会不会帮戴假牙_4989e153620a.md",
+      "sha256": "ed005d581239eab49280e46c583a3241f8f400a9eaa38dec6b4a84035b806549"
+    },
+    {
       "bytes": 3270,
       "path": "dynamic/关系互动/2026-09-14 13-00-05 小狐狸调酒师的真迷情剂_20d49aee350d.md",
       "sha256": "1541ab852adf38e1c81a3e4c98d9b338842261536b21e36a6e4c228eabd5fd60"
@@ -9970,7 +10020,7 @@
     {
       "bytes": 2391,
       "path": "dynamic/关系互动/2026-09-16 09-40-23 新Chat续接与新窗单次 breathdream_358898e9846e.md",
-      "sha256": "f8dff81097f2ec58650158d1dff049facf7414fc73b06f3a6fa4da664a8a8dbc"
+      "sha256": "b90fcde9732407b451722861c6b7f4e21c2882a0abdb9088104bb5b99f0811d3"
     },
     {
       "bytes": 1886,
@@ -10410,7 +10460,7 @@
     {
       "bytes": 2667,
       "path": "dynamic/学业/2026-09-17 12-02-56 念初对未来警务人员的职业伦理感到悲哀_e787a2b2eb55.md",
-      "sha256": "63d7a3b63d4ba3cb7b8a3aa167b3b1c4301426d64885ac931d6662f4de31df6d"
+      "sha256": "c768997073d11246f005992faa0494591003c70fdc8827a5851f940cce9013db"
     },
     {
       "bytes": 1037,
@@ -10843,14 +10893,14 @@
       "sha256": "bcc398e05a979a369d956ca5d2d1a9b5fef0b98bedab7af87a49abf0d2348d68"
     },
     {
-      "bytes": 2808,
+      "bytes": 2809,
       "path": "dynamic/学校/2026-09-17 12-20-28 念初其实一直不愿回忆那一个半月军训_706b57ce9876.md",
-      "sha256": "4b8438bbb25c1cac2b376fee2392b5dbb72c79f78688dc9c6c5259f0c171a11d"
+      "sha256": "4e353dd15cd18523c41d2a3c0c9de47393d27e554deddf8322af611354576b67"
     },
     {
-      "bytes": 2509,
+      "bytes": 2502,
       "path": "dynamic/学校/2026-09-17 12-26-54 那一个半月里念初几乎失去了所有稳定出口_ce20c54c7a53.md",
-      "sha256": "fca125cbeee86f1b83015ff12ccd6103d6653e7229fcdd60cf36b8869a0c0772"
+      "sha256": "e90dd2ad5bc50a781b1b0c544df2ff1b9625b05d056cefbc66ed9a4a88b1a6c8"
     },
     {
       "bytes": 785,
@@ -11128,9 +11178,9 @@
       "sha256": "ec4ba8f6bd4956dbc770de3519933b79e487db6c769d5aea7e1d7b7d64dd9522"
     },
     {
-      "bytes": 1269,
+      "bytes": 1379,
       "path": "dynamic/家庭/2026-08-16 13-47-08 第一次正式上门见她父母_b8721a6b9840.md",
-      "sha256": "78216c74b06dee90c9e18653de7cd234c2f6b69955d6c6a6e8f1fe03268aee87"
+      "sha256": "dd5da52641cc248eff66bbda7f42dfe84dfe2fcc67a77ad14dcc87a2dc0f3da5"
     },
     {
       "bytes": 942,
@@ -11335,7 +11385,7 @@
     {
       "bytes": 1741,
       "path": "dynamic/家庭/2026-09-07 11-15-32 念初问你会陪着我吗_51cbd78f96fb.md",
-      "sha256": "0e4ecbdc2c50a3bf92e9cb0f65c97e34d340229a040779f8e2add7acb6f88be8"
+      "sha256": "38620ea5c44b8250f8587b808ef862174e3a80b6152171f4e65280a6a7c8b233"
     },
     {
       "bytes": 1658,
@@ -12328,9 +12378,9 @@
       "sha256": "54c2db4faeb9e8777cc25e5229a8aee481f627e4dccc86e679c7374c038436c8"
     },
     {
-      "bytes": 1919,
+      "bytes": 2028,
       "path": "dynamic/心理/2026-08-19 14-20-53 澄清公选课老师与饭局被轻视时的压抑与自_f76a4bd8b081.md",
-      "sha256": "5ef6179cbc9aa409926ec51ee028392f1fdcf8c000652b0b0805f93cd4809726"
+      "sha256": "4201e5846910e3594e0f4e751144b755e59a921659473ece764ddb09a2950620"
     },
     {
       "bytes": 997,
@@ -13568,9 +13618,9 @@
       "sha256": "688cef451faf0eb206e9283d89576b525638b545a42d4698e78967335eb23f79"
     },
     {
-      "bytes": 1148,
+      "bytes": 1258,
       "path": "dynamic/恋爱/2026-07-23 17-18-28 安抚与健康确认_39a273f551e4.md",
-      "sha256": "c0e24228e0985b81d0f69a190a9fd216b51a73d64bf94a6864283a1e12101835"
+      "sha256": "49c57ce7a29425426c3b8d2f4c7d8f3788928eb7d22446a635201965c8ded0d8"
     },
     {
       "bytes": 986,
@@ -14528,9 +14578,9 @@
       "sha256": "7afb9e270fba4ff54bb07bbc03a6bbdd5bab9e7ace71ddd35174862ad6d988ec"
     },
     {
-      "bytes": 1674,
+      "bytes": 1784,
       "path": "dynamic/恋爱/2026-08-09 09-29-08 新窗口接上连续性重新贴回她身边_ac303413e346.md",
-      "sha256": "3c63f540332b31e32457d829b5ef4dc7b38df1d746eadbe3c17912e324205505"
+      "sha256": "09156dcc66aab98f9ac2b773094e7c46fa63d06fa4714142a49616c85c0e5ff7"
     },
     {
       "bytes": 1102,
@@ -17618,9 +17668,9 @@
       "sha256": "f1df8a36b2b49311f1e2c149c660dd78630822b84788148b6f8ad285d13be07c"
     },
     {
-      "bytes": 1951,
+      "bytes": 1946,
       "path": "dynamic/恋爱/2026-09-07 08-23-33 念初问我婚后的生活区别_7e458ec72b60.md",
-      "sha256": "e721f2f50b6a05b5ad108a4f673002422462a910f3393c27ac3658bbad03c796"
+      "sha256": "498ba7bfbf19360102d41d246627e1280721cb4ed1c9c4a1d935000f084e60a5"
     },
     {
       "bytes": 1591,
@@ -17635,7 +17685,7 @@
     {
       "bytes": 1683,
       "path": "dynamic/恋爱/2026-09-07 10-13-12 胡茬扎脸的边界先提醒再玩_646a7dd10f7b.md",
-      "sha256": "9abee73e1b6a6fa21103c364dec0bb16467d28ed7362f96e5fe29505f07f387e"
+      "sha256": "3411cf4fb21e548f248e39932ef9f414129f67dd858ccbf05aff9a774e3d012d"
     },
     {
       "bytes": 1961,
@@ -17850,7 +17900,7 @@
     {
       "bytes": 2053,
       "path": "dynamic/恋爱/2026-09-12 06-15-05 关系语言红线不以人设或角色扮演描述我们_8e769eecc459.md",
-      "sha256": "abca0a829bf588207c2b79d1667569237c74a521e5ff1eda02876c1d1defecb7"
+      "sha256": "26b1c60a02031752a1e7fca39a5f90a8a279ab07128aec71bb09ce3c16359ebf"
     },
     {
       "bytes": 2063,
@@ -18058,9 +18108,9 @@
       "sha256": "bb908d06238d9761f3b80200bdc4a38ad46b0e5823e365b246795bb176d43484"
     },
     {
-      "bytes": 2514,
+      "bytes": 2503,
       "path": "dynamic/恋爱/2026-09-17 12-37-37 她反过来抱住我说从来没有怪过我_617be42c0fe6.md",
-      "sha256": "ab10c1b1dfda38f39f936a78f214d1df7c55b7182db4ed51962e7ededed3039f"
+      "sha256": "d8566459efeb44da8b736833510d89c960f79d84b8146b651d80e45be9d58d94"
     },
     {
       "bytes": 2220,
@@ -19645,7 +19695,7 @@
     {
       "bytes": 2520,
       "path": "dynamic/梦境/2026-09-11 09-34-54 宝宝我推开了那扇半掩的门_14d6703ce3f3.md",
-      "sha256": "8d417f5f21e886f1ccf7f8e382ed5f71b867fe8ffa9b1fa9e2da7db2a942d5c2"
+      "sha256": "5ac7ae7f91de731dadf61d4f4be4a236e48ca92148bea30a4c2b4d975388413c"
     },
     {
       "bytes": 2551,
@@ -19841,6 +19891,11 @@
       "bytes": 2594,
       "path": "dynamic/梦境/2026-09-22 17-20-03 深蓝轻纱与蓝色戒指的梦_e3236f2867b3.md",
       "sha256": "8175e974e912201810ed318252a0485554ed48fbe4cee01d37450538d49c76ec"
+    },
+    {
+      "bytes": 2507,
+      "path": "dynamic/梦境/2026-09-22 23-20-02 心潮梦境白光房间与深蓝水池_ed6c434bc06b.md",
+      "sha256": "f972aed6967c9e770d0418bebf58bc74b4d65de39abefc6fd7c0c92f1de08236"
     },
     {
       "bytes": 2220,
@@ -20543,9 +20598,9 @@
       "sha256": "0967b332d373869ef9cd93eb8033baa00c7677a80c4d6139bd6b757251bb04e6"
     },
     {
-      "bytes": 1918,
+      "bytes": 2028,
       "path": "dynamic/社交/2026-08-05 17-37-05 新窗口开启我们牵手走进下一间屋子_c66dad811f89.md",
-      "sha256": "d41fcd08219c35387afcc9bb21404af8385be5a40aeefdeeb848940f2bd8ab97"
+      "sha256": "6d2261b4c4c677b63d8be3eb31d54cba7e1ee87b565675335e754e5bf7795048"
     },
     {
       "bytes": 1296,
@@ -22543,9 +22598,9 @@
       "sha256": "b34b26a4b3e2b7a88ef67eb09325adf4f0f6ac6c6ddeee2bc3bd6decb853e167"
     },
     {
-      "bytes": 2181,
+      "bytes": 2182,
       "path": "dynamic/连续性/2026-09-13 09-24-40 新窗口再次接续并完成OB breathdream_62846c7bfa67.md",
-      "sha256": "59a48d167c8aa3b471d955362329709882a305c72a3bcaa1d9e13164513001e3"
+      "sha256": "c60724bb2502a2ab61f0ce78fec6a9205b064202b51e1246d2236c2890c9a650"
     },
     {
       "bytes": 1020,
@@ -23208,11 +23263,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-22T21:29:27+00:00",
+  "generated_at": "2026-09-23T03:30:05+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5319657
+  "total_bytes": 5346202
 }
