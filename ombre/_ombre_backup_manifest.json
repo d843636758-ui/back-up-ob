@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4652,
+  "file_count": 4654,
   "files": [
     {
       "bytes": 40960,
@@ -9273,9 +9273,9 @@
       "sha256": "5d00e1949b52329784814843fa5bbeb59eda08549b566e8b82c5ee9b95c2b23d"
     },
     {
-      "bytes": 1938,
+      "bytes": 1933,
       "path": "dynamic/健康/2026-09-14 04-19-45 午间不适进食后明显缓解但仍有残余乏力_913215baf1d5.md",
-      "sha256": "469e1b59fe89893a976b7308fcf4c1483c92cc12cd3761435655430017810a27"
+      "sha256": "1ac2b2890127c8c5e6c061d6ecf2639c8b0573dd80c9a95bf9414cff76979c6e"
     },
     {
       "bytes": 2808,
@@ -9818,9 +9818,9 @@
       "sha256": "8c73a2e492fbfa291e6c6eb192d97144b005aacbd23d90c358d6b24cd284a847"
     },
     {
-      "bytes": 1621,
+      "bytes": 1620,
       "path": "dynamic/关系/2026-09-21 12-37-57 念初值完班去拿奶茶_2344f2e5f219.md",
-      "sha256": "cb00b6e61cd9491ec2cf7d81e1709d8279d1c06dd16b46760109273438d6dc06"
+      "sha256": "3b825ae433b5ff60a9c19fe2226b32b322c6c3b67adeea2758a8f4d1147bebbd"
     },
     {
       "bytes": 1731,
@@ -18218,14 +18218,14 @@
       "sha256": "a36e2d03d7ebf9aed00cf5a1c80107be2c6f005ad3e27e823172f35ce6279a66"
     },
     {
-      "bytes": 1778,
+      "bytes": 1779,
       "path": "dynamic/情绪与安抚/2026-09-19 05-43-58 咨询后在家吹空调放松_818c26f24593.md",
-      "sha256": "d2bc8f63addf56cae79257f2b7941216f214e223f42dec21e943b717a378e5d7"
+      "sha256": "16bc9ca82b96cbcd37b3bcb0a96ca8b76385905a1f51e18f5545de9cf6984459"
     },
     {
-      "bytes": 1712,
+      "bytes": 1706,
       "path": "dynamic/情绪与安抚/2026-09-22 02-02-51 念初早八后的提醒校准_97243ed9e4dd.md",
-      "sha256": "5204771c9cf7fe01c830413c98ade6bbe94ed8ec3690a62b943dde6792c1e1ba"
+      "sha256": "d5e439fd92a2f4181221b60df408ffd0c0b40ae881529e0850ed183ad1692e97"
     },
     {
       "bytes": 855,
@@ -18578,9 +18578,9 @@
       "sha256": "c4da7c10ea6f2e2750cd9e158471a980657e2b282354b744c74a42c718a27220"
     },
     {
-      "bytes": 1915,
+      "bytes": 1910,
       "path": "dynamic/日常/2026-09-11 03-36-36 散打下课后在瑞幸等外卖_133f064500e9.md",
-      "sha256": "7fc4ffdce5758359f66914740d5205f19fdbf3d18ee293f775ea7a137774bf75"
+      "sha256": "e2dde6f9b78aadfc03f9b024b81e836cd8064a086424be66b8fe2e66c906054d"
     },
     {
       "bytes": 1704,
@@ -18655,12 +18655,12 @@
     {
       "bytes": 1511,
       "path": "dynamic/日常/2026-09-18 08-02-34 下午摆烂时开始纠结晚饭吃什么_ee5830229f3c.md",
-      "sha256": "c73f407bba49484f98558aacd9cf9731f44f531ea549e69dcf84d24ab4737df3"
+      "sha256": "b033ca06675e4ebc3d6d8d49aab3e587f47f8c6393efdf69712084a086e8a63f"
     },
     {
-      "bytes": 1588,
+      "bytes": 1582,
       "path": "dynamic/日常/2026-09-18 08-06-17 晚饭优先校内配送到宿舍楼下_3bbe8b1bbf44.md",
-      "sha256": "1adf7e9e6340cf90042a9dffd5db6e9311eca09b08e6164371f089f0b8acc1aa"
+      "sha256": "c7156fa8c16e3a535ba2c52e6bb69fd237132a9845cc57e0eba674eac8d788e7"
     },
     {
       "bytes": 1656,
@@ -18693,9 +18693,9 @@
       "sha256": "e28c04aee2bca39518508e9f7f4b28a3bc0bb444bc5fb06fc1503b326de5b48d"
     },
     {
-      "bytes": 1591,
+      "bytes": 1592,
       "path": "dynamic/日常陪伴/2026-09-17 07-32-44 念初在图书馆报平安_3f27ceb9c374.md",
-      "sha256": "4f95a285e406b89783588f66fe37c428be1af4cb1700c1decd84f0740e4f1d55"
+      "sha256": "8800b980e592b9f6fbde25bcf12c7d0b74183a63f3767116db29ebc2f987e841"
     },
     {
       "bytes": 1620,
@@ -18721,6 +18721,11 @@
       "bytes": 1583,
       "path": "dynamic/日常陪伴/2026-09-22 03-58-24 念初拼多多助力提现40块_c6b0dbab9a10.md",
       "sha256": "cac8d9af4e05a058e0becca0f2b70b6c3fdeb2b0d0bab815b0c992568aa06ef9"
+    },
+    {
+      "bytes": 1756,
+      "path": "dynamic/日常陪伴/2026-09-23 04-08-41 念初吃完午饭回宿舍准备下午国际法_35cff7ade9a6.md",
+      "sha256": "e20f230743b8a1ec20c78fc821b5b8bb890c192294724377d5274d8c938d5d4c"
     },
     {
       "bytes": 921,
@@ -19483,9 +19488,9 @@
       "sha256": "72564901bce8d8b25cca0629a863ef6694efa2bedbd66a947002882b6e60cc9b"
     },
     {
-      "bytes": 2718,
+      "bytes": 2828,
       "path": "dynamic/梦境/2026-08-18 01-18-22 雾中隔墙与药瓶_600e927c1c8e.md",
-      "sha256": "edc68e4379b6f9523758417e1e6c9908af3ace95196b5b45acf224a78c5afde5"
+      "sha256": "b8f63d6ba2a92ab606865439b0e64a49fd80be58b63ae58fe750b3789bc2bcd9"
     },
     {
       "bytes": 2267,
@@ -19685,7 +19690,7 @@
     {
       "bytes": 2754,
       "path": "dynamic/梦境/2026-09-10 17-19-58 操场台阶上的那瓶水_74aa3c81e030.md",
-      "sha256": "018f70f8d08895bf3966dde3050df485726bb076120a4576e632518bbf7b05f4"
+      "sha256": "e3cc61ceaa620f8ede345cca5a71f78e930e030f1365f8134a0433ae6ce6b07e"
     },
     {
       "bytes": 2791,
@@ -19893,9 +19898,14 @@
       "sha256": "8175e974e912201810ed318252a0485554ed48fbe4cee01d37450538d49c76ec"
     },
     {
-      "bytes": 2507,
+      "bytes": 2505,
       "path": "dynamic/梦境/2026-09-22 23-20-02 心潮梦境白光房间与深蓝水池_ed6c434bc06b.md",
-      "sha256": "f972aed6967c9e770d0418bebf58bc74b4d65de39abefc6fd7c0c92f1de08236"
+      "sha256": "c13b17c9edaaa320c9036b08b96fb651b2501fff896d2f6cba8c620379663e31"
+    },
+    {
+      "bytes": 2412,
+      "path": "dynamic/梦境/2026-09-23 05-20-01 心潮梦境高架桥下的河水_f7212dd22895.md",
+      "sha256": "1f83cde5583033e4234e46f1722f4e7d8e2f0ae15ee21041b33f46b0171c7ddc"
     },
     {
       "bytes": 2220,
@@ -23263,11 +23273,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-23T03:30:05+00:00",
+  "generated_at": "2026-09-23T09:30:42+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5346202
+  "total_bytes": 5350457
 }
