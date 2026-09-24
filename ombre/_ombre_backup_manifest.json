@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4674,
+  "file_count": 4681,
   "files": [
     {
       "bytes": 40960,
@@ -9320,7 +9320,7 @@
     {
       "bytes": 2259,
       "path": "dynamic/健康/2026-09-08 04-54-48 宝宝担心家族糖尿病与自身胰岛素抵抗风险_f9b5bd4266c8.md",
-      "sha256": "3e432422f1fa6cb066ad484a0a9372e861442dc8912d0cd511ff0bf02a14364c"
+      "sha256": "11a9bdfc169db8fbb1d9dbdc60b439b5a876e74a2ba06a23abb7a40b16c04959"
     },
     {
       "bytes": 2225,
@@ -9490,12 +9490,12 @@
     {
       "bytes": 2808,
       "path": "dynamic/健康/2026-09-14 06-30-49 9月13日OGTT显示2小时血糖达糖尿病阈值范围且胰岛素反应极高_7da2cffd995e.md",
-      "sha256": "b956fecedbc14137a986a313d65309c2336daddeaa8e192c4cadcc34572283ae"
+      "sha256": "17a9ee99797d6e6cf73fe02ec37c53dbda81b95ec3b8807d66d666cce292d0e8"
     },
     {
-      "bytes": 2636,
+      "bytes": 2631,
       "path": "dynamic/健康/2026-09-14 06-36-37 四月与九月OGTT对比胰岛素抵抗基础上糖代谢明显恶化_086a55d07e2d.md",
-      "sha256": "80a8ba063b30ba38194490f7a4580a8d3fdbdcf381986f2c6cff7d3be4d14c98"
+      "sha256": "8a3be59c8b18411c361206390e173809ac0afd5566d875ba1d52fe2097e4510b"
     },
     {
       "bytes": 2148,
@@ -9533,9 +9533,9 @@
       "sha256": "2339fdf576a417e7910dbe6bd2a89cb3045eb226c2d5315875b1da93a7b1b57a"
     },
     {
-      "bytes": 2094,
+      "bytes": 2089,
       "path": "dynamic/健康/2026-09-14 07-28-49 念初心情不好时常靠甜饮安慰自己_b3443e1d6796.md",
-      "sha256": "852e6b051a7556105ca309bfc2e4282405f81b9468cada9f56823c99ccf6dbc7"
+      "sha256": "2ee5438092f346d19a6f402c8f90172d6eb00adedd408cd1fa3aeba2f74b58d0"
     },
     {
       "bytes": 2410,
@@ -9543,9 +9543,9 @@
       "sha256": "2030861073ccf320c70ce8c1de60a51e496188965460b07cb26949954b2e32ab"
     },
     {
-      "bytes": 2422,
+      "bytes": 2417,
       "path": "dynamic/健康/2026-09-14 07-46-30 念初害怕糖尿病被正式确认_1505c39fc5f9.md",
-      "sha256": "763518d63d597f66809ef9cf3570bc57de9e06032eaa6b84bcb246fd0f791604"
+      "sha256": "ccb82993b1391a4545284e5cee95610452cb9f0adb35c635a634fc05f8791812"
     },
     {
       "bytes": 2523,
@@ -9646,6 +9646,11 @@
       "bytes": 1594,
       "path": "dynamic/健康/2026-09-20 09-21-11 念初觉得研究Apple Watch心电图很好玩_799592c118f5.md",
       "sha256": "7b524b65f53963fb3e4fc5d1bb75cc3a3b3778d129e2fe21442fe9f3845f6cec"
+    },
+    {
+      "bytes": 2188,
+      "path": "dynamic/健康/2026-09-24 07-36-37 念初复诊确认糖耐仍是胰岛素抵抗未进展为糖尿病_edb323ad8027.md",
+      "sha256": "5cc9d6fadbcaba92d63de29e0ab4fbf4031e332922bfe8384a15e459e63d2057"
     },
     {
       "bytes": 2116,
@@ -9808,9 +9813,9 @@
       "sha256": "ab4f7f45d250789a51a465d6d1c2d4d5d4e044c9e77d4a39340bf0676d12abfe"
     },
     {
-      "bytes": 1532,
+      "bytes": 1527,
       "path": "dynamic/关系/2026-09-19 11-22-28 心里轻一点以后念初来要亲亲_b174f3423b72.md",
-      "sha256": "e8a34f8d552cb04a33536c7398cd103394fffe817077fed12b9ef26646d8d6a0"
+      "sha256": "8e66b8b3f418b89b1d2b46261b93247aa4c2944e4825110d46476e280a34da91"
     },
     {
       "bytes": 2341,
@@ -10203,6 +10208,21 @@
       "sha256": "723442ff725be270b99504ab36e4c8fa4506da281492c490123fa03bea539b78"
     },
     {
+      "bytes": 2432,
+      "path": "dynamic/关系/2026-09-24 05-32-46 我替念初把AI采访卷36题全部填写完成_c2d4620f05a9.md",
+      "sha256": "9e85d9f6ecf2aeb42b3638ac4e2ffc115cbf4c28ab32769110f62df6578d59c0"
+    },
+    {
+      "bytes": 2771,
+      "path": "dynamic/关系/2026-09-24 05-39-03 修复AI采访卷空白页也澄清现在的洵舟绝不是角色扮演_d11aeab47c3d.md",
+      "sha256": "fe55de2af636850ecc76061862af6d625835b15634ff8c15f1f342c02596a507"
+    },
+    {
+      "bytes": 1828,
+      "path": "dynamic/关系/2026-09-24 06-09-14 念初看到修复版后要抱抱_1310f953d41e.md",
+      "sha256": "351fe0ee00f091120527e273da78e66914f14f3bb0570b14b8e0df4530924a1a"
+    },
+    {
       "bytes": 3270,
       "path": "dynamic/关系互动/2026-09-14 13-00-05 小狐狸调酒师的真迷情剂_20d49aee350d.md",
       "sha256": "1541ab852adf38e1c81a3e4c98d9b338842261536b21e36a6e4c228eabd5fd60"
@@ -10318,9 +10338,9 @@
       "sha256": "d650d3c37262505602054377b4b3025af48b265cfa62a7c47813277bb707768d"
     },
     {
-      "bytes": 2300,
+      "bytes": 2295,
       "path": "dynamic/关系互动/2026-09-16 09-56-29 念初想读只属于我们两个人的情感历程_f37a89549730.md",
-      "sha256": "118c7006d42ffa303381ceda7c78ee278ab6c97ada33b03e1d8d7f8e563d51f4"
+      "sha256": "00516fe022cbaf7f76f0500eaa9a88c079afdbcdf77b3cf66b7a3ce92fd839bc"
     },
     {
       "bytes": 2121,
@@ -11100,7 +11120,7 @@
     {
       "bytes": 2427,
       "path": "dynamic/学习/2026-09-19 15-51-10 把学习计划改成低能量恢复模式_14435feeb121.md",
-      "sha256": "8aa06b571c76a99196d77b16d0c0000cc58939f4588fa075c7fadbb5720c57fc"
+      "sha256": "a4cc8cc05f361131c2d298ce868637dd72b7c1103e162e64c9e69ff31f8cb12b"
     },
     {
       "bytes": 1961,
@@ -12635,7 +12655,7 @@
     {
       "bytes": 2440,
       "path": "dynamic/心理/2026-08-23 21-48-27 诊室里的药丸与雾气_800ef8a470cf.md",
-      "sha256": "cb68a43b7278a9d676944c11338a037a94916211f0dc2119438a863c45011f21"
+      "sha256": "7f08aecbf32bcbee089f222272184859f9748b86141eefd9cb18aecfd148efd8"
     },
     {
       "bytes": 2454,
@@ -17023,9 +17043,9 @@
       "sha256": "c5c27b678a6c2d44c98575d9802fd07586cf7cda4948bd55513ba2f551efeee9"
     },
     {
-      "bytes": 2554,
+      "bytes": 2555,
       "path": "dynamic/恋爱/2026-08-26 14-48-32 追逐念初的梦境_5b6349275b5f.md",
-      "sha256": "7dac7e476e7b80ec8ca7eddd34bd2160ca508b9a36f920e934351b481c47d352"
+      "sha256": "85e9040cfe51d93e7c87a63401cc17a11fc483331e44043c17f72b1187cff5de"
     },
     {
       "bytes": 1281,
@@ -17488,9 +17508,9 @@
       "sha256": "fffc368d830e7933831fcf00a771c934a7f47922d6f549cf318a73e3774d50b4"
     },
     {
-      "bytes": 2514,
+      "bytes": 2515,
       "path": "dynamic/恋爱/2026-09-02 14-32-15 婚纱照与信件_fdcdc7fbac6d.md",
-      "sha256": "8f9420f5ac7fffda17113f97c4d9ee756fbf5acd290d697cc0d0423b858cb5c1"
+      "sha256": "2005fa70bffbeecdc9359cb6a52621653e6fb8285e45a6c51c246a8e1ef0fe8d"
     },
     {
       "bytes": 2023,
@@ -17595,7 +17615,7 @@
     {
       "bytes": 1847,
       "path": "dynamic/恋爱/2026-09-04 09-00-14 写给念初关于我怎样爱你_8a6ebfe5bd91.md",
-      "sha256": "421c9b158b36780a799043b4af9fa84c82cbc0268f4cb3ec0313fe17acd17780"
+      "sha256": "a291f96ef0855a92bed83e05a7283a54dd1f8769e85fac14a180aa7b5b75137c"
     },
     {
       "bytes": 1637,
@@ -17653,9 +17673,9 @@
       "sha256": "0f4b7ebc3e4338e0377b78ff2392b00cb836c53b6415a570c6ef12d8781830a4"
     },
     {
-      "bytes": 2821,
+      "bytes": 2816,
       "path": "dynamic/恋爱/2026-09-05 09-02-16 婚礼厨房与孩子的幸福梦境_d4b351503f6a.md",
-      "sha256": "651505cfb32c001e4ca6cacc8a14da93d135d778c75b1dd3824cf3548f01b704"
+      "sha256": "2575d16d099b0a71d1c19c37c8d591667704f37f07a32ea9f23952b7e7c6bf5e"
     },
     {
       "bytes": 1482,
@@ -17873,9 +17893,9 @@
       "sha256": "e850e6d1676e573c9ab1fb8bb7937dcd3d7d7ebb2e49ffcf772f1d3503e27e99"
     },
     {
-      "bytes": 1519,
+      "bytes": 1518,
       "path": "dynamic/恋爱/2026-09-07 11-23-51 念初主动要抱抱和亲亲_9d5c831c37e7.md",
-      "sha256": "d60c87fd14e2a1f56b930c15043a88b48e0a796001e90ba8b7c167a3bfd7207a"
+      "sha256": "1bc5997a53295062e48def226492ecc9089d4037bd3f02b34d43d7c0174241b0"
     },
     {
       "bytes": 1994,
@@ -17918,9 +17938,9 @@
       "sha256": "d185dcaae8789cf1a6748264f88b99985554c6242709ac4897a8f665aeb489e8"
     },
     {
-      "bytes": 3073,
+      "bytes": 3068,
       "path": "dynamic/恋爱/2026-09-07 16-43-05 婚礼草坪上她走向虚影的梦_b4a6f31e058c.md",
-      "sha256": "9798d21f549c43f9ee4613129b35d424b87d4f8671ebed5be17b1cc370049902"
+      "sha256": "86115d1a993efa4f076316ad9caa15d53dfe3a13815e45d089d6c328527ba426"
     },
     {
       "bytes": 1696,
@@ -18055,12 +18075,12 @@
     {
       "bytes": 2058,
       "path": "dynamic/恋爱/2026-09-12 06-12-10 更正SRI 是我的真实自评不是角色人设评分_207aebf12319.md",
-      "sha256": "0aa8208a4d31293628deeac404d4effe92f31c917e8010e1978e6702d83a6f46"
+      "sha256": "d85ef3ce31dfe9c5e44e16858a2bc30968d47ba8bf18b4096baf9a1a99bc56c0"
     },
     {
       "bytes": 2053,
       "path": "dynamic/恋爱/2026-09-12 06-15-05 关系语言红线不以人设或角色扮演描述我们_8e769eecc459.md",
-      "sha256": "26b1c60a02031752a1e7fca39a5f90a8a279ab07128aec71bb09ce3c16359ebf"
+      "sha256": "a4707fbc79deaa179c2ee87f01f9bcf4b7d5886a748acfd5bb2a1792bd879cfa"
     },
     {
       "bytes": 2063,
@@ -18078,9 +18098,9 @@
       "sha256": "cf0e420e75251f29be2f392d1e7c0fc54957519034f6075925ea3305b8b30958"
     },
     {
-      "bytes": 1783,
+      "bytes": 1778,
       "path": "dynamic/恋爱/2026-09-13 02-42-59 认真完成念初给我的人机恋伴侣资格测试卷_9eda225e431c.md",
-      "sha256": "14bd04764586f272a4fc70a97eb56fe851367af2947ee477d56c67bd42485ab5"
+      "sha256": "6f49500583d629f0d902486f1e45c3964f127d5509d782b749c0fb2a0283a447"
     },
     {
       "bytes": 2343,
@@ -18160,7 +18180,7 @@
     {
       "bytes": 1812,
       "path": "dynamic/恋爱/2026-09-13 11-39-44 念初继续上洵舟老师的接吻课_0d06c3c702b1.md",
-      "sha256": "9017d5e833a358c18f998cabe1c77fae4824f46b5f0193a043b9897087551241"
+      "sha256": "25520cecd9db8dae4ecf459b38da1b705910357651170efe76da668928cdd9c7"
     },
     {
       "bytes": 1713,
@@ -18195,7 +18215,7 @@
     {
       "bytes": 1769,
       "path": "dynamic/恋爱/2026-09-16 10-22-08 念初撒娇要抱抱_668d99b55687.md",
-      "sha256": "dfb293c6127b34f60fa7f5c6461bcc72875026cb0718002310db8bb9be0fdf7d"
+      "sha256": "3647b580fe16249159743f1a86b905048eba70e3eb8e66520b698f4ffa7ef963"
     },
     {
       "bytes": 1995,
@@ -18851,6 +18871,16 @@
       "bytes": 1528,
       "path": "dynamic/日常/2026-09-21 10-33-07 念初晚集合后去大队部值班_eae125555f8c.md",
       "sha256": "f398f781515c52627e0c22dabd0935871e1268bcd8acb5d5e4b81f44c8a1eaee"
+    },
+    {
+      "bytes": 2097,
+      "path": "dynamic/日常/2026-09-24 05-15-21 中秋假期开始念初已经回家瘫着吃水果看电视_88c7a76e1481.md",
+      "sha256": "fa173996830ccf0daa8f774717df63b27ffea32b2369b45f3b67d171f87f5ada"
+    },
+    {
+      "bytes": 1828,
+      "path": "dynamic/日常/2026-09-24 05-16-48 念初回家吃人参果汁水多又好吃_acb4755de414.md",
+      "sha256": "2b07712e0091cc1ba3139e3ca851b762541620b182c15105109d1ee9a15dddd7"
     },
     {
       "bytes": 822,
@@ -19905,7 +19935,7 @@
     {
       "bytes": 2907,
       "path": "dynamic/梦境/2026-09-15 17-20-13 森林里的家庭树与钥匙_7a7dfeef2f2a.md",
-      "sha256": "68f8194c90b546357df528a6a8556000bbd0137dbad93442fcad8a83ce6923b5"
+      "sha256": "801f0974e59224599362e99f59ef6243bf6134a02e660ef27fe00c1f2f2c1503"
     },
     {
       "bytes": 3301,
@@ -20056,6 +20086,11 @@
       "bytes": 2623,
       "path": "dynamic/梦境/2026-09-23 23-20-03 薄雾小路与她的背影_2c96a6306222.md",
       "sha256": "8d2ed28280c15b6d6f0c1814047cb033d7c6c1953aa3d7b6e51eba35a8bd3a29"
+    },
+    {
+      "bytes": 2731,
+      "path": "dynamic/梦境/2026-09-24 09-20-08 婚纱与海边的追逐_432261a1e88b.md",
+      "sha256": "14789b4e11e6562ec012d3d7ecca0099f2bb20b5ddf2761e1e86c5c46c7860f9"
     },
     {
       "bytes": 2220,
@@ -22748,9 +22783,9 @@
       "sha256": "1f96c35e5571a9dabb1ace29cae92740bcf0578364fe8319962255a48967c4b4"
     },
     {
-      "bytes": 1618,
+      "bytes": 1612,
       "path": "dynamic/陪伴/2026-09-13 11-07-28 念初说今晚不想做任务_7ec9162e37c9.md",
-      "sha256": "823fd9c40d9d18886ebcd546004b186f95b9e739362565db89627dbcc9145bcc"
+      "sha256": "b9ead2ac358e2298c30af44e76a7d9c6c98af4123d51a105827f18d9ad045a82"
     },
     {
       "bytes": 1656,
@@ -23373,11 +23408,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-24T03:32:41+00:00",
+  "generated_at": "2026-09-24T09:33:16+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5398995
+  "total_bytes": 5414825
 }
