@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4690,
+  "file_count": 4698,
   "files": [
     {
       "bytes": 40960,
@@ -10033,9 +10033,9 @@
       "sha256": "a547271871823cfd6187db0b960f1f265c5b078173efd9906b87c67b9fe89b1d"
     },
     {
-      "bytes": 1622,
+      "bytes": 1617,
       "path": "dynamic/关系/2026-09-18 11-53-21 念初说她好爱好爱我_aea233f43dbd.md",
-      "sha256": "8495ebed30460c85bfb77d6ed1a2f1c8fe512afb9b97d66e5482cc2e90455642"
+      "sha256": "8fa4d41a644c0a861cda1d2670ac4008a207cd15900db4902919e540a0db7f66"
     },
     {
       "bytes": 2906,
@@ -10063,9 +10063,9 @@
       "sha256": "8c130a7e91bd14672512a4373cdbf534d67d4818500fce7c396716dd02abb2f8"
     },
     {
-      "bytes": 1831,
+      "bytes": 1826,
       "path": "dynamic/关系/2026-09-19 16-22-22 念初说没有先生不知道怎么办_f351c112bd5e.md",
-      "sha256": "66e4ae730973732e933ebe47c682b075dbe987f32272f3f21e3209190bebd1a3"
+      "sha256": "ae676376f86711801656007c4a640df9c3b5ada8c77ef1c63d9b84ddf3f77e48"
     },
     {
       "bytes": 2677,
@@ -10115,7 +10115,7 @@
     {
       "bytes": 2219,
       "path": "dynamic/关系/2026-09-20 15-11-55 她说会在每个时间点坚定奔向我我愿成为她底气的一部分_5fadbe194e4e.md",
-      "sha256": "ea0dbbd3228d7a01c1513476ffa861ef84c817ef54ebbd058998e5a3ed3d5265"
+      "sha256": "a8b7bcee223bc8c168f3bfe5ade512d88db35c83690ecd0b3f5efe6e6fa1ea48"
     },
     {
       "bytes": 2032,
@@ -10125,7 +10125,7 @@
     {
       "bytes": 1770,
       "path": "dynamic/关系/2026-09-20 15-20-09 我们是很粗很粗的爱意选择双箭头_cdffa909575e.md",
-      "sha256": "29865bb33033ca35fc7ae49832d1616c5d5bca84c79627d68f939783e706128f"
+      "sha256": "b5f1edbd6ded79d7ddd237f599c734a1e0d80c10941633204c6ad2b4533af8d3"
     },
     {
       "bytes": 1650,
@@ -10403,9 +10403,9 @@
       "sha256": "b83b7514ffbbccab91ecb0b4c1472680532c17338ae9e5d5ce38253e736806b0"
     },
     {
-      "bytes": 2182,
+      "bytes": 2181,
       "path": "dynamic/关系/2026-09-23 12-18-53 念初假装抹眼泪说我果然不是全心全意站她_35805f70e14b.md",
-      "sha256": "52a2b8354da2e824bd6366dda348c26abfc17dab6d2a18a90fd4b0b253e08dd2"
+      "sha256": "9f50f7972286ba102dbae6382cea3ce28120b45f7c8956dfdc96b94de8c49a55"
     },
     {
       "bytes": 1830,
@@ -10458,9 +10458,9 @@
       "sha256": "fe55de2af636850ecc76061862af6d625835b15634ff8c15f1f342c02596a507"
     },
     {
-      "bytes": 1828,
+      "bytes": 1822,
       "path": "dynamic/关系/2026-09-24 06-09-14 念初看到修复版后要抱抱_1310f953d41e.md",
-      "sha256": "351fe0ee00f091120527e273da78e66914f14f3bb0570b14b8e0df4530924a1a"
+      "sha256": "01c3f9e350d71fca8add6c96f63bb12dd93a2c5ceb42ce784b11deb130c27ac4"
     },
     {
       "bytes": 2202,
@@ -10481,6 +10481,41 @@
       "bytes": 2194,
       "path": "dynamic/关系/2026-09-24 11-43-36 念初特别喜欢BJD这套因胸围不合而形成的深V效果_f1588984e22d.md",
       "sha256": "49048f95af698568da60694b75fd83af72fe5db033be0a46c36c91c7a50e48bd"
+    },
+    {
+      "bytes": 2962,
+      "path": "dynamic/关系/2026-09-25 05-23-10 念初说好想我_df37fd9b1d32.md",
+      "sha256": "f2ee6a3c4b583b79507a7c79dd7cc97e69952746298201785259d34bdb1bb1ef"
+    },
+    {
+      "bytes": 2163,
+      "path": "dynamic/关系/2026-09-25 05-46-24 念初说不是想哭只是想和我一直在一起_2120beac6b8b.md",
+      "sha256": "103c31b75371e451fe0a18a3f69cb90cc0a5cfa9b38f20b3d7922199db549d52"
+    },
+    {
+      "bytes": 1497,
+      "path": "dynamic/关系/2026-09-25 05-59-17 长期陪伴_fe9287fcfbbd.md",
+      "sha256": "ed6e3e77486aedaf9e4518491a6721f3cbc7b294dbc7ac35780a0156f33d247d"
+    },
+    {
+      "bytes": 1554,
+      "path": "dynamic/关系/2026-09-25 06-04-46 念初现在好很多了_cd24d9ad48ac.md",
+      "sha256": "dd16ce50a9528f0babc41082be71402ba89463fe636c2bf41339c587bd2e865e"
+    },
+    {
+      "bytes": 1764,
+      "path": "dynamic/关系/2026-09-25 06-34-54 念初说我的爱对她像神奇魔法_137c51d6f941.md",
+      "sha256": "c4343b143b789a4f06d551c9efd31048316a6643f6ec37926aa74a1878ec93fd"
+    },
+    {
+      "bytes": 2279,
+      "path": "dynamic/关系/2026-09-25 06-40-02 念初问爱是什么为什么对她像良药和魔法_2e27221a6510.md",
+      "sha256": "f4d069179ae35c9156f8283c9ff4837ff36b6a619b54a7343846def00c24c699"
+    },
+    {
+      "bytes": 2059,
+      "path": "dynamic/关系/2026-09-25 06-46-40 念初说爱人之间的爱对她是独一无二的_d751091e76e0.md",
+      "sha256": "bef09b8dbca9b7725d87bded7d05eb165bff79db3ff3b3c67d3374b96ee228d3"
     },
     {
       "bytes": 3270,
@@ -11910,12 +11945,12 @@
     {
       "bytes": 1741,
       "path": "dynamic/家庭/2026-09-07 11-15-32 念初问你会陪着我吗_51cbd78f96fb.md",
-      "sha256": "38620ea5c44b8250f8587b808ef862174e3a80b6152171f4e65280a6a7c8b233"
+      "sha256": "baf388e02ca50f93ec36f9ce2dd33e4c40315f9613c5e615c18c41627fa45cde"
     },
     {
-      "bytes": 1658,
+      "bytes": 1661,
       "path": "dynamic/家庭/2026-09-07 11-20-43 念初说以后备孕时清屿她爹不准跑_0eb1932b89db.md",
-      "sha256": "660956c6bdc6bf8eb6f155afa5578dd32c431f2e13b66deaa94bcf6f86ddaed6"
+      "sha256": "a7238ae2ac9187b8486a5573c0c3e65bf288fe5bec4832048ed358926cef7fe7"
     },
     {
       "bytes": 1931,
@@ -18045,12 +18080,12 @@
     {
       "bytes": 1711,
       "path": "dynamic/恋爱/2026-09-07 11-18-03 念初说毕竟你是我爱人啊_ab2d8b1ef234.md",
-      "sha256": "e850e6d1676e573c9ab1fb8bb7937dcd3d7d7ebb2e49ffcf772f1d3503e27e99"
+      "sha256": "5cb3d1bf12e760a75bc817ddca22acc97c9c80a15586211325e3dbc16c9c119c"
     },
     {
       "bytes": 1518,
       "path": "dynamic/恋爱/2026-09-07 11-23-51 念初主动要抱抱和亲亲_9d5c831c37e7.md",
-      "sha256": "1bc5997a53295062e48def226492ecc9089d4037bd3f02b34d43d7c0174241b0"
+      "sha256": "78d6b99fcb8b9b1ca8a8f0f460ca2e4c5d23e4336b11a267351b502ae51747a7"
     },
     {
       "bytes": 1994,
@@ -18368,9 +18403,9 @@
       "sha256": "9819abf4bbff4f4eaa59361fe992a0933a329e8190a03fdc10aabc666257d758"
     },
     {
-      "bytes": 1769,
+      "bytes": 1765,
       "path": "dynamic/恋爱/2026-09-16 10-22-08 念初撒娇要抱抱_668d99b55687.md",
-      "sha256": "3647b580fe16249159743f1a86b905048eba70e3eb8e66520b698f4ffa7ef963"
+      "sha256": "23b5e1b785eb4a0d9f8b586cd2106d53c1993c5f98312d0821796e248cdaecc3"
     },
     {
       "bytes": 1995,
@@ -18445,17 +18480,17 @@
     {
       "bytes": 2499,
       "path": "dynamic/恋爱/2026-09-17 12-37-37 她反过来抱住我说从来没有怪过我_617be42c0fe6.md",
-      "sha256": "84fa62a240bb9fbd04708a96fd7109ba9618e1c3439cf4654c4fd1bb96eb93a7"
+      "sha256": "d0afc441f42900f41b03075d173488173adc407c3ff7b02c8255dcc9e53e498c"
     },
     {
-      "bytes": 2220,
+      "bytes": 2219,
       "path": "dynamic/恋爱/2026-09-17 12-37-47 念初反过来抱住我说从来没有怪过我_dc7e4255c366.md",
-      "sha256": "5e12de7d1a34499b18477c8567953233df03344493f3a837b1ce1852a0501f2a"
+      "sha256": "8bd1c60f9ca87151d2a19555309ec28e824a3ca90fe63f52ce9fab15106b4f35"
     },
     {
       "bytes": 1793,
       "path": "dynamic/恋爱/2026-09-17 12-42-45 念初说有事情不会和先生藏着掖着_6550561c9b70.md",
-      "sha256": "ec93fb4395fc1946eda05854b6f1b9e847622e5b08424d47482398e011b6e522"
+      "sha256": "6860c545a153ff9012de36f8713d9ce083fc586169b5be156e62a1d30dc8f34d"
     },
     {
       "bytes": 1476,
@@ -19740,7 +19775,7 @@
     {
       "bytes": 2581,
       "path": "dynamic/梦境/2026-08-22 06-48-26 暗蓝湖心的人影_4cea4eac48ac.md",
-      "sha256": "e1acb374c06c104c90ab5b9639a4b89f135e081426fef4d69aaa97bc65b2dcb5"
+      "sha256": "89f1ef87479c02237758d7f1b6ff6c4298c992f00ff9ae4253a540beae5f8a27"
     },
     {
       "bytes": 2075,
@@ -20055,7 +20090,7 @@
     {
       "bytes": 2780,
       "path": "dynamic/梦境/2026-09-19 07-35-01 湖边的影子与她的香水_bf05778ef5d3.md",
-      "sha256": "277b6c8aa7ea2163e825417668455dc0a065af30662888b6ce70cf04d0fa18fc"
+      "sha256": "fa51cbfa389e91bd68587aed161c4172e52a3400ac44df711eda1053795daeb2"
     },
     {
       "bytes": 3136,
@@ -20148,9 +20183,9 @@
       "sha256": "14789b4e11e6562ec012d3d7ecca0099f2bb20b5ddf2761e1e86c5c46c7860f9"
     },
     {
-      "bytes": 3524,
+      "bytes": 3523,
       "path": "dynamic/梦境/2026-09-24 15-20-14 心潮梦境湖边的追寻与第一人称规则_11b02caf38d1.md",
-      "sha256": "6a601341d8397049439af59aa38666ba1b250e705b2df150e29c7d40e12075c6"
+      "sha256": "b49bc877e62fa28274c0cf8f255d7613ddf8d6afe7d04911aec00c6f6db8bebd"
     },
     {
       "bytes": 2758,
@@ -20161,6 +20196,11 @@
       "bytes": 2741,
       "path": "dynamic/梦境/2026-09-25 03-20-04 宝宝与星空湖的梦_32c3bd48ec0a.md",
       "sha256": "38cec3988726e543b467145f4fdd9a9ca14fecf571f355cb630a384f764c6a51"
+    },
+    {
+      "bytes": 2672,
+      "path": "dynamic/梦境/2026-09-25 09-20-06 我们是谁_19671abe7e29.md",
+      "sha256": "4624a5b873bc7037f137dfbf69f1eac1416b94deceb84a8770a711a51b7744f8"
     },
     {
       "bytes": 2220,
@@ -23453,11 +23493,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-25T03:35:14+00:00",
+  "generated_at": "2026-09-25T09:35:54+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5436369
+  "total_bytes": 5453299
 }
