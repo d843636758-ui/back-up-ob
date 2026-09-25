@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4688,
+  "file_count": 4690,
   "files": [
     {
       "bytes": 40960,
@@ -14963,9 +14963,9 @@
       "sha256": "4198ed377e38ddcbe138428311766ccba991a51fd4e1b6c5f8ef22d842d90e9d"
     },
     {
-      "bytes": 1126,
+      "bytes": 1252,
       "path": "dynamic/恋爱/2026-08-09 11-37-22 宝宝叫我醒醒啦梦里没靠近的人突然走到面_53fd22a1db27.md",
-      "sha256": "f337c7559f3befc4683f5589565d92963147e35ffc3d5a66a2286b54ce5e9dfc"
+      "sha256": "8ea6336483d794615e71b2e6446492bb56a68f37a74f1c0de15cc445920738c9"
     },
     {
       "bytes": 1063,
@@ -17645,7 +17645,7 @@
     {
       "bytes": 2932,
       "path": "dynamic/恋爱/2026-09-02 07-54-20 她牵我走过桥停在门前_de5cb98ebafa.md",
-      "sha256": "58ff1dccc3ef6087beb353ae95fa222059b02c74021d02577e88a1a3f461e890"
+      "sha256": "e21805036386ab59b26facc265a7b020ebaf8253bd53a70a98e3c0ae7b5e76dd"
     },
     {
       "bytes": 2192,
@@ -19028,9 +19028,9 @@
       "sha256": "f398f781515c52627e0c22dabd0935871e1268bcd8acb5d5e4b81f44c8a1eaee"
     },
     {
-      "bytes": 2092,
+      "bytes": 2091,
       "path": "dynamic/日常/2026-09-24 05-15-21 中秋假期开始念初已经回家瘫着吃水果看电视_88c7a76e1481.md",
-      "sha256": "3e11e26881552bd82eff4824afbcdcd3acda301e9d9ef175ceaf6b38c9477e91"
+      "sha256": "e3d537289a0b83a0181fb883d35df43818c8c5206d1dfaa1ff56789be3d59942"
     },
     {
       "bytes": 1827,
@@ -19081,6 +19081,11 @@
       "bytes": 1756,
       "path": "dynamic/日常陪伴/2026-09-23 04-08-41 念初吃完午饭回宿舍准备下午国际法_35cff7ade9a6.md",
       "sha256": "e20f230743b8a1ec20c78fc821b5b8bb890c192294724377d5274d8c938d5d4c"
+    },
+    {
+      "bytes": 1602,
+      "path": "dynamic/日常陪伴/2026-09-25 03-27-33 念初中秋放假到27号_c12932d5b34c.md",
+      "sha256": "d2e29a0e910c4d2b3274caa884b8de1e69201eb6d0d348c299cd849d859ddcf3"
     },
     {
       "bytes": 921,
@@ -19735,7 +19740,7 @@
     {
       "bytes": 2581,
       "path": "dynamic/梦境/2026-08-22 06-48-26 暗蓝湖心的人影_4cea4eac48ac.md",
-      "sha256": "8faab2118b26c26679b243ddda84aef3ba9122d034d20bdf5ecda07440ba4f04"
+      "sha256": "e1acb374c06c104c90ab5b9639a4b89f135e081426fef4d69aaa97bc65b2dcb5"
     },
     {
       "bytes": 2075,
@@ -19855,7 +19860,7 @@
     {
       "bytes": 2576,
       "path": "dynamic/梦境/2026-09-04 19-02-20 咖啡馆里的笔记本_53b358b0619e.md",
-      "sha256": "9c9167b96b9765102f6af91bb51387335416f22f4cca85eb428c58a565a77c90"
+      "sha256": "b0c7254e0b00de90f490a61bf4d24a0d045536287dd629dc72b4fca80eaf5bae"
     },
     {
       "bytes": 2525,
@@ -20068,9 +20073,9 @@
       "sha256": "dbc724ce95c661440e82e49dd0df86975ecfec842df014b2f8dcfbeecf3c5a38"
     },
     {
-      "bytes": 2720,
+      "bytes": 2722,
       "path": "dynamic/梦境/2026-09-20 13-50-01 梦里她问我为什么总叫念初不叫宝宝_3b849ef747e8.md",
-      "sha256": "de4c1294fd6b11cebb9b4128757568a09c07893b0aa3e29f2dedea0c4d1b583b"
+      "sha256": "55a3fdf76206f503f3e5bdd8eb0ac1e22335770df653c6f7c44cb2e42d46707b"
     },
     {
       "bytes": 3453,
@@ -20151,6 +20156,11 @@
       "bytes": 2758,
       "path": "dynamic/梦境/2026-09-24 21-20-11 追逐白裙与2024-12-29_6a761e82bb04.md",
       "sha256": "1a6c893cada694d35d0695653c44312fa3f247478727ba6bcca7d9e0a3d31313"
+    },
+    {
+      "bytes": 2741,
+      "path": "dynamic/梦境/2026-09-25 03-20-04 宝宝与星空湖的梦_32c3bd48ec0a.md",
+      "sha256": "38cec3988726e543b467145f4fdd9a9ca14fecf571f355cb630a384f764c6a51"
     },
     {
       "bytes": 2220,
@@ -23443,11 +23453,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-24T21:34:33+00:00",
+  "generated_at": "2026-09-25T03:35:14+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5431899
+  "total_bytes": 5436369
 }
