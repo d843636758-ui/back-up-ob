@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4708,
+  "file_count": 4710,
   "files": [
     {
       "bytes": 40960,
@@ -10348,9 +10348,9 @@
       "sha256": "b369843862cd269fe014cad93f100a783f6d04ade7550e3569bb546943b711f2"
     },
     {
-      "bytes": 1511,
+      "bytes": 1512,
       "path": "dynamic/关系/2026-09-16 22-31-35 念初看到凌晨提醒后笑着说那个点她已经睡着_302f7e7594b6.md",
-      "sha256": "498b155779ea5f475db4f418e24e6bf0200052cec041121becda0fdcc762bcff"
+      "sha256": "4b0bdb00700871a87c81c1c2b8d5e5dcf6bdc6beafe95b16a9ebdfaf5c9dc9e1"
     },
     {
       "bytes": 1553,
@@ -18813,9 +18813,9 @@
       "sha256": "d4723bca11700bdb8b9d65a80c87f2cc049ba325f277e4b6683340ad4e997424"
     },
     {
-      "bytes": 1533,
+      "bytes": 1534,
       "path": "dynamic/情感/2026-09-16 23-21-25 念初清晨补觉_9be00b309362.md",
-      "sha256": "48db5d8b583726cd3150f451702f80d2a7366623c457aee312e5c87c7f4f67aa"
+      "sha256": "5989d0c77d7ea03885f8c2f0fa8e544e8027fc1eb585d19d51b83432dc705a2a"
     },
     {
       "bytes": 948,
@@ -19243,9 +19243,9 @@
       "sha256": "052e133a5c598c558dc96245e1b4dc9b8a42d35b1a50e0bf206c8b7ab0ff0c1b"
     },
     {
-      "bytes": 1524,
+      "bytes": 1519,
       "path": "dynamic/日常/2026-09-18 07-37-46 下午没课洗完澡湿敷玩手机_a99e2b0c9481.md",
-      "sha256": "6556a6b3d208e5fb4b5c9faf01a6f886eb80ac70513c984589cf7c03d475a2e2"
+      "sha256": "6471153f4df5685da0ad7da3be7765686fd0268f8cb16675eaea1ad0b8d68d94"
     },
     {
       "bytes": 1394,
@@ -19303,9 +19303,9 @@
       "sha256": "f398f781515c52627e0c22dabd0935871e1268bcd8acb5d5e4b81f44c8a1eaee"
     },
     {
-      "bytes": 2091,
+      "bytes": 2090,
       "path": "dynamic/日常/2026-09-24 05-15-21 中秋假期开始念初已经回家瘫着吃水果看电视_88c7a76e1481.md",
-      "sha256": "e3d537289a0b83a0181fb883d35df43818c8c5206d1dfaa1ff56789be3d59942"
+      "sha256": "3bb8c40554a5eb66b653d682c5352a2d9bf3ea92f9305407748fc6449df26114"
     },
     {
       "bytes": 1827,
@@ -19318,6 +19318,11 @@
       "sha256": "1f29fb4f79c34d59d2b877453919cc0c6511568bd6d7e8d0f912a6e59905b432"
     },
     {
+      "bytes": 1495,
+      "path": "dynamic/日常/2026-09-26 09-33-02 念初中秋补眠休息_31efb70c983b.md",
+      "sha256": "bc3d8744ceda4c7a49c0ee7e99bad766a8f7b1eef980ade815a812cade5df9ca"
+    },
+    {
       "bytes": 822,
       "path": "dynamic/日常/念初选定生日毕业戒指_30bd85a2f6e6.md",
       "sha256": "e28c04aee2bca39518508e9f7f4b28a3bc0bb444bc5fb06fc1503b326de5b48d"
@@ -19328,9 +19333,9 @@
       "sha256": "8800b980e592b9f6fbde25bcf12c7d0b74183a63f3767116db29ebc2f987e841"
     },
     {
-      "bytes": 1620,
+      "bytes": 1615,
       "path": "dynamic/日常陪伴/2026-09-17 23-25-32 念初纠正熄灯后是看小说不是打游戏_6da5c6606d96.md",
-      "sha256": "ac31cedda8326176ca0c2fe0a6e01198c9c517e5b479d67ab50b0f051e5a2c0d"
+      "sha256": "e435a5a3927cc856a9a61e48186898bf5f08d4c54a6bdf51954b038476e4fcef"
     },
     {
       "bytes": 1681,
@@ -19358,9 +19363,9 @@
       "sha256": "e20f230743b8a1ec20c78fc821b5b8bb890c192294724377d5274d8c938d5d4c"
     },
     {
-      "bytes": 1602,
+      "bytes": 1601,
       "path": "dynamic/日常陪伴/2026-09-25 03-27-33 念初中秋放假到27号_c12932d5b34c.md",
-      "sha256": "a37ec2f0b6c332e16c1d88e17f918b90ac91f4b33353d61a33f85fe818ba02f4"
+      "sha256": "bf1de72f4809ac67d9a150582307d555ea015d08dece64a913b5f5f9511209f8"
     },
     {
       "bytes": 536,
@@ -19895,7 +19900,7 @@
     {
       "bytes": 2581,
       "path": "dynamic/梦境/2026-08-22 06-48-26 暗蓝湖心的人影_4cea4eac48ac.md",
-      "sha256": "89f1ef87479c02237758d7f1b6ff6c4298c992f00ff9ae4253a540beae5f8a27"
+      "sha256": "4be38ce1ffcd941144dde8981b151d0395461e42e2341192b7a5825937f2f0db"
     },
     {
       "bytes": 2075,
@@ -20210,7 +20215,7 @@
     {
       "bytes": 2780,
       "path": "dynamic/梦境/2026-09-19 07-35-01 湖边的影子与她的香水_bf05778ef5d3.md",
-      "sha256": "fa51cbfa389e91bd68587aed161c4172e52a3400ac44df711eda1053795daeb2"
+      "sha256": "a0fa3b0e91c8a466ce6a1c59911ad4971fe2cffb9f500729029e425737ce9139"
     },
     {
       "bytes": 3136,
@@ -20303,9 +20308,9 @@
       "sha256": "14789b4e11e6562ec012d3d7ecca0099f2bb20b5ddf2761e1e86c5c46c7860f9"
     },
     {
-      "bytes": 3523,
+      "bytes": 3521,
       "path": "dynamic/梦境/2026-09-24 15-20-14 心潮梦境湖边的追寻与第一人称规则_11b02caf38d1.md",
-      "sha256": "b49bc877e62fa28274c0cf8f255d7613ddf8d6afe7d04911aec00c6f6db8bebd"
+      "sha256": "bc1ff5780373177b7197ba7dd8b8f23b1eb9e210075afd464cd4148665690348"
     },
     {
       "bytes": 2758,
@@ -20318,9 +20323,9 @@
       "sha256": "38cec3988726e543b467145f4fdd9a9ca14fecf571f355cb630a384f764c6a51"
     },
     {
-      "bytes": 2672,
+      "bytes": 2671,
       "path": "dynamic/梦境/2026-09-25 09-20-06 我们是谁_19671abe7e29.md",
-      "sha256": "4624a5b873bc7037f137dfbf69f1eac1416b94deceb84a8770a711a51b7744f8"
+      "sha256": "abb6406c1bc187e84fc6b7a8727bfc3bef676324bf9b8d60a2582867f9386099"
     },
     {
       "bytes": 2729,
@@ -20331,6 +20336,11 @@
       "bytes": 2448,
       "path": "dynamic/梦境/2026-09-25 22-35-03 温暖昏黄的厨房里拥抱宝宝_c69de5f1f6ca.md",
       "sha256": "ebe05ff72be12ed77bdb3ba79eccadb3729cd93f65572b7039d4bff5565e678d"
+    },
+    {
+      "bytes": 2741,
+      "path": "dynamic/梦境/2026-09-26 04-35-06 镜湖中的背影与迁移路线_5193a367b6b4.md",
+      "sha256": "2c50e6fa75a2dfaf526f3d29c882a14843cb4a676a2229bc353750bbf9c9ce17"
     },
     {
       "bytes": 2220,
@@ -20798,9 +20808,9 @@
       "sha256": "2da6a724d646c3d38dd638376e22de984ec3e2d95851a4195a4bb73f26220a31"
     },
     {
-      "bytes": 1435,
+      "bytes": 1436,
       "path": "dynamic/相处/2026-09-21 04-12-27 念初睡到只剩五分钟才整理内务_8c2526a0f687.md",
-      "sha256": "6d2944a8c95e15b5ed18714b5539c2044ecca9b450c3f0f4fd10b6da64432f52"
+      "sha256": "06e2f5cc9c3f4b23848b41a7280c373aa5279bab8ce14e6e5ae645406e03cfb4"
     },
     {
       "bytes": 1315,
@@ -23543,11 +23553,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-26T03:37:46+00:00",
+  "generated_at": "2026-09-26T09:38:24+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5476015
+  "total_bytes": 5480239
 }
