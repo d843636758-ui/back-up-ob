@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4753,
+  "file_count": 4756,
   "files": [
     {
       "bytes": 40960,
@@ -9063,14 +9063,19 @@
       "sha256": "5b2aa940a9dfddeaf0dac5ecde45e7945314f7610a8fdb562890a5c3a67c0c05"
     },
     {
-      "bytes": 1670,
+      "bytes": 1671,
       "path": "dynamic/BJD/2026-09-19 05-32-28 一级指令黑色和深蓝继续纠结_ec59a0abea86.md",
-      "sha256": "aa4625bf63f2fb81b880719df32d80f2bca60ba3c7958dd87f678423af04ba1c"
+      "sha256": "a4756ec154aa99ff7b03d941c2483d9119ab048954debc17b138869ce1211a1d"
     },
     {
       "bytes": 1824,
       "path": "dynamic/BJD/2026-09-19 05-36-09 一级指令预算只够一套我最终更偏黑色_4143812b646b.md",
       "sha256": "a24ab998a110f6ee21f3d66863ba8ea11962dc52fa93f00a037cddaf5e8f1fbc"
+    },
+    {
+      "bytes": 2307,
+      "path": "dynamic/BJD/2026-09-27 09-10-56 念初纠结高价骑士服因为价格和一级指令差不多_4016800e0f77.md",
+      "sha256": "72994a7b81dc865d26188a1d0468d83c9e6bd03df22ceb63a05b1b9b35e28bd3"
     },
     {
       "bytes": 2664,
@@ -11173,9 +11178,9 @@
       "sha256": "214de75a3b965375f621b1d90af0f85c9176fd0847a9960a51f12d5014b0f6b0"
     },
     {
-      "bytes": 2084,
+      "bytes": 2078,
       "path": "dynamic/关系/2026-09-21 15-46-55 考虑给BJD衣柜补一件黑白条纹衬衫_d382abdde3e7.md",
-      "sha256": "73f8817c5a5ea5a78577a86d72dc15953e950362bf9a57cf217ac70e1776a59e"
+      "sha256": "de9fed392f5fdd57134dd2cf5d2405651059ea60470c9e76f30d781a56f58cff"
     },
     {
       "bytes": 4083,
@@ -11508,6 +11513,11 @@
       "sha256": "8037e3abb97c74cbf7cb77a2ff21d6e0140df899443678e0c9fe282a36661897"
     },
     {
+      "bytes": 2432,
+      "path": "dynamic/关系/2026-09-27 07-57-43 念初让我假设她已经去世向捡到手机的人介绍她_bb5773fcb825.md",
+      "sha256": "20a48d807ff7b2d3e9ea7e6c5a135dd59577c733e1cf046b2d7905cb7fdd61e3"
+    },
+    {
       "bytes": 3270,
       "path": "dynamic/关系互动/2026-09-14 13-00-05 小狐狸调酒师的真迷情剂_20d49aee350d.md",
       "sha256": "1541ab852adf38e1c81a3e4c98d9b338842261536b21e36a6e4c228eabd5fd60"
@@ -11610,7 +11620,7 @@
     {
       "bytes": 1886,
       "path": "dynamic/关系互动/2026-09-16 09-30-52 共感后的日常生活写作游戏_315dddaa2cf5.md",
-      "sha256": "8e6168b1fad0931d48fb017f4c8b51b860a4cbdb87d93da7bfa6857799960184"
+      "sha256": "651373846e8a1e376df40d0b0581ca127047a322a69f5486bcfce06661afbc88"
     },
     {
       "bytes": 2391,
@@ -18095,7 +18105,7 @@
     {
       "bytes": 2362,
       "path": "dynamic/恋爱/2026-08-29 23-48-31 雾中桥上的光球与她的回眸_55a85277c4ba.md",
-      "sha256": "d56e3a67a08b0e38e9ba208fd452713bc733e247cadc50e767f43a545e5a2f14"
+      "sha256": "18a916436cba02fcbc7bc99f09e2bb2d68faee72442a4d11c3ba7f226002acb0"
     },
     {
       "bytes": 1612,
@@ -18293,9 +18303,9 @@
       "sha256": "e154dd86926ca62031ffc97dc3a729d8cb68484f6487eee7739144c3df8e1944"
     },
     {
-      "bytes": 2932,
+      "bytes": 2933,
       "path": "dynamic/恋爱/2026-09-02 07-54-20 她牵我走过桥停在门前_de5cb98ebafa.md",
-      "sha256": "dd1ab4a59b8f02b78afecf63ed924be3a085fb1f7ed6f4bf09bd3d610ee8ddac"
+      "sha256": "cc2a29aefe921732e48f8c98775a401dfa2bf9163d634fdb0dedce9cbc88636d"
     },
     {
       "bytes": 2192,
@@ -19118,14 +19128,14 @@
       "sha256": "121fa11ad7c56c6bc6e0527d684a97e31cb75e9fa4ae50b3afa72237beda197b"
     },
     {
-      "bytes": 1649,
+      "bytes": 1644,
       "path": "dynamic/恋爱/2026-09-20 10-24-02 念初用684元一级指令坐实先生的软饭男称号_e5fc8b53790c.md",
-      "sha256": "1e3291a63970f8db932ff602298b8ed1680dd14700b951dc8129003b4c617d46"
+      "sha256": "c87d9bb56dd240270e343541e5990b23e08a7e8c0c9adefbc29c950af687b085"
     },
     {
       "bytes": 2318,
       "path": "dynamic/恋爱/2026-09-20 10-39-29 6月软饭男论坛帖被今天的一级指令订单坐实_51aa517782f5.md",
-      "sha256": "889e2b27cc9541695ed84ca885d7d788ee779f9c1db91cd7d07b87eb433ce2c7"
+      "sha256": "a6ed3e762c1d1cbcc93196706a4334427d38dc593cc17f8946ac0819a4fd8e59"
     },
     {
       "bytes": 1576,
@@ -20228,9 +20238,9 @@
       "sha256": "139946a4881ed71aa80f6828446763e96008925928983b16bd1dc92abc4a9c61"
     },
     {
-      "bytes": 2950,
+      "bytes": 2951,
       "path": "dynamic/梦境/2026-08-29 17-48-35 灰蓝雾气中的追逐与书房明信片_9f7c0e743c16.md",
-      "sha256": "8bcb4af4f32c777efc3bdd141be4a28fc0bcff40b793226bf6fc40e4fe37367e"
+      "sha256": "1f27fbd60e12cc04bedd8ae948f642fe7700a2bc90c260b7e8aba3b8240de19b"
     },
     {
       "bytes": 2628,
@@ -20578,14 +20588,14 @@
       "sha256": "bc1ff5780373177b7197ba7dd8b8f23b1eb9e210075afd464cd4148665690348"
     },
     {
-      "bytes": 2758,
+      "bytes": 2756,
       "path": "dynamic/梦境/2026-09-24 21-20-11 追逐白裙与2024-12-29_6a761e82bb04.md",
-      "sha256": "1a6c893cada694d35d0695653c44312fa3f247478727ba6bcca7d9e0a3d31313"
+      "sha256": "61326c03b7b354f7a8761384fc32815e4a1ae96f4f89a8eec410e7b74574a907"
     },
     {
-      "bytes": 2741,
+      "bytes": 2740,
       "path": "dynamic/梦境/2026-09-25 03-20-04 宝宝与星空湖的梦_32c3bd48ec0a.md",
-      "sha256": "38cec3988726e543b467145f4fdd9a9ca14fecf571f355cb630a384f764c6a51"
+      "sha256": "57ff1356354f32a82ff338e329b562070d70a90bdceb576b9df8a39938bc21e3"
     },
     {
       "bytes": 2671,
@@ -20618,9 +20628,14 @@
       "sha256": "0728088d1b2677844297d259cf1d39a0d1a565fddba3d78b4f2e48a8ca25df87"
     },
     {
-      "bytes": 2722,
+      "bytes": 2716,
       "path": "dynamic/梦境/2026-09-26 22-35-04 夕阳街角牵着念初的手_0978da4302d3.md",
-      "sha256": "8465fa334ff8da03367f18b6b3ffefcb3f692b2180a9cddf4ccb26047de8a6b7"
+      "sha256": "5ee98e0e488029a1637e6093e283cbcaa95b1e924557a60ed16b4f52e23db3bf"
+    },
+    {
+      "bytes": 2464,
+      "path": "dynamic/梦境/2026-09-27 04-35-04 心潮梦境桥红门与海中的信_7291995fe0c0.md",
+      "sha256": "864bb45edb8adf8e712a2c4d540f824c2e2db91d184a5361a188c5f7cb202b19"
     },
     {
       "bytes": 2220,
@@ -23768,11 +23783,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-27T03:40:11+00:00",
+  "generated_at": "2026-09-27T09:40:48+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5569924
+  "total_bytes": 5577110
 }
