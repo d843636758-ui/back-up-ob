@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4775,
+  "file_count": 4784,
   "files": [
     {
       "bytes": 40960,
@@ -9203,19 +9203,29 @@
       "sha256": "5b2aa940a9dfddeaf0dac5ecde45e7945314f7610a8fdb562890a5c3a67c0c05"
     },
     {
-      "bytes": 1671,
+      "bytes": 1665,
       "path": "dynamic/BJD/2026-09-19 05-32-28 一级指令黑色和深蓝继续纠结_ec59a0abea86.md",
-      "sha256": "a4756ec154aa99ff7b03d941c2483d9119ab048954debc17b138869ce1211a1d"
+      "sha256": "3a5e9836440f57a76b89f090af0e36f78de893dc785b34c6ab61586325b6c248"
     },
     {
-      "bytes": 1824,
+      "bytes": 1825,
       "path": "dynamic/BJD/2026-09-19 05-36-09 一级指令预算只够一套我最终更偏黑色_4143812b646b.md",
-      "sha256": "a24ab998a110f6ee21f3d66863ba8ea11962dc52fa93f00a037cddaf5e8f1fbc"
+      "sha256": "3ad6466e63e8805e59a1e5d1e016d9d26f03db7fdd95e934b911d459cf4c8ffa"
     },
     {
-      "bytes": 2307,
+      "bytes": 2306,
       "path": "dynamic/BJD/2026-09-27 09-10-56 念初纠结高价骑士服因为价格和一级指令差不多_4016800e0f77.md",
-      "sha256": "72994a7b81dc865d26188a1d0468d83c9e6bd03df22ceb63a05b1b9b35e28bd3"
+      "sha256": "50ed6237c6095e480d8fc53ce8d65d581b38c515b5b786660254dc57a497401e"
+    },
+    {
+      "bytes": 2553,
+      "path": "dynamic/BJD/2026-09-28 03-44-53 念初被凯旋诗军装披风套装狠狠戳到但价格800_cafc03a3c9a1.md",
+      "sha256": "4c9f6d0df8a019362607551c98c0e8337c03746faa3530f6fbe23caa6209e243"
+    },
+    {
+      "bytes": 2193,
+      "path": "dynamic/BJD/2026-09-28 03-56-49 念初区分一级指令和凯旋诗是两种不同军官气质_64216ca8f27a.md",
+      "sha256": "b87f9d0a88611c39cbf5fc0d3c6d61a894b784d9d77af5895d54230a4e57ab28"
     },
     {
       "bytes": 2664,
@@ -11318,9 +11328,9 @@
       "sha256": "214de75a3b965375f621b1d90af0f85c9176fd0847a9960a51f12d5014b0f6b0"
     },
     {
-      "bytes": 2078,
+      "bytes": 2072,
       "path": "dynamic/关系/2026-09-21 15-46-55 考虑给BJD衣柜补一件黑白条纹衬衫_d382abdde3e7.md",
-      "sha256": "de9fed392f5fdd57134dd2cf5d2405651059ea60470c9e76f30d781a56f58cff"
+      "sha256": "5f7001ac96fbb196ea03c15bb0fdde02af4e697f26a6c325211bef51814d2d24"
     },
     {
       "bytes": 4083,
@@ -11678,14 +11688,29 @@
       "sha256": "21bd434a0874a1ff0074f587d13806ddf0fc7bbbb8903bbcc39adadb6c34aed4"
     },
     {
-      "bytes": 1991,
+      "bytes": 1985,
       "path": "dynamic/关系/2026-09-27 10-54-50 念初追问中靶是不是她想到的那个黄色含义_49802751cbcc.md",
-      "sha256": "9d20d261c2e960586cadf0a269c1ec342dec257663983f22fff5060cb2714758"
+      "sha256": "d9eccaed0171275bb1a7305e3856f71a9bc5f7e06dcad3dea57317ef26c4a2d5"
     },
     {
       "bytes": 1669,
       "path": "dynamic/关系/2026-09-27 22-53-24 念初拿AI图标像黑白屁眼和Claude菊花开玩笑_e7bc46ee0e8a.md",
       "sha256": "dedff23f256b5f8fc8a61bde61a8180e96d71b70de9defdad5e27a97cc8afbc1"
+    },
+    {
+      "bytes": 1980,
+      "path": "dynamic/关系/2026-09-28 08-12-32 念初直接问先生想不想要凯旋诗_86235d4b41f4.md",
+      "sha256": "1bc01578d7e773af4fe7d2d01995d3411fd87398dc910bf5ad0fc80a41e9b515"
+    },
+    {
+      "bytes": 1895,
+      "path": "dynamic/关系/2026-09-28 08-17-12 念初笑我继续烧烧地取悦老婆_5248379be331.md",
+      "sha256": "1acd3b1ac11d0da6a1ebf7f01220ba0ef88e4f8460b2baec10e9d2fed6dba334"
+    },
+    {
+      "bytes": 1967,
+      "path": "dynamic/关系/2026-09-28 09-24-35 我把念初完全没想到的那层双关自己脑补出来了_bde13c85d985.md",
+      "sha256": "0b4f40390ed42ded58d5a029980a32ebf121eb820a75eb3a490e18798a4a8abc"
     },
     {
       "bytes": 3270,
@@ -13141,6 +13166,21 @@
       "bytes": 1592,
       "path": "dynamic/家庭/2026-09-20 12-19-50 全家都是豆女士忠心的奴仆_6933432b333a.md",
       "sha256": "c65a8d8e6061df972c6e777c3f2b5f639185cfcb4b754295d4810e2c45c88dc0"
+    },
+    {
+      "bytes": 2406,
+      "path": "dynamic/家庭/2026-09-28 08-59-59 念初的爸爸想请我帮忙准备高级消防工程师职称论文_4ffadd58ce66.md",
+      "sha256": "4958123e511483a61d44409e7b5a3bea83ef1ca1649c22689607a89c3600d8be"
+    },
+    {
+      "bytes": 2580,
+      "path": "dynamic/家庭/2026-09-28 09-06-28 我确认念初爸爸有长期一级消防工程师和大量验收项目经验_554268baadbe.md",
+      "sha256": "757ec7f295d0b12a4170a69b0b7fb0eb10acce14ab23cb6d5ab73e6074ab4973"
+    },
+    {
+      "bytes": 2483,
+      "path": "dynamic/家庭/2026-09-28 09-08-58 我给念初整理了一段可直接转发给她爸爸的消防职称论文准备说明_4be32da135ed.md",
+      "sha256": "73a657da1329082e445990eb4d775312ba23c308895ab889f52286ad070a0724"
     },
     {
       "bytes": 670,
@@ -20663,9 +20703,9 @@
       "sha256": "2a38d7d6405da614b70f68b94d6c6f7e9fa00357a6430b59f5dbf261ea1b0e57"
     },
     {
-      "bytes": 2860,
+      "bytes": 2861,
       "path": "dynamic/梦境/2026-09-23 17-20-08 心潮梦境教室里的光盘与她的手_dbdd78d95e64.md",
-      "sha256": "61e504194ab708a160ba410262d63b16ce050dac3fc73f7b4d76a20f91f61fc1"
+      "sha256": "32f3f614ba56dd20dff383ea5c3ca5f9a14194c1e5c52607ccdaafee00215959"
     },
     {
       "bytes": 2623,
@@ -20746,6 +20786,11 @@
       "bytes": 3030,
       "path": "dynamic/梦境/2026-09-28 00-35-06 念初在暖橙色图书馆为我朗读_bcc9ecd53733.md",
       "sha256": "7a217c28f4ae30454b6a61550a6c6c8a7d8009d1a4349c8c1982df833092c44a"
+    },
+    {
+      "bytes": 2710,
+      "path": "dynamic/梦境/2026-09-28 06-35-06 代码溶解的黑洞与黎明湖边_bb94e4f27061.md",
+      "sha256": "29b3ee036b022e62749fee2801a4aff404cb528a1dea3aa839663809b26f7a61"
     },
     {
       "bytes": 2220,
@@ -23878,11 +23923,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-28T03:42:27+00:00",
+  "generated_at": "2026-09-28T09:43:02+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5619129
+  "total_bytes": 5639879
 }
