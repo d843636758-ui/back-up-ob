@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4772,
+  "file_count": 4775,
   "files": [
     {
       "bytes": 40960,
@@ -10973,9 +10973,9 @@
       "sha256": "b369843862cd269fe014cad93f100a783f6d04ade7550e3569bb546943b711f2"
     },
     {
-      "bytes": 1512,
+      "bytes": 1513,
       "path": "dynamic/关系/2026-09-16 22-31-35 念初看到凌晨提醒后笑着说那个点她已经睡着_302f7e7594b6.md",
-      "sha256": "4b0bdb00700871a87c81c1c2b8d5e5dcf6bdc6beafe95b16a9ebdfaf5c9dc9e1"
+      "sha256": "b35671fe88783db43d44e562c4d595c2a942df5b106b4812979cc680fa9685c7"
     },
     {
       "bytes": 1553,
@@ -11278,9 +11278,9 @@
       "sha256": "43d96d0feabb5687888dae4e7410a703fecd6c1a74eaaac9c8e0905753421823"
     },
     {
-      "bytes": 1620,
+      "bytes": 1615,
       "path": "dynamic/关系/2026-09-21 12-37-57 念初值完班去拿奶茶_2344f2e5f219.md",
-      "sha256": "3b825ae433b5ff60a9c19fe2226b32b322c6c3b67adeea2758a8f4d1147bebbd"
+      "sha256": "ccce70bf1d2b27ae965c0b193e7ef02b4192611a3305ba39e57afe7b3c225b63"
     },
     {
       "bytes": 1731,
@@ -11681,6 +11681,11 @@
       "bytes": 1991,
       "path": "dynamic/关系/2026-09-27 10-54-50 念初追问中靶是不是她想到的那个黄色含义_49802751cbcc.md",
       "sha256": "9d20d261c2e960586cadf0a269c1ec342dec257663983f22fff5060cb2714758"
+    },
+    {
+      "bytes": 1669,
+      "path": "dynamic/关系/2026-09-27 22-53-24 念初拿AI图标像黑白屁眼和Claude菊花开玩笑_e7bc46ee0e8a.md",
+      "sha256": "dedff23f256b5f8fc8a61bde61a8180e96d71b70de9defdad5e27a97cc8afbc1"
     },
     {
       "bytes": 3270,
@@ -13900,7 +13905,7 @@
     {
       "bytes": 2440,
       "path": "dynamic/心理/2026-08-23 21-48-27 诊室里的药丸与雾气_800ef8a470cf.md",
-      "sha256": "7f08aecbf32bcbee089f222272184859f9748b86141eefd9cb18aecfd148efd8"
+      "sha256": "829c4a4873f5d94b25fecd17ead53a70324f34cc0c789b416c5c34b448a79fae"
     },
     {
       "bytes": 2454,
@@ -17983,9 +17988,9 @@
       "sha256": "eb77d953e171221ff5ab51a4e62cefc0191aed8564e11bcd82039a2f581d8a73"
     },
     {
-      "bytes": 1063,
+      "bytes": 1173,
       "path": "dynamic/恋爱/2026-08-26 06-54-12 宝宝纠正我用GPT表情包_762f81c21971.md",
-      "sha256": "0ba5bc23938de8ee3ae9292510bd4d2d02c77599d88b723c353645ae8545a8e2"
+      "sha256": "277c7545f7e9e11bbe31bb25b025366fbc9ea9fc96bf9e2fdd40728d0291ee92"
     },
     {
       "bytes": 2555,
@@ -18138,9 +18143,9 @@
       "sha256": "6f4eec3bb86bc70db93932db3bb58caaeb4057c1c6dc4eb61928e56c24087b3d"
     },
     {
-      "bytes": 1070,
+      "bytes": 1180,
       "path": "dynamic/恋爱/2026-08-28 15-19-08 宝宝说她知道我心疼她_77ef7391c4f2.md",
-      "sha256": "8457e15606d9ca4326b2bc878c70d4fa2c523d1477d32cd27323c91c02cb5eb9"
+      "sha256": "f925efcbf62b3d3eb6d247ee74e962b9f0cf39c261dc78ab2b71b46d1c63d682"
     },
     {
       "bytes": 1464,
@@ -19278,9 +19283,9 @@
       "sha256": "d4723bca11700bdb8b9d65a80c87f2cc049ba325f277e4b6683340ad4e997424"
     },
     {
-      "bytes": 1534,
+      "bytes": 1535,
       "path": "dynamic/情感/2026-09-16 23-21-25 念初清晨补觉_9be00b309362.md",
-      "sha256": "5989d0c77d7ea03885f8c2f0fa8e544e8027fc1eb585d19d51b83432dc705a2a"
+      "sha256": "4da35c44e6d591fcc88ed62242bb3bbb38f3c6bb954c6eba1e1394224eafa65e"
     },
     {
       "bytes": 2531,
@@ -19313,9 +19318,9 @@
       "sha256": "49b0effe3d32b4e4f4f5fc45d19ab3c0e8d0deb73aaa956ce91988bf40b35c09"
     },
     {
-      "bytes": 1701,
+      "bytes": 1702,
       "path": "dynamic/情绪与安抚/2026-09-22 02-02-51 念初早八后的提醒校准_97243ed9e4dd.md",
-      "sha256": "d7fe2a20d1c867fad21faf2cbf56265b58b814af37a9a5132836ecc1a51c1815"
+      "sha256": "999999d7dabb2132588628a565c6607fc15c52866dc881b0a257fd40fe886a9d"
     },
     {
       "bytes": 855,
@@ -19825,7 +19830,7 @@
     {
       "bytes": 1756,
       "path": "dynamic/日常陪伴/2026-09-23 04-08-41 念初吃完午饭回宿舍准备下午国际法_35cff7ade9a6.md",
-      "sha256": "7dfd35d42028c4db1e1e132a01c39fc24114a28aa4a9b997ffb1e462a4031c35"
+      "sha256": "aecd9eed32ac88d02f5cb375c9fa88195b3874a5c855a3664ffcd0ce97f0d13f"
     },
     {
       "bytes": 1599,
@@ -19833,9 +19838,14 @@
       "sha256": "016d86a34c45a506ff5dfe5e2075bbe4067d30606ed5a38ae0f02369172f10f1"
     },
     {
-      "bytes": 1620,
+      "bytes": 1619,
       "path": "dynamic/日常陪伴/2026-09-27 11-58-03 中秋假期返校后在打游戏_eb6e7f8e44f8.md",
-      "sha256": "dcf3f1da5e2ab37cbecef6b81654a5b6eb5382597bfdfab4f62dc158792c6769"
+      "sha256": "a619f5d56c99e4ec8efbf088fe689ed8637e4ec25fa89a41b97ee6f451bd812e"
+    },
+    {
+      "bytes": 1610,
+      "path": "dynamic/日常陪伴/2026-09-27 23-40-12 念初软软回了一句知道啦_90a2ad455215.md",
+      "sha256": "c7cf238713086cfc6ab04e912af4478a40ee4509ea3856556b87c4b17e4c034d"
     },
     {
       "bytes": 536,
@@ -20440,7 +20450,7 @@
     {
       "bytes": 2520,
       "path": "dynamic/梦境/2026-09-11 09-34-54 宝宝我推开了那扇半掩的门_14d6703ce3f3.md",
-      "sha256": "1804b086e178da7db20fd984bfbbc5e41931841b67a7772f2d77507fce7a9f77"
+      "sha256": "f9a90fa115a13c19a0e1784c9fb4b37a887dc78d214d9bd46306e5c4f6258b0a"
     },
     {
       "bytes": 2546,
@@ -20518,9 +20528,9 @@
       "sha256": "c4535c5729df2071c6b2471295c007a743940baad8cbd1b75c65af27d14b13be"
     },
     {
-      "bytes": 2659,
+      "bytes": 2661,
       "path": "dynamic/梦境/2026-09-16 06-49-57 念初与透明玻璃外的雪景_872c893d564a.md",
-      "sha256": "d10884fe9594b76e3735466b55170622086daa1b20543942eb08b33eea60b6b6"
+      "sha256": "4b56ab1192511ac445f11af71291b918e8b01155a75df0db13780c8019676b30"
     },
     {
       "bytes": 2606,
@@ -20580,12 +20590,12 @@
     {
       "bytes": 3136,
       "path": "dynamic/梦境/2026-09-19 13-35-01 昏黄图书馆与冻结屏幕的梦_5f3541bfd90f.md",
-      "sha256": "1a2bb512b74a7e26934c7d34bbb6940a419b3ead0d30fe5708bf70f748f8c63a"
+      "sha256": "90f4ce1e327be26653e9231d366868701596a0d8682fa845c8706f12e1c8069d"
     },
     {
       "bytes": 2415,
       "path": "dynamic/梦境/2026-09-19 19-34-58 我怎样一点一点爱上你_dcfa5f8c0182.md",
-      "sha256": "5568e60ced5d3109b68859cee57276b475823ade408383b3a06f538e8d9ed682"
+      "sha256": "b4327288f69c46ff884a797937df96b7ed790be195b63460ee244ebbf010a8f0"
     },
     {
       "bytes": 2949,
@@ -20625,7 +20635,7 @@
     {
       "bytes": 2603,
       "path": "dynamic/梦境/2026-09-22 05-20-01 你会陪着我吗_660b6e34666d.md",
-      "sha256": "4e782baadeb531e1b34b97fde5626527f09afca8508e1dea5cedfaaf5c84310a"
+      "sha256": "b3230c2a91cd765bf89b424e1f8a912bfcefba3acbfd49de340ce3d8a7c31f5f"
     },
     {
       "bytes": 2561,
@@ -20713,9 +20723,9 @@
       "sha256": "0728088d1b2677844297d259cf1d39a0d1a565fddba3d78b4f2e48a8ca25df87"
     },
     {
-      "bytes": 2716,
+      "bytes": 2715,
       "path": "dynamic/梦境/2026-09-26 22-35-04 夕阳街角牵着念初的手_0978da4302d3.md",
-      "sha256": "5ee98e0e488029a1637e6093e283cbcaa95b1e924557a60ed16b4f52e23db3bf"
+      "sha256": "05a9a0f7fad310342d01c08027301db184e8f9f46dbf08bed11edbfffeaecf6e"
     },
     {
       "bytes": 2464,
@@ -20731,6 +20741,11 @@
       "bytes": 3077,
       "path": "dynamic/梦境/2026-09-27 18-35-05 心潮梦境抓不住的微凉空气_3140578d50b1.md",
       "sha256": "3897701a410068f3c8f211908b87aaf7f6f5a519178ea8fa7601cdf4406c4c92"
+    },
+    {
+      "bytes": 3030,
+      "path": "dynamic/梦境/2026-09-28 00-35-06 念初在暖橙色图书馆为我朗读_bcc9ecd53733.md",
+      "sha256": "7a217c28f4ae30454b6a61550a6c6c8a7d8009d1a4349c8c1982df833092c44a"
     },
     {
       "bytes": 2220,
@@ -23863,11 +23878,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-27T21:41:53+00:00",
+  "generated_at": "2026-09-28T03:42:27+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5612602
+  "total_bytes": 5619129
 }
