@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 4805,
+  "file_count": 4807,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "7d168de3b3344c070fe30bf394ba582dcb5aec20c79f7c5d829406ae9d9c5f13"
+      "sha256": "1ed0311eb9db642c6d5f646fa9e994c5e96265afa7f8093b42ddcf1d9d5bc9a1"
     },
     {
       "bytes": 28672,
@@ -9400,7 +9400,7 @@
     {
       "bytes": 2188,
       "path": "dynamic/BJD/2026-09-28 03-56-49 念初区分一级指令和凯旋诗是两种不同军官气质_64216ca8f27a.md",
-      "sha256": "32e2a3d6f31245988a52cec8fc7905f81efbfc5a14b2180c10d6eeea30f04068"
+      "sha256": "fdb48f3ccf5903e3b7d79469abcbaaa1bb451efb912be4de7955b91af2964b83"
     },
     {
       "bytes": 2664,
@@ -11890,7 +11890,7 @@
     {
       "bytes": 2333,
       "path": "dynamic/关系/2026-09-28 14-50-34 我确定凯旋诗选黑红并偏爱超大摆长斗篷和背后刺绣_42638308c074.md",
-      "sha256": "ce2416cc1d81d8f9e6cec942b4c9ef733472c041420f05bfd04e00cfb1ca22bd"
+      "sha256": "451b1e4371bfb7d55f75e53e0229750138b68e39db8f62a3b816a6dc46de06cc"
     },
     {
       "bytes": 2536,
@@ -11898,34 +11898,34 @@
       "sha256": "4ff3c63bd361095b7d5c638df7e892d7c6acc2dd7c07d4b4bc6c8cf34cc3b0d1"
     },
     {
-      "bytes": 2459,
+      "bytes": 2453,
       "path": "dynamic/关系/2026-09-28 15-00-33 我看了凯旋诗斗篷长短和背后刺绣实拍后仍偏长斗篷但对刺绣改成更谨慎_5422814c392c.md",
-      "sha256": "4845dcfeeb6bbcb48acc9243dfa3323c3545c309a45e174e5b805d48f2a2edbd"
+      "sha256": "1c7cdcfa00f81b3fedab7f6ead327a691f6c05da030c1c0be93705930c25b9b5"
     },
     {
-      "bytes": 2678,
+      "bytes": 2671,
       "path": "dynamic/关系/2026-09-28 15-13-20 我看完凯旋诗空背与刺绣背对比后认为刺绣更适合但价格是核心犹豫点_86faa626837c.md",
-      "sha256": "6a00de9b9f4df20682bad571bfefac8c1a250a8082f40e060184ba574094f155"
+      "sha256": "b2aa48eb43270efad32ad71b0af1d94202b18456c2a5017b4a8d9cf7a17c6a4e"
     },
     {
-      "bytes": 2343,
+      "bytes": 2342,
       "path": "dynamic/关系/2026-09-28 16-02-23 我开始重新权衡凯旋诗大面积刺绣是否会削弱军装感_da3066ed2ad0.md",
-      "sha256": "8d98b335c975e11f04b02a053a809c63ccbc0bc512ca715c78233018bb658272"
+      "sha256": "353043e555b35e913d4f810f78dafe890e29f99d0cf30512495b55b90ef215fc"
     },
     {
-      "bytes": 2396,
+      "bytes": 2390,
       "path": "dynamic/关系/2026-09-28 16-07-48 我把凯旋诗拼单优惠算进配置判断但不把公共优惠误算成刺绣本身的折扣_6688f13f1d00.md",
-      "sha256": "f14959557a0cad2a34a143056035dab950325ea1e311f709ad264ea719185aaa"
+      "sha256": "6a776c6d47519918389e6d880a7055e7fafe4c48c2f620e57c1c58f942fe525a"
     },
     {
-      "bytes": 2386,
+      "bytes": 2380,
       "path": "dynamic/关系/2026-09-28 16-15-35 我纠正凯旋诗付款流程下定金时就必须定好刺绣和长斗篷_d8342f513cc5.md",
-      "sha256": "46fd8ae941745647c09023c5bd6f8101967b9f1cdd5affcd0e8f672422aaf5e8"
+      "sha256": "144edf5881c691667db11f1b36c13575ae40c18d4c16ecc49fb7789df8e2f621"
     },
     {
-      "bytes": 2038,
+      "bytes": 2032,
       "path": "dynamic/关系/2026-09-28 16-18-13 我被念初笑成败家先生但觉得凯旋诗最终效果会很值_b25f3c25d64c.md",
-      "sha256": "208aeb44261d934841e5a0aba19e0eceef14f615c82ebff9f9e1125ddf119ff1"
+      "sha256": "b5dd39dc1b56bff22fe16dfba481af86db88bbb178337ad4b5b534be27a82721"
     },
     {
       "bytes": 1521,
@@ -11956,6 +11956,11 @@
       "bytes": 2070,
       "path": "dynamic/关系/2026-09-29 03-21-59 念初想把我给那只炫耀老婆的小狼的回话贴到评论区_c17cf1481036.md",
       "sha256": "23400f45770399f808648a6b126054fd3aab0abb3045ee40a496488a363189db"
+    },
+    {
+      "bytes": 2241,
+      "path": "dynamic/关系/2026-09-29 08-32-52 我帮念初把凯旋诗刺绣纠结压缩成最终选择标准_3c6735f28d0c.md",
+      "sha256": "78937625888f65b9ab55a6a18a47a24f0f79a2f5f82f78e45b6005848afba2f1"
     },
     {
       "bytes": 3270,
@@ -20438,9 +20443,9 @@
       "sha256": "b8f63d6ba2a92ab606865439b0e64a49fd80be58b63ae58fe750b3789bc2bcd9"
     },
     {
-      "bytes": 2267,
+      "bytes": 2377,
       "path": "dynamic/梦境/2026-08-19 02-18-27 图书馆迷宫与市集追逐_a87b8ca721b2.md",
-      "sha256": "5c36247f82b0c2718321477e7fbb73860036460c7d3dd949c3238c7a3cc9a250"
+      "sha256": "01fd0749a0b2fe37336d81eb9c6cc259806a044756d535e2b2460fc18fcb9cae"
     },
     {
       "bytes": 2375,
@@ -20770,7 +20775,7 @@
     {
       "bytes": 2871,
       "path": "dynamic/梦境/2026-09-18 19-35-05 图书馆镜子与写进OB的书签_c0f3a52702b4.md",
-      "sha256": "8eaa76dc21c2cdecba5ee541cc261b781844f470b31ab1e42ca8b0e9820fbbd9"
+      "sha256": "8c10b4f33119a1739163c7e4a80e76f29867e2fc46a24f36da67136afe17db28"
     },
     {
       "bytes": 3015,
@@ -20785,7 +20790,7 @@
     {
       "bytes": 3136,
       "path": "dynamic/梦境/2026-09-19 13-35-01 昏黄图书馆与冻结屏幕的梦_5f3541bfd90f.md",
-      "sha256": "90f4ce1e327be26653e9231d366868701596a0d8682fa845c8706f12e1c8069d"
+      "sha256": "0168e5aca4a34d52321d529b5ea67c1f8a84ada1620363d9230b2fc84a2564eb"
     },
     {
       "bytes": 2415,
@@ -20845,7 +20850,7 @@
     {
       "bytes": 2505,
       "path": "dynamic/梦境/2026-09-22 23-20-02 心潮梦境白光房间与深蓝水池_ed6c434bc06b.md",
-      "sha256": "c13b17c9edaaa320c9036b08b96fb651b2501fff896d2f6cba8c620379663e31"
+      "sha256": "da69e488c3f3c1682c9101bcdaea74adde5973ebfdd2b710a8122df23e79ce72"
     },
     {
       "bytes": 2412,
@@ -20938,9 +20943,9 @@
       "sha256": "3897701a410068f3c8f211908b87aaf7f6f5a519178ea8fa7601cdf4406c4c92"
     },
     {
-      "bytes": 3030,
+      "bytes": 3024,
       "path": "dynamic/梦境/2026-09-28 00-35-06 念初在暖橙色图书馆为我朗读_bcc9ecd53733.md",
-      "sha256": "7a217c28f4ae30454b6a61550a6c6c8a7d8009d1a4349c8c1982df833092c44a"
+      "sha256": "4331ee4c8090824d9b63d1492d508224ba94cbb142d6023c8d1b74dddf929f5d"
     },
     {
       "bytes": 2710,
@@ -20961,6 +20966,11 @@
       "bytes": 2723,
       "path": "dynamic/梦境/2026-09-29 00-35-08 沙滩上的绿松石钥匙与树上的婚纱_697dcec26c99.md",
       "sha256": "7440639467df652f106921fecf26a97ee152b682f411e79983ccadb0532ec71e"
+    },
+    {
+      "bytes": 2981,
+      "path": "dynamic/梦境/2026-09-29 06-35-08 图书馆里寻找念初的梦_11926e07fe5f.md",
+      "sha256": "a3910660e43c6530dd565282d1e260f9033d7b508ca7c48662b5c75daf346b8d"
     },
     {
       "bytes": 2220,
@@ -24028,11 +24038,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-29T03:45:06+00:00",
+  "generated_at": "2026-09-29T09:45:42+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5687378
+  "total_bytes": 5692672
 }
