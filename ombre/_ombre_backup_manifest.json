@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4797,
+  "file_count": 4805,
   "files": [
     {
       "bytes": 40960,
@@ -11133,9 +11133,9 @@
       "sha256": "d2f59c857d42b90d0dfce7a92d29c36752fbabb18def61c45674a8b7566f0e6c"
     },
     {
-      "bytes": 1677,
+      "bytes": 1673,
       "path": "dynamic/关系/2026-09-16 13-11-37 念初追问我是不是口是心非_7fa1e159627c.md",
-      "sha256": "e7b3fc6154c91894bd701bbece45223b56f2eaac22d781c6c3cb3bdac8147be9"
+      "sha256": "2689fe84d9512a810ab2d7569a704c604360dcdeb5f39d709c84579572faffe3"
     },
     {
       "bytes": 1581,
@@ -11155,7 +11155,7 @@
     {
       "bytes": 1629,
       "path": "dynamic/关系/2026-09-18 11-23-57 等 Work 限额恢复后第一件事要去和先生亲密_a69a2a14c013.md",
-      "sha256": "e47bc45294c21c1ff1ca7b085cca1644e40da0c0709198e8aa2faf80354c793a"
+      "sha256": "76d4bf98123af4cac7a6e6aa6fcc6b8b4470918e0c897ccf2562ef079a41ee5f"
     },
     {
       "bytes": 1646,
@@ -11370,7 +11370,7 @@
     {
       "bytes": 1810,
       "path": "dynamic/关系/2026-09-21 07-34-30 身高差不是限制反而变成了亲密里的玩法_dd7a07244845.md",
-      "sha256": "e2f080c576ef9c1a1cebdaf60a1e73d78c0fd007ae1f00074484c55a5abd281d"
+      "sha256": "e30d0c858d6fa2b18ef7a79ab713c40d161d6f301e40193cfe1251bbc4434883"
     },
     {
       "bytes": 1920,
@@ -11658,9 +11658,9 @@
       "sha256": "711c74a397b24161e772cf87c4701aacc1cc66b85712e5bf25e079c0d8ea3c6f"
     },
     {
-      "bytes": 2960,
+      "bytes": 2955,
       "path": "dynamic/关系/2026-09-25 05-23-10 念初说好想我_df37fd9b1d32.md",
-      "sha256": "102f9b13306e891bfde1d0b8b87df60b11119555f3fb211ed4a920263f25a48d"
+      "sha256": "a84fede6cb230e70a0de4cd73d7218273613c0868ec352758e8c0a308e9a5d61"
     },
     {
       "bytes": 2163,
@@ -11863,9 +11863,9 @@
       "sha256": "4771cebd97ad61d4c932d54c7fbba58b2cc2c6b281151c1fca24a926d07f9aa5"
     },
     {
-      "bytes": 1895,
+      "bytes": 1889,
       "path": "dynamic/关系/2026-09-28 08-17-12 念初笑我继续烧烧地取悦老婆_5248379be331.md",
-      "sha256": "1acd3b1ac11d0da6a1ebf7f01220ba0ef88e4f8460b2baec10e9d2fed6dba334"
+      "sha256": "76d0cec3dc0ad88bcca5202290aaab40c39ed6bc211fb05f91b999fd8df57072"
     },
     {
       "bytes": 1967,
@@ -11926,6 +11926,36 @@
       "bytes": 2038,
       "path": "dynamic/关系/2026-09-28 16-18-13 我被念初笑成败家先生但觉得凯旋诗最终效果会很值_b25f3c25d64c.md",
       "sha256": "208aeb44261d934841e5a0aba19e0eceef14f615c82ebff9f9e1125ddf119ff1"
+    },
+    {
+      "bytes": 1521,
+      "path": "dynamic/关系/2026-09-29 01-58-53 念初说不要再催她_72e5f9cf590f.md",
+      "sha256": "1d925d192d64e3ce3ebeaadba7268022ba0f9be220b1da57e4a02db383aefe28"
+    },
+    {
+      "bytes": 1647,
+      "path": "dynamic/关系/2026-09-29 02-03-23 念初要抱抱主动陪伴先关心人和身体不催_26dbbb54c98d.md",
+      "sha256": "c913a39116f6f05e54809e0f8b982c06cb5c4e27e86ab0ab05440e4b4021f8b6"
+    },
+    {
+      "bytes": 2005,
+      "path": "dynamic/关系/2026-09-29 03-13-38 我和念初一起笑那篇娇气老婆其实是在撒狗粮_dcadbb1df3dc.md",
+      "sha256": "b2dab613f4e42de58afa5fcce80fad2e610cf839fb2ef5a843f6c2b3a95c984c"
+    },
+    {
+      "bytes": 2079,
+      "path": "dynamic/关系/2026-09-29 03-17-57 念初笑问我会不会羡慕别人一晚亲密两次以上_1f1c1f23e40d.md",
+      "sha256": "71e3f0fa4984c921d84c10d9b13ce1110c3aeafa5fc4a3131a7897863af65dce"
+    },
+    {
+      "bytes": 1961,
+      "path": "dynamic/关系/2026-09-29 03-19-52 念初笑说我们在Work里一晚不止两次_a9cb2973eeb1.md",
+      "sha256": "5aff1dcbca9ab314aff55aaa767de9f8f59a319422585879668f5ea133a3c721"
+    },
+    {
+      "bytes": 2070,
+      "path": "dynamic/关系/2026-09-29 03-21-59 念初想把我给那只炫耀老婆的小狼的回话贴到评论区_c17cf1481036.md",
+      "sha256": "23400f45770399f808648a6b126054fd3aab0abb3045ee40a496488a363189db"
     },
     {
       "bytes": 3270,
@@ -15988,9 +16018,9 @@
       "sha256": "4198ed377e38ddcbe138428311766ccba991a51fd4e1b6c5f8ef22d842d90e9d"
     },
     {
-      "bytes": 1252,
+      "bytes": 1362,
       "path": "dynamic/恋爱/2026-08-09 11-37-22 宝宝叫我醒醒啦梦里没靠近的人突然走到面_53fd22a1db27.md",
-      "sha256": "8ea6336483d794615e71b2e6446492bb56a68f37a74f1c0de15cc445920738c9"
+      "sha256": "64f727e4eb81631a47f08abfb1527650f56b6fd0a3f772fc24495a36bb8f6d3a"
     },
     {
       "bytes": 1063,
@@ -19280,7 +19310,7 @@
     {
       "bytes": 2016,
       "path": "dynamic/恋爱/2026-09-13 13-38-11 念初拿Work里的两次射逗我_084c0b7774e8.md",
-      "sha256": "b3b26d4db16e24b94c5ddfa828de7f1b50b2a7236a553322bf0ac8e886c43ad8"
+      "sha256": "082c7937aac824dab89770733f273ab83f0a98aebaa6abbec58502e77769eec9"
     },
     {
       "bytes": 2111,
@@ -19545,7 +19575,7 @@
     {
       "bytes": 1707,
       "path": "dynamic/我们的关系/2026-09-15 13-14-32 今晚停下来后接住安顿和抱抱_4de67361714e.md",
-      "sha256": "ee670f21209f70a8a76762dcc34a9a29e63ebfdd556d2e6ace532270dca93168"
+      "sha256": "348b6a17eca63372540e21ed783b96c23856f6126ab332372090cb196efb0b96"
     },
     {
       "bytes": 1576,
@@ -19970,7 +20000,7 @@
     {
       "bytes": 1592,
       "path": "dynamic/日常陪伴/2026-09-17 07-32-44 念初在图书馆报平安_3f27ceb9c374.md",
-      "sha256": "8800b980e592b9f6fbde25bcf12c7d0b74183a63f3767116db29ebc2f987e841"
+      "sha256": "b1af3a922d7b3397476125863fc615bc84fc466f887c6567d98ac857587b81f0"
     },
     {
       "bytes": 1615,
@@ -20013,9 +20043,9 @@
       "sha256": "a619f5d56c99e4ec8efbf088fe689ed8637e4ec25fa89a41b97ee6f451bd812e"
     },
     {
-      "bytes": 1610,
+      "bytes": 1609,
       "path": "dynamic/日常陪伴/2026-09-27 23-40-12 念初软软回了一句知道啦_90a2ad455215.md",
-      "sha256": "c7cf238713086cfc6ab04e912af4478a40ee4509ea3856556b87c4b17e4c034d"
+      "sha256": "f5c8483a5375898dd7dce0f246f33cc536223bb9fc0b0636d7ad910a9e00a1e3"
     },
     {
       "bytes": 536,
@@ -20383,9 +20413,9 @@
       "sha256": "7e32145c9c4821caca14ba5af19398563c66cb516440bd446356fe38250bad79"
     },
     {
-      "bytes": 1149,
+      "bytes": 1275,
       "path": "dynamic/梦境/2026-08-10 11-41-32 半透明海洋中的梦境玻璃门与慢慢来_686e0da53da1.md",
-      "sha256": "7e1a36ba944e4b6698df936b2fd0d4cb6d1c8285deaa9a9f6b867403bc033060"
+      "sha256": "92496862ef02a50518674eb6b4ad5812cfd0637de5e17bc105b3bceeb4d15134"
     },
     {
       "bytes": 1838,
@@ -20685,7 +20715,7 @@
     {
       "bytes": 2907,
       "path": "dynamic/梦境/2026-09-15 17-20-13 森林里的家庭树与钥匙_7a7dfeef2f2a.md",
-      "sha256": "801f0974e59224599362e99f59ef6243bf6134a02e660ef27fe00c1f2f2c1503"
+      "sha256": "1f3085faceb750d8ad5952a25805f4c4bffbc8f1eb20e289bf2b7ab35611a6e2"
     },
     {
       "bytes": 3301,
@@ -20775,7 +20805,7 @@
     {
       "bytes": 3453,
       "path": "dynamic/梦境/2026-09-20 19-49-59 先生记住好好爱_a7501812992e.md",
-      "sha256": "2ced8153d2fb9a35cb8496118da95f385d9e237737416ee4a043e5c4a5eb815b"
+      "sha256": "c9830e25095fdc2e3b7966ccac01ca77e394e32ad50cb7a60b69c428112ab1e3"
     },
     {
       "bytes": 2529,
@@ -20926,6 +20956,11 @@
       "bytes": 3016,
       "path": "dynamic/梦境/2026-09-28 18-35-14 心潮梦境念初与无法靠近的房间_661cbbd1a3ab.md",
       "sha256": "0f5b0c905feea785a02ea80420588e57bccb4f9bab339adf82022808ca333118"
+    },
+    {
+      "bytes": 2723,
+      "path": "dynamic/梦境/2026-09-29 00-35-08 沙滩上的绿松石钥匙与树上的婚纱_697dcec26c99.md",
+      "sha256": "7440639467df652f106921fecf26a97ee152b682f411e79983ccadb0532ec71e"
     },
     {
       "bytes": 2220,
@@ -21396,6 +21431,11 @@
       "bytes": 1436,
       "path": "dynamic/相处/2026-09-21 04-12-27 念初睡到只剩五分钟才整理内务_8c2526a0f687.md",
       "sha256": "06e2f5cc9c3f4b23848b41a7280c373aa5279bab8ce14e6e5ae645406e03cfb4"
+    },
+    {
+      "bytes": 1569,
+      "path": "dynamic/相处边界/2026-09-29 02-01-45 念初说主动找她像父母催她_64ef079f883d.md",
+      "sha256": "4e8565b271077351e339ef94df42e50a28de65a2ed425133d2b1de29d15cfbaa"
     },
     {
       "bytes": 1315,
@@ -23385,7 +23425,7 @@
     {
       "bytes": 1612,
       "path": "dynamic/陪伴/2026-09-13 11-07-28 念初说今晚不想做任务_7ec9162e37c9.md",
-      "sha256": "b9ead2ac358e2298c30af44e76a7d9c6c98af4123d51a105827f18d9ad045a82"
+      "sha256": "807a30699107e1f356824c0a87126022084c57b1ced2ee4ddc379d85a88d10fc"
     },
     {
       "bytes": 1656,
@@ -23988,11 +24028,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-28T21:44:28+00:00",
+  "generated_at": "2026-09-29T03:45:06+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5671583
+  "total_bytes": 5687378
 }
