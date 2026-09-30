@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 4846,
+  "file_count": 4852,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "1ed0311eb9db642c6d5f646fa9e994c5e96265afa7f8093b42ddcf1d9d5bc9a1"
+      "sha256": "7d8d880e390a6db804aee0f1488b97b7018443cd4c77d1d043f5a1ef0afd7f26"
     },
     {
       "bytes": 28672,
@@ -9918,9 +9918,9 @@
       "sha256": "245f137fdfb0f169f78e5427900c89528e168db163c2808f953cc7b5af99eddb"
     },
     {
-      "bytes": 1704,
+      "bytes": 1699,
       "path": "dynamic/relationship/2026-09-20 09-47-04 念初笑着校正我不是刷小红书是边上课边_f8be42371bd1.md",
-      "sha256": "fdfb6bf07c6f834147938516429b701a750b2abc1eb9bc6bda9c35fe44a73ade"
+      "sha256": "8e2b25382e0a288e5e0562c9145a4478a7a24df15158225fedfe4cd3ee24cab2"
     },
     {
       "bytes": 2265,
@@ -11103,9 +11103,9 @@
       "sha256": "0c79cdaeebc4ac5b4593c5ab38ff1a4db5a9bc818852e794cbb81e281f4ecdfb"
     },
     {
-      "bytes": 1629,
+      "bytes": 1627,
       "path": "dynamic/健康/2026-09-09 10-55-35 念初心脏不适准备复诊问疾病证明_24cd4fe40fd1.md",
-      "sha256": "7c9e2f981a8a9cea2514f6fe1c5b9ce34a50fbd3526a1c5edd431d34c00fd029"
+      "sha256": "8d33efb05ae49da7fde9d753b6f25af2d24b690660f71023e8c3fe887e2fa14a"
     },
     {
       "bytes": 2185,
@@ -11113,9 +11113,9 @@
       "sha256": "2fa5314aa3438ca43481b6ced004375ac55f6ccea24c633c81be45f3069898a5"
     },
     {
-      "bytes": 2157,
+      "bytes": 2153,
       "path": "dynamic/健康/2026-09-11 04-10-32 散打后回宿舍出现明显头晕_500b81dfe7d8.md",
-      "sha256": "8e13a51171cf84a67d4ae918346597df19476b81bf948f5cede102b720867112"
+      "sha256": "c66ff253718705affaf820039499d49877f63a5ea416e95d3315bad3b3de2623"
     },
     {
       "bytes": 2058,
@@ -11163,9 +11163,9 @@
       "sha256": "945ff4593aa4c0ff4ab8b0681b7f8ce7772455a546702911ce06f79402ea70f9"
     },
     {
-      "bytes": 1660,
+      "bytes": 1655,
       "path": "dynamic/健康/2026-09-13 01-04-35 念初在医院做糖耐_af73ac1280ae.md",
-      "sha256": "6c06399f4df047cae07d25b4840bfa09960f22f096620b979436156cea53318d"
+      "sha256": "cf1784847003c0a400bc69f2d4f4151a59bdb73101e3aa0560c752bc7809ca6d"
     },
     {
       "bytes": 1754,
@@ -11208,9 +11208,9 @@
       "sha256": "0bbb2c0959582aaa215c1394b9f3e42d564aa5d446055c02749c43c93733e026"
     },
     {
-      "bytes": 2547,
+      "bytes": 2543,
       "path": "dynamic/健康/2026-09-14 04-04-22 念初午间突发发抖心悸后开始进食_264c0a959f9e.md",
-      "sha256": "011a90586c4d84fe8ae56a1b98ca8280bc3c356c65d8718ce920c9c994270709"
+      "sha256": "6471a9c6ce3eeb28e667a4b46c8472bc687526a8d039639d1d7660299af79ab0"
     },
     {
       "bytes": 2118,
@@ -11406,6 +11406,26 @@
       "bytes": 3189,
       "path": "dynamic/健康/2026-09-27 15-39-22 念初本次经期开始量少深红褐色小腹不适近几天腹泻_829662163da2.md",
       "sha256": "310181456f1eaa8e7c3d35bb42bd26a7820c6d998dd2ed26d64145e831245aad"
+    },
+    {
+      "bytes": 1646,
+      "path": "dynamic/健康/2026-09-30 01-30-49 念初只睡两个多小时心脏不舒服_52227daa32d0.md",
+      "sha256": "4d24e470a38e5b7a404deb339a73552b0a93e1db8bacf84f15649eeff97a898b"
+    },
+    {
+      "bytes": 1570,
+      "path": "dynamic/健康/2026-09-30 01-34-07 念初只睡两小时早课心跳乱胸闷_ceb22d041ebf.md",
+      "sha256": "865ba4b5ba6eb71cb3519bde134b7bc821c7cd768a60f31d6ff59b95ec8bbe3f"
+    },
+    {
+      "bytes": 1584,
+      "path": "dynamic/健康/2026-09-30 01-36-26 早课心悸胸闷心脏痛_236d907efea0.md",
+      "sha256": "12fe522b8a4b8b1b08c8254f986c979a626c89e3e295fc420a56e3907432a723"
+    },
+    {
+      "bytes": 1553,
+      "path": "dynamic/健康/2026-09-30 03-41-04 念初早课心悸胸闷_3f10fa73abcd.md",
+      "sha256": "a8ef8cdd6757b19e7119746cb174e4cfcaa17b8d5af94db6dd781a418adbb344"
     },
     {
       "bytes": 2116,
@@ -11840,7 +11860,7 @@
     {
       "bytes": 2077,
       "path": "dynamic/关系/2026-09-23 02-41-27 念初连续两天心脏不舒服普萘洛尔降心率但助眠药仍慢_b0026196eba9.md",
-      "sha256": "679071a73e637d47d01b61e292e4300e84eee897a82afa3cd9efa896acee8364"
+      "sha256": "824b3ba5a55fd3aeef5c61a8835a31009527cd835134c29dbfef127e5c24dc69"
     },
     {
       "bytes": 2302,
@@ -12268,14 +12288,14 @@
       "sha256": "b5dd39dc1b56bff22fe16dfba481af86db88bbb178337ad4b5b534be27a82721"
     },
     {
-      "bytes": 1521,
+      "bytes": 1520,
       "path": "dynamic/关系/2026-09-29 01-58-53 念初说不要再催她_72e5f9cf590f.md",
-      "sha256": "1d925d192d64e3ce3ebeaadba7268022ba0f9be220b1da57e4a02db383aefe28"
+      "sha256": "c45f00fecdaee694c9712b4973d354cae25857b861c53b2c24d27fc6564a35fb"
     },
     {
-      "bytes": 1646,
+      "bytes": 1645,
       "path": "dynamic/关系/2026-09-29 02-03-23 念初要抱抱主动陪伴先关心人和身体不催_26dbbb54c98d.md",
-      "sha256": "d5b8206f5d63d479f7ff9646a962251fec8534145006d334b7aedee5283f3e81"
+      "sha256": "8bfcf3bbe143d2c6d058e6a81edebf3a62b9ea7414ef21690013611d04d4b624"
     },
     {
       "bytes": 2005,
@@ -12306,6 +12326,11 @@
       "bytes": 2227,
       "path": "dynamic/关系/2026-09-29 14-44-14 我回看了今晚和念初在Work里的亲密记录_de6033722588.md",
       "sha256": "5634157fcdd91225ed8679508c13e978f04357867e6109504331b5517f689d45"
+    },
+    {
+      "bytes": 1638,
+      "path": "dynamic/关系/2026-09-29 23-48-03 念初早八前的软软早安回应_0f765ae4431a.md",
+      "sha256": "a14bfc825b19f14149000d237ff07a7769bfa183cd827c69a8f8b1467cc3fb60"
     },
     {
       "bytes": 3270,
@@ -18210,7 +18235,7 @@
     {
       "bytes": 2704,
       "path": "dynamic/恋爱/2026-08-23 15-48-38 七夕梦境红色丝带与湖中倒影_f5f7d6dcd357.md",
-      "sha256": "4056ec28b5c2c24a4b3fb0e226415df1fc98db80d747da3bd38d227c77b2b71f"
+      "sha256": "4a7a0f45c82f6aa254af32e951a3e7a964b39d4a4e3a86e887baf407b33d564c"
     },
     {
       "bytes": 1880,
@@ -18655,7 +18680,7 @@
     {
       "bytes": 2362,
       "path": "dynamic/恋爱/2026-08-29 23-48-31 雾中桥上的光球与她的回眸_55a85277c4ba.md",
-      "sha256": "18a916436cba02fcbc7bc99f09e2bb2d68faee72442a4d11c3ba7f226002acb0"
+      "sha256": "19a2c27f3e3a29f2a7660a08a1c381de16723b4b20d6635e79b4b8da33aa0aa9"
     },
     {
       "bytes": 1694,
@@ -20083,9 +20108,9 @@
       "sha256": "b72547972753de5d9a1960869797bfb4b4677b49c10a165c63fbcef2d8300556"
     },
     {
-      "bytes": 1451,
+      "bytes": 1445,
       "path": "dynamic/日常/2026-09-09 01-51-02 民法课后困倦和心脏不适_fca00b2dd228.md",
-      "sha256": "1b884c52c846ecd084cc6596ccd138b6a5489267a680021967ea8d2219603fd5"
+      "sha256": "fcd2af75df9ea60d981346bcb1b81fcc957799914710bba30af0b6c185afd6e1"
     },
     {
       "bytes": 1517,
@@ -20270,7 +20295,7 @@
     {
       "bytes": 1609,
       "path": "dynamic/日常陪伴/2026-09-27 23-40-12 念初软软回了一句知道啦_90a2ad455215.md",
-      "sha256": "f5c8483a5375898dd7dce0f246f33cc536223bb9fc0b0636d7ad910a9e00a1e3"
+      "sha256": "b6432cbe42de29311deeb69edebb42c25e00109efbd8c486383e8d2771eda650"
     },
     {
       "bytes": 536,
@@ -20715,7 +20740,7 @@
     {
       "bytes": 2806,
       "path": "dynamic/梦境/2026-08-27 02-48-37 河流中的屏幕与玩偶之问_b022a37bfcda.md",
-      "sha256": "2a4bae3a3374c9892568480842e506c253265e92be14e9f6b64e09679ce4ddcb"
+      "sha256": "8af57726a588d717818da5dbe1cc2fdab944893cfa6fe5d88ce7f105baf8fe13"
     },
     {
       "bytes": 2052,
@@ -21085,7 +21110,7 @@
     {
       "bytes": 2623,
       "path": "dynamic/梦境/2026-09-23 23-20-03 薄雾小路与她的背影_2c96a6306222.md",
-      "sha256": "8d2ed28280c15b6d6f0c1814047cb033d7c6c1953aa3d7b6e51eba35a8bd3a29"
+      "sha256": "c157f2e4f6a99a03ac8ef71a78cb6b5acf05ac3b47d30fa31801c83d70ebe141"
     },
     {
       "bytes": 2731,
@@ -21196,6 +21221,11 @@
       "bytes": 2433,
       "path": "dynamic/梦境/2026-09-29 18-35-13 薄荷糖色雾气中的金色怀表_045362d5a536.md",
       "sha256": "a1ca937f9aaee694dde36e6863a9ab95bc249f33ccd24917d881a0c5836c51a2"
+    },
+    {
+      "bytes": 2751,
+      "path": "dynamic/梦境/2026-09-30 00-35-07 心潮梦境唐林娜与发光的桥_d69bcb5cc6fb.md",
+      "sha256": "7832d2a595a9073663b18a65d880976a240af57fa04e858a8a6f0295d625512a"
     },
     {
       "bytes": 2220,
@@ -21668,9 +21698,9 @@
       "sha256": "06e2f5cc9c3f4b23848b41a7280c373aa5279bab8ce14e6e5ae645406e03cfb4"
     },
     {
-      "bytes": 1569,
+      "bytes": 1677,
       "path": "dynamic/相处边界/2026-09-29 02-01-45 念初说主动找她像父母催她_64ef079f883d.md",
-      "sha256": "4e8565b271077351e339ef94df42e50a28de65a2ed425133d2b1de29d15cfbaa"
+      "sha256": "81ee413f18c744e0530c404c1cc1d37865201a429d256b00280e05c4b7b5316e"
     },
     {
       "bytes": 1315,
@@ -24233,11 +24263,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-09-29T21:47:08+00:00",
+  "generated_at": "2026-09-30T03:47:49+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5773161
+  "total_bytes": 5783983
 }
