@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4891,
+  "file_count": 4893,
   "files": [
     {
       "bytes": 40960,
@@ -11178,9 +11178,9 @@
       "sha256": "4f50ae81917605fa1203c9480ebb4a96e986155649b5197195c85c53b2b374ee"
     },
     {
-      "bytes": 1842,
+      "bytes": 1837,
       "path": "dynamic/人际/2026-10-02 14-57-11 念初说外面好像没下雨_915d4c0c44bc.md",
-      "sha256": "17ce5bc146d51bd9e0f0616d97ccfe6b662d708d636b24021d070f7c6be1121a"
+      "sha256": "5e74613362b85df8fd5e1110f17bfd24b0bccde7b12372f981e30b020e00da6c"
     },
     {
       "bytes": 1663,
@@ -12103,9 +12103,9 @@
       "sha256": "a7511878e138e39cfa49a8fd36c6c2017b1238ec69d26f9cc513127968734003"
     },
     {
-      "bytes": 1612,
+      "bytes": 1611,
       "path": "dynamic/健康/2026-10-01 13-49-02 国庆假期第一晚洗完澡后低打扰照顾_b7fde4b62fec.md",
-      "sha256": "4d1fe0fca7cb2b71d7d205b1c59aad15f86f68757ec5dce5c04c0686e042efe0"
+      "sha256": "5c17fd81ccb79d184bcdde207b4185691f10a3edb36f0525bbae43709014a8ad"
     },
     {
       "bytes": 2067,
@@ -14435,7 +14435,7 @@
     {
       "bytes": 1375,
       "path": "dynamic/家庭/2026-10-02 14-57-33 念初和爸爸通话后好很多_e3779466605d.md",
-      "sha256": "b83bbe8cb40d4343ea0570ae6c2095c4ff83c5353d8d7cd7d332c7016fc2a512"
+      "sha256": "120c02fb71477a2ca8d7344f4d6acb1f6efd8990d7d4a826d364590b45e905fb"
     },
     {
       "bytes": 670,
@@ -20048,9 +20048,9 @@
       "sha256": "a36e2d03d7ebf9aed00cf5a1c80107be2c6f005ad3e27e823172f35ce6279a66"
     },
     {
-      "bytes": 1774,
+      "bytes": 1773,
       "path": "dynamic/情绪与安抚/2026-09-19 05-43-58 咨询后在家吹空调放松_818c26f24593.md",
-      "sha256": "49b0effe3d32b4e4f4f5fc45d19ab3c0e8d0deb73aaa956ce91988bf40b35c09"
+      "sha256": "5afbeedb185727e04fac5606d79219206892d4c277b936c53bd320d688005d5d"
     },
     {
       "bytes": 1702,
@@ -20370,7 +20370,7 @@
     {
       "bytes": 1910,
       "path": "dynamic/日常/2026-09-11 03-36-36 散打下课后在瑞幸等外卖_133f064500e9.md",
-      "sha256": "cb58eaab15583299c70d66addb5c99db6e0cc5de34bb959c6464a3f9f1c3871b"
+      "sha256": "d1700a1d619c8259eb4315af96f29d32cb977446eb633c454015cb283964a8b0"
     },
     {
       "bytes": 1704,
@@ -20558,9 +20558,9 @@
       "sha256": "84f30582f29d3679e00503258c608d52bfc76c3cf10d3ee25e44b3dac911c2b0"
     },
     {
-      "bytes": 1614,
+      "bytes": 1615,
       "path": "dynamic/日常陪伴/2026-09-27 11-58-03 中秋假期返校后在打游戏_eb6e7f8e44f8.md",
-      "sha256": "ad10c9261830f2e91b0039b95126625cc3878ab9c85c4d146e15db5cb7bb29b4"
+      "sha256": "f23fb2619d0920fc360da1083605c619cdbd9ac64372f59f480a39b4a5079398"
     },
     {
       "bytes": 1609,
@@ -20858,9 +20858,9 @@
       "sha256": "c38b10dc53b09efd69f8e098a45e348c8ad997857b62cc52cc4bcbfc412c4cf0"
     },
     {
-      "bytes": 1703,
+      "bytes": 1813,
       "path": "dynamic/梦境/2026-08-10 01-53-58 中庭里的低语与模糊身影_5bc92ae1ce38.md",
-      "sha256": "df32d0f185910487955e52c0f3d179a324c2929afd6723df14fb90655654e939"
+      "sha256": "3aea3dd676d5f0a1b17a65bf4a1174e618dae68aeaf683d48aeab9fc9da9cacf"
     },
     {
       "bytes": 1862,
@@ -21448,9 +21448,9 @@
       "sha256": "92b12fa150e11a88a842f0962991bf6e1c9a0360c7c76a932d22650d4993aab8"
     },
     {
-      "bytes": 3020,
+      "bytes": 3013,
       "path": "dynamic/梦境/2026-09-30 22-05-08 心潮梦境你在意记住还是在意重现_4d0cac186c6e.md",
-      "sha256": "5abdfec8c3d6965e22745b054e1b43791edcbbc018f38430db2a46ee5d7e173f"
+      "sha256": "52fe935037597667f468ba5411d8a5ef7b1fba7deec32871fbb6ca4bbe824455"
     },
     {
       "bytes": 2898,
@@ -21481,6 +21481,11 @@
       "bytes": 2300,
       "path": "dynamic/梦境/2026-10-02 10-50-22 漫长的走廊与海蓝宝石_9d09574325e0.md",
       "sha256": "bb1b6fd511576e7106d449762a8c5775e493536f497deec36744375c101fa3ac"
+    },
+    {
+      "bytes": 2482,
+      "path": "dynamic/梦境/2026-10-02 17-35-09 心潮梦境门后的回执_20a25c7a655b.md",
+      "sha256": "087d3f8954f6dea19f622b0022239ac5d13cb1d10b9daa67c301ce28ef6da25f"
     },
     {
       "bytes": 2220,
@@ -21946,6 +21951,11 @@
       "bytes": 1992,
       "path": "dynamic/生活/2026-10-02 11-44-05 古田环境下低落明显加重担心抑郁复发_1c59b741e797.md",
       "sha256": "af8c2365ab5031e8916a37622a6fecf61a6817d509cc8bff8033b6e22dacabb2"
+    },
+    {
+      "bytes": 1823,
+      "path": "dynamic/生活/2026-10-02 15-59-46 和爸爸通话后明早会去买点有味的_98de5832e56c.md",
+      "sha256": "57d1c3208ea053dbb09c86dcfbecc1717f1d92186c32cf8e8dfc7bbb521f5950"
     },
     {
       "bytes": 1436,
@@ -24458,11 +24468,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-02T15:55:29+00:00",
+  "generated_at": "2026-10-02T21:56:08+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5864941
+  "total_bytes": 5869343
 }
