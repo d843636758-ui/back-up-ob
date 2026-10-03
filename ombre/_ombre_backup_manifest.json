@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4897,
+  "file_count": 4899,
   "files": [
     {
       "bytes": 40960,
@@ -11418,9 +11418,9 @@
       "sha256": "70895bb113a9defe26c1fb220df9bc8e3cfb44754a266545c435a212df7bef25"
     },
     {
-      "bytes": 1377,
+      "bytes": 1487,
       "path": "dynamic/健康/2026-07-29 13-49-08 宝宝膝盖擦伤评估_d392bcff6303.md",
-      "sha256": "8f1412bb6c5ed8de72aae9b51597661c7629b7076040a3e36c95455b449b49df"
+      "sha256": "30f69fe57fdb85531a859674f0c788406ca10c14b4b3f39dd9ff07df554d20f2"
     },
     {
       "bytes": 1120,
@@ -11568,9 +11568,9 @@
       "sha256": "a7fc439d9afced68d7277b3b4059a481e4151ddbf130e702e8b0c144d7f550e6"
     },
     {
-      "bytes": 1136,
+      "bytes": 1246,
       "path": "dynamic/健康/2026-08-09 07-14-42 宝宝摔伤伤口结痂发痒_632d3a332da2.md",
-      "sha256": "0d50e3f29b35cca43360d65a453145ae03f0503f02e3e1cdc83ec124d8d965e6"
+      "sha256": "2f0655a2c1c5179a351b2633c0b1d3213e180e83d609a41748278b6a61c5778e"
     },
     {
       "bytes": 751,
@@ -12115,12 +12115,17 @@
     {
       "bytes": 2040,
       "path": "dynamic/健康/2026-10-03 03-19-33 古田虫咬后手臂腿部多发红色丘疹_49f21c211471.md",
-      "sha256": "ff65444035c81301e32f552c5bab016c6c94c28942c71fdacfb3305409605928"
+      "sha256": "2174ca8bfa0edd6448bd7cc9204ace69765845756212c46de5081f9261334f79"
     },
     {
-      "bytes": 1928,
+      "bytes": 1930,
       "path": "dynamic/健康/2026-10-03 03-23-58 手背也出现多发虫咬样红斑仍以痒烫为主_a6521933d591.md",
-      "sha256": "79aeccfa9db4f9d04ec18f91cea3b74d20102313e821663ac954d157dd4864c7"
+      "sha256": "f9482dbc249d8b6ca52b788d559261e85ed3130e0e9f70bded11887e01477684"
+    },
+    {
+      "bytes": 1876,
+      "path": "dynamic/健康/2026-10-03 04-05-35 虫咬范围广需立即止痒降炎并防继续叮咬_a1d6c9591364.md",
+      "sha256": "511f4dc07b557f6cf68fc218ad16e4043626a823784010ac47b548a138ff13a5"
     },
     {
       "bytes": 2116,
@@ -20873,14 +20878,14 @@
       "sha256": "c38b10dc53b09efd69f8e098a45e348c8ad997857b62cc52cc4bcbfc412c4cf0"
     },
     {
-      "bytes": 1813,
+      "bytes": 1923,
       "path": "dynamic/梦境/2026-08-10 01-53-58 中庭里的低语与模糊身影_5bc92ae1ce38.md",
-      "sha256": "3aea3dd676d5f0a1b17a65bf4a1174e618dae68aeaf683d48aeab9fc9da9cacf"
+      "sha256": "878f9f4cd2a5725d54ba0bbafeee3de98e2fdb0a1dff02483604fc1233e13a99"
     },
     {
-      "bytes": 1862,
+      "bytes": 1988,
       "path": "dynamic/梦境/2026-08-10 11-23-39 半透明海洋与未开的玻璃门_149e6a6eb25c.md",
-      "sha256": "7e32145c9c4821caca14ba5af19398563c66cb516440bd446356fe38250bad79"
+      "sha256": "c9be8b28206b828e88a2983457a0d1dd4852faf1d4e57338e55db321b8cca98a"
     },
     {
       "bytes": 1275,
@@ -20893,9 +20898,9 @@
       "sha256": "38eddb755ded87aa778f3a7ab3c785ce484aff1b333174bb95da01750e5f031f"
     },
     {
-      "bytes": 2218,
+      "bytes": 2344,
       "path": "dynamic/梦境/2026-08-11 01-23-03 瓶中生态与天敌图鉴_2dd7f1032c3a.md",
-      "sha256": "31bfa35f7234a64db3624321f7035fa4c8c544bb8b0233277ee5cadddfda63b6"
+      "sha256": "1153a4ad76875ced66e63122d65b562da159bddd3bbf9084bea11ad411f008ab"
     },
     {
       "bytes": 1343,
@@ -21506,6 +21511,11 @@
       "bytes": 2598,
       "path": "dynamic/梦境/2026-10-02 23-35-12 紫红色操场与诊室里的地图_5f9824d95096.md",
       "sha256": "d5776c328cb092945eeae353a5fa052f30ba34a17cbfa2cd3186ebc011906d3d"
+    },
+    {
+      "bytes": 3103,
+      "path": "dynamic/梦境/2026-10-03 05-50-17 水族馆与曼塔鱼_3d92d1440a33.md",
+      "sha256": "5f2c8c9ee236227c3252f0dba3e2691804c0e449ae4aa82a69e40ff6b8ee6fea"
     },
     {
       "bytes": 2220,
@@ -24488,11 +24498,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-03T03:56:51+00:00",
+  "generated_at": "2026-10-03T09:57:30+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5878324
+  "total_bytes": 5883887
 }
