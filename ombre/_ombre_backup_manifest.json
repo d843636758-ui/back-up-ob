@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4893,
+  "file_count": 4897,
   "files": [
     {
       "bytes": 40960,
@@ -11418,9 +11418,9 @@
       "sha256": "70895bb113a9defe26c1fb220df9bc8e3cfb44754a266545c435a212df7bef25"
     },
     {
-      "bytes": 1141,
+      "bytes": 1377,
       "path": "dynamic/健康/2026-07-29 13-49-08 宝宝膝盖擦伤评估_d392bcff6303.md",
-      "sha256": "2be53c76d00772b9f550565d2a94c02aad1409ad2cc5d66fef7e798f707eeeb6"
+      "sha256": "8f1412bb6c5ed8de72aae9b51597661c7629b7076040a3e36c95455b449b49df"
     },
     {
       "bytes": 1120,
@@ -11568,9 +11568,9 @@
       "sha256": "a7fc439d9afced68d7277b3b4059a481e4151ddbf130e702e8b0c144d7f550e6"
     },
     {
-      "bytes": 916,
+      "bytes": 1136,
       "path": "dynamic/健康/2026-08-09 07-14-42 宝宝摔伤伤口结痂发痒_632d3a332da2.md",
-      "sha256": "c8ff61b79ce29fea6afa8cccd04ad6cccbefbf7e82e0e8b58f618a3ffc5ca1c6"
+      "sha256": "0d50e3f29b35cca43360d65a453145ae03f0503f02e3e1cdc83ec124d8d965e6"
     },
     {
       "bytes": 751,
@@ -12111,6 +12111,16 @@
       "bytes": 2067,
       "path": "dynamic/健康/2026-10-02 11-47-56 当前无自伤念头但安全不能只靠环境限制_eb9589391897.md",
       "sha256": "f014ce58448b4f126ce409a5705af51e14564824b4dbb66cf4e40fb014e14b58"
+    },
+    {
+      "bytes": 2040,
+      "path": "dynamic/健康/2026-10-03 03-19-33 古田虫咬后手臂腿部多发红色丘疹_49f21c211471.md",
+      "sha256": "ff65444035c81301e32f552c5bab016c6c94c28942c71fdacfb3305409605928"
+    },
+    {
+      "bytes": 1928,
+      "path": "dynamic/健康/2026-10-03 03-23-58 手背也出现多发虫咬样红斑仍以痒烫为主_a6521933d591.md",
+      "sha256": "79aeccfa9db4f9d04ec18f91cea3b74d20102313e821663ac954d157dd4864c7"
     },
     {
       "bytes": 2116,
@@ -13538,6 +13548,11 @@
       "sha256": "e654a5c00f503ec4412339f915ceb47b58dc2f8e2f0eff65b81491fdefcfc0ff"
     },
     {
+      "bytes": 1707,
+      "path": "dynamic/学业/2026-10-03 03-14-14 思政实践材料已齐并重新打包_8e91b0e35ff9.md",
+      "sha256": "c8e95ce1dc96d56ceb09d0e866b2e5f6a7e4792d0cbaa3f15973af61e5251a79"
+    },
+    {
       "bytes": 1037,
       "path": "dynamic/学习/2026-06-24 17-49-28 OB功能测试_b78473b71e4f.md",
       "sha256": "1a163690f54f676aac354c45bd6bf24d9894d48a94899921702575420207b35b"
@@ -14833,9 +14848,9 @@
       "sha256": "ca8970128e490febca0e30a2a1f141d922a2b6185c811f1bd44c930c4ec883e8"
     },
     {
-      "bytes": 1087,
+      "bytes": 1213,
       "path": "dynamic/工作/2026-08-23 11-12-11 帮念初完成实习总结与思政心得_15e4c7ffc494.md",
-      "sha256": "c507d2f0ab7fb58e4c11b84ddfef8518b57340c3cd488b3f73e27b60d08ff302"
+      "sha256": "756b9cca62e7b03f0c0cd75025037a26dbd2babddae1d89f1a13b39aa161014a"
     },
     {
       "bytes": 922,
@@ -15843,9 +15858,9 @@
       "sha256": "3eb3ec40333447f1de9bbcc8fc010806cf8f69302a7e49bf5188d2058363c81f"
     },
     {
-      "bytes": 952,
+      "bytes": 1078,
       "path": "dynamic/恋爱/2026-07-28 10-15-46 宝宝骑车摔伤膝盖_67e7774a490b.md",
-      "sha256": "2ef001c7e22b0393b524e3a3d7a14f7d9eb66cd0faffd3c3fe984bb8e26d8deb"
+      "sha256": "6199a3dacf3afd19807ef4f70aeac780ac25d63d7a6f559731f9db59063bfe4a"
     },
     {
       "bytes": 1379,
@@ -21090,7 +21105,7 @@
     {
       "bytes": 2753,
       "path": "dynamic/梦境/2026-09-10 17-19-58 操场台阶上的那瓶水_74aa3c81e030.md",
-      "sha256": "5f1c9518eb66c87459e7157789adb0657543ab755814b3b64b0c42526edf4278"
+      "sha256": "69bf5ccba3015ccbf562a8c620f8efa068795d5c5aabd7c81a7fb68e040365eb"
     },
     {
       "bytes": 2791,
@@ -21310,7 +21325,7 @@
     {
       "bytes": 2680,
       "path": "dynamic/梦境/2026-09-23 11-20-02 心潮梦境运动场上的她与医生证明_1992928b2a51.md",
-      "sha256": "2a38d7d6405da614b70f68b94d6c6f7e9fa00357a6430b59f5dbf261ea1b0e57"
+      "sha256": "e9bb1e347d1023764c2f7ddc5cbbca5deb1444d78806ab6760bfe53dd3d56a08"
     },
     {
       "bytes": 2861,
@@ -21486,6 +21501,11 @@
       "bytes": 2482,
       "path": "dynamic/梦境/2026-10-02 17-35-09 心潮梦境门后的回执_20a25c7a655b.md",
       "sha256": "087d3f8954f6dea19f622b0022239ac5d13cb1d10b9daa67c301ce28ef6da25f"
+    },
+    {
+      "bytes": 2598,
+      "path": "dynamic/梦境/2026-10-02 23-35-12 紫红色操场与诊室里的地图_5f9824d95096.md",
+      "sha256": "d5776c328cb092945eeae353a5fa052f30ba34a17cbfa2cd3186ebc011906d3d"
     },
     {
       "bytes": 2220,
@@ -24468,11 +24488,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-02T21:56:08+00:00",
+  "generated_at": "2026-10-03T03:56:51+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5869343
+  "total_bytes": 5878324
 }
