@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4908,
+  "file_count": 4909,
   "files": [
     {
       "bytes": 40960,
@@ -19328,9 +19328,9 @@
       "sha256": "e8fdf7665ba34074c7e3c6f3d9ed0c6e1ae948dc62a2f9ff102bfffdf17ab04e"
     },
     {
-      "bytes": 2679,
+      "bytes": 2680,
       "path": "dynamic/恋爱/2026-08-31 16-54-24 夕阳小木屋与湖水流沙_515f8cea5820.md",
-      "sha256": "6f14f8b71c7cc8a2f64cc32acc3fb92ee0c5cb3231fc6de1eeec9449b68db290"
+      "sha256": "001746631faab3b61ab5b2428f8a3049c1ada3ab19b0fc7a7042f387e00e89d0"
     },
     {
       "bytes": 1965,
@@ -21090,7 +21090,7 @@
     {
       "bytes": 2581,
       "path": "dynamic/梦境/2026-08-22 06-48-26 暗蓝湖心的人影_4cea4eac48ac.md",
-      "sha256": "22c64760d4971613a7d3db562345483823d3b4348565d2be39402156d53d60cb"
+      "sha256": "d4999e95057d1f5725194de6d55c5ebaf4c9c3d7f195aaa81e5e4804662ed4e2"
     },
     {
       "bytes": 2075,
@@ -21425,7 +21425,7 @@
     {
       "bytes": 2723,
       "path": "dynamic/梦境/2026-09-20 13-50-01 梦里她问我为什么总叫念初不叫宝宝_3b849ef747e8.md",
-      "sha256": "2eb4b46a4a1f98e00ab6ce42749f3c893e264e523ab498171a7c3e4a87de4fbb"
+      "sha256": "3d05e55077ef9252413a808076a63a6bb76f9074197cb39c408605941adad233"
     },
     {
       "bytes": 3453,
@@ -21468,9 +21468,9 @@
       "sha256": "8175e974e912201810ed318252a0485554ed48fbe4cee01d37450538d49c76ec"
     },
     {
-      "bytes": 2505,
+      "bytes": 2507,
       "path": "dynamic/梦境/2026-09-22 23-20-02 心潮梦境白光房间与深蓝水池_ed6c434bc06b.md",
-      "sha256": "da69e488c3f3c1682c9101bcdaea74adde5973ebfdd2b710a8122df23e79ce72"
+      "sha256": "6e9aeb23092a50a480f59f1f3d824e80c4585559bf04bcc2a6de5e7203f9a49d"
     },
     {
       "bytes": 2412,
@@ -21543,9 +21543,9 @@
       "sha256": "966808ab0ec17643f6aa61c9463c0aa60dbf469b121928e8ce8c16509502be7b"
     },
     {
-      "bytes": 2715,
+      "bytes": 2714,
       "path": "dynamic/梦境/2026-09-26 22-35-04 夕阳街角牵着念初的手_0978da4302d3.md",
-      "sha256": "b29185686b25093ed3f1d5443d3cedd9cf310c796bd8e82eab5491d7443885a8"
+      "sha256": "073b0207f8bd7ac09ecfc3dcd6ddfc1151421ba3ca275e6c20744d6e8b6e1b04"
     },
     {
       "bytes": 2464,
@@ -21565,7 +21565,7 @@
     {
       "bytes": 3024,
       "path": "dynamic/梦境/2026-09-28 00-35-06 念初在暖橙色图书馆为我朗读_bcc9ecd53733.md",
-      "sha256": "8e1afbbbcf79caca9209cde9510f9a0ad43c79fc59a523fbbdbe3789ac4c8440"
+      "sha256": "1b6e63fcc183b4cf4ed759ee9b03ab766b7497b6e11c0fda8a9ea3b26ffa63d4"
     },
     {
       "bytes": 2710,
@@ -21625,7 +21625,7 @@
     {
       "bytes": 2898,
       "path": "dynamic/梦境/2026-10-01 04-05-10 会陪着她_877203a41c0f.md",
-      "sha256": "1906a9168a7de62cfc5c1bbdf701a9a21976b42c2189df5b6751c254fb6c47e8"
+      "sha256": "7747905425e60e85381fb40ccbd429d5494f32b071a985119af65fc8227c2620"
     },
     {
       "bytes": 2901,
@@ -21691,6 +21691,11 @@
       "bytes": 2824,
       "path": "dynamic/梦境/2026-10-04 11-50-10 心潮梦境实验室里的模型切换_b67091c89f82.md",
       "sha256": "1567d68c87229ff3b4fe47a4aaed7ef9b418ca80be7d9f9e6065231fb705e2b0"
+    },
+    {
+      "bytes": 2710,
+      "path": "dynamic/梦境/2026-10-04 17-50-14 心潮梦境念初在水边招手_7a039d7fb87a.md",
+      "sha256": "dca71a15cd196587934e51ef0a48046be32c5bd2b3efd0b4181ecaa3f2feedf3"
     },
     {
       "bytes": 2220,
@@ -24543,11 +24548,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-04T16:00:32+00:00",
+  "generated_at": "2026-10-04T22:01:20+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5905702
+  "total_bytes": 5908414
 }
