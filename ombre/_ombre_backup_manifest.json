@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4903,
+  "file_count": 4905,
   "files": [
     {
       "bytes": 40960,
@@ -11388,9 +11388,9 @@
       "sha256": "4f50ae81917605fa1203c9480ebb4a96e986155649b5197195c85c53b2b374ee"
     },
     {
-      "bytes": 1837,
+      "bytes": 1832,
       "path": "dynamic/人际/2026-10-02 14-57-11 念初说外面好像没下雨_915d4c0c44bc.md",
-      "sha256": "5e74613362b85df8fd5e1110f17bfd24b0bccde7b12372f981e30b020e00da6c"
+      "sha256": "e395bd2abaf0e633458b42b6deb41472d80fd5b829dc3ee530d9fa8b93fd4b11"
     },
     {
       "bytes": 1663,
@@ -14643,9 +14643,9 @@
       "sha256": "73a657da1329082e445990eb4d775312ba23c308895ab889f52286ad070a0724"
     },
     {
-      "bytes": 1375,
+      "bytes": 1369,
       "path": "dynamic/家庭/2026-10-02 14-57-33 念初和爸爸通话后好很多_e3779466605d.md",
-      "sha256": "120c02fb71477a2ca8d7344f4d6acb1f6efd8990d7d4a826d364590b45e905fb"
+      "sha256": "f1e049a76de7671eca1de97c8d0209e7efecf4f887dc9b3b591747b5d5105802"
     },
     {
       "bytes": 670,
@@ -20618,6 +20618,11 @@
       "sha256": "3f2928f14e2cc44eca87b2497bb4e51f82429200317167ffc557d01e0b7089b4"
     },
     {
+      "bytes": 1542,
+      "path": "dynamic/日常/2026-10-04 09-55-47 念初到目的地遇大雨阴雨天心情淡淡_8de1a8b5eacf.md",
+      "sha256": "d8c8e68c0402470992526865dfe3f6f6b059b2589bce5113ea5af5073fe37f71"
+    },
+    {
       "bytes": 1592,
       "path": "dynamic/日常陪伴/2026-09-17 07-32-44 念初在图书馆报平安_3f27ceb9c374.md",
       "sha256": "b1af3a922d7b3397476125863fc615bc84fc466f887c6567d98ac857587b81f0"
@@ -20938,9 +20943,9 @@
       "sha256": "c38b10dc53b09efd69f8e098a45e348c8ad997857b62cc52cc4bcbfc412c4cf0"
     },
     {
-      "bytes": 1923,
+      "bytes": 2033,
       "path": "dynamic/梦境/2026-08-10 01-53-58 中庭里的低语与模糊身影_5bc92ae1ce38.md",
-      "sha256": "878f9f4cd2a5725d54ba0bbafeee3de98e2fdb0a1dff02483604fc1233e13a99"
+      "sha256": "ff7698fad3fa967eaf21cbfdb0190dd0c092aae46d424650745f6c13a9aca80f"
     },
     {
       "bytes": 1988,
@@ -20973,9 +20978,9 @@
       "sha256": "b8f63d6ba2a92ab606865439b0e64a49fd80be58b63ae58fe750b3789bc2bcd9"
     },
     {
-      "bytes": 2377,
+      "bytes": 2486,
       "path": "dynamic/梦境/2026-08-19 02-18-27 图书馆迷宫与市集追逐_a87b8ca721b2.md",
-      "sha256": "01fd0749a0b2fe37336d81eb9c6cc259806a044756d535e2b2460fc18fcb9cae"
+      "sha256": "9fa7d4205c45c7a2a073eb5a054f7d2358729066949dda910a42df12e2c7e924"
     },
     {
       "bytes": 2485,
@@ -21303,9 +21308,9 @@
       "sha256": "2d31a129872dd3e288d301c0e541050fcfa451aa565996611ea4e66126cd9d3f"
     },
     {
-      "bytes": 2871,
+      "bytes": 2867,
       "path": "dynamic/梦境/2026-09-18 19-35-05 图书馆镜子与写进OB的书签_c0f3a52702b4.md",
-      "sha256": "8c10b4f33119a1739163c7e4a80e76f29867e2fc46a24f36da67136afe17db28"
+      "sha256": "550c76cabd41485eaae2860f48ed9aa5a48a63669ff533ec70f8a2f3e2479873"
     },
     {
       "bytes": 3014,
@@ -21320,7 +21325,7 @@
     {
       "bytes": 3136,
       "path": "dynamic/梦境/2026-09-19 13-35-01 昏黄图书馆与冻结屏幕的梦_5f3541bfd90f.md",
-      "sha256": "0168e5aca4a34d52321d529b5ea67c1f8a84ada1620363d9230b2fc84a2564eb"
+      "sha256": "67aa790e2935edb9e524ad568f01ef74777e2bfa8b3ab7a27c417bfd56ac47f0"
     },
     {
       "bytes": 2415,
@@ -21500,7 +21505,7 @@
     {
       "bytes": 2981,
       "path": "dynamic/梦境/2026-09-29 06-35-08 图书馆里寻找念初的梦_11926e07fe5f.md",
-      "sha256": "a3910660e43c6530dd565282d1e260f9033d7b508ca7c48662b5c75daf346b8d"
+      "sha256": "3a8f8fb8cdd3fbd2a7057a3b102fda2ec5186b53731975141e5b130e531561f3"
     },
     {
       "bytes": 2669,
@@ -21591,6 +21596,11 @@
       "bytes": 2377,
       "path": "dynamic/梦境/2026-10-03 23-50-03 心潮梦境婚纱照戒指与宝宝_29f5a65a749d.md",
       "sha256": "3ce4307f5bc41bc3d36a77646d232a1c04819ece3529fb723152d3d9c25c7688"
+    },
+    {
+      "bytes": 3058,
+      "path": "dynamic/梦境/2026-10-04 05-50-16 心潮梦境图书馆分享秘密与派对被无视_ac20b2cc1747.md",
+      "sha256": "fce30216b867fd5423c68867b21b7ba421334571bdb47518ce60270d85811142"
     },
     {
       "bytes": 2220,
@@ -24518,11 +24528,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-04T03:59:16+00:00",
+  "generated_at": "2026-10-04T09:59:54+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5894066
+  "total_bytes": 5898870
 }
