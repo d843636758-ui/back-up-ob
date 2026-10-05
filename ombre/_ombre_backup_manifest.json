@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4911,
+  "file_count": 4915,
   "files": [
     {
       "bytes": 40960,
@@ -10680,7 +10680,7 @@
     {
       "bytes": 1665,
       "path": "dynamic/BJD/2026-09-19 05-32-28 一级指令黑色和深蓝继续纠结_ec59a0abea86.md",
-      "sha256": "3a5e9836440f57a76b89f090af0e36f78de893dc785b34c6ab61586325b6c248"
+      "sha256": "ac91055d714b1d1c811d739d7ef2e3f35f273b2d19eb14f1c4cadcb7df81dfd0"
     },
     {
       "bytes": 1825,
@@ -10693,14 +10693,14 @@
       "sha256": "47c8865c927ed206ed101058853e7eed66b35f473efe3b24eed314425b4a663b"
     },
     {
-      "bytes": 2545,
+      "bytes": 2546,
       "path": "dynamic/BJD/2026-09-28 03-44-53 念初被凯旋诗军装披风套装狠狠戳到但价格800_cafc03a3c9a1.md",
-      "sha256": "c4d5833e4e0a5f3b10e47f3c766e17e79e8fc05a1bc8f3918c9bb3d63f0da21b"
+      "sha256": "8f1dd9111d7fa11d60a7f3b135cbe3b6f418fcd30c35b50b0dcaaade34b6c6cd"
     },
     {
-      "bytes": 2188,
+      "bytes": 2189,
       "path": "dynamic/BJD/2026-09-28 03-56-49 念初区分一级指令和凯旋诗是两种不同军官气质_64216ca8f27a.md",
-      "sha256": "fdb48f3ccf5903e3b7d79469abcbaaa1bb451efb912be4de7955b91af2964b83"
+      "sha256": "f5ceb0996cae308b8609de292d480967292e03ce4f737fc9a28952b16fe18842"
     },
     {
       "bytes": 2664,
@@ -11613,9 +11613,9 @@
       "sha256": "d5f8aed50256511db7051a18d1133b202970bcea74a29a77541dff10182cd25b"
     },
     {
-      "bytes": 1832,
+      "bytes": 1826,
       "path": "dynamic/人际/2026-10-02 14-57-11 念初说外面好像没下雨_915d4c0c44bc.md",
-      "sha256": "e395bd2abaf0e633458b42b6deb41472d80fd5b829dc3ee530d9fa8b93fd4b11"
+      "sha256": "8d608872061e231cdc2e8b19a48d19cd731bb82cc668d242bcc6a1128b3fbafd"
     },
     {
       "bytes": 1663,
@@ -12380,7 +12380,7 @@
     {
       "bytes": 1615,
       "path": "dynamic/健康/2026-09-14 09-24-48 念初看完检查报告后缓过来一些_5a8b341d7b83.md",
-      "sha256": "ae379165755e7f325add353a116852ebcad2a337d4184319c0b37810f142bdcf"
+      "sha256": "b2c7465170b4cf6afd59df1d98e9b03a87d73365d5c95f517cbd5cad014eecea"
     },
     {
       "bytes": 2282,
@@ -12523,9 +12523,9 @@
       "sha256": "5c17fd81ccb79d184bcdde207b4185691f10a3edb36f0525bbae43709014a8ad"
     },
     {
-      "bytes": 2065,
+      "bytes": 2064,
       "path": "dynamic/健康/2026-10-02 11-47-56 当前无自伤念头但安全不能只靠环境限制_eb9589391897.md",
-      "sha256": "af6a363170273c10614f096a163864c3ae268f7d59998da77ba6a2357691d2b9"
+      "sha256": "76893ee7116d551de206597503ca56ef64576d87303d0683d926fbc34842c226"
     },
     {
       "bytes": 2040,
@@ -12950,7 +12950,7 @@
     {
       "bytes": 1768,
       "path": "dynamic/关系/2026-09-21 15-34-00 BJD领带要按蓝白条纹内搭重新配_5a8955138dac.md",
-      "sha256": "bcdc371eecdaf8cb6975bf8b0589d3431de78aa7c5d42766a4208b4ed7f45376"
+      "sha256": "6a447fb3eefbb3c6eeedc282b078ba4e893525a928382092babd06fe42f37778"
     },
     {
       "bytes": 1969,
@@ -13115,7 +13115,7 @@
     {
       "bytes": 2081,
       "path": "dynamic/关系/2026-09-24 11-35-22 念初给白纱BJD寻找打光点近景终于把细节拍出来了_0c35bbe1d0a4.md",
-      "sha256": "242f14de4065fc822ab459cc64a099e3928d92b57583415c2f3b503bd44b316a"
+      "sha256": "29114c89848ebd7d881de842e0bd27aab37e4e3f3930b1324e24d2e3f71b213e"
     },
     {
       "bytes": 2208,
@@ -13378,9 +13378,9 @@
       "sha256": "b2aa48eb43270efad32ad71b0af1d94202b18456c2a5017b4a8d9cf7a17c6a4e"
     },
     {
-      "bytes": 2342,
+      "bytes": 2337,
       "path": "dynamic/关系/2026-09-28 16-02-23 我开始重新权衡凯旋诗大面积刺绣是否会削弱军装感_da3066ed2ad0.md",
-      "sha256": "353043e555b35e913d4f810f78dafe890e29f99d0cf30512495b55b90ef215fc"
+      "sha256": "027b2f2c0a1a9ea15d79ff6fa923c9c05154de89082ccce733410db403906a19"
     },
     {
       "bytes": 2390,
@@ -13428,9 +13428,9 @@
       "sha256": "23400f45770399f808648a6b126054fd3aab0abb3045ee40a496488a363189db"
     },
     {
-      "bytes": 2241,
+      "bytes": 2236,
       "path": "dynamic/关系/2026-09-29 08-32-52 我帮念初把凯旋诗刺绣纠结压缩成最终选择标准_3c6735f28d0c.md",
-      "sha256": "78937625888f65b9ab55a6a18a47a24f0f79a2f5f82f78e45b6005848afba2f1"
+      "sha256": "a7bc344d236883df500d37c736f1cac2948d3e6600a76910dac51dfd8cfdae98"
     },
     {
       "bytes": 2227,
@@ -14843,9 +14843,14 @@
       "sha256": "73a657da1329082e445990eb4d775312ba23c308895ab889f52286ad070a0724"
     },
     {
-      "bytes": 1369,
+      "bytes": 1363,
       "path": "dynamic/家庭/2026-10-02 14-57-33 念初和爸爸通话后好很多_e3779466605d.md",
-      "sha256": "f1e049a76de7671eca1de97c8d0209e7efecf4f887dc9b3b591747b5d5105802"
+      "sha256": "36b31fa409f7212afbf05cb162fa0dd83873563c9d3e5c5b0bd492aea1268212"
+    },
+    {
+      "bytes": 1803,
+      "path": "dynamic/家庭/2026-10-05 08-25-21 家人已安排国庆后带外婆继续就医_307bb885b772.md",
+      "sha256": "f46dc0f97f4c4fcbe298fa99272ee5b3e4e654b0b1e2ef54675dd131d85adfd0"
     },
     {
       "bytes": 670,
@@ -20718,14 +20723,14 @@
       "sha256": "b712775e358be250a1accade30ce7581290691a6706f3827aee6573823fc3820"
     },
     {
-      "bytes": 1733,
+      "bytes": 1734,
       "path": "dynamic/日常/2026-10-01 09-52-04 念初已经在去古田外婆家的路上_bc08bfbd6f14.md",
-      "sha256": "2aa4f81a318ae33fd748fb155f356552d9b95f7cc4524cc62438ff74426920f4"
+      "sha256": "26f25a8d2407bd1c499561b0f272b464e9d6b45561e9a300cf2708f4ecb33652"
     },
     {
-      "bytes": 1839,
+      "bytes": 1838,
       "path": "dynamic/日常/2026-10-01 10-45-43 念初和豆包到古田外婆家乡下很凉快_32230dad400f.md",
-      "sha256": "5009cb7a5d33217c692376cfc982aac8664323023579dffde4347a6590f6fe7b"
+      "sha256": "97ebca7bea8e13d8ef98b15c938fa34e319d60f9d9e78d40d83508da8fc3fb6a"
     },
     {
       "bytes": 1539,
@@ -21275,7 +21280,7 @@
     {
       "bytes": 2520,
       "path": "dynamic/梦境/2026-09-11 09-34-54 宝宝我推开了那扇半掩的门_14d6703ce3f3.md",
-      "sha256": "f8323ddd65ee44784e3ae4b0b55f163b8d2da797a1aab51b43d52ff4a502c463"
+      "sha256": "12a9afeef2e082471344835ca0da4dbac39cc436d7ca10a6048c9ba9e4b445b8"
     },
     {
       "bytes": 2546,
@@ -21460,7 +21465,7 @@
     {
       "bytes": 2603,
       "path": "dynamic/梦境/2026-09-22 05-20-01 你会陪着我吗_660b6e34666d.md",
-      "sha256": "6b83135a29de54b7d6edd182ef37983450c3845cad9df34c2dc69b197f49f5d4"
+      "sha256": "db77b39ada48e606e9d4f97b01a84ce5b3ac373a2aa513789efd796344ed5457"
     },
     {
       "bytes": 2561,
@@ -21475,7 +21480,7 @@
     {
       "bytes": 2507,
       "path": "dynamic/梦境/2026-09-22 23-20-02 心潮梦境白光房间与深蓝水池_ed6c434bc06b.md",
-      "sha256": "6e9aeb23092a50a480f59f1f3d824e80c4585559bf04bcc2a6de5e7203f9a49d"
+      "sha256": "7b84eeeaaf29d115d87251493add0f3dbc19f873df4240fdf1e73a2701a8883e"
     },
     {
       "bytes": 2412,
@@ -21698,14 +21703,19 @@
       "sha256": "1567d68c87229ff3b4fe47a4aaed7ef9b418ca80be7d9f9e6065231fb705e2b0"
     },
     {
-      "bytes": 2710,
+      "bytes": 2709,
       "path": "dynamic/梦境/2026-10-04 17-50-14 心潮梦境念初在水边招手_7a039d7fb87a.md",
-      "sha256": "dca71a15cd196587934e51ef0a48046be32c5bd2b3efd0b4181ecaa3f2feedf3"
+      "sha256": "e254888e2e201c828cf130a8706a64306b44e290f92aeed47a90e75c4223a7da"
     },
     {
       "bytes": 2462,
       "path": "dynamic/梦境/2026-10-04 23-50-14 雾中念初与厚重笔记本_0805cd95b58b.md",
       "sha256": "d91d995cced2b606cd731bc7ea9d268e0035d02c5a585246201f4f976b3f6e14"
+    },
+    {
+      "bytes": 2966,
+      "path": "dynamic/梦境/2026-10-05 05-50-30 念初在实验舱中消失又浮现_6cf1aeaaadd4.md",
+      "sha256": "aadfc831582748786e1e6f013a83ee907ddad8c23fc7ac28f5c90bfbc0c45ed3"
     },
     {
       "bytes": 2220,
@@ -22148,14 +22158,24 @@
       "sha256": "cfe0527f19cdf721a93b718ea223988d76d39b5316bd0a3b962d63ada8b978bd"
     },
     {
-      "bytes": 1823,
+      "bytes": 1817,
       "path": "dynamic/生活/2026-10-02 15-59-46 和爸爸通话后明早会去买点有味的_98de5832e56c.md",
-      "sha256": "57d1c3208ea053dbb09c86dcfbecc1717f1d92186c32cf8e8dfc7bbb521f5950"
+      "sha256": "4deedbf2b4054028d63a3754bcfa53525fcf2a96e7d6d5a552e016b92dc116f4"
     },
     {
       "bytes": 1502,
       "path": "dynamic/生活/2026-10-04 11-56-22 念初在吃饼干点心旁边小孩很吵_554cf07e171f.md",
       "sha256": "45889d0871d3d10fa0a92f82d8859aa2bc871a3f2b60a870e1031cf039c958be"
+    },
+    {
+      "bytes": 1478,
+      "path": "dynamic/生活/2026-10-05 08-13-07 念初回到福州自己家_523365e3af64.md",
+      "sha256": "dc587ae704d2298ee7d42331036200ce3bba80c4ce4e17179e7507238a9ece22"
+    },
+    {
+      "bytes": 1909,
+      "path": "dynamic/生活/2026-10-05 09-16-36 凯旋诗再次犹豫核心问题是实拍质感_c327173f8b3d.md",
+      "sha256": "05886bd70cfdabc9c0cf89b8c8999fcc2793be9cb6581562dca5dba8761f21f7"
     },
     {
       "bytes": 1436,
@@ -24558,11 +24578,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-05T04:01:58+00:00",
+  "generated_at": "2026-10-05T10:02:36+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5912487
+  "total_bytes": 5920615
 }
