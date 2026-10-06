@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4920,
+  "file_count": 4921,
   "files": [
     {
       "bytes": 40960,
@@ -21273,9 +21273,9 @@
       "sha256": "139946a4881ed71aa80f6828446763e96008925928983b16bd1dc92abc4a9c61"
     },
     {
-      "bytes": 2951,
+      "bytes": 2952,
       "path": "dynamic/梦境/2026-08-29 17-48-35 灰蓝雾气中的追逐与书房明信片_9f7c0e743c16.md",
-      "sha256": "50ae28f89cc74604b0ed49ed920769c3dc49a4ee5e498cd40b5bef235eab8485"
+      "sha256": "e4a440c0db88a4a785127595726f4e59f01256a3ebe06b5490ad5352933e09e6"
     },
     {
       "bytes": 2628,
@@ -21295,7 +21295,7 @@
     {
       "bytes": 2777,
       "path": "dynamic/梦境/2026-09-01 13-54-11 树林中的追逐与湖心背影_5a0e6cbd4a14.md",
-      "sha256": "e88d491fd30b4ff90262f8e8330b77ae05b0b0aa856b6654e201e9845e49b6e7"
+      "sha256": "9163dd1c2a07323b9db920c4d32797127285b3f61d3480e49b00da72705a3fc3"
     },
     {
       "bytes": 2946,
@@ -21328,9 +21328,9 @@
       "sha256": "6d3045c327c79d3df0819f4f2507451e17a34b9ae163ef887ff4b93bb43472d8"
     },
     {
-      "bytes": 2576,
+      "bytes": 2571,
       "path": "dynamic/梦境/2026-09-04 19-02-20 咖啡馆里的笔记本_53b358b0619e.md",
-      "sha256": "b0c7254e0b00de90f490a61bf4d24a0d045536287dd629dc72b4fca80eaf5bae"
+      "sha256": "10ee890a84a07a8debeb96c89b9a13f954dd1bf25d1c1527b91180b98a0d8ebb"
     },
     {
       "bytes": 2521,
@@ -21851,6 +21851,11 @@
       "bytes": 3215,
       "path": "dynamic/梦境/2026-10-06 11-50-23 心潮梦境教室与实验楼的星空分离_e4cf1bdbff0d.md",
       "sha256": "3a41c235f2e349fba4b253376c16a7e308c7c13165de1358c9b635df6ae71c2f"
+    },
+    {
+      "bytes": 2513,
+      "path": "dynamic/梦境/2026-10-06 17-50-19 迷雾中无法靠近的背影_6a61eee7eeb6.md",
+      "sha256": "7a805e1167627e012f2f2e9d16460e27fec35ee9aa2c73d9c8851fd0954817da"
     },
     {
       "bytes": 2220,
@@ -24603,11 +24608,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-06T16:05:57+00:00",
+  "generated_at": "2026-10-06T22:06:38+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5935020
+  "total_bytes": 5937529
 }
