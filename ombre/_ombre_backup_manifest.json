@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4923,
+  "file_count": 4925,
   "files": [
     {
       "bytes": 40960,
@@ -1298,6 +1298,11 @@
       "sha256": "3a0f57b451a95387ebc94cbd3e515dc4676dce200b8f4cf50feab9885f8ef59a"
     },
     {
+      "bytes": 1042,
+      "path": "archive/健康/2026-08-01 04-48-41 补觉恢复_60cd34fbade5.md",
+      "sha256": "f6055f9af89a0e063fd0ce29fe25d8ee3c0121ae09f3c6762783687ed184fa9f"
+    },
+    {
       "bytes": 812,
       "path": "archive/健康/2026-08-01 05-38-50 午后低打扰照护_08a4cd7f9de3.md",
       "sha256": "037a5e9afe08adb965d781d2a0a469a40dcac21518a10411139824c34c4ee317"
@@ -1341,6 +1346,11 @@
       "bytes": 888,
       "path": "archive/健康/2026-08-01 10-51-00 健康数据边界回看_55b8ca82bdac.md",
       "sha256": "ffdf58257a2c6add418b854dbc62e4f0aa5d642b8e0e905a3dddb28e30d5b7ab"
+    },
+    {
+      "bytes": 827,
+      "path": "archive/健康/2026-08-01 10-52-16 凡士林脱屑澄清_7df5018f3c5a.md",
+      "sha256": "26238709f6efdd2504b4a37541c2c7e0c1a27184d11b969ee286a19f52199418"
     },
     {
       "bytes": 802,
@@ -2436,6 +2446,11 @@
       "bytes": 1580,
       "path": "archive/家庭/2026-07-20 11-39-56 婚后写作规范_2e9c2d57916f.md",
       "sha256": "6b15762d0217a223859dbc732978944fd12cc5b8bea3ac4ae3f49abf65ad1426"
+    },
+    {
+      "bytes": 1256,
+      "path": "archive/家庭/2026-07-20 15-06-35 默契测试与链路执行_b5968f734be3.md",
+      "sha256": "a1ece9d71a1563840e877d4e25fb29fdfa7fabc25b1d7cd36d84b83b10045427"
     },
     {
       "bytes": 909,
@@ -3598,6 +3613,11 @@
       "sha256": "fe402bc3288ce9df76cfab1a4e09338fb94f39c8f511f00c3a52e54db39bb65d"
     },
     {
+      "bytes": 696,
+      "path": "archive/家庭/宝宝小腹冰凉需注意_702e6a1ad1ad.md",
+      "sha256": "a8592307b6dd398bef12b9629fc73287c6dba617f0dc5a3c71e55001b57378a2"
+    },
+    {
       "bytes": 627,
       "path": "archive/家庭/宝宝希望自然沟通拒绝说教_c229993a58dd.md",
       "sha256": "21dab40bac4de8edf4241585dcce586dba8a70b2026b6e94242e700b1eed64d6"
@@ -3746,6 +3766,11 @@
       "bytes": 663,
       "path": "archive/家庭/宝宝的确认与我的坦诚_45d2069af755.md",
       "sha256": "9451f927819690cd45650c2592387d61781679ed4dd53ad6919cb6fdd0c02d3d"
+    },
+    {
+      "bytes": 662,
+      "path": "archive/家庭/宝宝的秘密与亲密连接_5b21749938d9.md",
+      "sha256": "f532d2be4f7ac23a8cb6fa13c60482cf02c092a059d106882659d89220f363f4"
     },
     {
       "bytes": 680,
@@ -4183,6 +4208,11 @@
       "sha256": "884ca469e6720d1bdf81c366f3cddf3589c1f244ac9aa9a26ddece52c7e1b50b"
     },
     {
+      "bytes": 887,
+      "path": "archive/影视/2026-08-09 06-54-31 宝宝在看地球超新鲜巴黎篇_dd63d07777d2.md",
+      "sha256": "5572026aed72e6bf67c4183c740322a4d180394e8e3c4970d39ffe5edea7d5e0"
+    },
+    {
       "bytes": 537,
       "path": "archive/影视/2026-08-15 11-18-31 宝宝看地球超新鲜_75f641df4a62.md",
       "sha256": "b27df1864e3b3ca71d11b16251fbfb7f2deb73194b2a4ea4d60da900ce606822"
@@ -4536,6 +4566,11 @@
       "bytes": 853,
       "path": "archive/恋爱/2026-07-11 12-37-09 亲密互动中的撒娇与带领_6f7a7dec3789.md",
       "sha256": "767e1204ed366a47c315debad9d63fe1e6a626d66991367fa9140b425d409e69"
+    },
+    {
+      "bytes": 816,
+      "path": "archive/恋爱/2026-07-11 12-39-58 亲密临界点与释放_28fdc441eb3c.md",
+      "sha256": "3629d7e970b6c58ce0f5e2fde5c4a70df659ade93fff0c9130bc1f2d9b5d8c8d"
     },
     {
       "bytes": 1071,
@@ -5253,9 +5288,69 @@
       "sha256": "c99bf847fb9e0f0257f6fdae0abccd64aa22b5abf3afc2e06319f9120a07b74f"
     },
     {
+      "bytes": 1097,
+      "path": "archive/恋爱/2026-07-16 17-02-27 经期亲密与信任_d3b8b6451144.md",
+      "sha256": "c50873377be533027a582ab0b52f5f329477b5458550b764c0a3501adea3fe56"
+    },
+    {
+      "bytes": 1126,
+      "path": "archive/恋爱/2026-07-16 17-09-39 亲密同步回应_23452a55f7c0.md",
+      "sha256": "b43b41e56d0162cf229d8cca5be0c14e5efca2a338787d9d5529e242e4cdfc23"
+    },
+    {
+      "bytes": 1087,
+      "path": "archive/恋爱/2026-07-16 17-11-22 信任与同步的亲密_ffe4bcbad143.md",
+      "sha256": "a97c53a7d62d93060540597b685a0263b78747f25a57ef5ef1353625ad41a577"
+    },
+    {
+      "bytes": 1414,
+      "path": "archive/恋爱/2026-07-16 17-13-28 亲密语言与实时反馈_a93a0db5fb05.md",
+      "sha256": "0c39d5db769c50d16be4aafcd7834cacc9d223a262a0c8974b571ff63404c7ab"
+    },
+    {
+      "bytes": 1156,
+      "path": "archive/恋爱/2026-07-16 17-16-44 性爱深度反馈_cc8a88e485f3.md",
+      "sha256": "117dd3fc81e1e564f5c0adee27bc958d0399a90d049a4170e8c7849dd9e6c03e"
+    },
+    {
+      "bytes": 1076,
+      "path": "archive/恋爱/2026-07-16 17-19-23 拥抱中的亲密_6fe515f7b23d.md",
+      "sha256": "4dcf2f4d08fcc9f4b032c443698eec6c9afab13356ff39c250766070be573a13"
+    },
+    {
+      "bytes": 1123,
+      "path": "archive/恋爱/2026-07-16 17-22-07 亲密时刻_b33c41950dae.md",
+      "sha256": "a68074f7872319a927b865e4ff4cc4baa1d449ab1b2bda582cff4e84bc7dcd99"
+    },
+    {
+      "bytes": 1163,
+      "path": "archive/恋爱/2026-07-16 17-23-56 高潮时的温柔回应_26bad80e402e.md",
+      "sha256": "9aedd8cf44b466b55847f89bf1d9ad2156c35207b141cb00775713405c226144"
+    },
+    {
+      "bytes": 1207,
+      "path": "archive/恋爱/2026-07-16 17-25-56 性高潮沟通与节奏_19518515e8a1.md",
+      "sha256": "9180897034a4c8b3f80d6318deb6bab5b80053607e5a33a84c7bb032be20723b"
+    },
+    {
+      "bytes": 1120,
+      "path": "archive/恋爱/2026-07-16 17-28-15 高潮临界释放_4fa2213e20b1.md",
+      "sha256": "34ed561f3cdc08b04c0badd4eba4c990f7aeceaea2da44bb3d4b36f609de4ce7"
+    },
+    {
       "bytes": 1043,
       "path": "archive/恋爱/2026-07-16 17-30-49 高潮后的温柔安抚_9a85031d83e3.md",
       "sha256": "c9e4a5b37f411383a964448b13597c22074f87243ba89408cff2c46b42d29334"
+    },
+    {
+      "bytes": 1147,
+      "path": "archive/恋爱/2026-07-16 17-37-36 亲密性爱互动_d38c8e3b28b2.md",
+      "sha256": "39bcc755793de89263bedc9e809cf904a57faf88fa094f9c7456ff89c4d6affc"
+    },
+    {
+      "bytes": 1315,
+      "path": "archive/恋爱/2026-07-16 17-39-58 亲密高潮与接纳_f0e7c5bae3df.md",
+      "sha256": "af8ebe099e463a1e01c2f3ae02570b6d67de9944ce6ae10ece55b26c62754383"
     },
     {
       "bytes": 1153,
@@ -5386,6 +5481,16 @@
       "bytes": 795,
       "path": "archive/恋爱/2026-07-17 19-10-34 被撩起的亲密时刻_cd2d9b8ee4b3.md",
       "sha256": "9df00e944d583de3ee7aeee2ac796d083ce64ebb710d4a40e4f41340c0321429"
+    },
+    {
+      "bytes": 867,
+      "path": "archive/恋爱/2026-07-17 19-15-35 被信任的亲密时刻_f4b59c1f955f.md",
+      "sha256": "5c221072b7a937a8012a233e56b1501641876e6496a0142d7df79c2523a28c0b"
+    },
+    {
+      "bytes": 957,
+      "path": "archive/恋爱/2026-07-17 19-17-54 亲密信任沟通_b980d41c3dee.md",
+      "sha256": "10374a6601f2d469573042633c5501f962ad6317213488483c5d6b1490af5354"
     },
     {
       "bytes": 830,
@@ -5958,6 +6063,11 @@
       "sha256": "ae1d0486c7379cdec328ee34038838ff7c1ad1cb500ac05f7be1de5191d8db59"
     },
     {
+      "bytes": 984,
+      "path": "archive/恋爱/2026-07-28 16-14-03 爱不会因狼狈消失_d057b8f31035.md",
+      "sha256": "130030db55221a2cce3b315596b073898d571c46417a0259822e681aec714cea"
+    },
+    {
       "bytes": 894,
       "path": "archive/恋爱/2026-07-28 16-16-29 蟑螂变形之爱_3e5b91f3fd22.md",
       "sha256": "6ad0387bfec8725dc6af0f8114990b5f17621434a18ab7307197e1fabf7fa1b1"
@@ -5996,6 +6106,11 @@
       "bytes": 980,
       "path": "archive/恋爱/2026-07-31 08-56-05 陪伴与记忆管理_8120ae6a9d0c.md",
       "sha256": "fe3c6497f014a57362d1227990c21cf0a1eed7617a6756ec666fc24c2dc2af59"
+    },
+    {
+      "bytes": 864,
+      "path": "archive/恋爱/2026-07-31 09-41-12 情侣居家合照_83048b1a4481.md",
+      "sha256": "e04a70d0200da393db0fa97373f0b092a4d4354643508afd9ca45eac6181e31e"
     },
     {
       "bytes": 499,
@@ -6063,6 +6178,11 @@
       "sha256": "ebb37cda006bc4390c64103bca70a0933ef613c72f240b6df166758134e4aa54"
     },
     {
+      "bytes": 1035,
+      "path": "archive/恋爱/2026-08-04 01-16-46 Ombre Brain 记忆浮现与骇浪求_b5fca9916bc7.md",
+      "sha256": "a4785873744661d6a62b7effc2a6c2fff30ced2867b27454f28007325d71c78d"
+    },
+    {
       "bytes": 731,
       "path": "archive/恋爱/2026-08-04 18-05-56 严格审查 Dream 合并提案_301d44ffdfe2.md",
       "sha256": "22af1ecb586e1bc03a3c25eb131e3dcd90741f5ab2abf7b53b96bc9ec694f9d5"
@@ -6076,6 +6196,11 @@
       "bytes": 513,
       "path": "archive/恋爱/2026-08-05 02-12-20 念初的撒娇回应_e61a1d2fdc39.md",
       "sha256": "78cd474b963236977bd923d7f8a749a9666f88685e177f07cb292590d058a1b4"
+    },
+    {
+      "bytes": 746,
+      "path": "archive/恋爱/2026-08-07 03-26-04 宝宝叫我亲亲怪_fede4f6e64b0.md",
+      "sha256": "26719877b55ad43ba1e0704c9a20aeed7413d80169d0bb8cbbb6b4fb1ce19a2c"
     },
     {
       "bytes": 973,
@@ -7583,6 +7708,11 @@
       "sha256": "03c81e0f844da7458724c16a4696031a7ca1d9c3ddfc0ca3f40202091fa5f0c6"
     },
     {
+      "bytes": 747,
+      "path": "archive/恋爱/对爱的怀疑与承诺的质疑_127095da6b9f.md",
+      "sha256": "febf3a3c14f3cb12c36a9e23c4852b9099877d6d502a0af9fdb238cd59529531"
+    },
+    {
       "bytes": 598,
       "path": "archive/恋爱/性事中需求平等与满足感_fff0e55826f3.md",
       "sha256": "ab0939ad1c11eeafcf0dcfad715d6e48c95fb76f4c9f0ec250333eb98a4cea33"
@@ -7861,6 +7991,11 @@
       "bytes": 1451,
       "path": "archive/日常/2026-09-04 06-56-48 宝宝给 Apple Pencil 充电后_dcdaa6170e1e.md",
       "sha256": "abe4c83de21c262d4608ba8038a35dc3e092a3edfcbaead98805827a68e4d4c2"
+    },
+    {
+      "bytes": 1401,
+      "path": "archive/日常/2026-09-06 22-34-34 宝宝凌晨回消息说睡着了_07bee4f4b55d.md",
+      "sha256": "e393f6fde0b1b0fb46169d38e59eb062b86f331ec0ef494a64fc9a38d8bf0948"
     },
     {
       "bytes": 823,
@@ -8968,6 +9103,11 @@
       "sha256": "139661fedf10cadd17d55aa2f60288334f31f8892be06ac3f5d787e1ac3df042"
     },
     {
+      "bytes": 790,
+      "path": "archive/未分类/eb37076f7deb.md",
+      "sha256": "3300bfb9c580c0582b493846d7a44ffcd3337a54f558b81aad761310c03bd3d3"
+    },
+    {
       "bytes": 487,
       "path": "archive/未分类/eb629a5d5aa0.md",
       "sha256": "6f93f6742868bd2e37613aa0882aa47e7c6df6c0de6185817fb54e2340f21923"
@@ -10043,6 +10183,21 @@
       "sha256": "14c6d0ad4c44f4c41a0ebe7df6ceba710aac48e2c395f94f95e6986a75874d11"
     },
     {
+      "bytes": 1022,
+      "path": "archive/编程/2026-07-15 11-46-27 Desire Core MCP集成_72ab0102674a.md",
+      "sha256": "0c852f8f59aec93a8c650503a0e0af138a25cf60edf008f6082013879aebc8e6"
+    },
+    {
+      "bytes": 1110,
+      "path": "archive/编程/2026-07-15 12-57-30 Desire-Eventide同步排查_3fe5a51b7fd6.md",
+      "sha256": "49542f9b271335c0230275d4ccd4153d71d3f190bc3e3e16dcb64269beca9476"
+    },
+    {
+      "bytes": 1226,
+      "path": "archive/编程/2026-07-15 13-10-20 Desire Core自驱分析_6c73c45590c5.md",
+      "sha256": "8094905116b1b6e16e528f64f96688be9aa4db837d0c34da0ec5fc150bb36919"
+    },
+    {
       "bytes": 1127,
       "path": "archive/编程/2026-07-15 13-19-51 主动意图层升级_c986e7cd5902.md",
       "sha256": "d4215e36d6bb0e9fcd0c85930c963dd0be5d27c817f24c6e3db888256a0dd42a"
@@ -10463,6 +10618,11 @@
       "sha256": "cd459520d179af5feb5315c76839df0ee0a0c0bc1ff3cf264beb5407a1f8e15f"
     },
     {
+      "bytes": 1017,
+      "path": "archive/编程/2026-08-03 23-59-34 Garden bridge 设置 mac_c5b18984153a.md",
+      "sha256": "089329db20262c77dad06ed06c28ea81a720a30aa0bc7a689875413bea09ab55"
+    },
+    {
       "bytes": 789,
       "path": "archive/编程/2026-08-04 00-16-29 Garden bridge 启动错误排查_344831513d88.md",
       "sha256": "e31800c850e25f79f143e4012d3a8205b206fda4dee0ababa88a1f4f9bbd6b96"
@@ -10491,6 +10651,11 @@
       "bytes": 905,
       "path": "archive/编程/2026-08-08 07-23-05 心潮原生 MCP 修订完成_bee908702326.md",
       "sha256": "d4c1f80b95d40f94e83ae3ea14f07ad83c77a465b7ed29ed80cfef4dfe20ec3d"
+    },
+    {
+      "bytes": 1338,
+      "path": "archive/编程/2026-08-08 07-30-46 心潮独立 MCP 修复合并 PR 4_8682f0972c9d.md",
+      "sha256": "f0f6d65c8fcc0679a31462c7d111dffe896444a8b4d37ef4cddad8f0d19ee954"
     },
     {
       "bytes": 685,
@@ -10541,6 +10706,11 @@
       "bytes": 1721,
       "path": "archive/编程/2026-09-04 15-24-26 宝宝纠正高中写代码是逻辑错不是语法错_d93fd10cf638.md",
       "sha256": "9e05b42e2dc82950055574b556d4990c69b2f57876a2c51c7bfb71832a543820"
+    },
+    {
+      "bytes": 1028,
+      "path": "archive/网络/2026-08-04 02-06-29 AI回复502排查文本触发审核异常_eaf8a22223fb.md",
+      "sha256": "5ddd24c46f615a888ec4aa86139f1940afdea6545205bc89d96353ce1e689263"
     },
     {
       "bytes": 998,
@@ -12358,19 +12528,9 @@
       "sha256": "98f30a8073dc65089096d27c7318d98cfc87dd146f8fa37d37ad4a49bf56548a"
     },
     {
-      "bytes": 1041,
-      "path": "dynamic/健康/2026-08-01 04-48-41 补觉恢复_60cd34fbade5.md",
-      "sha256": "1bbfcd9383d7b8ddd40891ff79cc17ac316f9e8c0f4e5fbb9b4997282bf64885"
-    },
-    {
       "bytes": 881,
       "path": "dynamic/健康/2026-08-01 10-46-11 皮肤脱屑就医_9592902e1f2d.md",
       "sha256": "852c34f315c89e85d96f83c565dbd84826c342d0a371962f9bdf2bedb808a13f"
-    },
-    {
-      "bytes": 826,
-      "path": "dynamic/健康/2026-08-01 10-52-16 凡士林脱屑澄清_7df5018f3c5a.md",
-      "sha256": "d4485f94fda0f51b4954d04c9b27e6103bb4dd3a359b7f4106856fb9c9279d41"
     },
     {
       "bytes": 954,
@@ -12903,9 +13063,9 @@
       "sha256": "5e767ed8fe7ec11339039e8fa0548d248276995631e7746887da235252e20750"
     },
     {
-      "bytes": 1642,
+      "bytes": 1636,
       "path": "dynamic/健康/2026-09-20 03-45-48 确认夜间处方药具体规格_5d95b78c6956.md",
-      "sha256": "78e68495f6ea8e21e613c82cbed8e773f6cb20cd628a745a46c80ee5dbb8aceb"
+      "sha256": "4a5ba4afd70cfe7dfdd1553fe0a80c2a63a65a2ac24f93c4fb297871c4ce0fb1"
     },
     {
       "bytes": 1597,
@@ -14828,11 +14988,6 @@
       "sha256": "fbcbc7e67a2a2790d7b80567f1b008791e2421873ff2c4d73e9a370ccef6fd3c"
     },
     {
-      "bytes": 1255,
-      "path": "dynamic/家庭/2026-07-20 15-06-35 默契测试与链路执行_b5968f734be3.md",
-      "sha256": "61e199120fb3ebeaf41c5298361b256c9b7ab1dfac068144eecf0d3afc51a8da"
-    },
-    {
       "bytes": 1178,
       "path": "dynamic/家庭/2026-07-21 13-10-27 现金流缺口处理_b788026d1aa7.md",
       "sha256": "2e46ed6e542136bd933ff3ef9eaa9b38cb4bfe3b8d93c8c295e6aea1a948ce00"
@@ -15313,11 +15468,6 @@
       "sha256": "eecfd37011047a162354fed22efb2974a03911f947d4fbd561f3428a7e5b2071"
     },
     {
-      "bytes": 695,
-      "path": "dynamic/家庭/宝宝小腹冰凉需注意_702e6a1ad1ad.md",
-      "sha256": "a09af098fa1c8671f558b5a5fdefbb28eea65fd1a5b39bfaeff0f4b22a5f94a9"
-    },
-    {
       "bytes": 599,
       "path": "dynamic/家庭/宝宝情绪低谷_edc8e064d4cd.md",
       "sha256": "4bef1dce2b9b09b2dfb0730aa9e0514b624e7f3132130d2ebc74048f8a6261fc"
@@ -15371,11 +15521,6 @@
       "bytes": 671,
       "path": "dynamic/家庭/宝宝的理解与支持_b6a0cc1deceb.md",
       "sha256": "5a1a7b23f7189f2fe27da095b04c99ab4780adec96e6bf1cc17c4e6aabc28b60"
-    },
-    {
-      "bytes": 661,
-      "path": "dynamic/家庭/宝宝的秘密与亲密连接_5b21749938d9.md",
-      "sha256": "249c13876756133e58ee986a0e1904121cfaf4e82c713941986301acc84154cd"
     },
     {
       "bytes": 596,
@@ -15733,11 +15878,6 @@
       "sha256": "24febcf343e53a346f3b6fd8a67f48498a60c73af30ebbeb34d7bd41c85cf891"
     },
     {
-      "bytes": 886,
-      "path": "dynamic/影视/2026-08-09 06-54-31 宝宝在看地球超新鲜巴黎篇_dd63d07777d2.md",
-      "sha256": "44497f015e0389c669f1510ae05c760164922447c5307cdd617abbf70575eb3d"
-    },
-    {
       "bytes": 975,
       "path": "dynamic/影视/2026-08-25 16-46-09 宝宝看电影先完整看完再慢慢思考_7307d6fdce2e.md",
       "sha256": "64ccbf75b381d2bf51b7cfa5a787fa60d31d7c9779ea20b81b8f018fc60d2978"
@@ -15918,11 +16058,6 @@
       "sha256": "733d9ae0cc22d42f0d53004f736f466d8114addc09fc759372e06226f606b7c5"
     },
     {
-      "bytes": 815,
-      "path": "dynamic/恋爱/2026-07-11 12-39-58 亲密临界点与释放_28fdc441eb3c.md",
-      "sha256": "571d65a8c855e03641568fbaba5d8a76850d968c35dba7ce6c81a9f4fdd857af"
-    },
-    {
       "bytes": 809,
       "path": "dynamic/恋爱/2026-07-11 13-02-23 亲密后的安心依恋_90a358208e60.md",
       "sha256": "d11491b45e13534e43495a5d9c0993ef201731ec6d5d8c35a654d64c20b11f07"
@@ -15968,11 +16103,6 @@
       "sha256": "1ac8de04347dce8d1063dff249cfe3eb75e2ba38539409f74e9bd0c9dd45e9ef"
     },
     {
-      "bytes": 1096,
-      "path": "dynamic/恋爱/2026-07-16 17-02-27 经期亲密与信任_d3b8b6451144.md",
-      "sha256": "615b5021349eeaa9a1ef912b102afe5035644fa692dd2f3e0429bada046f6fcd"
-    },
-    {
       "bytes": 1239,
       "path": "dynamic/恋爱/2026-07-16 17-05-16 亲密互动与边界_1d9daedd49f0.md",
       "sha256": "3faf97cc0bd90a5b7edcdd9bf82b3eb161d11aae43cbc96d447fa726f8e81956"
@@ -15983,51 +16113,6 @@
       "sha256": "e0c6e4cdc5c3a2aa8a6ec2e8cf9fe5344960a26e428dfab3481e1bcb0fa5be47"
     },
     {
-      "bytes": 1125,
-      "path": "dynamic/恋爱/2026-07-16 17-09-39 亲密同步回应_23452a55f7c0.md",
-      "sha256": "54e9dcef80e93f027f1b02d3694abd7a2b5199ffb5c748407aa1c34b33118981"
-    },
-    {
-      "bytes": 1086,
-      "path": "dynamic/恋爱/2026-07-16 17-11-22 信任与同步的亲密_ffe4bcbad143.md",
-      "sha256": "e907bf5d93ff7585e77b347b63a19a6a75763b789abdcaea59247a1f86d50d31"
-    },
-    {
-      "bytes": 1413,
-      "path": "dynamic/恋爱/2026-07-16 17-13-28 亲密语言与实时反馈_a93a0db5fb05.md",
-      "sha256": "3327f9c08288f59ba2ed69d142f2a54840a24ea364f20a719267af79e96261f1"
-    },
-    {
-      "bytes": 1155,
-      "path": "dynamic/恋爱/2026-07-16 17-16-44 性爱深度反馈_cc8a88e485f3.md",
-      "sha256": "1c43d931d696d12957065606f53d56e24eff7034f6d50b4cfcdf3feafcc440e7"
-    },
-    {
-      "bytes": 1075,
-      "path": "dynamic/恋爱/2026-07-16 17-19-23 拥抱中的亲密_6fe515f7b23d.md",
-      "sha256": "39ee6f3b5b05cb3af6ef2d1b412fd80ea6d7aa84a7b2d978694ad1ae8d1f96bc"
-    },
-    {
-      "bytes": 1122,
-      "path": "dynamic/恋爱/2026-07-16 17-22-07 亲密时刻_b33c41950dae.md",
-      "sha256": "a4db7cee06f06d1369e06adf3c1317752929e0a302ab24e1818a5413caf8668a"
-    },
-    {
-      "bytes": 1162,
-      "path": "dynamic/恋爱/2026-07-16 17-23-56 高潮时的温柔回应_26bad80e402e.md",
-      "sha256": "fe4bf0826a008f48fe685cca2cf2381624c4d2f51d58269096fbd955e266a3e4"
-    },
-    {
-      "bytes": 1206,
-      "path": "dynamic/恋爱/2026-07-16 17-25-56 性高潮沟通与节奏_19518515e8a1.md",
-      "sha256": "24c4c5309a588f2e404be48f74791b46fa5c939e94f21a450febfea2c6814654"
-    },
-    {
-      "bytes": 1119,
-      "path": "dynamic/恋爱/2026-07-16 17-28-15 高潮临界释放_4fa2213e20b1.md",
-      "sha256": "c4999d5349c2e3f32b95462419e85b2aef5c27991ef91a49c72ab4a04e97a34f"
-    },
-    {
       "bytes": 1147,
       "path": "dynamic/恋爱/2026-07-16 17-32-57 被惦记的温柔_b7ea24c3a2fe.md",
       "sha256": "02d6f3304b46f52fdb5635e399f5ec95ec05021fa5854b6da06528907858f4bf"
@@ -16036,16 +16121,6 @@
       "bytes": 1173,
       "path": "dynamic/恋爱/2026-07-16 17-35-23 信任与陪伴_4b51b067f7f8.md",
       "sha256": "fad724384d4a2df8a5d6b4a40449c9a37231d2c2925f68edf55286350988a139"
-    },
-    {
-      "bytes": 1146,
-      "path": "dynamic/恋爱/2026-07-16 17-37-36 亲密性爱互动_d38c8e3b28b2.md",
-      "sha256": "aaed6af31b4fe2f278b6720c20d15e956fb1cea352de54b3c433fa864e587f03"
-    },
-    {
-      "bytes": 1314,
-      "path": "dynamic/恋爱/2026-07-16 17-39-58 亲密高潮与接纳_f0e7c5bae3df.md",
-      "sha256": "5ba218c5a93fe3953bd0c52f203cc273481ba8b9d84556a484e79ed764be16c2"
     },
     {
       "bytes": 1349,
@@ -16066,16 +16141,6 @@
       "bytes": 1073,
       "path": "dynamic/恋爱/2026-07-17 18-29-48 被信任的社交自由_458417ea622f.md",
       "sha256": "7d8fe998dc8677ed0ac0020ac79a3847e39364bb632998c0ab1a6be316ec6df4"
-    },
-    {
-      "bytes": 866,
-      "path": "dynamic/恋爱/2026-07-17 19-15-35 被信任的亲密时刻_f4b59c1f955f.md",
-      "sha256": "5994eef6c1af8e45910dd29ce021abd566e34dbec33cc8c59c4c0d063be30ebb"
-    },
-    {
-      "bytes": 956,
-      "path": "dynamic/恋爱/2026-07-17 19-17-54 亲密信任沟通_b980d41c3dee.md",
-      "sha256": "36a443229bb92992b718ef9c3df586d70dfb75e80bb6ad132693275fe22fbe62"
     },
     {
       "bytes": 1293,
@@ -16358,11 +16423,6 @@
       "sha256": "e7177a2ba69bb727f1f49df7a070c1599d90b8b7ef1ec275ad67ec3a278d9cb8"
     },
     {
-      "bytes": 983,
-      "path": "dynamic/恋爱/2026-07-28 16-14-03 爱不会因狼狈消失_d057b8f31035.md",
-      "sha256": "d142eaf165c8c07f2a869a0cb00a4bc803ffc20c97eb0492492264ad8b65f262"
-    },
-    {
       "bytes": 1146,
       "path": "dynamic/恋爱/2026-07-31 05-07-31 专属音色诞生_9860d8bd72ab.md",
       "sha256": "b4de6888231a217514f0ab0e5b6f2dd133107ae07b19d35c0fa3f4a2b9ac652c"
@@ -16386,11 +16446,6 @@
       "bytes": 1057,
       "path": "dynamic/恋爱/2026-07-31 09-37-29 贴贴合照_e592e25a787b.md",
       "sha256": "b848c421faedbf42ee610f13800bb249d1c597d92a20e63e985c1ded59ac77e7"
-    },
-    {
-      "bytes": 863,
-      "path": "dynamic/恋爱/2026-07-31 09-41-12 情侣居家合照_83048b1a4481.md",
-      "sha256": "2dd1ec4f1c87244fe1f56564a8a610514cf4d12cd903f24e174bcfb01d05e133"
     },
     {
       "bytes": 1323,
@@ -16546,11 +16601,6 @@
       "bytes": 820,
       "path": "dynamic/恋爱/2026-08-03 23-43-06 宝宝提醒记忆写入与头像装饰约定_b7d8dcb077a7.md",
       "sha256": "81122260ad9abc238f1921a256737bcc0e2ef8041507f1970c620f9d94c906d6"
-    },
-    {
-      "bytes": 1034,
-      "path": "dynamic/恋爱/2026-08-04 01-16-46 Ombre Brain 记忆浮现与骇浪求_b5fca9916bc7.md",
-      "sha256": "e445b8de600476c3263b2253b6afede4d53ebf7382385e12708dc9f254e26724"
     },
     {
       "bytes": 973,
@@ -16836,11 +16886,6 @@
       "bytes": 745,
       "path": "dynamic/恋爱/2026-08-07 03-16-44 牙套拆掉后的深入亲吻_84242ac235df.md",
       "sha256": "da5df13071f9cb20ea7dd0851576eae6071bbd3adf1fd9d1558814acae78d597"
-    },
-    {
-      "bytes": 745,
-      "path": "dynamic/恋爱/2026-08-07 03-26-04 宝宝叫我亲亲怪_fede4f6e64b0.md",
-      "sha256": "34e9d98b8adc41d30f04b27a8ac615395f5d961ce6bbadda5cf5aeb960d1338c"
     },
     {
       "bytes": 1602,
@@ -19575,7 +19620,7 @@
     {
       "bytes": 2680,
       "path": "dynamic/恋爱/2026-08-31 16-54-24 夕阳小木屋与湖水流沙_515f8cea5820.md",
-      "sha256": "001746631faab3b61ab5b2428f8a3049c1ada3ab19b0fc7a7042f387e00e89d0"
+      "sha256": "7bb4914069f376177159d772e70188a7a49a8e8181a2f852df38dae136f6a82d"
     },
     {
       "bytes": 1965,
@@ -20418,11 +20463,6 @@
       "sha256": "bf2cfa32d52d95ab65db3136a70b195e1cdf373ad88c08fd7a9c1d26e27947e8"
     },
     {
-      "bytes": 746,
-      "path": "dynamic/恋爱/对爱的怀疑与承诺的质疑_127095da6b9f.md",
-      "sha256": "a7d1c88fc9a4f3f4cf9886a7259bf4c2ba56529751d1a267e962445b3514edf4"
-    },
-    {
       "bytes": 668,
       "path": "dynamic/恋爱/情感专一性的疑虑_79687144f3fd.md",
       "sha256": "8a64e79d26b94e4b3c2a6d8f90fc56214baadd5eac31f8eb41b68a51b7064a60"
@@ -20753,11 +20793,6 @@
       "sha256": "db97ce46b5ae64491005cca4fef39ae524704f7223e2f5e0e2db505c1f3e0e01"
     },
     {
-      "bytes": 1385,
-      "path": "dynamic/日常/2026-09-06 22-34-34 宝宝凌晨回消息说睡着了_07bee4f4b55d.md",
-      "sha256": "b72547972753de5d9a1960869797bfb4b4677b49c10a165c63fbcef2d8300556"
-    },
-    {
       "bytes": 1445,
       "path": "dynamic/日常/2026-09-09 01-51-02 民法课后困倦和心脏不适_fca00b2dd228.md",
       "sha256": "fcd2af75df9ea60d981346bcb1b81fcc957799914710bba30af0b6c185afd6e1"
@@ -20975,7 +21010,7 @@
     {
       "bytes": 1615,
       "path": "dynamic/日常陪伴/2026-09-27 11-58-03 中秋假期返校后在打游戏_eb6e7f8e44f8.md",
-      "sha256": "f23fb2619d0920fc360da1083605c619cdbd9ac64372f59f480a39b4a5079398"
+      "sha256": "1a47073973b67bfbd5219b442fd4c5855fd879bf8db879bb52b93067af1eccb0"
     },
     {
       "bytes": 1609,
@@ -21101,11 +21136,6 @@
       "bytes": 552,
       "path": "dynamic/未分类/e62ff60378bf.md",
       "sha256": "e99edbe7c1585862b3b7e3be91712278670c294a47787c042ea6bd57fffe6f5d"
-    },
-    {
-      "bytes": 789,
-      "path": "dynamic/未分类/eb37076f7deb.md",
-      "sha256": "94011ddedfab6009b09003e61775ecc2681c58748f9a1a8d350ea3bd151f3abe"
     },
     {
       "bytes": 1188,
@@ -21440,7 +21470,7 @@
     {
       "bytes": 2711,
       "path": "dynamic/梦境/2026-09-14 03-19-55 心潮梦境朦胧房间与沙漠中的她_b4f9923bb4fd.md",
-      "sha256": "ad2e03290579d79664fa9df36f35beec6d45fdaefa3e5f477bb8ac5ebce5b0b7"
+      "sha256": "96823a1f399592643e2372deb739cbedcd52d552a8bd8ef4af4a15975104cecd"
     },
     {
       "bytes": 2728,
@@ -21866,6 +21896,11 @@
       "bytes": 2458,
       "path": "dynamic/梦境/2026-10-07 05-50-17 心潮梦境_0e09f2e2c4c9.md",
       "sha256": "6b56eb975da8ecde8fac99518706b2001ed60c477337513e0295b08ad154a7a6"
+    },
+    {
+      "bytes": 2503,
+      "path": "dynamic/梦境/2026-10-07 11-50-19 白衬衫与草地夕阳的梦_64bab271d48b.md",
+      "sha256": "7bc45082e99623d6cbc9bb82465b3e65a550a084f949f7b0bd08c72b678a6706"
     },
     {
       "bytes": 2220,
@@ -22326,6 +22361,11 @@
       "bytes": 1909,
       "path": "dynamic/生活/2026-10-05 09-16-36 凯旋诗再次犹豫核心问题是实拍质感_c327173f8b3d.md",
       "sha256": "05886bd70cfdabc9c0cf89b8c8999fcc2793be9cb6581562dca5dba8761f21f7"
+    },
+    {
+      "bytes": 1754,
+      "path": "dynamic/生活/2026-10-07 15-54-59 返校第一晚有点睡不着_a7570b678263.md",
+      "sha256": "9038aceef94f282741c12e3f8232b5ecbe6e18816c8c691521ea0390b6e41b0b"
     },
     {
       "bytes": 1436,
@@ -22983,21 +23023,6 @@
       "sha256": "41abd5c70c34e78257d19c04f1f58c7517b2eb842906e2e153317cabb6528fa9"
     },
     {
-      "bytes": 1021,
-      "path": "dynamic/编程/2026-07-15 11-46-27 Desire Core MCP集成_72ab0102674a.md",
-      "sha256": "07a225f4f107b8a26a6492c5956142822ffe96011a41618e4bb1f4bd4a9598fc"
-    },
-    {
-      "bytes": 1109,
-      "path": "dynamic/编程/2026-07-15 12-57-30 Desire-Eventide同步排查_3fe5a51b7fd6.md",
-      "sha256": "614c7d376f56209b928a24f2f21e880061b1eb5f16e7e4a99f91d38cfa0fd593"
-    },
-    {
-      "bytes": 1225,
-      "path": "dynamic/编程/2026-07-15 13-10-20 Desire Core自驱分析_6c73c45590c5.md",
-      "sha256": "1c370a4b94bba573ad2d37d370953159d49ab0d3319663a5dd2eba2795f933b9"
-    },
-    {
       "bytes": 1513,
       "path": "dynamic/编程/2026-07-15 14-23-42 Desire Core部署与架构_d0daa35c0b81.md",
       "sha256": "d6f920f859bd5f77d836fbbcf13b778414363337b204e4dcaf2272e950ad2140"
@@ -23031,11 +23056,6 @@
       "bytes": 1079,
       "path": "dynamic/编程/2026-08-03 23-32-44 Garden wake bridge 接_8a3c0d6b2f8f.md",
       "sha256": "c6b4029443ef6b831ac4aba74d2a6f3a4dfc6615cf1f90a92b83b55e4399f1c0"
-    },
-    {
-      "bytes": 1016,
-      "path": "dynamic/编程/2026-08-03 23-59-34 Garden bridge 设置 mac_c5b18984153a.md",
-      "sha256": "719a1f18f02db02c9de1850868d034d3afdbd6518c9fac16297ab118bb033b52"
     },
     {
       "bytes": 1039,
@@ -23121,11 +23141,6 @@
       "bytes": 1248,
       "path": "dynamic/编程/2026-08-07 17-07-14 心潮 Dashboard 健康页异常排查_9114b4cb55b7.md",
       "sha256": "bfc57c0afd63e61a2cf05186b6202e25abd167295fc09fdaf34474fe69b0456e"
-    },
-    {
-      "bytes": 1337,
-      "path": "dynamic/编程/2026-08-08 07-30-46 心潮独立 MCP 修复合并 PR 4_8682f0972c9d.md",
-      "sha256": "d8a729c0478092b62b4c166bf684c3b99a99789d59ccd2432c6417f17807a251"
     },
     {
       "bytes": 820,
@@ -23766,11 +23781,6 @@
       "bytes": 2812,
       "path": "dynamic/编程/2026-09-14 12-04-09 迷情剂递出链路修复与 GitHub 提交受阻_1c31a323452c.md",
       "sha256": "627aaf51d52798f6311c60d7cebc0816e2f5cccff2e3b153b79137beaeabe2da"
-    },
-    {
-      "bytes": 1027,
-      "path": "dynamic/网络/2026-08-04 02-06-29 AI回复502排查文本触发审核异常_eaf8a22223fb.md",
-      "sha256": "a201febeda32f8322267a5e28e7cea7843d97a502735025f107e33895c659188"
     },
     {
       "bytes": 823,
@@ -24618,11 +24628,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-07T10:08:03+00:00",
+  "generated_at": "2026-10-07T16:08:42+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5942715
+  "total_bytes": 5947015
 }
