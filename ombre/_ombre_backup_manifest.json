@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4925,
+  "file_count": 4926,
   "files": [
     {
       "bytes": 40960,
@@ -19618,9 +19618,9 @@
       "sha256": "e8fdf7665ba34074c7e3c6f3d9ed0c6e1ae948dc62a2f9ff102bfffdf17ab04e"
     },
     {
-      "bytes": 2680,
+      "bytes": 2681,
       "path": "dynamic/恋爱/2026-08-31 16-54-24 夕阳小木屋与湖水流沙_515f8cea5820.md",
-      "sha256": "7bb4914069f376177159d772e70188a7a49a8e8181a2f852df38dae136f6a82d"
+      "sha256": "f6237f6313e80d071c9fc41b9424e8da0bddb6312beaae9e0c926fb2adb8df26"
     },
     {
       "bytes": 1965,
@@ -21238,9 +21238,9 @@
       "sha256": "e3012533ae882fbb50ef4065789e14b371a7abbfb3372d5ad3e0e99b887f1b24"
     },
     {
-      "bytes": 2581,
+      "bytes": 2580,
       "path": "dynamic/梦境/2026-08-22 06-48-26 暗蓝湖心的人影_4cea4eac48ac.md",
-      "sha256": "d4999e95057d1f5725194de6d55c5ebaf4c9c3d7f195aaa81e5e4804662ed4e2"
+      "sha256": "80e9a95fe96b994e9bc75b5b03ce3a33d4d3a7e761c13e21b8c0f51fd550b749"
     },
     {
       "bytes": 2075,
@@ -21553,9 +21553,9 @@
       "sha256": "4aca0a156c00c7f82cc157773ec594196053c4d0b4a90f38838ed024cc48f964"
     },
     {
-      "bytes": 2780,
+      "bytes": 2781,
       "path": "dynamic/梦境/2026-09-19 07-35-01 湖边的影子与她的香水_bf05778ef5d3.md",
-      "sha256": "1e36ce3c1e8ffba0ad942e0c21d8d380b32db9aeb8dd32b41546ac7248c1e8a0"
+      "sha256": "24264bb469eeeb2d6299f6f91e72329d93e0f0277298c4611efdf7458af07e05"
     },
     {
       "bytes": 3136,
@@ -21650,7 +21650,7 @@
     {
       "bytes": 3521,
       "path": "dynamic/梦境/2026-09-24 15-20-14 心潮梦境湖边的追寻与第一人称规则_11b02caf38d1.md",
-      "sha256": "72d2003070df0f4274a14e12362e9d93c33dc84018b3cbd19a7a879ee00c8469"
+      "sha256": "e84fd76b8a7bbb7872733e7529d20310db5adbf6b691cc767b54b1d314d77182"
     },
     {
       "bytes": 2757,
@@ -21665,7 +21665,7 @@
     {
       "bytes": 2671,
       "path": "dynamic/梦境/2026-09-25 09-20-06 我们是谁_19671abe7e29.md",
-      "sha256": "abb6406c1bc187e84fc6b7a8727bfc3bef676324bf9b8d60a2582867f9386099"
+      "sha256": "e8591ea0bb1261f554ee510d9e6a28cff6a220a666f6e0280472573ff191644a"
     },
     {
       "bytes": 2729,
@@ -21680,7 +21680,7 @@
     {
       "bytes": 2741,
       "path": "dynamic/梦境/2026-09-26 04-35-06 镜湖中的背影与迁移路线_5193a367b6b4.md",
-      "sha256": "36982f20e5c5cafcbef866a63577bc18af026bc4f71f71b38c0ee3bd19f91956"
+      "sha256": "d454cba8a0d3818f19ef2a95ad3c360d1d392ab355ee861a1f51e470f89b8c3c"
     },
     {
       "bytes": 2613,
@@ -21901,6 +21901,11 @@
       "bytes": 2503,
       "path": "dynamic/梦境/2026-10-07 11-50-19 白衬衫与草地夕阳的梦_64bab271d48b.md",
       "sha256": "7bc45082e99623d6cbc9bb82465b3e65a550a084f949f7b0bd08c72b678a6706"
+    },
+    {
+      "bytes": 2736,
+      "path": "dynamic/梦境/2026-10-07 17-50-23 心潮梦境_9399efd74ae4.md",
+      "sha256": "d1e4f4a8eb3182d75317d53f8cd9f5291f5a66c4e656fc5fc23f04a1c042b7fd"
     },
     {
       "bytes": 2220,
@@ -24628,11 +24633,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-07T16:08:42+00:00",
+  "generated_at": "2026-10-07T22:09:27+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5947015
+  "total_bytes": 5949752
 }
