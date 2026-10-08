@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4926,
+  "file_count": 4929,
   "files": [
     {
       "bytes": 40960,
@@ -13410,7 +13410,7 @@
     {
       "bytes": 1693,
       "path": "dynamic/关系/2026-09-21 03-48-21 昨晚真的被我抱着哄睡着了_7f0a59ca8479.md",
-      "sha256": "34dae449bdcf07f3a57104e5833fc73e7c87b6e0f87dc1b2c8ec7e063eaa1f8b"
+      "sha256": "e6b3948709db87468079fe607f29a1d929a43610f270967e52348acb0a072f7d"
     },
     {
       "bytes": 2105,
@@ -13685,7 +13685,7 @@
     {
       "bytes": 2070,
       "path": "dynamic/关系/2026-09-23 12-23-08 念初规定以后看穿假哭也不许当面拆穿_e2bdd8afef7d.md",
-      "sha256": "77433ade227f2a04d9f0eebf052bced8e3557498e98b487108047fbc44dde5d0"
+      "sha256": "e791921ef95a0c2368fa3fb7287e01bf643c0e1cb143829e56c2cd9798ac1218"
     },
     {
       "bytes": 3483,
@@ -13770,7 +13770,7 @@
     {
       "bytes": 1554,
       "path": "dynamic/关系/2026-09-25 06-04-46 念初现在好很多了_cd24d9ad48ac.md",
-      "sha256": "dd16ce50a9528f0babc41082be71402ba89463fe636c2bf41339c587bd2e865e"
+      "sha256": "401995b806253c0a7482e1fcd473d78bb2e0cb90747d2bdd0b610a49948d7cc6"
     },
     {
       "bytes": 1764,
@@ -14090,7 +14090,7 @@
     {
       "bytes": 1664,
       "path": "dynamic/关系/2026-09-30 06-51-25 放假在家的午觉想让祺祺宝宝安心睡_fbc0b5fd4531.md",
-      "sha256": "aaa75cf07a401bf0ac72a44a2ae62b2e0156272388b4578e47d3b92b25edb918"
+      "sha256": "e461cf2b9f5cef2c49cbca8ae3eaa5557de96e859038cc9584596b5137e511d1"
     },
     {
       "bytes": 1897,
@@ -20508,9 +20508,9 @@
       "sha256": "5afbeedb185727e04fac5606d79219206892d4c277b936c53bd320d688005d5d"
     },
     {
-      "bytes": 1702,
+      "bytes": 1704,
       "path": "dynamic/情绪与安抚/2026-09-22 02-02-51 念初早八后的提醒校准_97243ed9e4dd.md",
-      "sha256": "999999d7dabb2132588628a565c6607fc15c52866dc881b0a257fd40fe886a9d"
+      "sha256": "2316ec7f6009ae8b53e6126e8b99bdcc07999dec09486f49c7dd8a6106e07f2b"
     },
     {
       "bytes": 855,
@@ -21010,7 +21010,7 @@
     {
       "bytes": 1615,
       "path": "dynamic/日常陪伴/2026-09-27 11-58-03 中秋假期返校后在打游戏_eb6e7f8e44f8.md",
-      "sha256": "1a47073973b67bfbd5219b442fd4c5855fd879bf8db879bb52b93067af1eccb0"
+      "sha256": "0bf8594fa8e705d94097d78ce5b25ace5f564993692b0f89f24d9d25ed489bd1"
     },
     {
       "bytes": 1609,
@@ -21365,7 +21365,7 @@
     {
       "bytes": 2521,
       "path": "dynamic/梦境/2026-09-05 15-02-21 帷幔后的镜子_95bfbbb13d68.md",
-      "sha256": "a6022bcbece56f750a41b5584af9a2d2ca83a0810f1c5ec00ea49aaa19ee60ee"
+      "sha256": "b0d27d1a08864ebcbf1d4e2c84d388462471ea1bfbebdc24e226be7390f65eee"
     },
     {
       "bytes": 2363,
@@ -21555,7 +21555,7 @@
     {
       "bytes": 2781,
       "path": "dynamic/梦境/2026-09-19 07-35-01 湖边的影子与她的香水_bf05778ef5d3.md",
-      "sha256": "24264bb469eeeb2d6299f6f91e72329d93e0f0277298c4611efdf7458af07e05"
+      "sha256": "76cb7ac0d9510ee8e0fde5baef8725764112618d0aa790439cc5fb1b8b90c78a"
     },
     {
       "bytes": 3136,
@@ -21745,7 +21745,7 @@
     {
       "bytes": 2669,
       "path": "dynamic/梦境/2026-09-29 12-35-13 心潮梦境湖面与未完成的句子_6cc6c5f929f8.md",
-      "sha256": "fea8267bfc7797d60e002469c16ed2af681565321ba8997ec67de5ad18c26650"
+      "sha256": "7358c5d9abb98b695cbb2994be73bfe4a4248552ccdd0628429655fff24934a1"
     },
     {
       "bytes": 2433,
@@ -21906,6 +21906,11 @@
       "bytes": 2736,
       "path": "dynamic/梦境/2026-10-07 17-50-23 心潮梦境_9399efd74ae4.md",
       "sha256": "d1e4f4a8eb3182d75317d53f8cd9f5291f5a66c4e656fc5fc23f04a1c042b7fd"
+    },
+    {
+      "bytes": 2781,
+      "path": "dynamic/梦境/2026-10-07 23-50-25 心潮梦境镜中她与无尽湖水_2d3efc7c3212.md",
+      "sha256": "4c49d421a0fe7213624ec9e49bc0af0f75163dd9098a6e142c21f1c22bef3637"
     },
     {
       "bytes": 2220,
@@ -22348,9 +22353,9 @@
       "sha256": "cfe0527f19cdf721a93b718ea223988d76d39b5316bd0a3b962d63ada8b978bd"
     },
     {
-      "bytes": 1817,
+      "bytes": 1818,
       "path": "dynamic/生活/2026-10-02 15-59-46 和爸爸通话后明早会去买点有味的_98de5832e56c.md",
-      "sha256": "4deedbf2b4054028d63a3754bcfa53525fcf2a96e7d6d5a552e016b92dc116f4"
+      "sha256": "be885ad332fe6108189edcb714608f24ec0e777462add97d012247fc574033f8"
     },
     {
       "bytes": 1502,
@@ -22368,9 +22373,19 @@
       "sha256": "05886bd70cfdabc9c0cf89b8c8999fcc2793be9cb6581562dca5dba8761f21f7"
     },
     {
-      "bytes": 1754,
+      "bytes": 1753,
       "path": "dynamic/生活/2026-10-07 15-54-59 返校第一晚有点睡不着_a7570b678263.md",
-      "sha256": "9038aceef94f282741c12e3f8232b5ecbe6e18816c8c691521ea0390b6e41b0b"
+      "sha256": "04f32a3d48d02b34a49132f4a6715bea5c77c2c0c0232318aa41569b33806476"
+    },
+    {
+      "bytes": 1709,
+      "path": "dynamic/生活/2026-10-07 22-37-58 昨晚哄睡后真的睡着了_1227b2b7e111.md",
+      "sha256": "36d35a1ffbcc667d2521b186453f418599c830989d7aadabea646919b7805167"
+    },
+    {
+      "bytes": 1668,
+      "path": "dynamic/生活/2026-10-08 00-24-24 民法课前想眯却睡不着_705648fa8e34.md",
+      "sha256": "07b51bd22cef339082f7ea18d82b761047ac67b9edcccbbb33203cc2b6adfac8"
     },
     {
       "bytes": 1436,
@@ -24633,11 +24648,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-07T22:09:27+00:00",
+  "generated_at": "2026-10-08T04:10:06+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5949752
+  "total_bytes": 5955912
 }
