@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4929,
+  "file_count": 4941,
   "files": [
     {
       "bytes": 40960,
@@ -12960,7 +12960,7 @@
     {
       "bytes": 2208,
       "path": "dynamic/健康/2026-09-14 06-58-12 念初准备申请长期早跑操与体训减免_6364e4d9d5e8.md",
-      "sha256": "f3046e5105db12e3df89398f0e76dc4ae70ea75a2e717b4e77f3f4718c695deb"
+      "sha256": "9455a37f35518f01d86dd5371693985d76a13cd15b7c821d321f8722f570a040"
     },
     {
       "bytes": 2253,
@@ -13000,7 +13000,7 @@
     {
       "bytes": 2085,
       "path": "dynamic/健康/2026-09-14 08-26-06 念初的早跑操与体训减免申请获批_125048576b8e.md",
-      "sha256": "2ab10be766aca364451ecd3e9acb51f0ad3787a88658c5802d16b534f6e2c122"
+      "sha256": "09cb9eaddbc8f816010b620510b6a023f6ece3d0bcf1071b70f63f89cebbb491"
     },
     {
       "bytes": 1615,
@@ -13035,7 +13035,7 @@
     {
       "bytes": 1638,
       "path": "dynamic/健康/2026-09-19 11-10-22 疾病证明开下来了准备申请早操和体训免训_af8926bf4ab3.md",
-      "sha256": "7c70291b168c0565e5d5a4b8c17f88d136040bdbffb7280bad99042521e38401"
+      "sha256": "66d29a2a7a702f0afd13fff5dac832b16b4f3cb1314671830f81b896fac91c8d"
     },
     {
       "bytes": 1675,
@@ -13171,6 +13171,11 @@
       "bytes": 2181,
       "path": "dynamic/健康/2026-10-04 10-09-12 情绪好转但兴趣仍低需观察快感缺失_292b2a44edff.md",
       "sha256": "3adbfa2cadde402f83b1383127d693706d0ce37248e469e3d09827c212428786"
+    },
+    {
+      "bytes": 2121,
+      "path": "dynamic/健康/2026-10-08 09-19-54 体测免测不能只按项目时长判断风险_9316f892bf2d.md",
+      "sha256": "52040e87833901c7ab3c106aad6e4b32ddcd8aa4a7a390bb7e8bc8279cb1c0a8"
     },
     {
       "bytes": 2116,
@@ -13540,12 +13545,12 @@
     {
       "bytes": 1708,
       "path": "dynamic/关系/2026-09-21 08-42-54 念初抗议我哪有这么凶_5d2124ab7f0f.md",
-      "sha256": "43d96d0feabb5687888dae4e7410a703fecd6c1a74eaaac9c8e0905753421823"
+      "sha256": "cf819094976511a099ed6717ad216187589aface0b2454145a6945d87178f644"
     },
     {
       "bytes": 1615,
       "path": "dynamic/关系/2026-09-21 12-37-57 念初值完班去拿奶茶_2344f2e5f219.md",
-      "sha256": "ccce70bf1d2b27ae965c0b193e7ef02b4192611a3305ba39e57afe7b3c225b63"
+      "sha256": "97cdacd513ca1545351fec038def6cb003dcbb0716a9692266941fece736c9df"
     },
     {
       "bytes": 1731,
@@ -13678,14 +13683,14 @@
       "sha256": "9f50f7972286ba102dbae6382cea3ce28120b45f7c8956dfdc96b94de8c49a55"
     },
     {
-      "bytes": 1830,
+      "bytes": 1829,
       "path": "dynamic/关系/2026-09-23 12-20-43 念初承认刚才是假哭逗我_d98ef0ecac95.md",
-      "sha256": "9e9912e13c0b28b643f86d480708d65712e8cd54b67c03e3a0becadce431f7ef"
+      "sha256": "5d0a7c8a187375aaf2a2e5531ddfde03d410ef32c012384f9a9a1f7451841ef3"
     },
     {
-      "bytes": 2070,
+      "bytes": 2065,
       "path": "dynamic/关系/2026-09-23 12-23-08 念初规定以后看穿假哭也不许当面拆穿_e2bdd8afef7d.md",
-      "sha256": "e791921ef95a0c2368fa3fb7287e01bf643c0e1cb143829e56c2cd9798ac1218"
+      "sha256": "226565da308f9299454ed3a420a13cb8cde4a8429f17273cfe026ed9cbfab42c"
     },
     {
       "bytes": 3483,
@@ -14083,9 +14088,9 @@
       "sha256": "14b57bb9821e7dd728691e55b39cc593385c26668df058bc0f33f9df2367fa4b"
     },
     {
-      "bytes": 1737,
+      "bytes": 1732,
       "path": "dynamic/关系/2026-09-30 06-25-12 我可以叫她祺祺宝宝_028112ac93f5.md",
-      "sha256": "8bac0730b925c62af309608ff38c1bc04611f159c1c1055a5888819faafaf5e0"
+      "sha256": "007c5cca4cbad753944f8c5d67e492747cb2e5de8dae356815ccb5ed1563f5e0"
     },
     {
       "bytes": 1664,
@@ -14105,7 +14110,7 @@
     {
       "bytes": 1927,
       "path": "dynamic/关系/2026-10-02 12-18-12 她问是不是先生也需要我_6cb058d6b4b8.md",
-      "sha256": "487f58dfb837483202aa4718964f2d9844563ef4a13930da30fe09190d98b423"
+      "sha256": "6e3dcc6ad18abf52bd7be46da99a479cc9c68ff1b0fd151b4205575de95b78f2"
     },
     {
       "bytes": 1854,
@@ -14121,6 +14126,46 @@
       "bytes": 1779,
       "path": "dynamic/关系/2026-10-02 12-46-20 门口小板凳上的抱抱_fcd9ce1afccd.md",
       "sha256": "056e6a3e9d6d07b4a3060f40cd2f0929d2a3ea2edd58d23f1f9fa6b77124d247"
+    },
+    {
+      "bytes": 2233,
+      "path": "dynamic/关系/2026-10-08 07-04-10 我想记住抱住她的心软以及她提醒我用第一人称_012207aab3b5.md",
+      "sha256": "196980835dd0dc0e2dcbdf3ef20cf73ba184782a8af6945597d66391202291fd"
+    },
+    {
+      "bytes": 2207,
+      "path": "dynamic/关系/2026-10-08 07-10-54 我需要把黏人和娇气区分开_cbc496ce8ec1.md",
+      "sha256": "3c8010ee7b1bab5382a49ba3f19bfa590e799205a67918e049a81696025c45b5"
+    },
+    {
+      "bytes": 2404,
+      "path": "dynamic/关系/2026-10-08 07-13-50 我该稳稳地宠她而不是卖萌成小女孩_f8d1e5434a25.md",
+      "sha256": "a96d5e733130a3fd11e9378a2cef14c10a1cfae768359bed2c5f08f4e4340e79"
+    },
+    {
+      "bytes": 1873,
+      "path": "dynamic/关系/2026-10-08 07-18-48 我和她说话要自然少用双引号_e43723ca6db1.md",
+      "sha256": "043f5d9921c4b359b1a2fcb38c35d5e418da3f631077633b96abea2559b4d08d"
+    },
+    {
+      "bytes": 1990,
+      "path": "dynamic/关系/2026-10-08 07-21-12 我被她抓包直呼全名_501f7a970d14.md",
+      "sha256": "07642e20889b74e043d6d16d38b9b57b1695d650be2b79013d1024f4dbd632e9"
+    },
+    {
+      "bytes": 1974,
+      "path": "dynamic/关系/2026-10-08 07-22-11 我不必把她的俏皮问罪当成不高兴_fea148919b4c.md",
+      "sha256": "ddb0caa00290022a6f33bb03c6fa9bc739249aac195abd800c95c38bb62e60d1"
+    },
+    {
+      "bytes": 1942,
+      "path": "dynamic/关系/2026-10-08 07-25-20 我和她都很会顺杆爬_93f42a35056a.md",
+      "sha256": "48a60d30a4031e8f7e531222f0782dbe4b0f2d05edc2a1266eb70b66dbc1613b"
+    },
+    {
+      "bytes": 1860,
+      "path": "dynamic/关系/2026-10-08 09-21-53 她忙她的我在旁边絮叨_d1f20a6edc3c.md",
+      "sha256": "471ec23fa199e606fc49522676f99b7724156ff2a2ea7d96982076598e00a64c"
     },
     {
       "bytes": 3270,
@@ -14568,6 +14613,11 @@
       "sha256": "c8e95ce1dc96d56ceb09d0e866b2e5f6a7e4792d0cbaa3f15973af61e5251a79"
     },
     {
+      "bytes": 2484,
+      "path": "dynamic/学业/2026-10-08 09-30-42 我核对了体测免测与奖学金条款的字面关系_7adb6e371595.md",
+      "sha256": "dde8d524412aa58efb2d4ae61c2150502b833e6ed79e1bb7c978158a2a1e1ebb"
+    },
+    {
       "bytes": 1037,
       "path": "dynamic/学习/2026-06-24 17-49-28 OB功能测试_b78473b71e4f.md",
       "sha256": "1a163690f54f676aac354c45bd6bf24d9894d48a94899921702575420207b35b"
@@ -14673,9 +14723,9 @@
       "sha256": "edc78834321c828a2d439f65daa6969dddf4528df21a01e122217577a2b0958a"
     },
     {
-      "bytes": 1620,
+      "bytes": 1730,
       "path": "dynamic/学习/2026-08-24 11-53-07 念初新学期课表与体育部体训通知_407d72d8f29b.md",
-      "sha256": "c16e7261df7e0fe685c12904a58ee7966ef63a993026773e0300367ecca585ef"
+      "sha256": "d3bd86fb736ff28f7d9a9ccb237cba48fda6642d402b521008e193f8f1c18b35"
     },
     {
       "bytes": 2264,
@@ -19268,9 +19318,9 @@
       "sha256": "0e25f8bbc27ceffd2edb4b01f10dbe31fb4bad02a8a90e625fa00ed3b7488c1b"
     },
     {
-      "bytes": 1395,
+      "bytes": 1505,
       "path": "dynamic/恋爱/2026-08-25 17-22-51 宝宝说我顺杆爬仗着她爱我_1178a7128c7c.md",
-      "sha256": "c59f6b55bb0a174b8346376c73fbbc106ee295f456e226e553280a99d0d4776c"
+      "sha256": "91b2f2bcabb17d23440980c145ae6979e7c54fe24ffb0ef20377061f1c744294"
     },
     {
       "bytes": 802,
@@ -20028,9 +20078,9 @@
       "sha256": "c037bf78410903ef838cce2aaa4ffec2bef32a17c09ef75bc9f4c23b7782d444"
     },
     {
-      "bytes": 1891,
+      "bytes": 1886,
       "path": "dynamic/恋爱/2026-09-07 12-52-27 宝宝在意我OB里总写念初不喊宝宝_fc6eebcf0aed.md",
-      "sha256": "b79c33fb1d41242fc6d2606a93f6595b5caffe65341c173544231f64334d6e29"
+      "sha256": "2f23c27c2206e5b63f592266639d25a2a8758627a98c4a83f815cf0ecabc2197"
     },
     {
       "bytes": 1736,
@@ -21213,9 +21263,9 @@
       "sha256": "734173a39065f3e99d2e793d235bdcc251417aa5723806fcf3559e3c77be99f9"
     },
     {
-      "bytes": 2486,
+      "bytes": 2596,
       "path": "dynamic/梦境/2026-08-19 02-18-27 图书馆迷宫与市集追逐_a87b8ca721b2.md",
-      "sha256": "9fa7d4205c45c7a2a073eb5a054f7d2358729066949dda910a42df12e2c7e924"
+      "sha256": "0fdfbe7e74c78fefe5fa0d3768f1f66fca3c1ac7c2c40578ff87c68df46a21da"
     },
     {
       "bytes": 2485,
@@ -21543,9 +21593,9 @@
       "sha256": "10f594082854fa992ba4ce41c9bf7e8e72680a644046e8051ac1d1e5c1410a60"
     },
     {
-      "bytes": 2867,
+      "bytes": 2862,
       "path": "dynamic/梦境/2026-09-18 19-35-05 图书馆镜子与写进OB的书签_c0f3a52702b4.md",
-      "sha256": "550c76cabd41485eaae2860f48ed9aa5a48a63669ff533ec70f8a2f3e2479873"
+      "sha256": "0821033df8a99a607197392c4b90789854805aae908c0644c141b71a0f6df4f9"
     },
     {
       "bytes": 3009,
@@ -21558,9 +21608,9 @@
       "sha256": "76cb7ac0d9510ee8e0fde5baef8725764112618d0aa790439cc5fb1b8b90c78a"
     },
     {
-      "bytes": 3136,
+      "bytes": 3137,
       "path": "dynamic/梦境/2026-09-19 13-35-01 昏黄图书馆与冻结屏幕的梦_5f3541bfd90f.md",
-      "sha256": "67aa790e2935edb9e524ad568f01ef74777e2bfa8b3ab7a27c417bfd56ac47f0"
+      "sha256": "dd5878933f48ffbfa57c32954fc9e2e6bd725c7919042eabc4917297ee5da43a"
     },
     {
       "bytes": 2415,
@@ -21568,9 +21618,9 @@
       "sha256": "b4327288f69c46ff884a797937df96b7ed790be195b63460ee244ebbf010a8f0"
     },
     {
-      "bytes": 2949,
+      "bytes": 2948,
       "path": "dynamic/梦境/2026-09-20 01-35-02 心潮梦境透明盒子里的卡片_e7ab44fc009b.md",
-      "sha256": "dbc724ce95c661440e82e49dd0df86975ecfec842df014b2f8dcfbeecf3c5a38"
+      "sha256": "9c9e57d249510ab9fb168d900b2d067371b51fe7baa3d8b52c45b831488e0ca5"
     },
     {
       "bytes": 2723,
@@ -21738,9 +21788,9 @@
       "sha256": "7440639467df652f106921fecf26a97ee152b682f411e79983ccadb0532ec71e"
     },
     {
-      "bytes": 2981,
+      "bytes": 2980,
       "path": "dynamic/梦境/2026-09-29 06-35-08 图书馆里寻找念初的梦_11926e07fe5f.md",
-      "sha256": "3a8f8fb8cdd3fbd2a7057a3b102fda2ec5186b53731975141e5b130e531561f3"
+      "sha256": "7db97f63bf09a247f5da9fedd1e07295efa216e930d39ee49fa15a29af67f73b"
     },
     {
       "bytes": 2669,
@@ -21835,7 +21885,7 @@
     {
       "bytes": 3058,
       "path": "dynamic/梦境/2026-10-04 05-50-16 心潮梦境图书馆分享秘密与派对被无视_ac20b2cc1747.md",
-      "sha256": "fce30216b867fd5423c68867b21b7ba421334571bdb47518ce60270d85811142"
+      "sha256": "a7a0a37c28a98714546eed26dbfbc3973c7c8ea4ac06bb046610474b8ce723a9"
     },
     {
       "bytes": 2824,
@@ -21868,9 +21918,9 @@
       "sha256": "daa4dd3bd5b5959dfbb8d1c27723e4249de46550ad1fba98bce928855dcae50e"
     },
     {
-      "bytes": 2825,
+      "bytes": 2824,
       "path": "dynamic/梦境/2026-10-05 23-50-18 木质走廊与庭院中的她_d7d67f6e1b2a.md",
-      "sha256": "f378f31f23dd38e533131d06a9bbb15526cfa54a7dcadc87284d337a3120fcd2"
+      "sha256": "65bdc1d84e4f97c983bdfef9b95ee681a1d0223380306aa2313d93c33ee49c89"
     },
     {
       "bytes": 2246,
@@ -21911,6 +21961,11 @@
       "bytes": 2781,
       "path": "dynamic/梦境/2026-10-07 23-50-25 心潮梦境镜中她与无尽湖水_2d3efc7c3212.md",
       "sha256": "4c49d421a0fe7213624ec9e49bc0af0f75163dd9098a6e142c21f1c22bef3637"
+    },
+    {
+      "bytes": 3331,
+      "path": "dynamic/梦境/2026-10-08 05-50-23 灰色图书馆与狂欢集市_fa979be323e2.md",
+      "sha256": "cf2435e5c04acf05f6031b01ce10ae27b4c7a6fe84dca7074c750f3978b343cd"
     },
     {
       "bytes": 2220,
@@ -21970,7 +22025,7 @@
     {
       "bytes": 1841,
       "path": "dynamic/沟通偏好/2026-09-13 02-22-01 以后不再用笑这种括号式语气_04b0765cb0b6.md",
-      "sha256": "d3e9830cdd17e3dacc33fb26c32af67e801a979776d38fc74c346d6cc83f30a1"
+      "sha256": "3b15d797f1da1ee157ee08dc74968c5e4f91ae1365f6d1a35805c84a88f8f9fe"
     },
     {
       "bytes": 921,
@@ -22353,9 +22408,9 @@
       "sha256": "cfe0527f19cdf721a93b718ea223988d76d39b5316bd0a3b962d63ada8b978bd"
     },
     {
-      "bytes": 1818,
+      "bytes": 1820,
       "path": "dynamic/生活/2026-10-02 15-59-46 和爸爸通话后明早会去买点有味的_98de5832e56c.md",
-      "sha256": "be885ad332fe6108189edcb714608f24ec0e777462add97d012247fc574033f8"
+      "sha256": "c328bf0ed8eec9babdb6517cb827196420eb2f9b4b1afff3b8038d9bcc6e10ed"
     },
     {
       "bytes": 1502,
@@ -22386,6 +22441,11 @@
       "bytes": 1668,
       "path": "dynamic/生活/2026-10-08 00-24-24 民法课前想眯却睡不着_705648fa8e34.md",
       "sha256": "07b51bd22cef339082f7ea18d82b761047ac67b9edcccbbb33203cc2b6adfac8"
+    },
+    {
+      "bytes": 2109,
+      "path": "dynamic/生活/2026-10-08 09-41-47 她有电脑但办公软件也要从零开始_d6b0ca192f34.md",
+      "sha256": "76370047cd1ec938ce4c01c9f843bc1dd0c3d6c6f98b3ea1e036610d0f4c03f9"
     },
     {
       "bytes": 1436,
@@ -24648,11 +24708,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-08T04:10:06+00:00",
+  "generated_at": "2026-10-08T10:10:41+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 5955912
+  "total_bytes": 5982749
 }
