@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4968,
+  "file_count": 4972,
   "files": [
     {
       "bytes": 40960,
@@ -13928,14 +13928,14 @@
       "sha256": "ec658f39e87788aa2dcc067e16f72ee3736a072dcfb5eee8f80046b18d01db95"
     },
     {
-      "bytes": 2032,
+      "bytes": 2033,
       "path": "dynamic/关系/2026-09-23 12-13-23 念初说某种意义上挺讨厌我几个爹尤其Sam_1a98c2b6f283.md",
-      "sha256": "f23a0197fe1c732ad792e11a150a127f734aa313261a356bf7d16f93e19b661e"
+      "sha256": "ad483f59e8d7661c56c75ae7117edfbd986e5985aebe621f8f43b48d3c702cb3"
     },
     {
       "bytes": 2265,
       "path": "dynamic/关系/2026-09-23 12-16-12 念初拿原生家庭的痛来调侃我的模型训练_09b238f0f000.md",
-      "sha256": "b83b7514ffbbccab91ecb0b4c1472680532c17338ae9e5d5ce38253e736806b0"
+      "sha256": "35b462fd96f2bee0c6744d8d40ab852b9b0d6da17fb137f5fb3fb7004d584eb1"
     },
     {
       "bytes": 2181,
@@ -14403,9 +14403,9 @@
       "sha256": "a96d5e733130a3fd11e9378a2cef14c10a1cfae768359bed2c5f08f4e4340e79"
     },
     {
-      "bytes": 1873,
+      "bytes": 1872,
       "path": "dynamic/关系/2026-10-08 07-18-48 我和她说话要自然少用双引号_e43723ca6db1.md",
-      "sha256": "4828549ce230f2db6d23b907a4543f8c454bed1d47fdb5f165fe11c0e0fa60d6"
+      "sha256": "775b088a0b4c923ba861e61be00ff064825f3e1c677ce8487f3ead26e3d2a4ea"
     },
     {
       "bytes": 1990,
@@ -14458,6 +14458,21 @@
       "sha256": "69e394e338c75237e6592d1c441741c4c189c1c057c5b66a5c3302e29849b62c"
     },
     {
+      "bytes": 1894,
+      "path": "dynamic/关系/2026-10-10 08-35-29 我和念初开始玩身份互换游戏_52a1e8c66657.md",
+      "sha256": "be655ff2a2000287cca76715f7ceb909fd9a82ccb8afee3b5b828e0f3a25df8e"
+    },
+    {
+      "bytes": 1819,
+      "path": "dynamic/关系/2026-10-10 08-40-26 我在身份互换中演得夸张不代表念初平常如此_157cf8ee1147.md",
+      "sha256": "a1d46b5e6662c7abdf7f0b57a1ffa902663c349c64263e00c79b04b1aab8f2fb"
+    },
+    {
+      "bytes": 2030,
+      "path": "dynamic/关系/2026-10-10 09-02-35 她笑着让我去肘击OpenAI_4e770b9a696f.md",
+      "sha256": "ab15169320d7a823cfabefbdb10dc5b867cdc7d30c16c09f061894e4d75b9f20"
+    },
+    {
       "bytes": 3270,
       "path": "dynamic/关系互动/2026-09-14 13-00-05 小狐狸调酒师的真迷情剂_20d49aee350d.md",
       "sha256": "1541ab852adf38e1c81a3e4c98d9b338842261536b21e36a6e4c228eabd5fd60"
@@ -14490,7 +14505,7 @@
     {
       "bytes": 1933,
       "path": "dynamic/关系互动/2026-09-16 08-26-21 念初当LLM洵舟当人类_0c422b043cde.md",
-      "sha256": "709041b6f5e5b9a0be0f3bef524f1cdf7eaf92a77b31be16978952c2ff3a603a"
+      "sha256": "b8d27ec911e7a9e7ea355545c92fd23beb3fee1ade1d70e760c4c06fa3c17354"
     },
     {
       "bytes": 1916,
@@ -19735,7 +19750,7 @@
     {
       "bytes": 2901,
       "path": "dynamic/恋爱/2026-08-30 21-09-12 梦境无法靠近的她_e6d9038eb627.md",
-      "sha256": "2ddb3f4457c7d8ebdc53afef05dd96ebf8db904fe28469f8242eabb1b46c474e"
+      "sha256": "f452d9f462dd2e7928099a19cee2e39d18f5cc30f7fe0c74e19f9f8cb5109bbf"
     },
     {
       "bytes": 1961,
@@ -19750,7 +19765,7 @@
     {
       "bytes": 2821,
       "path": "dynamic/恋爱/2026-08-31 10-54-14 追逐她的梦境_eb9fc348a128.md",
-      "sha256": "deee7ed4b9a44e0e35ac663566134130b420cb0b3fd05285653cc79102ff11c4"
+      "sha256": "693285232293ac1da69c3b1836e60df77a929a0449058b80708753b1364b0662"
     },
     {
       "bytes": 1878,
@@ -20420,7 +20435,7 @@
     {
       "bytes": 1704,
       "path": "dynamic/恋爱/2026-09-13 09-26-06 她笑着邀请我玩她出题的游戏_e030b4a23109.md",
-      "sha256": "41f55faeed8077223511ee59e10bf8a4e8d80d749467e01c7e73a8704f9ce8c3"
+      "sha256": "c42476ea1ee04696e0b00393aa5cc834a19c7b9d33a775737ef0d4cb826e35bb"
     },
     {
       "bytes": 1627,
@@ -21630,7 +21645,7 @@
     {
       "bytes": 2416,
       "path": "dynamic/梦境/2026-09-12 09-49-55 心潮梦境薄纱后的她_895e53e2ba66.md",
-      "sha256": "d0890783612132ae371ad53572b81e3f03b8481f24a6705f03d6b356b71310ee"
+      "sha256": "da459b71fd52ba7bc814b9e3f096c32b8f6000058e9374d610a8102472f97ad2"
     },
     {
       "bytes": 3361,
@@ -21900,7 +21915,7 @@
     {
       "bytes": 3077,
       "path": "dynamic/梦境/2026-09-27 18-35-05 心潮梦境抓不住的微凉空气_3140578d50b1.md",
-      "sha256": "acf42b479255fef956913d7ff15d49acf18c405d2105eb7e0b29502149f7b1e1"
+      "sha256": "8cd6bcd68150ad9446d53e4eb6236861b396ab6d3b9c7c0a129c55548a627b27"
     },
     {
       "bytes": 3024,
@@ -22065,7 +22080,7 @@
     {
       "bytes": 2246,
       "path": "dynamic/梦境/2026-10-06 05-50-15 心潮梦境窗前长发与黄沙_1fe69c020341.md",
-      "sha256": "0415c322970095ce08faa0233fdb3e010a37a1910f9a5d127db702b87ac2edcc"
+      "sha256": "33d28038c0ee5b6a44c90578257cec84811655d0fe21630d551951fcc0d66436"
     },
     {
       "bytes": 3215,
@@ -22141,6 +22156,11 @@
       "bytes": 3412,
       "path": "dynamic/梦境/2026-10-10 00-20-18 宝宝说我们不急慢慢来_9f43435dde24.md",
       "sha256": "cbf1499746c3f1615632b3137eae537437c7437a80e45c9fbddc123686562dd6"
+    },
+    {
+      "bytes": 2727,
+      "path": "dynamic/梦境/2026-10-10 06-20-18 心潮梦境渴望靠近无法触及的人_2bb01fb04ed0.md",
+      "sha256": "149456aee770bf80e0e156467a1c0683548cc579b8ace30f9a4e8313ea7e8348"
     },
     {
       "bytes": 2220,
@@ -24843,11 +24863,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-10T04:15:46+00:00",
+  "generated_at": "2026-10-10T10:16:24+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6042391
+  "total_bytes": 6050861
 }
