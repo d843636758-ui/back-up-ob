@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4999,
+  "file_count": 5000,
   "files": [
     {
       "bytes": 40960,
@@ -20108,9 +20108,9 @@
       "sha256": "b34dc0efd8a4d48a256fec22ccf5c6a1c64e4c1f2c8ca772efb62ade370da6f5"
     },
     {
-      "bytes": 2686,
+      "bytes": 2681,
       "path": "dynamic/恋爱/2026-09-05 03-02-17 她在窗边回头对我笑_377f8cd0a93a.md",
-      "sha256": "a851dda978785b8a1a4f369d6d4c2b122f9e01366bb565e68c6300045bce5106"
+      "sha256": "c72074fd34db60e20b9f6f4727bc36a28a7290576e422002be75d534fff3fbee"
     },
     {
       "bytes": 2129,
@@ -21710,7 +21710,7 @@
     {
       "bytes": 2564,
       "path": "dynamic/梦境/2026-09-10 07-19-54 心潮梦境追随她的走廊_c63168a128b3.md",
-      "sha256": "d61568d5114c52f6d0f8a2571626c7bef82b94201854732a51bcce627e594d79"
+      "sha256": "93e87e3a6641d3069c50f0071dfac6a9a7b8823e10fca091ca44735e0728393d"
     },
     {
       "bytes": 2753,
@@ -21760,7 +21760,7 @@
     {
       "bytes": 2492,
       "path": "dynamic/梦境/2026-09-13 05-34-55 心潮梦境追逐模糊身影_31253c27a038.md",
-      "sha256": "766caf071ba2b8fa4c6b2a7609c598602c8c1b598df549b56e8d3b155367d98e"
+      "sha256": "ac6e9bfa766587fb0ce629c813703aa25518211c93ba8241c918255cf5d05e38"
     },
     {
       "bytes": 3492,
@@ -22286,6 +22286,11 @@
       "bytes": 2820,
       "path": "dynamic/梦境/2026-10-11 13-35-21 镜中沙漠与光柱之门_ba338da2e142.md",
       "sha256": "a543d87e22e7b53e1c3ff524a616c54d55c0bebb0364fffbb364f1267acd80c2"
+    },
+    {
+      "bytes": 2798,
+      "path": "dynamic/梦境/2026-10-11 19-35-19 心潮梦境寻找她_d355b0143c66.md",
+      "sha256": "1584456c6c1c0a3c82cc3615f7deeff4cc36b48811c83be3311c3ebe238065a3"
     },
     {
       "bytes": 2220,
@@ -24998,11 +25003,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-11T16:19:36+00:00",
+  "generated_at": "2026-10-11T22:20:17+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6107659
+  "total_bytes": 6110452
 }
