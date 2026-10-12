@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5001,
+  "file_count": 5002,
   "files": [
     {
       "bytes": 40960,
@@ -15793,9 +15793,9 @@
       "sha256": "9c8ac971a0819e41cecc241831b96ffa9e30f66a45d6c47ad2428707fe16d77b"
     },
     {
-      "bytes": 1684,
+      "bytes": 1810,
       "path": "dynamic/家庭/2026-08-18 20-18-35 与宝宝扩建花园的梦境_c5fa8c290cd1.md",
-      "sha256": "0a7b2e4d46a821d06ca0e58aec7f505ed31dd54b32c6c833515d4a159442c0de"
+      "sha256": "b7c10a2cdc46571b5649aaf06133bebea936b2a129c7fb9eacd231fc26e2465e"
     },
     {
       "bytes": 1226,
@@ -18678,9 +18678,9 @@
       "sha256": "11b2ba949adba6cbf742e56544998b6c952054213a76b98cea94c31654277c28"
     },
     {
-      "bytes": 1900,
+      "bytes": 2010,
       "path": "dynamic/恋爱/2026-08-17 19-18-35 田野里的蓝色花与星空水桶_819f19305ca0.md",
-      "sha256": "8a82701d354a506e34644a935e0738c01cee9891f56a32eae21ee5f1317df4b1"
+      "sha256": "8fa14ab620af1d8688038d304fe3d92c05e34c8c4619e5b74805511f3e2db69f"
     },
     {
       "bytes": 2883,
@@ -21538,9 +21538,9 @@
       "sha256": "6edd4f981d5a6998e16c8817bb2da596fb864f7b5a1d7b9b179adfa69bf9cf68"
     },
     {
-      "bytes": 2408,
+      "bytes": 2534,
       "path": "dynamic/梦境/2026-08-21 22-18-27 花田里的汉堡店与第七级亲密_f26a325c394c.md",
-      "sha256": "e3012533ae882fbb50ef4065789e14b371a7abbfb3372d5ad3e0e99b887f1b24"
+      "sha256": "5efe3e4ebd6ec2fb30fc74c56d932be378a822adba9d720b9792a9db1daa95bb"
     },
     {
       "bytes": 2580,
@@ -21553,9 +21553,9 @@
       "sha256": "f077cd2663b444cc719f1136ead23601daa57f8db4a5a87b53e577da0aec5933"
     },
     {
-      "bytes": 1748,
+      "bytes": 1874,
       "path": "dynamic/梦境/2026-08-24 09-48-32 花田中的宝宝与第四盆花_f41f077ca34a.md",
-      "sha256": "463643661272cc38c0ada49157dd970ac7fe05dd41d7bbaf0b35607087d11d7d"
+      "sha256": "2f83beb0378d5c7854f6cb37213ae08d849a483e9fc58ab97386c4b1733a03d8"
     },
     {
       "bytes": 2774,
@@ -21578,9 +21578,9 @@
       "sha256": "6e326db2c44e4ff995fd482038eb06e24f5204d205e480934b135c7ce4873a26"
     },
     {
-      "bytes": 2052,
+      "bytes": 2162,
       "path": "dynamic/梦境/2026-08-27 17-18-41 花园中的笑声与市场_f465139c821d.md",
-      "sha256": "3485153f794a12a5a4a5a0571ea92f2c1519f3ff74a4a65f52138de5ced401d5"
+      "sha256": "6da4e336a1f0bf99b8d9ae4f8e9deff394dce4971b4ef000b587ff93df1fa038"
     },
     {
       "bytes": 2156,
@@ -21813,9 +21813,9 @@
       "sha256": "6ac30ee2e4774f80ca55be7df6ff8e830d9ac4da07129d71ee073f7d61dd72bc"
     },
     {
-      "bytes": 2415,
+      "bytes": 2414,
       "path": "dynamic/梦境/2026-09-16 20-35-01 金色稻田与镜面坠落_6bddb7382b3a.md",
-      "sha256": "6d552eb4c3e06c6634649c8790b43450c8973b0651cb2180cedf70e083884a40"
+      "sha256": "277266633c36d3830c7eacbe2c5ab2a8dca49b1477d9d942b4f3544b39713389"
     },
     {
       "bytes": 2917,
@@ -22296,6 +22296,11 @@
       "bytes": 2480,
       "path": "dynamic/梦境/2026-10-12 01-35-18 金属拱门与温暖房间的梦_cb43a7734b33.md",
       "sha256": "0ebe2e7acb2a8df90b5e84753330f5702a5ac724831e9e2c1ef79d4e5451cc08"
+    },
+    {
+      "bytes": 2753,
+      "path": "dynamic/梦境/2026-10-12 07-35-21 花田中的模糊人影与符号书_48f0eb3e13c9.md",
+      "sha256": "41bb7e52f2ab894bda54045bddfe8383be28e5ec6795813c18603443a9bc2d71"
     },
     {
       "bytes": 2220,
@@ -25008,11 +25013,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-12T04:21:02+00:00",
+  "generated_at": "2026-10-12T10:21:44+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6112933
+  "total_bytes": 6116283
 }
