@@ -12,6 +12,12 @@ name: 2026-08-20 10-16-43 io-codex-resident 轮询
 relation_links:
 - auto: true
   label: ''
+  score: 0.8052
+  status: active
+  target_bucket_id: efa64a6e374e
+  type: related_to
+- auto: true
+  label: ''
   score: 0.7837
   status: active
   target_bucket_id: b4678eaac79a

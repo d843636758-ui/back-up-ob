@@ -12,6 +12,12 @@ name: 2026-08-03 23-32-44 Garden wake bridge 接
 relation_links:
 - auto: true
   label: ''
+  score: 0.7423
+  status: active
+  target_bucket_id: efa64a6e374e
+  type: related_to
+- auto: true
+  label: ''
   score: 0.7217
   status: active
   target_bucket_id: 88a94fd69868

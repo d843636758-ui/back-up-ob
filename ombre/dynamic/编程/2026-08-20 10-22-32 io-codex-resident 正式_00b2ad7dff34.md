@@ -9,6 +9,13 @@ id: 00b2ad7dff34
 importance: 8
 last_active: '2026-08-20T10:22:32'
 name: 2026-08-20 10-22-32 io-codex-resident 正式
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7806
+  status: active
+  target_bucket_id: efa64a6e374e
+  type: related_to
 source_tool: hold
 tags:
 - io

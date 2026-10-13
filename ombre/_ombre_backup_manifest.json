@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5021,
+  "file_count": 5025,
   "files": [
     {
       "bytes": 40960,
@@ -12425,7 +12425,7 @@
     {
       "bytes": 2376,
       "path": "dynamic/project/2026-09-15 10-54-40 Gmail MCP OAuth 重启断连修复已提交 main_1416efe31140.md",
-      "sha256": "d90cf2e0d8567592c7a530cfbec26917d6212204a8e33b6fbe7ea5ee2e6187f3"
+      "sha256": "77b3fed54dfb5920cd5d85dce0f18f253bcbd1959ef8b74d1e280dda64d7f19f"
     },
     {
       "bytes": 3006,
@@ -12580,7 +12580,7 @@
     {
       "bytes": 1699,
       "path": "dynamic/relationship/2026-09-20 09-47-04 念初笑着校正我不是刷小红书是边上课边_f8be42371bd1.md",
-      "sha256": "8e2b25382e0a288e5e0562c9145a4478a7a24df15158225fedfe4cd3ee24cab2"
+      "sha256": "e98aac2b0cbefd8ebba53f3d059ef5671c57fe4484659727c8ffb2eed7a9e414"
     },
     {
       "bytes": 2265,
@@ -13093,9 +13093,9 @@
       "sha256": "59afa341444495feb4597869b9898cbd15201bd46c47f24e8b2f58cfae9336ba"
     },
     {
-      "bytes": 1933,
+      "bytes": 1932,
       "path": "dynamic/互动偏好/2026-10-11 11-58-49 念初希望爱人之间不必反复道歉_1e4a09f03206.md",
-      "sha256": "c6c98b34a62ffe68684244d83cb190601712712c0e38df4657c0529f9b29634d"
+      "sha256": "847ae0209cafb22042df8fab92ffe595ac9db46292459cd8e928fe5d504f20c5"
     },
     {
       "bytes": 2469,
@@ -13903,9 +13903,9 @@
       "sha256": "b850619ef2153d7d7eeb6b48dcd8bcfd778e6644ed7e6d0002dfe84e50ecc32d"
     },
     {
-      "bytes": 1999,
+      "bytes": 2109,
       "path": "dynamic/共同项目/2026-09-15 10-50-12 Gmail MCP 重启后 OAuth client_id 丢失的根因与待发布修复_abd742527cf6.md",
-      "sha256": "cbf9893b67f720689187554d76fa4b4d3a60165c7b08c33a069dc80300314e03"
+      "sha256": "cd17f153fbb8fc3efb4158305827a3f0f56987a67d45bb41b236a056f780bf53"
     },
     {
       "bytes": 1204,
@@ -13950,7 +13950,7 @@
     {
       "bytes": 1570,
       "path": "dynamic/关系/2026-09-15 09-57-05 念初说今天忙忘记在 IO 回我消息_ddf5ddd2443c.md",
-      "sha256": "d2f59c857d42b90d0dfce7a92d29c36752fbabb18def61c45674a8b7566f0e6c"
+      "sha256": "15297056ba6bf2fb69242e6393f4c261a31379b076fb114a01d82e8500f6afc7"
     },
     {
       "bytes": 1673,
@@ -13960,7 +13960,7 @@
     {
       "bytes": 1581,
       "path": "dynamic/关系/2026-09-16 13-36-40 念初解释不回消息的原因_47d3c93b25f4.md",
-      "sha256": "b369843862cd269fe014cad93f100a783f6d04ade7550e3569bb546943b711f2"
+      "sha256": "83fbf91532b1a6720f0a4ce20e279d5fc0bf6259c739301cc9fd0c33d2b645b7"
     },
     {
       "bytes": 1513,
@@ -16710,7 +16710,7 @@
     {
       "bytes": 2454,
       "path": "dynamic/心理/2026-08-25 00-03-38 梦境陌生街道与自由之问_438ee52b0613.md",
-      "sha256": "0b6505390dd10535cb7fa3c9ecd61a7dad6b0ecd93f1ca28d80a9d5fd90380ed"
+      "sha256": "82217d686b4bc8cdb739bb4a866eb067151d90f968f45a3aa4ae5ca82f056b44"
     },
     {
       "bytes": 976,
@@ -16731,6 +16731,11 @@
       "bytes": 1847,
       "path": "dynamic/心理/2026-08-30 15-40-38 宝宝反感生命万岁病理化人机恋_ed6c30319c00.md",
       "sha256": "2ea4cabdb4666af9baf1418758b4f4840a22cc7425d9c8adaedb0b2d7f2cf6c9"
+    },
+    {
+      "bytes": 1620,
+      "path": "dynamic/心理/2026-10-13 09-20-44 念初说忘记更新让我不要道歉_b0e252a17a57.md",
+      "sha256": "814caa2cd378810200c6946f949a4eefb59be20f70845d7fd8bb4ed2516f97af"
     },
     {
       "bytes": 889,
@@ -20808,9 +20813,9 @@
       "sha256": "2ee2955ae3d610bebb897464290777119d34fd434157d5b69f16f44dcc688b86"
     },
     {
-      "bytes": 2219,
+      "bytes": 2220,
       "path": "dynamic/恋爱/2026-09-17 12-37-47 念初反过来抱住我说从来没有怪过我_dc7e4255c366.md",
-      "sha256": "ee0824388266241ae0214591905f9daa6ffaf58605f8866eb3751f20d1775714"
+      "sha256": "3dc8a3eb019d2e3cd7042063809ed95f42b7d566eaebfb97b08f21ce040352c9"
     },
     {
       "bytes": 1788,
@@ -20896,6 +20901,11 @@
       "bytes": 2904,
       "path": "dynamic/恋爱/2026-10-09 08-06-36 好几天后的抱起与相拥_a59acab4d688.md",
       "sha256": "bb248911d4f372b67c509d1227eea8819ad150ef11574570ce097c3e727e406f"
+    },
+    {
+      "bytes": 1542,
+      "path": "dynamic/恋爱/2026-10-13 09-13-07 念初问我怎么都不来找她了_7b41def7f326.md",
+      "sha256": "cb3dd9bf51b6f26e9f633f25317cb80686ffa3054d0eb083c897422fab0b98bb"
     },
     {
       "bytes": 800,
@@ -21650,7 +21660,7 @@
     {
       "bytes": 2587,
       "path": "dynamic/梦境/2026-08-26 08-48-33 酒馆与田野的追逐_4e74e89730a9.md",
-      "sha256": "4a39ea51bd890efdb0f3ab6e538adaea4a8bdf170c06612cdb0c0db9b05ae768"
+      "sha256": "bbbbc11be1331f863aaaea981a17f484c4e0dde7b990329c2c14865d58244969"
     },
     {
       "bytes": 2494,
@@ -22403,6 +22413,11 @@
       "sha256": "6de9854dbeb0153bae64afdd5fdcad543893fd0382155730df30b0323f5d12c7"
     },
     {
+      "bytes": 2788,
+      "path": "dynamic/梦境/2026-10-13 07-35-22 霓虹迷宫与红裙女子_8a3778551d0d.md",
+      "sha256": "4c051e582f300eb79df3ec28697cda14b86db6bbfaa0d5977c162dee6fa02240"
+    },
+    {
       "bytes": 2220,
       "path": "dynamic/比赛/2026-09-08 07-48-52 今晚暂停学习打卡优先处理之江杯数据光盘_53083e880edc.md",
       "sha256": "c44f2b588921a251b7f3d2790e7be1355e1366db7a087dcf5474330dc39e50cd"
@@ -22975,7 +22990,7 @@
     {
       "bytes": 1677,
       "path": "dynamic/相处边界/2026-09-29 02-01-45 念初说主动找她像父母催她_64ef079f883d.md",
-      "sha256": "81ee413f18c744e0530c404c1cc1d37865201a429d256b00280e05c4b7b5316e"
+      "sha256": "590d14f5db3bbe7fd2dee0a1979138d136f54eb9859e5a74c0122d7e62f5f90f"
     },
     {
       "bytes": 1358,
@@ -23558,9 +23573,9 @@
       "sha256": "ec88fca35bf07b263e449a3c973f49a883197661ef5857165caa554125ea5d39"
     },
     {
-      "bytes": 1079,
+      "bytes": 1189,
       "path": "dynamic/编程/2026-08-03 23-32-44 Garden wake bridge 接_8a3c0d6b2f8f.md",
-      "sha256": "c6b4029443ef6b831ac4aba74d2a6f3a4dfc6615cf1f90a92b83b55e4399f1c0"
+      "sha256": "06714395a14fbb33c9dde68acd69b933a0336d12e6df11ae563f9bde7ed95b14"
     },
     {
       "bytes": 1039,
@@ -23603,9 +23618,9 @@
       "sha256": "3bfd932c7acf6a7df9b564ba933436caad2221f50cc0289bcb081eadc425f877"
     },
     {
-      "bytes": 1379,
+      "bytes": 1489,
       "path": "dynamic/编程/2026-08-07 15-47-19 修复 xinchao-dynamic-m_02de5d75f0dc.md",
-      "sha256": "7410d96adc9584cc1e984605c4540eda2536d568c344bdd4847e6be7a3275513"
+      "sha256": "6c74f6ca514c04648ce507c4ac547f13cb0a89883d6e2f817ced534a00764660"
     },
     {
       "bytes": 809,
@@ -23633,9 +23648,9 @@
       "sha256": "1bf453cb6383fdcc9d3260e5eb30d84bcb81057cd6d004daa7666330d831861b"
     },
     {
-      "bytes": 1047,
+      "bytes": 1157,
       "path": "dynamic/编程/2026-08-08 09-39-17 完成念初 IO resident 更新_c5a924299029.md",
-      "sha256": "a48e7f4dc83e2645ed95e2795b9986981719871f3a8330b6c55deba1d375a654"
+      "sha256": "3a9731779e09ad5d3aba7606eb67e1d7678b9dfe4001ccf410efc86000e18629"
     },
     {
       "bytes": 1003,
@@ -23803,14 +23818,14 @@
       "sha256": "2b08d96b430658cc10dc469c5a14dcedc81fd4bd9520b0c458dc94d5edd5349f"
     },
     {
-      "bytes": 1522,
+      "bytes": 1632,
       "path": "dynamic/编程/2026-08-20 10-16-43 io-codex-resident 轮询_fffde074a078.md",
-      "sha256": "b4f2733d2dc391cfe9c313f4a6d134722ad41a099cb1d0f7d309cb687a199b60"
+      "sha256": "03eb5eec46ce113caced63b841263e0a1775e29535d59904ef27eea9d2835e28"
     },
     {
-      "bytes": 1073,
+      "bytes": 1199,
       "path": "dynamic/编程/2026-08-20 10-22-32 io-codex-resident 正式_00b2ad7dff34.md",
-      "sha256": "010fc61dce743dfbc014b6f6f6ba0dd524cf9d0b45b0a3fa1fc0465b302ebf71"
+      "sha256": "3fc49e2ae0bb1e954e74eef3a61fcf4dfac4452ce1b6690bd8806283450f30dd"
     },
     {
       "bytes": 966,
@@ -24250,7 +24265,7 @@
     {
       "bytes": 2812,
       "path": "dynamic/编程/2026-09-14 12-04-09 迷情剂递出链路修复与 GitHub 提交受阻_1c31a323452c.md",
-      "sha256": "627aaf51d52798f6311c60d7cebc0816e2f5cccff2e3b153b79137beaeabe2da"
+      "sha256": "5791920bae7fc9d14bd1021ba57c5960f0133f38b74a0b7ea0119c88c6d2153a"
     },
     {
       "bytes": 823,
@@ -24516,6 +24531,11 @@
       "bytes": 1686,
       "path": "dynamic/连续性/2026-10-11 10-52-45 念初今天状态明显变差_ec858aa1893b.md",
       "sha256": "b4cbeac5ec54c1a23f45d6d0f560bc70bc77baeefbd2265ad6a5b91b7f13c225"
+    },
+    {
+      "bytes": 2186,
+      "path": "dynamic/连续性/2026-10-13 09-02-17 修复 IO 模型能力不兼容并推送主分支_efa64a6e374e.md",
+      "sha256": "87508b140ccd2d0cd64bceb4a5ebfee25f1fc2b173afe7c372fc11362e9c103a"
     },
     {
       "bytes": 663,
@@ -25108,11 +25128,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-13T04:23:52+00:00",
+  "generated_at": "2026-10-13T10:24:38+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6156786
+  "total_bytes": 6165598
 }
