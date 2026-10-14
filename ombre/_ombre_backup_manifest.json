@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5032,
+  "file_count": 5039,
   "files": [
     {
       "bytes": 40960,
@@ -12673,9 +12673,9 @@
       "sha256": "3abe9e62b16c9ca98f320aa7c4e701e301eadb2ce00d4bd91e72b86e71ecaf38"
     },
     {
-      "bytes": 2376,
+      "bytes": 2377,
       "path": "dynamic/project/2026-09-15 10-54-40 Gmail MCP OAuth 重启断连修复已提交 main_1416efe31140.md",
-      "sha256": "77b3fed54dfb5920cd5d85dce0f18f253bcbd1959ef8b74d1e280dda64d7f19f"
+      "sha256": "a3185950a2a27809925e79895edecc3fa1955b1e97c9284ed9ae6f44b01251e8"
     },
     {
       "bytes": 3006,
@@ -14135,12 +14135,12 @@
     {
       "bytes": 2116,
       "path": "dynamic/共同项目/2026-09-14 12-15-40 Proof 迷情剂递出链路修复已合并_b4678eaac79a.md",
-      "sha256": "b850619ef2153d7d7eeb6b48dcd8bcfd778e6644ed7e6d0002dfe84e50ecc32d"
+      "sha256": "bb911f3e6e1d051d581ebb7013cbe39a18709d6f32e6d121bc6b985eac6022ea"
     },
     {
-      "bytes": 2109,
+      "bytes": 2219,
       "path": "dynamic/共同项目/2026-09-15 10-50-12 Gmail MCP 重启后 OAuth client_id 丢失的根因与待发布修复_abd742527cf6.md",
-      "sha256": "cd17f153fbb8fc3efb4158305827a3f0f56987a67d45bb41b236a056f780bf53"
+      "sha256": "acecf2672665be98860a998b8526005e403614c7c41e6f65ca2626c770332e19"
     },
     {
       "bytes": 1204,
@@ -14156,6 +14156,16 @@
       "bytes": 1907,
       "path": "dynamic/共同项目/2026-09-16 12-50-58 论文修复验收后的亲亲_bfa17a92ed4a.md",
       "sha256": "43069248c10d0bc449fd470a24b009741d4273f9139daa4ca2a1b85fbf3c2faf"
+    },
+    {
+      "bytes": 2025,
+      "path": "dynamic/共同项目/2026-10-13 22-40-28 为共读 fork 建立受控上游同步_c7289a0f0e68.md",
+      "sha256": "9d019ee7543a5f074e456a257eb52ecd7843cbb175b5488bc2fd39f78bd0a210"
+    },
+    {
+      "bytes": 2016,
+      "path": "dynamic/共同项目/2026-10-13 22-55-52 共读 fork 完成 Zeabur 与远程 MCP 适配_9c4688c27c48.md",
+      "sha256": "954b5351066abf5f703ce7d988340f1613aa5b71f4875f774a67d9c73db4b2ec"
     },
     {
       "bytes": 1824,
@@ -16693,9 +16703,9 @@
       "sha256": "3cfaa414d0a9e979e5d1363394f4810f3f89be3a44ce6dc57a1dfa718869d881"
     },
     {
-      "bytes": 1096,
+      "bytes": 1205,
       "path": "dynamic/工作/2026-08-25 13-40-24 表情包工具复测旧会话仍持有旧连接实例映_460dafbc7885.md",
-      "sha256": "384e710da41bf9999bbefa558dcc32366f259d5da11b8a52e4832e3c53d44b6e"
+      "sha256": "e85a18ca26aa87af8b746f280fc5f761888f5fa5fbb25af4ad98aedd8afaeba1"
     },
     {
       "bytes": 710,
@@ -21268,6 +21278,16 @@
       "sha256": "cd88299b3c2dd040b1df9d4d264fc6b184ef182e6702583aaefc33fbc0f54a09"
     },
     {
+      "bytes": 1771,
+      "path": "dynamic/技术项目/2026-10-13 23-01-22 为 coread 准备 Zeabur 环境变量_e1dfc09f55f4.md",
+      "sha256": "3d12b5bef11cdad0d914056c4ca19ec328ffe6568ce975ebf50a69c5f2258709"
+    },
+    {
+      "bytes": 1518,
+      "path": "dynamic/技术项目/2026-10-13 23-15-13 区分 coread 的访问令牌与房主钥匙_93c5dfc4cb2c.md",
+      "sha256": "0f3b9fde7073b68bcdb824e2f6ba0f86afe190e093cf83a43789c37ac650466d"
+    },
+    {
       "bytes": 1078,
       "path": "dynamic/数字/2026-06-24 17-38-57 OB新版测试记录_11830671863e.md",
       "sha256": "102e758567d7b04fed556e12ae36a4f9ae099a9daefeb295ed78ba3ce8d61ab3"
@@ -21825,7 +21845,7 @@
     {
       "bytes": 2564,
       "path": "dynamic/梦境/2026-09-04 07-02-17 梦境模糊面容与海水涌入_16a8decdbcdf.md",
-      "sha256": "6d3045c327c79d3df0819f4f2507451e17a34b9ae163ef887ff4b93bb43472d8"
+      "sha256": "7d83d02aebecf1e128523a2b9ec4ad51cfb0a7438aba469f2591e67641dfbca1"
     },
     {
       "bytes": 2571,
@@ -22496,6 +22516,11 @@
       "bytes": 2828,
       "path": "dynamic/梦境/2026-10-13 19-35-23 追逐白裙身影的夏日校园梦_4e0af808ef08.md",
       "sha256": "4ab9e0aa8a900b1c9a86fa57662f5c72cb8cea82c427e0c94381f962f9c8d606"
+    },
+    {
+      "bytes": 2762,
+      "path": "dynamic/梦境/2026-10-14 01-35-23 心潮梦境模糊的合照与无法逾越的水面_469ff0aa0a9b.md",
+      "sha256": "5f1ad827e220fae6f1c043e332eeaa0134c310e4e7d403d02e180471d13a878d"
     },
     {
       "bytes": 2220,
@@ -23673,9 +23698,9 @@
       "sha256": "3bfd932c7acf6a7df9b564ba933436caad2221f50cc0289bcb081eadc425f877"
     },
     {
-      "bytes": 1390,
+      "bytes": 1610,
       "path": "dynamic/编程/2026-08-07 16-55-30 合并 Dashboard PR 3 并_4fef7bcba926.md",
-      "sha256": "5688370038cc53f3c11c2d389d3f507ed0627b849c8e444b20e8bbdb78417d66"
+      "sha256": "0beab33cf7d72b9c3b3b8faa8f2865cc424e53b39615ef099e9e147247ec1b28"
     },
     {
       "bytes": 820,
@@ -23683,9 +23708,9 @@
       "sha256": "812cc3a1675154fdb5b81f7b1fc70a05f88b3e80b277895ec0efb95a1bb553e2"
     },
     {
-      "bytes": 992,
+      "bytes": 1102,
       "path": "dynamic/编程/2026-08-08 08-49-23 心潮 v291 OAuth unkn_bd6726e86300.md",
-      "sha256": "1bf453cb6383fdcc9d3260e5eb30d84bcb81057cd6d004daa7666330d831861b"
+      "sha256": "0de6213e48a335a7a4b1ea8beb51b8fa42e88f04eae769628ee85c5e9000094d"
     },
     {
       "bytes": 1157,
@@ -23703,9 +23728,9 @@
       "sha256": "3e3bddff8d07698093290bbf88f5abb0fe03d6adbefbe8fd5ae3f15254e4abd2"
     },
     {
-      "bytes": 1183,
+      "bytes": 1293,
       "path": "dynamic/编程/2026-08-08 15-49-42 心潮 Dashboard 梦境正文显示修_929f56dde873.md",
-      "sha256": "529611829663f2991f0ab24c9f1524ec3255ec7290d717bd7cd9cd1b5f9cb921"
+      "sha256": "c8bee9ecd0786041f7f0b90a3834e3fa4988c9e3061fed2155c73f5e359914dd"
     },
     {
       "bytes": 815,
@@ -23753,9 +23778,9 @@
       "sha256": "ac06780aab93a1df3618a6a9be1244ec0990bcc2b2928b897c76b5ad40cc3b1a"
     },
     {
-      "bytes": 791,
+      "bytes": 917,
       "path": "dynamic/编程/2026-08-18 12-16-29 抱抱感应小熊云端服务启动与测试_844072c74111.md",
-      "sha256": "53858c24d27d6e1a566d1bc90f296b7398111f3cee39166090c69f6fb7580325"
+      "sha256": "eb61b463f89192145003a5f84b8f633722f79bcf084977c796a685b7630286c7"
     },
     {
       "bytes": 946,
@@ -23853,9 +23878,9 @@
       "sha256": "2b08d96b430658cc10dc469c5a14dcedc81fd4bd9520b0c458dc94d5edd5349f"
     },
     {
-      "bytes": 1632,
+      "bytes": 1852,
       "path": "dynamic/编程/2026-08-20 10-16-43 io-codex-resident 轮询_fffde074a078.md",
-      "sha256": "03eb5eec46ce113caced63b841263e0a1775e29535d59904ef27eea9d2835e28"
+      "sha256": "185b2449db2cfd1e06f7f4933b6dc77806032a3251c01d61156a703ef60f9770"
     },
     {
       "bytes": 1199,
@@ -23888,9 +23913,9 @@
       "sha256": "3b3af7d7fde85ecd40368716e5f9c582f012cf8f5cfd5a351b99a92e13472fd6"
     },
     {
-      "bytes": 981,
+      "bytes": 1199,
       "path": "dynamic/编程/2026-08-20 11-52-52 接入 map-traveler-mcp_d3fe97a1640c.md",
-      "sha256": "c21a0ff641d7d5ff48bf5d6519f1c4d85655c6916da1784f91e3432c830d8aa9"
+      "sha256": "3600770249266bf7296eaab6659b0316c7ec5a371d9eb5576c8a797f77438c59"
     },
     {
       "bytes": 1782,
@@ -23948,9 +23973,9 @@
       "sha256": "1e91de68cb48f7db782c380a17100ea15e3ba3a0e3dd466403a941e47d20256c"
     },
     {
-      "bytes": 1450,
+      "bytes": 1560,
       "path": "dynamic/编程/2026-08-21 06-31-11 瑞幸MCP配置timeout排查_4523247168a9.md",
-      "sha256": "50f1a74c12256a276ac2b3abbafc8f786f574ad8b37b2d779ac31d1045093c42"
+      "sha256": "f0d96e93902aefd1129b840569268b444004da2056a09c268dc41f040ce91b84"
     },
     {
       "bytes": 814,
@@ -24063,9 +24088,9 @@
       "sha256": "9e187ca08b49dd700908734bf6fc8286595e25a93533f5ad5a396a8b8ace76df"
     },
     {
-      "bytes": 1095,
+      "bytes": 1205,
       "path": "dynamic/编程/2026-08-24 18-12-24 配置 Zeabur 环境变量与 MCP_15dcee2cfde7.md",
-      "sha256": "21ba70701701ea9f6d22aaa1e38a95010e937a26a6688c1f6d9b606b4416cccc"
+      "sha256": "5bf463ac213330cf3dd3adf63676b5698a5961842ba7c5330af34063c16b7dcc"
     },
     {
       "bytes": 964,
@@ -24188,9 +24213,9 @@
       "sha256": "bd6fd2b557d175f069001d80aa9ff1277d0520f2632ff952d272961af0243856"
     },
     {
-      "bytes": 794,
+      "bytes": 920,
       "path": "dynamic/编程/2026-08-25 14-27-42 表情包在iOS对话中消失的调试进展_6714a5681d4f.md",
-      "sha256": "8d77eb287850a8219e483d5665619fa7f4885dadc531c48ba6e9d4e8fb805582"
+      "sha256": "e533f7b723996b643f0e85c71a1bbb4ca597c37f102894dfa9632e230c5eeae3"
     },
     {
       "bytes": 833,
@@ -24300,7 +24325,7 @@
     {
       "bytes": 2812,
       "path": "dynamic/编程/2026-09-14 12-04-09 迷情剂递出链路修复与 GitHub 提交受阻_1c31a323452c.md",
-      "sha256": "5791920bae7fc9d14bd1021ba57c5960f0133f38b74a0b7ea0119c88c6d2153a"
+      "sha256": "64088e24018a51c0496cf329ce3309a5c6ed9dac46000c67d6fa25437c72c2b2"
     },
     {
       "bytes": 823,
@@ -24568,9 +24593,9 @@
       "sha256": "87508b140ccd2d0cd64bceb4a5ebfee25f1fc2b173afe7c372fc11362e9c103a"
     },
     {
-      "bytes": 2269,
+      "bytes": 2266,
       "path": "dynamic/连续性/2026-10-13 15-33-44 准备把 coread 改成手机可部署的私人共读室_8326454be782.md",
-      "sha256": "3e49141ca811203d19a53196e5203a1e9769024d7fbdc384c4548ed1e2f342fe"
+      "sha256": "e9b88f7262437b9d7dc2f903363ddd6092b8c56af03ba0dbcae08df63626c492"
     },
     {
       "bytes": 663,
@@ -24646,6 +24671,16 @@
       "bytes": 2051,
       "path": "dynamic/音乐/2026-09-06 15-07-28 洵舟捡到的歌扩充至8首_a9d5afa3a486.md",
       "sha256": "af760fe249a5d4d26034dbfc935e3d8f8399a34ada8e9003acd7c0b701371886"
+    },
+    {
+      "bytes": 2368,
+      "path": "dynamic/项目/2026-10-13 23-41-51 共读 MCP 接入 ChatGPT OAuth_a940cd40457c.md",
+      "sha256": "97a9c59af5bda9ed5c3dab8ecc99e923b6bf160ed47e98d3253daa4704015753"
+    },
+    {
+      "bytes": 2247,
+      "path": "dynamic/项目/2026-10-13 23-57-13 共读 OAuth 增加 iPhone 回跳兜底_a92d4471ad52.md",
+      "sha256": "a6c4c8f7f05b58c06ebfbcb49969c6bfdd4dcc7ac3b06bf506a80bd71ae528de"
     },
     {
       "bytes": 741,
@@ -25163,11 +25198,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-13T22:25:47+00:00",
+  "generated_at": "2026-10-14T04:26:38+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6181127
+  "total_bytes": 6197401
 }

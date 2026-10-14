@@ -21,9 +21,21 @@ relation_links:
   type: same_event
 - auto: true
   label: ''
+  score: 0.7998
+  status: active
+  target_bucket_id: a92d4471ad52
+  type: related_to
+- auto: true
+  label: ''
   score: 0.7799
   status: active
   target_bucket_id: bd6726e86300
+  type: related_to
+- auto: true
+  label: ''
+  score: 0.7747
+  status: active
+  target_bucket_id: a940cd40457c
   type: related_to
 - auto: true
   label: ''
@@ -48,12 +60,6 @@ relation_links:
   score: 0.7358
   status: active
   target_bucket_id: efa64a6e374e
-  type: related_to
-- auto: true
-  label: ''
-  score: 0.7247
-  status: active
-  target_bucket_id: f69a3e1fde8f
   type: related_to
 source_tool: hold
 tags:
