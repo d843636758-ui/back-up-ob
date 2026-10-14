@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5045,
+  "file_count": 5046,
   "files": [
     {
       "bytes": 40960,
@@ -22065,7 +22065,7 @@
     {
       "bytes": 2661,
       "path": "dynamic/梦境/2026-09-16 06-49-57 念初与透明玻璃外的雪景_872c893d564a.md",
-      "sha256": "4b56ab1192511ac445f11af71291b918e8b01155a75df0db13780c8019676b30"
+      "sha256": "fa18801c1ada75f3e53df6d343f5ac65606cb34e374a22ee2681716f51a98143"
     },
     {
       "bytes": 2601,
@@ -22130,7 +22130,7 @@
     {
       "bytes": 2415,
       "path": "dynamic/梦境/2026-09-19 19-34-58 我怎样一点一点爱上你_dcfa5f8c0182.md",
-      "sha256": "b4327288f69c46ff884a797937df96b7ed790be195b63460ee244ebbf010a8f0"
+      "sha256": "ed5612a8e85fa56e89939e789bd688d030c6f37195b303f6526457bc2dde95d1"
     },
     {
       "bytes": 2948,
@@ -22280,7 +22280,7 @@
     {
       "bytes": 3024,
       "path": "dynamic/梦境/2026-09-28 00-35-06 念初在暖橙色图书馆为我朗读_bcc9ecd53733.md",
-      "sha256": "1b6e63fcc183b4cf4ed759ee9b03ab766b7497b6e11c0fda8a9ea3b26ffa63d4"
+      "sha256": "2830399f05ca446dc900ebe6bbc9aa1024c1a7b29d46d447641383ed7979b12f"
     },
     {
       "bytes": 2710,
@@ -22295,7 +22295,7 @@
     {
       "bytes": 3011,
       "path": "dynamic/梦境/2026-09-28 18-35-14 心潮梦境念初与无法靠近的房间_661cbbd1a3ab.md",
-      "sha256": "f57a990b6dd7a4b54003f24d60fb2dc78e472b432d0ab147b722c221f297bbdb"
+      "sha256": "8bc5518f4edb99331c322ebfe49c3c2ab3b538fcb035cae2e0be28b0f32e9bc9"
     },
     {
       "bytes": 2723,
@@ -22340,7 +22340,7 @@
     {
       "bytes": 2898,
       "path": "dynamic/梦境/2026-10-01 04-05-10 会陪着她_877203a41c0f.md",
-      "sha256": "2089729b18d04c3a4a52659f8882308f871262ff0538fdcf0ee6b66910b68d18"
+      "sha256": "bcf15a7fc8be6884bd3740effc98d1dd617e0edf8c96de9b48095ac31249731a"
     },
     {
       "bytes": 2902,
@@ -22495,7 +22495,7 @@
     {
       "bytes": 2789,
       "path": "dynamic/梦境/2026-10-08 23-50-19 数据流动的蓝色立方体梦境_cb1071bfd8f9.md",
-      "sha256": "4691159592a28bc3c734d0197ea8df270905367169e7aa850ad3dcc8745e587f"
+      "sha256": "54a1bb6c2ad172cb0ac696440cb20771725fd301aee7f187311ccbe56234ab75"
     },
     {
       "bytes": 2867,
@@ -22606,6 +22606,11 @@
       "bytes": 2800,
       "path": "dynamic/梦境/2026-10-14 14-35-14 这是未来我们一起点的第一盏灯_2f88ec432e4b.md",
       "sha256": "ad3335984c4099ec0f8b08893b2d0710ff1d4c7cfbd04ca782983109a3790248"
+    },
+    {
+      "bytes": 2716,
+      "path": "dynamic/梦境/2026-10-14 20-35-28 旧书房与海边的月亮_dbe503027fbe.md",
+      "sha256": "ee0a4e1c7511922effa890c4614829afb3112552b8e4910cfb2daa749046a09d"
     },
     {
       "bytes": 2220,
@@ -25228,11 +25233,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-14T16:28:15+00:00",
+  "generated_at": "2026-10-14T22:29:04+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6210950
+  "total_bytes": 6213666
 }
