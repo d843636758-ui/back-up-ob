@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5039,
+  "file_count": 5040,
   "files": [
     {
       "bytes": 40960,
@@ -21728,9 +21728,9 @@
       "sha256": "5efe3e4ebd6ec2fb30fc74c56d932be378a822adba9d720b9792a9db1daa95bb"
     },
     {
-      "bytes": 2580,
+      "bytes": 2579,
       "path": "dynamic/梦境/2026-08-22 06-48-26 暗蓝湖心的人影_4cea4eac48ac.md",
-      "sha256": "b158fbfa6b7f275570b0f82912bcac86328ac1216760e46a7a29bc790f144019"
+      "sha256": "32114b1000cdff6d703bef60df5a9a76cfc8aaef01ae74706ba39de555b2e948"
     },
     {
       "bytes": 2075,
@@ -22045,7 +22045,7 @@
     {
       "bytes": 2781,
       "path": "dynamic/梦境/2026-09-19 07-35-01 湖边的影子与她的香水_bf05778ef5d3.md",
-      "sha256": "50d13fe19f6036566886602462c94f70a844ab5d43c38eff97c3406cebb2a74e"
+      "sha256": "d450ab2cf747b62cd24513c20d9ede013da0cbc36c8d43244e32083f305be02f"
     },
     {
       "bytes": 3137,
@@ -22155,7 +22155,7 @@
     {
       "bytes": 2671,
       "path": "dynamic/梦境/2026-09-25 09-20-06 我们是谁_19671abe7e29.md",
-      "sha256": "6efdaad573758a8ba50441a4a65125b93f919b028fd8b2ae13d979640488f32e"
+      "sha256": "c56f4ac2127cf3bafe52fb47921f02836033a57ac58dc121624240c9f6e095ab"
     },
     {
       "bytes": 2729,
@@ -22170,7 +22170,7 @@
     {
       "bytes": 2741,
       "path": "dynamic/梦境/2026-09-26 04-35-06 镜湖中的背影与迁移路线_5193a367b6b4.md",
-      "sha256": "7ef03d71065e0a999d3bf7fbf6c93f10d2c3169e0febbab490d27a6d1fe2ad32"
+      "sha256": "0d026722f38d8738df7276b177d509311fc7135a452b589232f316c4b282f7b0"
     },
     {
       "bytes": 2613,
@@ -22280,7 +22280,7 @@
     {
       "bytes": 2377,
       "path": "dynamic/梦境/2026-10-01 22-50-20 镜面湖边未出口的言语_87ff336db446.md",
-      "sha256": "6fbbaa726b07858325d67944d627e5f9b2af71acd6a2d303e7f18147ba1445e1"
+      "sha256": "1df6385844a6d00a277cff95063faad82bc52b09d6440f4d26ab6600f234211d"
     },
     {
       "bytes": 2576,
@@ -22395,7 +22395,7 @@
     {
       "bytes": 2735,
       "path": "dynamic/梦境/2026-10-07 17-50-23 心潮梦境_9399efd74ae4.md",
-      "sha256": "27c5167da2c5b14e5c5398284ce51fc05268e1868c96ac74598d6ed906a86278"
+      "sha256": "2ff478032ab18879e01c803b42add0962f8dba7bba0f4d84a72e4fa166bbeede"
     },
     {
       "bytes": 2781,
@@ -22415,7 +22415,7 @@
     {
       "bytes": 2641,
       "path": "dynamic/梦境/2026-10-08 17-50-15 迷雾湖边与念初的梦境_e34c52986dce.md",
-      "sha256": "fd3f106735b9502dd5521e85e2f50187b5b033992a5565521430c1e48e62616b"
+      "sha256": "b3c118b799b0ee2795aea26c230564dee687af24475207b02b0a612ac8269e38"
     },
     {
       "bytes": 2789,
@@ -22521,6 +22521,11 @@
       "bytes": 2762,
       "path": "dynamic/梦境/2026-10-14 01-35-23 心潮梦境模糊的合照与无法逾越的水面_469ff0aa0a9b.md",
       "sha256": "5f1ad827e220fae6f1c043e332eeaa0134c310e4e7d403d02e180471d13a878d"
+    },
+    {
+      "bytes": 2590,
+      "path": "dynamic/梦境/2026-10-14 07-35-21 湖中投石与咖啡馆日记_ad4f6d4abc10.md",
+      "sha256": "38cb768c4477a7bfb1129e9f10272b62c15a75eae290101ec05516b68228e204"
     },
     {
       "bytes": 2220,
@@ -25198,11 +25203,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-14T04:26:38+00:00",
+  "generated_at": "2026-10-14T10:27:28+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6197401
+  "total_bytes": 6199990
 }
