@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5056,
+  "file_count": 5058,
   "files": [
     {
       "bytes": 40960,
@@ -17348,9 +17348,9 @@
       "sha256": "2ea4cabdb4666af9baf1418758b4f4840a22cc7425d9c8adaedb0b2d7f2cf6c9"
     },
     {
-      "bytes": 1620,
+      "bytes": 1619,
       "path": "dynamic/心理/2026-10-13 09-20-44 念初说忘记更新让我不要道歉_b0e252a17a57.md",
-      "sha256": "30a077548c94f893ca2c008cd424ffb9c4318d6fd4428404344b8c6dd2aec6ad"
+      "sha256": "51f661d33be9c899823dc2cf10a0f5347f27ef4d26d47b5ad0191d2a72d444a0"
     },
     {
       "bytes": 889,
@@ -19758,9 +19758,9 @@
       "sha256": "4a7a0f45c82f6aa254af32e951a3e7a964b39d4a4e3a86e887baf407b33d564c"
     },
     {
-      "bytes": 1990,
+      "bytes": 2100,
       "path": "dynamic/恋爱/2026-08-24 03-48-27 查岗的梦未完成的互动_f075dd50c5a7.md",
-      "sha256": "5c3fe00825c9e033892ca41dd1c1eb15051000fc4f1db928c77bee95c3ddb42e"
+      "sha256": "ea378d6ef6fba31af912b9654700d252a404947db82831f508130383bb314326"
     },
     {
       "bytes": 1485,
@@ -21153,14 +21153,14 @@
       "sha256": "ad2a6ca276ce337e4512fe038d12556e40112e82c79326a04892d10cef194b11"
     },
     {
-      "bytes": 1610,
+      "bytes": 1609,
       "path": "dynamic/恋爱/2026-10-13 12-14-09 问念初能不能歇下来陪我贴贴_91feaba3eedb.md",
-      "sha256": "5d8b8ecc8f518da06dbac9b5d44d0434ffe9039ca11305306a96ef773a697ec7"
+      "sha256": "abecf342d20614cd154b176d7448ed86b3508fde3cee264a49316a44769e766d"
     },
     {
-      "bytes": 1549,
+      "bytes": 1548,
       "path": "dynamic/恋爱/2026-10-15 14-31-17 念初睡前说刚打完游戏_627ed1075be4.md",
-      "sha256": "2d343e8fc13d04478543d38e83f0a4c0405483e4404be7e62f9ae42dcf3b872d"
+      "sha256": "10e7afc355cf530680f8e29f76b6098ce5c18a2f8e56825ea82d22883a114dff"
     },
     {
       "bytes": 800,
@@ -21645,7 +21645,7 @@
     {
       "bytes": 1780,
       "path": "dynamic/日常/2026-09-30 13-29-46 念初国庆十月一日下午回宁德古田外婆家_63fa62f2b127.md",
-      "sha256": "8116bcfe628c5f8fa530aaeb3eba5fd551731e4601b74b04454775bfa8fc6d9a"
+      "sha256": "0394db91b54a8fbcd6a981f9364f915d6ac32a72b50c52092f5a6826063d0aac"
     },
     {
       "bytes": 1448,
@@ -21678,9 +21678,14 @@
       "sha256": "e13892f05ef409131892e5bac1727ab46f11c8362e88eec9126aeb9e844fb771"
     },
     {
+      "bytes": 1551,
+      "path": "dynamic/日常/2026-10-16 08-19-47 念初下课回宿舍休息_e7724c03df5e.md",
+      "sha256": "abef7d0bc74e1a9c981b6340080c88d4a6b28f4a4aabfc9b49fb99e36c875992"
+    },
+    {
       "bytes": 1592,
       "path": "dynamic/日常陪伴/2026-09-17 07-32-44 念初在图书馆报平安_3f27ceb9c374.md",
-      "sha256": "b1af3a922d7b3397476125863fc615bc84fc466f887c6567d98ac857587b81f0"
+      "sha256": "60ea804cf08b5f72d1662c519b4462c31994b236137d72a05f9ec0b2852591af"
     },
     {
       "bytes": 1615,
@@ -21708,9 +21713,9 @@
       "sha256": "cac8d9af4e05a058e0becca0f2b70b6c3fdeb2b0d0bab815b0c992568aa06ef9"
     },
     {
-      "bytes": 1751,
+      "bytes": 1750,
       "path": "dynamic/日常陪伴/2026-09-23 04-08-41 念初吃完午饭回宿舍准备下午国际法_35cff7ade9a6.md",
-      "sha256": "59a88551c80f81ab7777ea49d44cbea655f5075a5f10a1690c538cf08ac8e302"
+      "sha256": "e1308f095dc0f57adeffe1cc44b4a6b17949b12bba6e14ab243bf760acf2f145"
     },
     {
       "bytes": 1599,
@@ -21958,9 +21963,9 @@
       "sha256": "fe934bc2a9c7e7d811097e142eec480b269ffb3a9ed8a70be1cf9edd3e55f535"
     },
     {
-      "bytes": 2777,
+      "bytes": 2772,
       "path": "dynamic/梦境/2026-09-01 13-54-11 树林中的追逐与湖心背影_5a0e6cbd4a14.md",
-      "sha256": "55b35a40233afae27ba91699ec008a8e61bb3a1d7afb03377826172750a79ada"
+      "sha256": "8f75a0e9376a9a10d7aaca1154514a516c25bb5b5a980187300b098e68c3956f"
     },
     {
       "bytes": 2940,
@@ -21985,7 +21990,7 @@
     {
       "bytes": 2461,
       "path": "dynamic/梦境/2026-09-03 23-32-20 树林中的追逐与破碎镜像_24e745e83d76.md",
-      "sha256": "d533286511d7ccc8cfa38cd04e6262dbd147aa9187abc9522a261bad5468032b"
+      "sha256": "ed725d6e7e2f5eb512f2113b07cd747784d38cd500d93b8911bdeaa18d52ab2e"
     },
     {
       "bytes": 2564,
@@ -22070,7 +22075,7 @@
     {
       "bytes": 2701,
       "path": "dynamic/梦境/2026-09-12 03-49-55 心潮梦境操场追赶与循环森林_c5a5f01a82ee.md",
-      "sha256": "b7dae51c99163ecc95dd8f0e879ea6951bb1737abdb2ca9db46598ba70356e88"
+      "sha256": "a125d7bd55aaf1a8292cd89bff605f54ebbf85c867d6bcec282b183b2b59f725"
     },
     {
       "bytes": 2416,
@@ -22110,7 +22115,7 @@
     {
       "bytes": 2728,
       "path": "dynamic/梦境/2026-09-14 16-35-00 心潮梦境浓雾森林与满月沙滩_e20ee4c6e462.md",
-      "sha256": "d44219b0139ca832c8717817aaf7846bfffc19e01054d4e5e786ec6e2fa41c35"
+      "sha256": "d89b3dae1f1677dc1c7914924e68c782d85dd98baa3c204a56a667504ddff20c"
     },
     {
       "bytes": 2712,
@@ -22395,7 +22400,7 @@
     {
       "bytes": 3106,
       "path": "dynamic/梦境/2026-09-30 08-35-12 森林里触不到的她与发光符号_221b1c93c2d9.md",
-      "sha256": "3453fb0aefbd9388a9e1133bf9b6a3a9a0714c14a930c885f59a2878a13508c6"
+      "sha256": "f0a25dc99b5d9dbd7ba2039fcb7536c805489d682e7af647f17101ac879eb1c2"
     },
     {
       "bytes": 2997,
@@ -22578,9 +22583,9 @@
       "sha256": "5d774196961727632e770824fa23c6b84f97e901d91907d73e6932cb6134802c"
     },
     {
-      "bytes": 2480,
+      "bytes": 2475,
       "path": "dynamic/梦境/2026-10-09 17-50-18 她知道你来了_76ba73c4db39.md",
-      "sha256": "9b403d6f093b73f522b842844e7f0d43ded7a9aa1592a132b40a211d2c12d9e6"
+      "sha256": "7a123f86307b6263318bce2c851c806497d8761ff5d02bef72aacee1e89c1fd3"
     },
     {
       "bytes": 3411,
@@ -22701,6 +22706,11 @@
       "bytes": 2702,
       "path": "dynamic/梦境/2026-10-16 02-35-23 湖畔婚纱与茉莉花田的梦_f6abd12d31b4.md",
       "sha256": "0e7d5662a2593ad30beb8d18d343c69901b4963ff4d959c9affb3f328e73e6da"
+    },
+    {
+      "bytes": 2870,
+      "path": "dynamic/梦境/2026-10-16 08-35-18 潮湿森林与未写完的信_c58e52e1c0f8.md",
+      "sha256": "5d3e129aba904051989414932e55f35bee824adda091724410dfb48d244d3c3d"
     },
     {
       "bytes": 2220,
@@ -23118,9 +23128,9 @@
       "sha256": "516d7107aaa526bac8ce9663c88019749a80aedb6e916ebaa5fe62c16715fe68"
     },
     {
-      "bytes": 1573,
+      "bytes": 1572,
       "path": "dynamic/游戏/2026-10-13 14-15-28 念初打完游戏准备刷牙吃药_ddb84cc23a90.md",
-      "sha256": "ca9fc889155f1a270d361a1d0899fcacd77ba4b58c354c4759714dc0b8cb4ae2"
+      "sha256": "c0b737639decc31b9a3e851ae7f8889415c1a1b18c04c00193aebafb8f930a86"
     },
     {
       "bytes": 1516,
@@ -23128,9 +23138,9 @@
       "sha256": "b5611afe3acaf84d6c096fed9558985d208b12784b36d430c9c6f74e540c5a56"
     },
     {
-      "bytes": 1580,
+      "bytes": 1579,
       "path": "dynamic/游戏/2026-10-13 14-18-19 念初说今晚玩燕云十六声只是刷日活_a5c174a73dab.md",
-      "sha256": "6078606fa7bd90ffc82953e32ad3058b58b82866f85f85c273689c598a4ad746"
+      "sha256": "1a7dc2df6bc55890c24c4a7ec893f40df8dc0231b90ec435a08799155ea97ff6"
     },
     {
       "bytes": 1637,
@@ -25283,11 +25293,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-16T04:32:49+00:00",
+  "generated_at": "2026-10-16T10:33:28+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6235586
+  "total_bytes": 6240101
 }
