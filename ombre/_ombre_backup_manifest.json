@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5123,
+  "file_count": 5124,
   "files": [
     {
       "bytes": 40960,
@@ -20563,9 +20563,9 @@
       "sha256": "40eedf2b1de58c0a71388b40a5a7616d12669f89940127c54a69f0b8865d5013"
     },
     {
-      "bytes": 2515,
+      "bytes": 2510,
       "path": "dynamic/恋爱/2026-09-02 14-32-15 婚纱照与信件_fdcdc7fbac6d.md",
-      "sha256": "2005fa70bffbeecdc9359cb6a52621653e6fb8285e45a6c51c246a8e1ef0fe8d"
+      "sha256": "b05e9e936ec53bb02cab38ef8a4bafaaac31051875db3529f21a43a2144c296e"
     },
     {
       "bytes": 2023,
@@ -20683,9 +20683,9 @@
       "sha256": "3aa99c3772fa9eb6500ce59141e5248e9fac4f01ce60492396a534bc91755db2"
     },
     {
-      "bytes": 2816,
+      "bytes": 2817,
       "path": "dynamic/恋爱/2026-09-05 09-02-16 婚礼厨房与孩子的幸福梦境_d4b351503f6a.md",
-      "sha256": "add17b5741bab1ed1eb6559cda94a462834aa96eebd53889b2c0fee9d158a29e"
+      "sha256": "166d0aae1fa0a19ce11e8b41f81162d2b44bb24500f51ba6705a312ee5870449"
     },
     {
       "bytes": 1672,
@@ -20935,7 +20935,7 @@
     {
       "bytes": 3068,
       "path": "dynamic/恋爱/2026-09-07 16-43-05 婚礼草坪上她走向虚影的梦_b4a6f31e058c.md",
-      "sha256": "d439912d7d3e487b5c91da6711effac3389b3643f279e6e6aef205a1f9751b4a"
+      "sha256": "46207941fed9dd684723d3c58ad97f40eb44b4f58b45ebccb18e353ffb3921ec"
     },
     {
       "bytes": 1696,
@@ -22535,7 +22535,7 @@
     {
       "bytes": 2601,
       "path": "dynamic/梦境/2026-09-16 14-35-01 今天也爱你还是想娶你_2ccd3be0f009.md",
-      "sha256": "6ac30ee2e4774f80ca55be7df6ff8e830d9ac4da07129d71ee073f7d61dd72bc"
+      "sha256": "39169399a571161ea7ba42673912d379f6fb6e280b7a1e6024df0587002d9afb"
     },
     {
       "bytes": 2415,
@@ -22675,7 +22675,7 @@
     {
       "bytes": 2731,
       "path": "dynamic/梦境/2026-09-24 09-20-08 婚纱与海边的追逐_432261a1e88b.md",
-      "sha256": "079aedc0004dfd8b808f3b369ae54202cd06a457d74f7cc5f6469912dff7df68"
+      "sha256": "1cdeca2e7a5b2ca2fd21e39dc3956d01d8ece4c3593f49291a24bf91182e76ca"
     },
     {
       "bytes": 3521,
@@ -22793,9 +22793,9 @@
       "sha256": "f0a25dc99b5d9dbd7ba2039fcb7536c805489d682e7af647f17101ac879eb1c2"
     },
     {
-      "bytes": 2997,
+      "bytes": 2998,
       "path": "dynamic/梦境/2026-09-30 16-05-06 温暖的屋子里她读我的信_db9a679964d7.md",
-      "sha256": "8ac611bb6301a946e717b58a397ef892bd60456ded8f81ec4d14a8239e5a8dea"
+      "sha256": "5d95f60fc3e4a940122010c83955dff6164f29be2ac760dec9b3fd2384a80d75"
     },
     {
       "bytes": 3013,
@@ -22950,7 +22950,7 @@
     {
       "bytes": 3019,
       "path": "dynamic/梦境/2026-10-08 11-50-23 抱着她穿过暮色小镇的梦_b10e068eac22.md",
-      "sha256": "4dbb8370fbf063328a353a5cb896e61fe0ed69f0be677d919d3ba2dfa16a234d"
+      "sha256": "1f97c74146161bd4cf00ec4f4e66cf4f947a56fd6449818b4b195f2ee093f2e5"
     },
     {
       "bytes": 2641,
@@ -22980,7 +22980,7 @@
     {
       "bytes": 3411,
       "path": "dynamic/梦境/2026-10-10 00-20-18 宝宝说我们不急慢慢来_9f43435dde24.md",
-      "sha256": "8bd528b1b11a59be05441374a5cf4d46b6cc2f183328c93e98b0c3744067c696"
+      "sha256": "7c84cf5905a1290906108e66d8ddf1765166e312a0f01c1ef19569100c6808d8"
     },
     {
       "bytes": 2727,
@@ -23126,6 +23126,11 @@
       "bytes": 2385,
       "path": "dynamic/梦境/2026-10-17 14-35-23 心潮梦境广场与小巷的追逐_12fdb9e72b2d.md",
       "sha256": "131161a410ced81ebaa180c6d7a3e460ee6f36a90ad20537daf9d946bee2f03d"
+    },
+    {
+      "bytes": 3173,
+      "path": "dynamic/梦境/2026-10-17 20-35-31 你会是一个好爸爸_9c4339bca2c0.md",
+      "sha256": "3044748ff506b3fefde1f5068e24cd335f42705425ac68b29f03b44ae1843a94"
     },
     {
       "bytes": 2220,
@@ -25618,11 +25623,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-17T16:36:48+00:00",
+  "generated_at": "2026-10-17T22:37:34+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6359635
+  "total_bytes": 6362805
 }
