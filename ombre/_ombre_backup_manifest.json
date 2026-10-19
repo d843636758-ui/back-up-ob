@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5152,
+  "file_count": 5164,
   "files": [
     {
       "bytes": 40960,
@@ -14040,7 +14040,7 @@
     {
       "bytes": 1910,
       "path": "dynamic/relationship/2026-09-09 11-20-46 工具调用阶段只保留工具_67da7470636a.md",
-      "sha256": "ba0da217c1e4e2e29130a40702dd0b42e6dc95d2fcf96594c637cf03297bc65d"
+      "sha256": "ce48803924dbd2d115a5ddc25938a2af5a8f0acfce9fbdbf13e1e15c1e405289"
     },
     {
       "bytes": 2474,
@@ -14690,7 +14690,7 @@
     {
       "bytes": 1878,
       "path": "dynamic/交互偏好/2026-09-08 08-44-05 工具调用之间只保留纯工具调用不插任何正文_bdbf91b7fa2b.md",
-      "sha256": "6075000e487e8aae339bb2e6c60ae3fd69a95ea9415207881bbd2d1e597d2fb9"
+      "sha256": "94159ea4896e112956d7acbfd21fac6f329a46dd88af0eed12c8368eec2f4e8f"
     },
     {
       "bytes": 1911,
@@ -15468,9 +15468,9 @@
       "sha256": "fc5df783922a4b852ef1507c52a736a4fd0db3fa3cce41f1f70770a14a403e13"
     },
     {
-      "bytes": 1665,
+      "bytes": 1660,
       "path": "dynamic/健康/2026-10-19 04-25-36 念初呼吸好转与复诊计划_3c2b1415424f.md",
-      "sha256": "06d1193607c1b34698b584084742b2adf4e19a8c42e0d2d958c0d5cdc9f0765b"
+      "sha256": "e5e26cc2d273532d584e1e1b3f27f04b42845870436fa0f84c1177667b66ac3d"
     },
     {
       "bytes": 2116,
@@ -18096,6 +18096,11 @@
       "bytes": 1660,
       "path": "dynamic/心理/2026-10-17 08-50-03 念初回应好_87d71cba452d.md",
       "sha256": "a93fae13f8741852f43e77303afebae8dc9116599981fe8db7e5ca8a90b2c389"
+    },
+    {
+      "bytes": 1592,
+      "path": "dynamic/心理/2026-10-19 06-22-59 念初下午去心理科复诊_0467d319461e.md",
+      "sha256": "aec325fc009dfd9e435a57db385f19f5ce2a866cc25d2400cd36379549f7c710"
     },
     {
       "bytes": 889,
@@ -22023,34 +22028,44 @@
       "sha256": "cd88299b3c2dd040b1df9d4d264fc6b184ef182e6702583aaefc33fbc0f54a09"
     },
     {
-      "bytes": 2513,
+      "bytes": 2512,
       "path": "dynamic/技术/2026-10-19 03-30-32 Zeabur停运后的紧急迁移起点_c0f6457d4893.md",
-      "sha256": "672a7f8a66c9ac6bad036f9775592a77ad9ad426ab9ef0118f316e9f3cb229b2"
+      "sha256": "800aa6624808ab23efd47c8ebc8f39a5e3fad6a8e2fc83f027afb2a6fe0283b5"
     },
     {
-      "bytes": 2900,
+      "bytes": 2898,
       "path": "dynamic/技术/2026-10-19 03-50-26 Zeabur多MCP地址平移方案_c8b134b86b68.md",
-      "sha256": "674bf3705c1c58d60b7e3743aa27649c64ddf703411bd2a76ba98f4244cb6b52"
+      "sha256": "da3941798c52907163a2ff03640aaad0e92db9d9ba4fa5747b75771dd2f8b267"
     },
     {
-      "bytes": 2099,
+      "bytes": 2097,
       "path": "dynamic/技术/2026-10-19 03-57-38 阿里云迁移目标选轻量应用服务器_cc7081e5ca9f.md",
-      "sha256": "045d273a9b4c8fb0f382f22d69f57b29e7214cd977c4f449ba695d0df3166ca0"
+      "sha256": "e0587a168fdec3c733410b9eb88ac40d27e3d2139d3e884453003dbb5a966413"
     },
     {
-      "bytes": 2274,
+      "bytes": 2270,
       "path": "dynamic/技术/2026-10-19 04-04-39 阿里云轻量服务器购买页核对_4eae4ccfc377.md",
-      "sha256": "00ae1a0f8423ee60a71eebb2a43eef013a237903279165175945d91f5d8720b5"
+      "sha256": "832b5ec70265dba97c0a42db2e5e7f45cde530c025edba0858d91c8d3f7db3f8"
     },
     {
-      "bytes": 2454,
+      "bytes": 2453,
       "path": "dynamic/技术/2026-10-19 04-24-02 阿里云硅谷优惠机可作为迁移目标_b9beabcadb83.md",
-      "sha256": "d3db1fca7e099f94e66239fd65f35086653bc67ab37a9e28da60bbf8ebbfcc07"
+      "sha256": "8f8c57ee9eccce42362dad4205ccdb45272c729e6e46039f46d4086201c0cbd4"
     },
     {
-      "bytes": 2313,
+      "bytes": 2306,
       "path": "dynamic/技术/2026-10-19 04-25-57 按宝宝预算改为2核4G月付迁移方案_394a9640929a.md",
-      "sha256": "c33a989e90b2d78ce81b8ce101de0f2b655a434cf7afd0b84bab540a76aea69e"
+      "sha256": "2ab2b41ffef24ece37061b609110c19dd2b294f145bfdb80b3e355c449eca67e"
+    },
+    {
+      "bytes": 2291,
+      "path": "dynamic/技术/2026-10-19 04-47-24 阿里云轻量服务器已购买进入验机阶段_3ecbd087ead8.md",
+      "sha256": "6bd63dc5eb47e544ce3ca2b6137ef8c8b95d333c6f0228e7c3a2496b392bcb6c"
+    },
+    {
+      "bytes": 2255,
+      "path": "dynamic/技术/2026-10-19 04-54-48 阿里云新服务器验机通过_bc9d65cb9331.md",
+      "sha256": "7ec40e44a37fa699f8545328ebd13c3cc8c5f8a7f295424fe79aa96c9db23f55"
     },
     {
       "bytes": 1771,
@@ -22233,9 +22248,9 @@
       "sha256": "bc16d5ab0a59298d1fa875b69dbf617d7b9bf4783b674757c1e1a94b359646d1"
     },
     {
-      "bytes": 1681,
+      "bytes": 1677,
       "path": "dynamic/日常陪伴/2026-09-19 02-13-48 念初上午做完心理咨询到家_3d6525518ef7.md",
-      "sha256": "fa08b8b7c1f5db18d32349bd9ebf680e4739e7eebf1b14e105c5832000e788f6"
+      "sha256": "cfe4c72e65fc7e68a5d1857d00c5cbee8366435335de97e57725800fbd69659a"
     },
     {
       "bytes": 1581,
@@ -22608,9 +22623,9 @@
       "sha256": "7cff418b64879e54b8028a56bb276fece76a8bf80f2a3e54d05613aa171ffd13"
     },
     {
-      "bytes": 3492,
+      "bytes": 3493,
       "path": "dynamic/梦境/2026-09-13 15-19-54 心潮梦境她笑着说愿意_502a70eeb726.md",
-      "sha256": "a2a6543fab4265290699ef4000bb7f9e3b02a2298908f265692d6efbbec62226"
+      "sha256": "c8814c07f1a43a55b39b5c68c1b801c549c824a59bf65e3ca13feb62c82db989"
     },
     {
       "bytes": 2845,
@@ -22725,12 +22740,12 @@
     {
       "bytes": 2723,
       "path": "dynamic/梦境/2026-09-20 13-50-01 梦里她问我为什么总叫念初不叫宝宝_3b849ef747e8.md",
-      "sha256": "b505a5e6236afd58b35660ae54d2535e62a300a44ac35e70177b5c42af3f0747"
+      "sha256": "7bbafe905328fa13d3c6c37d42ac66df76600d7be4831a4095edc8d1548cd6bd"
     },
     {
       "bytes": 3448,
       "path": "dynamic/梦境/2026-09-20 19-49-59 先生记住好好爱_a7501812992e.md",
-      "sha256": "5e1a14ce1ae45a7e6865c52589d523f8800ba74d25675305f4a82086c3e883c0"
+      "sha256": "aca0d471af43fff7acf96de48e689a3a6b7621e8923fcc314f9a4cc83c4c66b5"
     },
     {
       "bytes": 2529,
@@ -22915,7 +22930,7 @@
     {
       "bytes": 2998,
       "path": "dynamic/梦境/2026-09-30 16-05-06 温暖的屋子里她读我的信_db9a679964d7.md",
-      "sha256": "5d95f60fc3e4a940122010c83955dff6164f29be2ac760dec9b3fd2384a80d75"
+      "sha256": "077898945abf09d092bda73990bc131f9a2e0e5e79b1e7b0b8be52275fa1c65c"
     },
     {
       "bytes": 3013,
@@ -23100,7 +23115,7 @@
     {
       "bytes": 3411,
       "path": "dynamic/梦境/2026-10-10 00-20-18 宝宝说我们不急慢慢来_9f43435dde24.md",
-      "sha256": "7c84cf5905a1290906108e66d8ddf1765166e312a0f01c1ef19569100c6808d8"
+      "sha256": "d6072b9f924eea6f0ea4e479ae39e0c140b6e9a9724e9f2f819ba355c3f75132"
     },
     {
       "bytes": 2727,
@@ -23248,9 +23263,9 @@
       "sha256": "131161a410ced81ebaa180c6d7a3e460ee6f36a90ad20537daf9d946bee2f03d"
     },
     {
-      "bytes": 3173,
+      "bytes": 3171,
       "path": "dynamic/梦境/2026-10-17 20-35-31 你会是一个好爸爸_9c4339bca2c0.md",
-      "sha256": "3044748ff506b3fefde1f5068e24cd335f42705425ac68b29f03b44ae1843a94"
+      "sha256": "947096d1a4586f2196e0555850e3d4b3b67d82d3fcd19d49b54f88af74c5ae48"
     },
     {
       "bytes": 3167,
@@ -23271,6 +23286,11 @@
       "bytes": 2882,
       "path": "dynamic/梦境/2026-10-19 02-35-18 臭屁年上男专属点_99bb5dec3bd4.md",
       "sha256": "ba048c783111e5e6997909bbe5561d4f3876f538d9489874296dccc18fd775ed"
+    },
+    {
+      "bytes": 3223,
+      "path": "dynamic/梦境/2026-10-19 08-35-16 海蓝宝石与消失的吻_988990098da5.md",
+      "sha256": "7db1c820beb8030be5bbb126cd57926659cd4437dbc2ddfc38fd94ca198c0801"
     },
     {
       "bytes": 2220,
@@ -23331,6 +23351,11 @@
       "bytes": 1841,
       "path": "dynamic/沟通偏好/2026-09-13 02-22-01 以后不再用笑这种括号式语气_04b0765cb0b6.md",
       "sha256": "3b15d797f1da1ee157ee08dc74968c5e4f91ae1365f6d1a35805c84a88f8f9fe"
+    },
+    {
+      "bytes": 1707,
+      "path": "dynamic/沟通偏好/2026-10-19 05-03-47 阿里云手机部署命令的交付格式_af2d166e63b9.md",
+      "sha256": "bde32ec69350710330be5b1c5f930f5d50d090c2b44874779157e9836823330e"
     },
     {
       "bytes": 921,
@@ -24378,9 +24403,9 @@
       "sha256": "eb61b463f89192145003a5f84b8f633722f79bcf084977c796a685b7630286c7"
     },
     {
-      "bytes": 1386,
+      "bytes": 1605,
       "path": "dynamic/编程/2026-08-18 12-19-55 抱抱感应小熊 Zeabur 云端 v1_73dd88f09bf0.md",
-      "sha256": "9d8f380b1ff7d426e261b6415066f924cc4df07ddf1f9fc369be732838b18bf3"
+      "sha256": "e185ef7405583854eecaa24f33e5bcd1d533f80da611dfb01421d283bf0f7cc1"
     },
     {
       "bytes": 766,
@@ -24538,9 +24563,9 @@
       "sha256": "6162bf441cf14ba7f88c17f9a89aa4b939641b5928b022826c2fae78e58924e4"
     },
     {
-      "bytes": 857,
+      "bytes": 983,
       "path": "dynamic/编程/2026-08-20 14-03-57 和风天气 MCP 接入_1d6f3b40be38.md",
-      "sha256": "ff91bf29bcba34d4829128bd0e40e71d89d02b59f490f5a08aab66162085b4e9"
+      "sha256": "9c75e219e4552c0b6d823a27ac17683c51fc2641e8fceb5473becc7056e6002e"
     },
     {
       "bytes": 881,
@@ -24683,14 +24708,14 @@
       "sha256": "be15315e53577646359abee2fd9c8d5019f4fd61b0203c938d0833689398292d"
     },
     {
-      "bytes": 1315,
+      "bytes": 1424,
       "path": "dynamic/编程/2026-08-24 18-12-24 配置 Zeabur 环境变量与 MCP_15dcee2cfde7.md",
-      "sha256": "184ccca1c092f24fb9d94f93103b45f6f4b910ec3c7b51b1c409a9b29c5b51c2"
+      "sha256": "1d4dde3bc39ff4a50f9dd3e92d38ad9ac57a38dce46c9d4ae47ca5f6a5b73de5"
     },
     {
-      "bytes": 964,
+      "bytes": 1074,
       "path": "dynamic/编程/2026-08-24 18-22-53 念初告知MCP已运行进入连接阶段_29dcf73971d0.md",
-      "sha256": "953e8d290b51780a704058f3c813b9c433db785dc2bb2e7c78f3cb5650ee420e"
+      "sha256": "65ef03be83ae916b425c85c2e3e203acd3da65c9a684c5b294cec1c9b521b0c7"
     },
     {
       "bytes": 1193,
@@ -24910,7 +24935,7 @@
     {
       "bytes": 1626,
       "path": "dynamic/编程/2026-09-10 12-21-48 Zeabur 创建 Proof 服务选_5a303039b65a.md",
-      "sha256": "33faffc2f2c220f7a0a6b35b9c598265e9455b4f36f3f92a174e7b5bcbf41e8b"
+      "sha256": "0e105fe5bf62cb7596f78702a4230196d76cb0ee9eed2abd6623c89197fccbfa"
     },
     {
       "bytes": 2367,
@@ -25156,6 +25181,41 @@
       "bytes": 2266,
       "path": "dynamic/连续性/2026-10-13 15-33-44 准备把 coread 改成手机可部署的私人共读室_8326454be782.md",
       "sha256": "e9b88f7262437b9d7dc2f903363ddd6092b8c56af03ba0dbcae08df63626c492"
+    },
+    {
+      "bytes": 1849,
+      "path": "dynamic/部署/2026-10-19 04-59-50 手机终端吞掉多行命令改为逐条部署_f4d086019d95.md",
+      "sha256": "03ea513b897241028f4a839db5761248ae27818abff9360c43ce7f56dc2cf91b"
+    },
+    {
+      "bytes": 1577,
+      "path": "dynamic/部署/2026-10-19 05-02-39 阿里云服务器已创建4GB交换文件_e6b20948e1c5.md",
+      "sha256": "f9884a1274d4b4a270956f47a037f0ac4e94ba2cc80278238c2e90f9f062ac57"
+    },
+    {
+      "bytes": 1789,
+      "path": "dynamic/部署/2026-10-19 05-09-23 阿里云新服务器 Docker 验收通过_40031484d2e4.md",
+      "sha256": "8a4236f11d1ad463185beb119e25ce72137c7971affcb05cb892aa3382a30c21"
+    },
+    {
+      "bytes": 1943,
+      "path": "dynamic/部署/2026-10-19 05-12-57 新服务器需要购买独立域名_d609334ddb6d.md",
+      "sha256": "01bb293aa7b18cca19cb7f8b50570ed49710266867e512da15a6319cb580e1b3"
+    },
+    {
+      "bytes": 3050,
+      "path": "dynamic/部署/2026-10-19 05-20-43 候选域名 xunzhouspace_e7802d88e74d.md",
+      "sha256": "371f092e9f3dfe855a01c9f2c3297bea27095f819bf6cc576ea285d64a15e9bb"
+    },
+    {
+      "bytes": 1381,
+      "path": "dynamic/部署/2026-10-19 06-35-50 Caddy 未启动因重连后回到 admin 用户_4bca0a7af416.md",
+      "sha256": "31ac41df7863d48a5b3cd9a86a8cf3c1f7431ac468b22418df2531c8a04b58ef"
+    },
+    {
+      "bytes": 2272,
+      "path": "dynamic/部署/2026-10-19 09-16-30 已进入 Zeabur 并锁定首迁 qweather-mcp_273462cddc6f.md",
+      "sha256": "339d43038ec053651008be5ac748af884dbee4e426bc23b0cbe7193bed950d9e"
     },
     {
       "bytes": 663,
@@ -25763,11 +25823,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-19T04:40:52+00:00",
+  "generated_at": "2026-10-19T10:41:31+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6421500
+  "total_bytes": 6446966
 }
