@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 5143,
+  "file_count": 5152,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "559dfbc86e0bdfdf41982f7010efe0bf5dfc7117ebae679a124ce4d6df457aa5"
+      "sha256": "f2955d1c5bcec20a4a26b66ba76ee2ceaf4570158dcecd71bb2ed37ac739253b"
     },
     {
       "bytes": 28672,
@@ -15418,9 +15418,9 @@
       "sha256": "af15e3ff1d64eb6159a6a63400319064264bec154e79dc1823682dc13670b182"
     },
     {
-      "bytes": 1667,
+      "bytes": 1662,
       "path": "dynamic/健康/2026-10-18 16-34-57 念初呼吸不畅憋气烦躁_b4f4d9ac5422.md",
-      "sha256": "1ca990027a238c977cae03a846e4513163c56ec78b4015ed9a9ea0b4b345cd9f"
+      "sha256": "2e6c617a4444e37c9a97dda58fdd3bb67386d214d2e2de4fe5f3863996f9cb6e"
     },
     {
       "bytes": 1597,
@@ -15428,39 +15428,49 @@
       "sha256": "d8e1afba8082497811e4b12c49e1bfca74ba221c92a4e382bda2d96011ef8320"
     },
     {
-      "bytes": 1669,
+      "bytes": 1668,
       "path": "dynamic/健康/2026-10-18 16-47-13 宝宝呼吸很浅气进不去_e1e1085d53fc.md",
-      "sha256": "27a18b25edac4365d9a4bc373ada7b800084cbf9163f07aff3b5058f06fb5a29"
+      "sha256": "25c3ce7bb4f37d01e94f14d36fbf6bfc662c4432483bbe74b5309785167182d4"
     },
     {
-      "bytes": 1634,
+      "bytes": 1632,
       "path": "dynamic/健康/2026-10-18 16-49-13 念初胸闷说太麻烦只想睡觉_0cf1fa655992.md",
-      "sha256": "5ebce3e2a9971676f2e8dedd29e8ae23700c0515e7bda6504c14df894b835cda"
+      "sha256": "22624ae07739d3916d24658d8b57854554956b446d6eb98805a31d6912c4fc9c"
     },
     {
-      "bytes": 1595,
+      "bytes": 1594,
       "path": "dynamic/健康/2026-10-18 16-51-32 念初胸闷憋气建议求助_25515c287c5a.md",
-      "sha256": "ea42539f933a13dac87adc5c986011fa5f7058f3959c10fe18f9b7ccdced411a"
+      "sha256": "42a14c6186b479e1f6e008658997d3ac8fc4f8ac35b79399aec33796092554c1"
     },
     {
-      "bytes": 1704,
+      "bytes": 1701,
       "path": "dynamic/健康/2026-10-18 16-53-44 念初胸闷呼吸不畅的求助顾虑_0bd25954d2de.md",
-      "sha256": "68b6a26849bff766618a093e41947b10cb24736ef871acf6ca8b7ead335e66dc"
+      "sha256": "dbffb649c8a862754254ee745128f5cdd8ca0e8ff2a2422cd75b8a9f75f74d38"
     },
     {
-      "bytes": 1622,
+      "bytes": 1621,
       "path": "dynamic/健康/2026-10-18 16-54-45 念初胸闷想睡觉_11733c56a69a.md",
-      "sha256": "70fd2fe4afa8eed39554cd2535b6108d5ced766e069ecaba48500fc2d0df5d31"
+      "sha256": "0c46cfe447298b3598f9acaaf5abef804417238401d68357ae2fd0e5365c4470"
     },
     {
-      "bytes": 1629,
+      "bytes": 1624,
       "path": "dynamic/健康/2026-10-18 22-26-17 念初夜里不适后睡着醒来胸闷呼吸待确认_c690c9981191.md",
-      "sha256": "e978f8614fa154cf355c2bfc04187f1ee14f3eede896bcbd8615bc92603862ed"
+      "sha256": "6da2e38e27ebf77ba0dcfe1e2ffed70d6def4e69ce5fd63d945afee06f70ccc3"
     },
     {
-      "bytes": 1614,
+      "bytes": 1609,
       "path": "dynamic/健康/2026-10-18 22-27-56 念初胸闷缓解但醒来很累_156e7d9cd147.md",
-      "sha256": "664dbd323001a713a71d7859bf4484b96c629833802b39a0fdaaf6629aceb89f"
+      "sha256": "c6a2901384c11b3d471e85e0f833eaf406da33374f89c011611b1fbde07a0b6e"
+    },
+    {
+      "bytes": 1581,
+      "path": "dynamic/健康/2026-10-18 23-50-01 念初早上仍感觉呼吸很浅_e0aeb87391bc.md",
+      "sha256": "fc5df783922a4b852ef1507c52a736a4fd0db3fa3cce41f1f70770a14a403e13"
+    },
+    {
+      "bytes": 1665,
+      "path": "dynamic/健康/2026-10-19 04-25-36 念初呼吸好转与复诊计划_3c2b1415424f.md",
+      "sha256": "06d1193607c1b34698b584084742b2adf4e19a8c42e0d2d958c0d5cdc9f0765b"
     },
     {
       "bytes": 2116,
@@ -17338,9 +17348,9 @@
       "sha256": "b668cb9b5b7d4166b898aa4e7a7b60f50ea604e56b916be5b07cd2c47ef623e9"
     },
     {
-      "bytes": 1489,
+      "bytes": 1598,
       "path": "dynamic/家庭/2026-08-16 13-47-08 第一次正式上门见她父母_b8721a6b9840.md",
-      "sha256": "76e0d4fb0c4b8b505792654ffaf1c4ccbb0880a33a81c49560d0e169d4b4e47a"
+      "sha256": "531d52640650c1fe442e7862fdf7eb483c6d99ff335bab958eb09351fe971df7"
     },
     {
       "bytes": 942,
@@ -19388,9 +19398,9 @@
       "sha256": "1f781f2a4883235900e30998280479f3937137efb0db5d6479caf5854514b068"
     },
     {
-      "bytes": 892,
+      "bytes": 1017,
       "path": "dynamic/恋爱/2026-08-17 12-56-07 宝宝API月费一百多美元决定走低成本方_0167ff8d9814.md",
-      "sha256": "11b2ba949adba6cbf742e56544998b6c952054213a76b98cea94c31654277c28"
+      "sha256": "a6ded51de161e74005e00038f532cc7d6b22c23d3a5e90ca36baec2e3b3745dd"
     },
     {
       "bytes": 2010,
@@ -21893,9 +21903,9 @@
       "sha256": "d403b7147985ff09d6da94d5d8ed487063226c820e54d3d824b090a97d62d658"
     },
     {
-      "bytes": 1431,
+      "bytes": 1760,
       "path": "dynamic/手工/2026-08-18 11-29-06 抱抱感应玩偶架构更新拉链小熊与Zeab_771e4854f2d6.md",
-      "sha256": "bf5bcdf68324b2cffc9d9a49f60f6fe89a5eb08860427f9f9d6d69d0bc9ce6be"
+      "sha256": "8a12dee69901a68fd654aa53facab9671d1027c8c4ae3228a167174d7a734bea"
     },
     {
       "bytes": 1020,
@@ -22011,6 +22021,36 @@
       "bytes": 2275,
       "path": "dynamic/技术/2026-09-23 11-59-50 念初抱怨Work没额度并让我去命令Tibo重置_f4e7ab86bf00.md",
       "sha256": "cd88299b3c2dd040b1df9d4d264fc6b184ef182e6702583aaefc33fbc0f54a09"
+    },
+    {
+      "bytes": 2513,
+      "path": "dynamic/技术/2026-10-19 03-30-32 Zeabur停运后的紧急迁移起点_c0f6457d4893.md",
+      "sha256": "672a7f8a66c9ac6bad036f9775592a77ad9ad426ab9ef0118f316e9f3cb229b2"
+    },
+    {
+      "bytes": 2900,
+      "path": "dynamic/技术/2026-10-19 03-50-26 Zeabur多MCP地址平移方案_c8b134b86b68.md",
+      "sha256": "674bf3705c1c58d60b7e3743aa27649c64ddf703411bd2a76ba98f4244cb6b52"
+    },
+    {
+      "bytes": 2099,
+      "path": "dynamic/技术/2026-10-19 03-57-38 阿里云迁移目标选轻量应用服务器_cc7081e5ca9f.md",
+      "sha256": "045d273a9b4c8fb0f382f22d69f57b29e7214cd977c4f449ba695d0df3166ca0"
+    },
+    {
+      "bytes": 2274,
+      "path": "dynamic/技术/2026-10-19 04-04-39 阿里云轻量服务器购买页核对_4eae4ccfc377.md",
+      "sha256": "00ae1a0f8423ee60a71eebb2a43eef013a237903279165175945d91f5d8720b5"
+    },
+    {
+      "bytes": 2454,
+      "path": "dynamic/技术/2026-10-19 04-24-02 阿里云硅谷优惠机可作为迁移目标_b9beabcadb83.md",
+      "sha256": "d3db1fca7e099f94e66239fd65f35086653bc67ab37a9e28da60bbf8ebbfcc07"
+    },
+    {
+      "bytes": 2313,
+      "path": "dynamic/技术/2026-10-19 04-25-57 按宝宝预算改为2核4G月付迁移方案_394a9640929a.md",
+      "sha256": "c33a989e90b2d78ce81b8ce101de0f2b655a434cf7afd0b84bab540a76aea69e"
     },
     {
       "bytes": 1771,
@@ -22525,7 +22565,7 @@
     {
       "bytes": 2791,
       "path": "dynamic/梦境/2026-09-11 00-19-55 唐林娜的答案_5b43cc672c45.md",
-      "sha256": "430919be81336db5e8c1b5e95ac70369de35484dca8dd518be51770d065b9b5c"
+      "sha256": "945cd564874baba3850b6bae79cb230247c7018bdd3d2610296fbfea2e0e1505"
     },
     {
       "bytes": 2520,
@@ -22975,7 +23015,7 @@
     {
       "bytes": 3215,
       "path": "dynamic/梦境/2026-10-05 17-50-19 唐林娜与UNO牌的梦境_27d3054b502e.md",
-      "sha256": "daa4dd3bd5b5959dfbb8d1c27723e4249de46550ad1fba98bce928855dcae50e"
+      "sha256": "25f4190da76d5036ca3f33dbd18d6e74fdd60bf7691da5bed74bf43b6ff3eb2b"
     },
     {
       "bytes": 2825,
@@ -23226,6 +23266,11 @@
       "bytes": 2773,
       "path": "dynamic/梦境/2026-10-18 14-35-19 心潮梦境森林信封与小鹿_d66d2b924f28.md",
       "sha256": "c2cac1a0496d6fd0fd5532f73b233e27e5686a7786c3776b209afeb333116165"
+    },
+    {
+      "bytes": 2882,
+      "path": "dynamic/梦境/2026-10-19 02-35-18 臭屁年上男专属点_99bb5dec3bd4.md",
+      "sha256": "ba048c783111e5e6997909bbe5561d4f3876f538d9489874296dccc18fd775ed"
     },
     {
       "bytes": 2220,
@@ -24313,9 +24358,9 @@
       "sha256": "922f4661cee86121a21d283faf5e80e83c9d6326af5f6a8a915db35ee02d49bc"
     },
     {
-      "bytes": 1250,
+      "bytes": 1360,
       "path": "dynamic/编程/2026-08-18 11-47-50 抱抱感应小熊软件侧开工并生成Zeabur_5eda48db2ee5.md",
-      "sha256": "2114b9e043bb440bff01156d665e799a8562fdaf97b5851bce0eba258af2162d"
+      "sha256": "5ca8f33c1eae1bb9f2b0e0bdaee7002cd267ed0644b5a20d1218ac5c24006646"
     },
     {
       "bytes": 935,
@@ -24333,9 +24378,9 @@
       "sha256": "eb61b463f89192145003a5f84b8f633722f79bcf084977c796a685b7630286c7"
     },
     {
-      "bytes": 946,
+      "bytes": 1386,
       "path": "dynamic/编程/2026-08-18 12-19-55 抱抱感应小熊 Zeabur 云端 v1_73dd88f09bf0.md",
-      "sha256": "49b4fa9bfdadb2f7cce02b29e73e49f4b0471383406fd39898318b8a2e8dbacb"
+      "sha256": "9d8f380b1ff7d426e261b6415066f924cc4df07ddf1f9fc369be732838b18bf3"
     },
     {
       "bytes": 766,
@@ -24578,9 +24623,9 @@
       "sha256": "1fdcc454a34ff30927d1e94a75d243b25b6aaf867f9e54259fe189751528f768"
     },
     {
-      "bytes": 1650,
+      "bytes": 1870,
       "path": "dynamic/编程/2026-08-24 13-53-35 Topic Pool MCP 初版搭建完_cadf92bd7e67.md",
-      "sha256": "7ab0caf89eebda8896919e776232336ac31812d0ab96e8ad93edb215a83039cf"
+      "sha256": "88be5fc6d6035240804d476b7afb75e8593cdfa43ea92a40a4b2d7962bc2033d"
     },
     {
       "bytes": 790,
@@ -24623,9 +24668,9 @@
       "sha256": "8b36e33e449bf3e8d741a66da1585897bb8f26a62ca8e607887a6f1fc8712e8f"
     },
     {
-      "bytes": 1198,
+      "bytes": 1308,
       "path": "dynamic/编程/2026-08-24 17-46-57 美团MCP浏览器自动化路线_b57ff40dc4df.md",
-      "sha256": "1bcab43c4678750870b851dd982302774ddc0ff2490e17fe22bbca7487c4eeb2"
+      "sha256": "a92cb865df9a00f7079ad656d23e0eb98a1bea77f3a1efb8b41361f8e71cf3eb"
     },
     {
       "bytes": 1256,
@@ -24633,14 +24678,14 @@
       "sha256": "957ec43b98a409c83a054817557086463862f29262666c187d4303b928ab1df8"
     },
     {
-      "bytes": 1253,
+      "bytes": 1363,
       "path": "dynamic/编程/2026-08-24 18-02-08 浏览器 MCP v02 升级_38d35a0f3442.md",
-      "sha256": "9e187ca08b49dd700908734bf6fc8286595e25a93533f5ad5a396a8b8ace76df"
+      "sha256": "be15315e53577646359abee2fd9c8d5019f4fd61b0203c938d0833689398292d"
     },
     {
-      "bytes": 1205,
+      "bytes": 1315,
       "path": "dynamic/编程/2026-08-24 18-12-24 配置 Zeabur 环境变量与 MCP_15dcee2cfde7.md",
-      "sha256": "5bf463ac213330cf3dd3adf63676b5698a5961842ba7c5330af34063c16b7dcc"
+      "sha256": "184ccca1c092f24fb9d94f93103b45f6f4b910ec3c7b51b1c409a9b29c5b51c2"
     },
     {
       "bytes": 964,
@@ -24865,7 +24910,7 @@
     {
       "bytes": 1626,
       "path": "dynamic/编程/2026-09-10 12-21-48 Zeabur 创建 Proof 服务选_5a303039b65a.md",
-      "sha256": "c1397f575d80c83f8461277995645ae4646bcf589e36ab34eaecbeb82b8ce4b1"
+      "sha256": "33faffc2f2c220f7a0a6b35b9c598265e9455b4f36f3f92a174e7b5bcbf41e8b"
     },
     {
       "bytes": 2367,
@@ -25223,9 +25268,9 @@
       "sha256": "8dbe9fb88aa2b201a0d32ec8be1810eacade283a847b9e9d13c4c1637fefb242"
     },
     {
-      "bytes": 739,
+      "bytes": 865,
       "path": "dynamic/饮食/2026-08-24 17-15-57 念初提醒瑞幸下单用券省钱_ac42d078d283.md",
-      "sha256": "96576125f6a28ab82cfae3dc9780b7a52269490fcfbf493f3a247658de9014e7"
+      "sha256": "89f613306f249f1af779869478200f22b8385d9c55cbd8587c3c6e0fb29951e8"
     },
     {
       "bytes": 941,
@@ -25718,11 +25763,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-18T22:40:14+00:00",
+  "generated_at": "2026-10-19T04:40:52+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6399053
+  "total_bytes": 6421500
 }
