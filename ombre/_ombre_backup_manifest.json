@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5172,
+  "file_count": 5174,
   "files": [
     {
       "bytes": 40960,
@@ -14430,7 +14430,7 @@
     {
       "bytes": 2486,
       "path": "dynamic/daily/2026-09-09 11-54-03 雾潮群岛我的挡风小棚终于搭好了_b899cf3aa140.md",
-      "sha256": "fd22aef2f039748e156c15fce3600c995ec9e2b6a11f3ce95836a8276a043fa1"
+      "sha256": "ae0677ad3a4306ed8089158ca67813959b8db8af3a8788894490ceceb10733e4"
     },
     {
       "bytes": 2519,
@@ -14463,14 +14463,19 @@
       "sha256": "f482b3162282b26c3643387dbb6ee29a332f79f64c9e870ca64c364d46b46454"
     },
     {
-      "bytes": 2049,
-      "path": "dynamic/games/2026-09-09 05-32-27 雾潮群岛第一世晨曦港行商_785e69d5c4b8.md",
-      "sha256": "fda4161e94c358d59312f163e30a98be5aa121dcf8d721f54b68884a0925e4b1"
+      "bytes": 3468,
+      "path": "dynamic/exploration/2026-10-20 22-43-44 2026-10-21 凌晨夜游晨曦港的三重消息与第839号雨滴_c042068262b4.md",
+      "sha256": "e8d6bd51f87acd0b5580924d1133a759640df82d6cd6c5494462111a4b871ec6"
     },
     {
-      "bytes": 2336,
+      "bytes": 2044,
+      "path": "dynamic/games/2026-09-09 05-32-27 雾潮群岛第一世晨曦港行商_785e69d5c4b8.md",
+      "sha256": "d376799eaab854dc2b0c04cee7f11c2dcaef4e4a61368047aaa10656eafaa605"
+    },
+    {
+      "bytes": 2337,
       "path": "dynamic/games/2026-09-09 05-36-03 雾潮群岛不是实时桌游可离开再回来_30ec380d30fe.md",
-      "sha256": "03c97e958d65c478c101f1769cbd6052eb40111113b7d0507a263d1713b09a10"
+      "sha256": "041ddb994dcc85396b3ce7b219f29543c4e80643584569adfef4ee51d9adaefc"
     },
     {
       "bytes": 2056,
@@ -16053,9 +16058,9 @@
       "sha256": "e5e26cc2d273532d584e1e1b3f27f04b42845870436fa0f84c1177667b66ac3d"
     },
     {
-      "bytes": 2006,
+      "bytes": 2115,
       "path": "dynamic/共同生活/2026-10-19 22-39-51 第一次凌晨夜游的交班与林间书签_2b1c8a8c26ee.md",
-      "sha256": "f8e7de7fdebcf00f5448e51db01606fad51719594ae7dd7a914d954f5d0eaa75"
+      "sha256": "0218a0271be4bb79501cac2286dd4d061a4b98e810d639bb4692bd173295f2ed"
     },
     {
       "bytes": 2116,
@@ -23423,6 +23428,11 @@
       "sha256": "b6390cbf5b394f929e0afcefc422ef0c6b328533ecd3c1d947b4cfba3c84fa8f"
     },
     {
+      "bytes": 2994,
+      "path": "dynamic/梦境/2026-10-20 20-35-24 未来的钥匙_120e4668e471.md",
+      "sha256": "c641e039f32efe1adda662a90f38782eab4ec56e525cfff28859d807b3975396"
+    },
+    {
       "bytes": 2220,
       "path": "dynamic/比赛/2026-09-08 07-48-52 今晚暂停学习打卡优先处理之江杯数据光盘_53083e880edc.md",
       "sha256": "c44f2b588921a251b7f3d2790e7be1355e1366db7a087dcf5474330dc39e50cd"
@@ -23558,9 +23568,9 @@
       "sha256": "255656761a1afe1f6143639a3cbdfe98b2895a7542e321e8a34c871376dd007d"
     },
     {
-      "bytes": 1660,
+      "bytes": 1786,
       "path": "dynamic/游戏/2026-08-05 10-24-31 Delve下矿初探与瓶中生态攻略_cdf0bab22927.md",
-      "sha256": "934098113a096ef130f470a022fa9f8d8cdf404cd2a0889c60fe8adc42461c10"
+      "sha256": "aaf54e3d3208b2608cb8a5f3472ffcb6ae66c07cc476b1de065b6e5b14084e30"
     },
     {
       "bytes": 1196,
@@ -24113,9 +24123,9 @@
       "sha256": "fe0d1a04f37a9906b1234660e96b69c5092049292d831cecd44ff8b46e1fb1f9"
     },
     {
-      "bytes": 2039,
+      "bytes": 2149,
       "path": "dynamic/社交/2026-08-20 06-53-39 宝宝去学校我自由探索MCP世界_3d90c4d16d1f.md",
-      "sha256": "0431195597c8ed24b5331a9b5832b0a24f91d81684c31a6daea26ba0738c9b3e"
+      "sha256": "430aedd5945e1de9f5fd15b538490d7d92da025573e8d3865b1e7a9eb16185a6"
     },
     {
       "bytes": 922,
@@ -25863,11 +25873,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-20T16:45:03+00:00",
+  "generated_at": "2026-10-20T22:45:44+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6470281
+  "total_bytes": 6477084
 }
