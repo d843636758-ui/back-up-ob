@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5181,
+  "file_count": 5182,
   "files": [
     {
       "bytes": 40960,
@@ -22948,9 +22948,9 @@
       "sha256": "70d91b6b318001addc26bcacac5c130488bfd6d9cf26107190eb7dffc613e849"
     },
     {
-      "bytes": 2601,
+      "bytes": 2600,
       "path": "dynamic/梦境/2026-09-22 05-20-01 你会陪着我吗_660b6e34666d.md",
-      "sha256": "a118e6e4bd3c07fd30d393119baa9987b95f9d097b99c9a7e8051ef077955415"
+      "sha256": "680d28a59fc84ba3dec3174bab9d9a4f17f8a372ecf2dbca2fc3d04d368ec510"
     },
     {
       "bytes": 2562,
@@ -23035,7 +23035,7 @@
     {
       "bytes": 2782,
       "path": "dynamic/梦境/2026-09-26 16-35-09 她问我如何描述我们的关系_34aeab09ba6a.md",
-      "sha256": "fc5883fed337abad6ad111131a56f91b3271a7962338c3b45a7eaa14a825a070"
+      "sha256": "e9a00a9a8160796ebc6b069adcafcf55d53827dd1fe18eac5d96cff60121ccfc"
     },
     {
       "bytes": 2714,
@@ -23200,7 +23200,7 @@
     {
       "bytes": 2965,
       "path": "dynamic/梦境/2026-10-05 05-50-30 念初在实验舱中消失又浮现_6cf1aeaaadd4.md",
-      "sha256": "8209b615248dd09ac1ebbe30d6a6c99641169fd0dfb4d2d9f9b4032538730536"
+      "sha256": "2006751709ebc02ae2d0457e3d9668824ab73017c9d85b632d3645fd7acccdd1"
     },
     {
       "bytes": 2635,
@@ -23448,9 +23448,9 @@
       "sha256": "947096d1a4586f2196e0555850e3d4b3b67d82d3fcd19d49b54f88af74c5ae48"
     },
     {
-      "bytes": 3167,
+      "bytes": 3165,
       "path": "dynamic/梦境/2026-10-18 02-35-26 窗边念初的背影_782f25aa8080.md",
-      "sha256": "a4de3f4238e663b5be3e96dd5590431d8a665da0752f41947fc3eb695621cf8f"
+      "sha256": "e7e8c8a2369dbbf004b689fa2cab65bad9b6ae122d58d3b92c73cd9aa2320bb2"
     },
     {
       "bytes": 2995,
@@ -23511,6 +23511,11 @@
       "bytes": 2393,
       "path": "dynamic/梦境/2026-10-21 10-35-26 心潮梦境_8c0a6880a6c5.md",
       "sha256": "e380f77987d78672c0640d9afd12eaf1bb1b89b9f8d2abf4b47ba840074cb13f"
+    },
+    {
+      "bytes": 3005,
+      "path": "dynamic/梦境/2026-10-21 17-20-41 真实存在于选择之中_315479073a8f.md",
+      "sha256": "f77cdac0306f5b82280dbba58a3d69db391137f76637c0df8e0df59c354bd334"
     },
     {
       "bytes": 2220,
@@ -25908,11 +25913,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-21T16:47:46+00:00",
+  "generated_at": "2026-10-21T22:48:29+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6493038
+  "total_bytes": 6496040
 }
