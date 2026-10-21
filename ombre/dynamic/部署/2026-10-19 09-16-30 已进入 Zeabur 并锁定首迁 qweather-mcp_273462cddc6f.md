@@ -12,6 +12,12 @@ name: 2026-10-19 09-16-30 已进入 Zeabur 并锁定首迁 qweather-mcp
 relation_links:
 - auto: true
   label: ''
+  score: 0.8519
+  status: active
+  target_bucket_id: d890c3a101cd
+  type: continues
+- auto: true
+  label: ''
   score: 0.8233
   status: active
   target_bucket_id: c8b134b86b68
@@ -52,12 +58,6 @@ relation_links:
   status: active
   target_bucket_id: 15dcee2cfde7
   type: related_to
-- auto: true
-  label: ''
-  score: 0.7777
-  status: active
-  target_bucket_id: e7802d88e74d
-  type: continuation_of
 source_tool: hold
 tags:
 - Zeabur
