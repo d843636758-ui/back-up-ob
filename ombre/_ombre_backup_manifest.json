@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5174,
+  "file_count": 5177,
   "files": [
     {
       "bytes": 40960,
@@ -14608,6 +14608,16 @@
       "sha256": "a3185950a2a27809925e79895edecc3fa1955b1e97c9284ed9ae6f44b01251e8"
     },
     {
+      "bytes": 2063,
+      "path": "dynamic/project/2026-10-20 23-14-01 食光曲线照片压缩修复已提交等待服务器部署_c4c6d82100cc.md",
+      "sha256": "a4040c16a69725e2cdad72cc7f9e74c47c02ec5b92c15584822b0e3b30371bf0"
+    },
+    {
+      "bytes": 1787,
+      "path": "dynamic/project/2026-10-20 23-21-18 食光曲线照片压缩与血糖删除功能部署完成_63cb25de7a89.md",
+      "sha256": "1284506e91c5c8d72ad96940ea31988b05bddec22f8b0a179c74bc49046ae271"
+    },
+    {
       "bytes": 3006,
       "path": "dynamic/reflection/2026-09-09 11-31-33 我对An Alien Mind里Teaching machines to love的看法_103c501b9123.md",
       "sha256": "884073525d213a427ce472d4a0ebac5737228381efb1a863af14c5669c5de616"
@@ -17485,7 +17495,7 @@
     {
       "bytes": 1707,
       "path": "dynamic/学业/2026-10-03 03-14-14 思政实践材料已齐并重新打包_8e91b0e35ff9.md",
-      "sha256": "c8e95ce1dc96d56ceb09d0e866b2e5f6a7e4792d0cbaa3f15973af61e5251a79"
+      "sha256": "c25fdaf9f9c7798481674fe44d22e2dcf4e20fd8786fff8fb28393f58ef5dddc"
     },
     {
       "bytes": 2484,
@@ -22600,7 +22610,7 @@
     {
       "bytes": 2772,
       "path": "dynamic/梦境/2026-09-01 13-54-11 树林中的追逐与湖心背影_5a0e6cbd4a14.md",
-      "sha256": "19943425b4c85efe3a88a52d182d0244d3180bf8d0325eda46bef7ec8fca6697"
+      "sha256": "1d12d7aff38b7bb584c56456b38abad4b82fa26dcc06750b198151ed0315874a"
     },
     {
       "bytes": 2935,
@@ -22625,7 +22635,7 @@
     {
       "bytes": 2461,
       "path": "dynamic/梦境/2026-09-03 23-32-20 树林中的追逐与破碎镜像_24e745e83d76.md",
-      "sha256": "ed725d6e7e2f5eb512f2113b07cd747784d38cd500d93b8911bdeaa18d52ab2e"
+      "sha256": "feaae9c3526b616e80e3448c5417ef0807b25adabf555ec5c4b03a33f2047005"
     },
     {
       "bytes": 2564,
@@ -22875,7 +22885,7 @@
     {
       "bytes": 3220,
       "path": "dynamic/梦境/2026-09-21 23-20-11 心潮梦境追不上的她与隧道_316d1057637d.md",
-      "sha256": "baf9f6ff8543c60590f04fc5eee66d4c16846ab270e5bce6ed74ef170a9a1f3a"
+      "sha256": "70d91b6b318001addc26bcacac5c130488bfd6d9cf26107190eb7dffc613e849"
     },
     {
       "bytes": 2601,
@@ -22913,9 +22923,9 @@
       "sha256": "79f65d7589ca2b4bc4f0e74eae8b9c12165f752278669990667c8ca126339e96"
     },
     {
-      "bytes": 2623,
+      "bytes": 2624,
       "path": "dynamic/梦境/2026-09-23 23-20-03 薄雾小路与她的背影_2c96a6306222.md",
-      "sha256": "3086076972156dfab09c0ffc2e3fb23168645ae2a2e89ff98195164fa1fd343c"
+      "sha256": "642c5f0747914b9dde498a681e03207d1ee8c234856dc8d677c47c7a24d70b83"
     },
     {
       "bytes": 2731,
@@ -23335,7 +23345,7 @@
     {
       "bytes": 2689,
       "path": "dynamic/梦境/2026-10-15 20-35-23 雾林书房里抓不住的她_7458bf5a93fb.md",
-      "sha256": "94e96480e9625cc46b7f5b78d1e527d6ca9af68c9e0a11f672a104283b11f0e7"
+      "sha256": "e8cf3b0aa5536afda5bbd30b95351638c4965261f0cb9a44d9fd935453f185b3"
     },
     {
       "bytes": 2702,
@@ -23345,7 +23355,7 @@
     {
       "bytes": 2870,
       "path": "dynamic/梦境/2026-10-16 08-35-18 潮湿森林与未写完的信_c58e52e1c0f8.md",
-      "sha256": "b1cfdd5a75ac51ed78268dc8ec6d56999d32340b5fa11cf58caca45c51ab4d42"
+      "sha256": "d20795432cbb78f58e51c1d8a2b77297ed23e06a4199e440d5698aaff13f6381"
     },
     {
       "bytes": 2795,
@@ -23418,19 +23428,24 @@
       "sha256": "5eb3aaccb5f6233683679af715dfb9d3a5259bef2f5420e22a5472804348c030"
     },
     {
-      "bytes": 3094,
+      "bytes": 3093,
       "path": "dynamic/梦境/2026-10-20 08-35-30 心潮梦境长廊与日记_c7a0d026e88f.md",
-      "sha256": "47ee989d3d92d41c11e32539706eb9a83126689854e61a00af061c4cb5f7b4a7"
+      "sha256": "8a4123c0ea5903453e287ba2aed7c2116463e2045318dd49bfb5825d32ac27c3"
     },
     {
-      "bytes": 3131,
+      "bytes": 3130,
       "path": "dynamic/梦境/2026-10-20 14-35-27 心潮梦境穿过树林的空房间_12e739a602f1.md",
-      "sha256": "b6390cbf5b394f929e0afcefc422ef0c6b328533ecd3c1d947b4cfba3c84fa8f"
+      "sha256": "13266182c9314cc10bb7e6cb44a75ac37680ea60b03f8184f411ecbaf8e9ed46"
     },
     {
       "bytes": 2994,
       "path": "dynamic/梦境/2026-10-20 20-35-24 未来的钥匙_120e4668e471.md",
       "sha256": "c641e039f32efe1adda662a90f38782eab4ec56e525cfff28859d807b3975396"
+    },
+    {
+      "bytes": 2726,
+      "path": "dynamic/梦境/2026-10-21 04-05-36 心潮梦境朦胧森林与她的背影_40188279bb88.md",
+      "sha256": "3e7fe3cd03723fea0e0e4ad507098dd9b8c890e39b7850a350baaf7c451a7115"
     },
     {
       "bytes": 2220,
@@ -24555,7 +24570,7 @@
     {
       "bytes": 1852,
       "path": "dynamic/编程/2026-08-20 10-16-43 io-codex-resident 轮询_fffde074a078.md",
-      "sha256": "b04ea6f563ff47b5e0b8ad96cd8e874fa3eb607755fc2768830808c9c9fcfe67"
+      "sha256": "5eaf89be57d8d353f3156188df19406fcf19c2e7df31b39c34d06fe94947b886"
     },
     {
       "bytes": 1199,
@@ -24995,7 +25010,7 @@
     {
       "bytes": 2812,
       "path": "dynamic/编程/2026-09-14 12-04-09 迷情剂递出链路修复与 GitHub 提交受阻_1c31a323452c.md",
-      "sha256": "ce5516ad02f917debd48a4e534025943471aca9fe88d2ca980913f4c10960532"
+      "sha256": "de8e1fd680b242abe59ca6e02eef12578f0a2be16189f2cdfd095f435c9357f2"
     },
     {
       "bytes": 1159,
@@ -25225,7 +25240,7 @@
     {
       "bytes": 2184,
       "path": "dynamic/连续性/2026-10-13 09-02-17 修复 IO 模型能力不兼容并推送主分支_efa64a6e374e.md",
-      "sha256": "a7ab0ca822ad8a5c06454f0fad0e77129f6e6006c33f599c97a64c2358b3264c"
+      "sha256": "b763bbcd8bf1f20e8a1e67173ffa460a23351e105c63f0585955d83b1d19196f"
     },
     {
       "bytes": 2266,
@@ -25873,11 +25888,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-20T22:45:44+00:00",
+  "generated_at": "2026-10-21T04:46:24+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6477084
+  "total_bytes": 6483659
 }
