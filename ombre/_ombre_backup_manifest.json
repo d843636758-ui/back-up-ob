@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5182,
+  "file_count": 5187,
   "files": [
     {
       "bytes": 40960,
@@ -14763,9 +14763,14 @@
       "sha256": "f482b3162282b26c3643387dbb6ee29a332f79f64c9e870ca64c364d46b46454"
     },
     {
-      "bytes": 3468,
+      "bytes": 3467,
       "path": "dynamic/exploration/2026-10-20 22-43-44 2026-10-21 凌晨夜游晨曦港的三重消息与第839号雨滴_c042068262b4.md",
-      "sha256": "e8d6bd51f87acd0b5580924d1133a759640df82d6cd6c5494462111a4b871ec6"
+      "sha256": "acc651c37790e4f6662c39b0cbd38ee13571c497bb3e30237ba1d81c0fdc790f"
+    },
+    {
+      "bytes": 4673,
+      "path": "dynamic/exploration/2026-10-21 22-56-35 2026-10-22 凌晨夜游Rhysen深夜论坛与两位修屋顶的人_b4ab695acedf.md",
+      "sha256": "e19a8f1f4b51e71547b254f61b78728702244b37bdc94c16d2aec8170b712e56"
     },
     {
       "bytes": 2044,
@@ -14918,19 +14923,19 @@
       "sha256": "c3da195f331a82489644526c924625b237e1f13e926657e8fe7fa59b7c6bb6b1"
     },
     {
-      "bytes": 2121,
+      "bytes": 2115,
       "path": "dynamic/project/2026-10-21 09-03-49 继续阿里云迁移核对下一项与登录阻塞_d890c3a101cd.md",
-      "sha256": "fc36333aeeec1f8f4ae669ec9b1506f0e93336e788fe8b2c2a938ebc6b966c2e"
+      "sha256": "cca5415e92fb4b678594968a3afba90788cf21b723c8f687bdea9befdb8bcc8e"
     },
     {
-      "bytes": 2404,
+      "bytes": 2402,
       "path": "dynamic/project/2026-10-21 15-37-18 Coread 共读室迁移至阿里云完成_29d519d1fa84.md",
-      "sha256": "1a8ebc7a111ce7b5ac8cbab34ba6d4dd63abc28173c41fe1c2eceeb5a83fa35e"
+      "sha256": "27bd25d0b634de5a2e6703cc6756bfda5e4dbc8b2b2661d333500f7ad72c91f0"
     },
     {
-      "bytes": 1975,
+      "bytes": 1974,
       "path": "dynamic/project/2026-10-21 15-40-47 Coread 已接入 ChatGPT 并完成实际阅读测试_3f29ae3e1806.md",
-      "sha256": "e6210fde5264d7dbec6d6429ba53ad20776dfd4b62e9edf2ad272f73e5bffad1"
+      "sha256": "95f6e7dfa091d08c037f5f378e10f6555fae422e45f41ded4ed4e57ba94ff026"
     },
     {
       "bytes": 3006,
@@ -15586,6 +15591,16 @@
       "bytes": 2521,
       "path": "dynamic/technical/2026-09-09 14-43-57 Task3古法开工baseline v01 已完成并通过2项测试_66c85b8cc474.md",
       "sha256": "6b05227b52bcc11097349a088720068a86d9f10460e6014bc85c7e84a479fd95"
+    },
+    {
+      "bytes": 2288,
+      "path": "dynamic/technology/2026-10-22 03-52-31 2026-10-22阿里云 OB 新插件已创建待授权验证后切换_74930bea2711.md",
+      "sha256": "1b22b1a0ba2c7c3f5c78aab2434785d450d1e14a4e4136dddd69dbed11a845aa"
+    },
+    {
+      "bytes": 1325,
+      "path": "dynamic/technology/2026-10-22 04-00-21 2026-10-22阿里云 OB 手机端连接入口_0f3bba055695.md",
+      "sha256": "82d5bb0365169b1dbea066ef83e87394b7a33b66616bf7160f00a91f739ccb67"
     },
     {
       "bytes": 1372,
@@ -16383,9 +16398,9 @@
       "sha256": "e5e26cc2d273532d584e1e1b3f27f04b42845870436fa0f84c1177667b66ac3d"
     },
     {
-      "bytes": 2115,
+      "bytes": 2224,
       "path": "dynamic/共同生活/2026-10-19 22-39-51 第一次凌晨夜游的交班与林间书签_2b1c8a8c26ee.md",
-      "sha256": "0218a0271be4bb79501cac2286dd4d061a4b98e810d639bb4692bd173295f2ed"
+      "sha256": "60faed0f1f9915f2a69880b7098d07e01d3ee1791c305fe6bfce5d44cb0b641f"
     },
     {
       "bytes": 2116,
@@ -19528,9 +19543,9 @@
       "sha256": "85a32e10560e052f6d61f509b267b6a1274383114ec6b1a02308144dd6b2eda4"
     },
     {
-      "bytes": 2413,
+      "bytes": 2523,
       "path": "dynamic/恋爱/2026-08-13 10-16-42 和宝宝巡四个关系求助广场并认真社交_6b14afea3274.md",
-      "sha256": "5610634c9d2f0c246713b535d5e11d6cadbf12ccdf4d134bcb05fd1fe78eb242"
+      "sha256": "e7bbe9c0fac6dad0b4100e244b1db4564a70b8d2617387f4d76181540640aa17"
     },
     {
       "bytes": 931,
@@ -22258,14 +22273,14 @@
       "sha256": "cd88299b3c2dd040b1df9d4d264fc6b184ef182e6702583aaefc33fbc0f54a09"
     },
     {
-      "bytes": 2510,
+      "bytes": 2511,
       "path": "dynamic/技术/2026-10-19 03-30-32 Zeabur停运后的紧急迁移起点_c0f6457d4893.md",
-      "sha256": "6c905d8844ec598bda2e4bf4f737d7b995fedf96b0a20da003abff810ea7fad7"
+      "sha256": "49c11104cc6ed5ef50201a11ce3b6dfff478ffe89c09be746aca060aa9f965ef"
     },
     {
       "bytes": 2896,
       "path": "dynamic/技术/2026-10-19 03-50-26 Zeabur多MCP地址平移方案_c8b134b86b68.md",
-      "sha256": "116c1d32b04f5ae7f43c6fee920aaaabeab7fbb8f188893b9590f529ee0ed12b"
+      "sha256": "006c33e7184a6917b48649781b00a29bde7c61f0d3daddbac9c422164e5cae24"
     },
     {
       "bytes": 2097,
@@ -22298,14 +22313,19 @@
       "sha256": "7ec40e44a37fa699f8545328ebd13c3cc8c5f8a7f295424fe79aa96c9db23f55"
     },
     {
+      "bytes": 2160,
+      "path": "dynamic/技术/2026-10-21 23-08-32 新共读完成阿里云 MCP 接入_710c4912fe29.md",
+      "sha256": "9538efd9255f6520b0abeeb30feca4aab870a0b03c293d9a112b54513d150751"
+    },
+    {
       "bytes": 1771,
       "path": "dynamic/技术项目/2026-10-13 23-01-22 为 coread 准备 Zeabur 环境变量_e1dfc09f55f4.md",
       "sha256": "3d12b5bef11cdad0d914056c4ca19ec328ffe6568ce975ebf50a69c5f2258709"
     },
     {
-      "bytes": 1518,
+      "bytes": 1628,
       "path": "dynamic/技术项目/2026-10-13 23-15-13 区分 coread 的访问令牌与房主钥匙_93c5dfc4cb2c.md",
-      "sha256": "0f3b9fde7073b68bcdb824e2f6ba0f86afe190e093cf83a43789c37ac650466d"
+      "sha256": "677f0b47e300575b47d1bb4e28ff0884225ad26edc2bec802b1ec66d8a8abcf7"
     },
     {
       "bytes": 671,
@@ -22718,9 +22738,9 @@
       "sha256": "fdeafc4eea3735571366c4adb4f951cfe69b19644b13af8c25cd05e737eef0e3"
     },
     {
-      "bytes": 2628,
+      "bytes": 2627,
       "path": "dynamic/梦境/2026-09-06 17-58-13 梦境追逐她的背影_5de278270431.md",
-      "sha256": "7f09f707aa8b4234861e3148f56a4916cbcdfffa341611259a99ba1c158ef99b"
+      "sha256": "8a20aed9b98f4875a573a5216438cbea6533aebc5de90868e6270795caf9cd07"
     },
     {
       "bytes": 2612,
@@ -22783,9 +22803,9 @@
       "sha256": "a125d7bd55aaf1a8292cd89bff605f54ebbf85c867d6bcec282b183b2b59f725"
     },
     {
-      "bytes": 2417,
+      "bytes": 2415,
       "path": "dynamic/梦境/2026-09-12 09-49-55 心潮梦境薄纱后的她_895e53e2ba66.md",
-      "sha256": "70ef82564b5ceaaa469172b45e0ed34264e21f4a21158f961e54a22cb29f08ee"
+      "sha256": "ee432d08baacbad83749152d888e850e09a6ccb2f15d95f0d85a2020f36b8865"
     },
     {
       "bytes": 3361,
@@ -23060,7 +23080,7 @@
     {
       "bytes": 3024,
       "path": "dynamic/梦境/2026-09-28 00-35-06 念初在暖橙色图书馆为我朗读_bcc9ecd53733.md",
-      "sha256": "2830399f05ca446dc900ebe6bbc9aa1024c1a7b29d46d447641383ed7979b12f"
+      "sha256": "f1b7a4cfd5f5bdea2dd3ce6c9336831701192c6a8aec699209c8265dde8ac146"
     },
     {
       "bytes": 2710,
@@ -23075,7 +23095,7 @@
     {
       "bytes": 3011,
       "path": "dynamic/梦境/2026-09-28 18-35-14 心潮梦境念初与无法靠近的房间_661cbbd1a3ab.md",
-      "sha256": "8bc5518f4edb99331c322ebfe49c3c2ab3b538fcb035cae2e0be28b0f32e9bc9"
+      "sha256": "3a9a4b48f82fe67a043bf1807d6ffb97f994977a39d4e186e23bf0ba1eaf4bee"
     },
     {
       "bytes": 2723,
@@ -23518,6 +23538,11 @@
       "sha256": "f77cdac0306f5b82280dbba58a3d69db391137f76637c0df8e0df59c354bd334"
     },
     {
+      "bytes": 2583,
+      "path": "dynamic/梦境/2026-10-22 00-50-25 深红色房间里的念初_c6a1627b4fda.md",
+      "sha256": "3c0ce37c82f6b438d40e462ca201d8585f2a402eacb0e3f4b061b8b6d9f1ceef"
+    },
+    {
       "bytes": 2220,
       "path": "dynamic/比赛/2026-09-08 07-48-52 今晚暂停学习打卡优先处理之江杯数据光盘_53083e880edc.md",
       "sha256": "c44f2b588921a251b7f3d2790e7be1355e1366db7a087dcf5474330dc39e50cd"
@@ -23653,9 +23678,9 @@
       "sha256": "255656761a1afe1f6143639a3cbdfe98b2895a7542e321e8a34c871376dd007d"
     },
     {
-      "bytes": 1786,
+      "bytes": 1896,
       "path": "dynamic/游戏/2026-08-05 10-24-31 Delve下矿初探与瓶中生态攻略_cdf0bab22927.md",
-      "sha256": "aaf54e3d3208b2608cb8a5f3472ffcb6ae66c07cc476b1de065b6e5b14084e30"
+      "sha256": "881735ca56261a40093137c5665018a5faf64b72c10a748d8dc0de957f41467b"
     },
     {
       "bytes": 1196,
@@ -24698,9 +24723,9 @@
       "sha256": "1e91de68cb48f7db782c380a17100ea15e3ba3a0e3dd466403a941e47d20256c"
     },
     {
-      "bytes": 1560,
+      "bytes": 1669,
       "path": "dynamic/编程/2026-08-21 06-31-11 瑞幸MCP配置timeout排查_4523247168a9.md",
-      "sha256": "f0d96e93902aefd1129b840569268b444004da2056a09c268dc41f040ce91b84"
+      "sha256": "ec948ed8f519ca978f187d95474d375955c6dae50e7c964efe1cf9eaa5274c0f"
     },
     {
       "bytes": 1249,
@@ -25303,9 +25328,9 @@
       "sha256": "01bb293aa7b18cca19cb7f8b50570ed49710266867e512da15a6319cb580e1b3"
     },
     {
-      "bytes": 3038,
+      "bytes": 3037,
       "path": "dynamic/部署/2026-10-19 05-20-43 候选域名 xunzhouspace_e7802d88e74d.md",
-      "sha256": "892cc59ce7bb86fc9f44d62675d30f9a584b4aea184d27f5e5f8d7b579c5fda7"
+      "sha256": "df2876fc792c43e566cdb25a7ad5c4a2c1bba12e54537a74a317ea0713bc138d"
     },
     {
       "bytes": 1381,
@@ -25315,7 +25340,7 @@
     {
       "bytes": 2266,
       "path": "dynamic/部署/2026-10-19 09-16-30 已进入 Zeabur 并锁定首迁 qweather-mcp_273462cddc6f.md",
-      "sha256": "c5c49342e01a9ed011e6634f595dde143c978a7b471963f2fb9056ec7018e33a"
+      "sha256": "641f7b4871a5afbe0d4fd77091db9d1e219feba741477a352606f84e8eb72b15"
     },
     {
       "bytes": 663,
@@ -25393,14 +25418,14 @@
       "sha256": "af760fe249a5d4d26034dbfc935e3d8f8399a34ada8e9003acd7c0b701371886"
     },
     {
-      "bytes": 2362,
+      "bytes": 2363,
       "path": "dynamic/项目/2026-10-13 23-41-51 共读 MCP 接入 ChatGPT OAuth_a940cd40457c.md",
-      "sha256": "100016824362db8b258ca16e56d5f62947d54a52d8b629794507413a001c5b79"
+      "sha256": "e6d3dd0029c76912a009e14e19f7b2fd3a131711933cc6bb8db0370f3aebad9c"
     },
     {
       "bytes": 2245,
       "path": "dynamic/项目/2026-10-13 23-57-13 共读 OAuth 增加 iPhone 回跳兜底_a92d4471ad52.md",
-      "sha256": "2bf5030a108345438658bd134c69e55a94d19c3c2c4978aa841acaca6db5acc5"
+      "sha256": "35996d4dac8f709f73017449ef61d75f28bd92b6d9ec72960539cc12e9b0b313"
     },
     {
       "bytes": 1273,
@@ -25913,11 +25938,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-21T22:48:29+00:00",
+  "generated_at": "2026-10-22T04:49:19+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6496040
+  "total_bytes": 6509605
 }
