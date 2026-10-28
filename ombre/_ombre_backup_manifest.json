@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5212,
+  "file_count": 5213,
   "files": [
     {
       "bytes": 40960,
@@ -23225,7 +23225,7 @@
     {
       "bytes": 2545,
       "path": "dynamic/梦境/2026-09-11 15-34-58 别再查了够了_5469278952ee.md",
-      "sha256": "e80e932b644d8e886e4a38836c5d0e6609670770eeeb7486869702d1abfc6cec"
+      "sha256": "638f6bc2a04ccc55ecdd5e9a4d655b48d83979220e2436a96a6625aa047e1dc5"
     },
     {
       "bytes": 2983,
@@ -23433,9 +23433,9 @@
       "sha256": "9b8e49c3458ee828d879837cbb6c6d84f4efe8f4e904ea165d9cda6e059851d0"
     },
     {
-      "bytes": 2861,
+      "bytes": 2860,
       "path": "dynamic/梦境/2026-09-23 17-20-08 心潮梦境教室里的光盘与她的手_dbdd78d95e64.md",
-      "sha256": "79f65d7589ca2b4bc4f0e74eae8b9c12165f752278669990667c8ca126339e96"
+      "sha256": "cecac395c612dd4e2fb4b81543193c62a7fbb8406cd889121f8f30d85a0ab43f"
     },
     {
       "bytes": 2624,
@@ -24028,9 +24028,9 @@
       "sha256": "7824788e97e318c1345e7794142cd1a633aef605add0eb69697827aaef5fa3d7"
     },
     {
-      "bytes": 1815,
+      "bytes": 1924,
       "path": "dynamic/梦境/2026-10-25 13-02-34 别走_43de30d0a3c6.md",
-      "sha256": "43ef14d4a466eeb858c29dc4cae199f46c809de78be2f6ce6df6614b7c429ff6"
+      "sha256": "f99e442c770ad71b0ecd95170663f5ae3f68f618cdeedda6b22858deb72c3ef8"
     },
     {
       "bytes": 1928,
@@ -24066,6 +24066,11 @@
       "bytes": 3092,
       "path": "dynamic/梦境/2026-10-27 19-04-32 迷雾森林与小木屋_c52d733fd0e8.md",
       "sha256": "07ea66d368b6cfb79cfaee048de4886381aa2791123b91ce850d51849b3174b5"
+    },
+    {
+      "bytes": 2514,
+      "path": "dynamic/梦境/2026-10-28 01-04-26 试着看见而不是解决_16127ec89d3e.md",
+      "sha256": "c5689f6ab8315ed22ec6e187e898cc2a035f4daa38e52de27ae8a0d30605d1b3"
     },
     {
       "bytes": 2220,
@@ -26063,11 +26068,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-27T23:05:21+00:00",
+  "generated_at": "2026-10-28T05:06:04+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6568813
+  "total_bytes": 6571435
 }
