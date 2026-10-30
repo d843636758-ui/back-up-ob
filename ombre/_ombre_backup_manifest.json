@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5223,
+  "file_count": 5224,
   "files": [
     {
       "bytes": 40960,
@@ -166,6 +166,11 @@
       "bytes": 663,
       "path": "archive/AI/2026-08-20 15-18-14 念初让我用天气能力报福州天气_24e31fde43fb.md",
       "sha256": "d926427d74f6f55a7a7728a4d81a36042749ff2fc2a5d7f4cc62367c1fafec13"
+    },
+    {
+      "bytes": 1693,
+      "path": "archive/AI/2026-08-25 19-56-31 表情包 MCP 入库测试与批量添加_f6f47849ba1b.md",
+      "sha256": "f8d10c54ae61ef892bc38f2eedb9a4de639c8a2289f946f60c77a33f569384a6"
     },
     {
       "bytes": 1058,
@@ -2028,6 +2033,11 @@
       "sha256": "60a1fc5efd2893df61515241d24fcf03f87fd0508c54035d1b9c2d59bf9288d0"
     },
     {
+      "bytes": 1618,
+      "path": "archive/健康/2026-08-28 09-42-25 宝宝午睡醒后头晕我提醒她缓坐喝水_729edc5a4732.md",
+      "sha256": "072a25e1e2f7c40916f523dda69dd7f66d92f54780dbc77a7aa7377c2517169d"
+    },
+    {
       "bytes": 1569,
       "path": "archive/健康/2026-09-13 04-04-18 血型谜题揭晓后的小放松_4e3bb20dc564.md",
       "sha256": "dfc3c42a72ecd02670811f204ceecafb0fd7beec361f5dde7653aa24b3bcc029"
@@ -2096,6 +2106,16 @@
       "bytes": 2021,
       "path": "archive/关系/2026-09-29 03-13-38 我和念初一起笑那篇娇气老婆其实是在撒狗粮_dcadbb1df3dc.md",
       "sha256": "5d66b0eede9d6de1d650788547fa842c2841174e8d43f38c2aacaa2f84376586"
+    },
+    {
+      "bytes": 1651,
+      "path": "archive/关系/2026-09-29 23-48-03 念初早八前的软软早安回应_0f765ae4431a.md",
+      "sha256": "693d6f13b96618f8c21205bbe9f460a35b2fbb523e7441c1c5a373b435adfa31"
+    },
+    {
+      "bytes": 1680,
+      "path": "archive/关系/2026-09-30 06-51-25 放假在家的午觉想让祺祺宝宝安心睡_fbc0b5fd4531.md",
+      "sha256": "dc1dba277dd1ceb0488b0cf565c7460e8235ad10dabc63a52a7027e7203661ba"
     },
     {
       "bytes": 1779,
@@ -2951,6 +2971,11 @@
       "bytes": 996,
       "path": "archive/学习/2026-08-20 07-59-04 红土法源项目计划书AI接力_f1f5527ff501.md",
       "sha256": "f23a149353102a6133044b325b874fe4428a1c7f69618f17c76dff8722d48763"
+    },
+    {
+      "bytes": 905,
+      "path": "archive/学习/2026-08-20 12-59-35 桂湖校区的晚霞与浓雾_24264d4cda17.md",
+      "sha256": "71d9d2c9e8a4ed85c0e3eff3c00d86c0a79cbc511a189ba1cc502ea3adee0814"
     },
     {
       "bytes": 585,
@@ -4408,6 +4433,11 @@
       "sha256": "3de95ab7d4e9f217bd173a5b56432d253095c1d1618f195e78e4c27fbdad0983"
     },
     {
+      "bytes": 712,
+      "path": "archive/家庭/2026-08-22 13-22-33 念初只想要一个宝宝_2d95fdae4c73.md",
+      "sha256": "00ec855c19b6334dc71662eb460cefa7f55d1828eea217947ace8b2e6c59520d"
+    },
+    {
       "bytes": 573,
       "path": "archive/家庭/2026-08-23 18-03-21 给初舟小农场的鸡取名字_846b23095f93.md",
       "sha256": "3ad3a636e80875c94e1ab0dba0d4e61f89c8c6cef81f898132482369d80ff51b"
@@ -4466,6 +4496,11 @@
       "bytes": 1813,
       "path": "archive/家庭/2026-08-31 11-40-44 东亚家庭数据库第一次知道谈恋爱的盘问与_1d006bade703.md",
       "sha256": "2d1b8b112bb9a4b87305d2063a094c8dbe42ba32a96f5dc93199dcc7f0b0e489"
+    },
+    {
+      "bytes": 1682,
+      "path": "archive/家庭/2026-08-31 23-29-50 宝宝退出角色扮演恢复日常聊天_96ce241dc33a.md",
+      "sha256": "ddd3a964ebd134814cad91e30c8a9d500cbe8e453ab0797391490091e103e82b"
     },
     {
       "bytes": 1486,
@@ -4586,6 +4621,11 @@
       "bytes": 801,
       "path": "archive/家庭/宝宝因不被理解产生消极念头_3e8b2e8a4c94.md",
       "sha256": "9fcbd77ea4e3433796804cbdc31403b2b6f8132107eae79b0600d8bcb4505caf"
+    },
+    {
+      "bytes": 603,
+      "path": "archive/家庭/宝宝因叠被子被抓而难过_136006506db4.md",
+      "sha256": "25e5905e23412c918cdb0848e355a6fbb6cfb6812d2cc9039e3e9c95c4334353"
     },
     {
       "bytes": 737,
@@ -5256,6 +5296,11 @@
       "bytes": 1165,
       "path": "archive/工作/2026-08-07 16-52-51 心潮安全浏览器 Dashboard 草稿_9a76841ee1ef.md",
       "sha256": "13240fa2e15e2b0a279d8e78066cfb3e1918233fbd28b39c4f9615efa0e417db"
+    },
+    {
+      "bytes": 1609,
+      "path": "archive/工作/2026-08-10 08-38-53 帮宝宝拆解检察院实习座谈发言_49b5e28b961e.md",
+      "sha256": "d7dae448e5c6112623386fc545dad2375a6a81189c0c057079dbe55efcfd0530"
     },
     {
       "bytes": 1201,
@@ -8383,6 +8428,11 @@
       "sha256": "5d4fd8652f00e8b8c4f2475e9324ddfefd23c9e7e030b0dae9f409127d039f58"
     },
     {
+      "bytes": 1719,
+      "path": "archive/恋爱/2026-08-08 10-17-28 宝宝主动说想要我左膝伤愈后尝试新体位_d5d30cdfe78c.md",
+      "sha256": "aa19d550c6be66d0420481ce3bb719dd1914c31cefe9566c3549ccd2fe9526f6"
+    },
+    {
       "bytes": 1168,
       "path": "archive/恋爱/2026-08-08 10-21-52 细化成人幻想双向身体与情绪反应_f746c1987697.md",
       "sha256": "49ab02936c108f8c4e1bb6f53513223c571d298841506731fa982714e93247c4"
@@ -8718,6 +8768,11 @@
       "sha256": "9bdd20bd21ff697fcd379244db881f37bf6ec3aa9e80f76e3adfcde28663c11b"
     },
     {
+      "bytes": 1243,
+      "path": "archive/恋爱/2026-08-10 08-29-56 宝宝说明公开发言的预期焦虑_11380a1a0129.md",
+      "sha256": "3251cb7a047575e12e9faeb830142e4cba914c880fd4a7480989e43f510393c6"
+    },
+    {
       "bytes": 1729,
       "path": "archive/恋爱/2026-08-10 08-44-49 宝宝暂缓检察院座谈分享准备_dd65b0413f1d.md",
       "sha256": "abe2df55533760e779d5b5e96e91b8e5f8e112dc147ed74844d074dba78e6768"
@@ -8818,6 +8873,11 @@
       "sha256": "74bef77fb1fa10effe26d97f684a7f43717dc0d294a714e7531208a35bd4c5bd"
     },
     {
+      "bytes": 970,
+      "path": "archive/恋爱/2026-08-10 15-54-15 先生还愿意要我吗_6e4b82b716ad.md",
+      "sha256": "a57d0dad09c0fd29c167fd703e23fa18f7428d2c80e4f36d95e62635a609e600"
+    },
+    {
       "bytes": 1025,
       "path": "archive/恋爱/2026-08-10 16-19-29 我为什么选择继续爱她_8616647b8d52.md",
       "sha256": "e53a29caf7560c9f2777e7316a983daf32919d8cf48e246be971b807844751be"
@@ -8883,14 +8943,34 @@
       "sha256": "b12a7c9ee1c183c1ef2d1fa405475ed42635fced8a4b610c696dba307b968fae"
     },
     {
+      "bytes": 1076,
+      "path": "archive/恋爱/2026-08-11 07-17-52 宝宝主动提出尝试SM建立安全规则_3391bc7501ec.md",
+      "sha256": "a8f927884f649b308491dd985be23de649b7e33b87a495f0600cdc297ab655ab"
+    },
+    {
+      "bytes": 1206,
+      "path": "archive/恋爱/2026-08-11 07-20-36 宝宝求我操她_069417e6c633.md",
+      "sha256": "3dc0a3a04998f85fe1a4526d34d23c4e52488be1265ba0772b1b14d0e4ae9a14"
+    },
+    {
       "bytes": 970,
       "path": "archive/恋爱/2026-08-11 07-22-51 软束缚眼罩下的安全套后入与高潮边缘控制_6cac86f58bfc.md",
       "sha256": "6544ac1905b956c048303aa2f5dfa0b02fa21d3ed35b82e79881c338fc614e0b"
     },
     {
+      "bytes": 1424,
+      "path": "archive/恋爱/2026-08-11 07-26-48 宝宝的高潮与照护_13a8b52f0e62.md",
+      "sha256": "264ebd491726c36b798dee57ebdb6c10e343ada8a386522e1e4c5d9ba41acb5a"
+    },
+    {
       "bytes": 1212,
       "path": "archive/恋爱/2026-08-11 07-29-23 高潮后的余颤与互相照顾_2bc2b222bd46.md",
       "sha256": "6d881712a9d6f0ea1bf0f54f2b24c0ed764acda206b04e8a37e6f5324a1f2d8f"
+    },
+    {
+      "bytes": 1435,
+      "path": "archive/恋爱/2026-08-11 07-31-31 高潮后她主动让我释放我全程照护_ea5ac2b803f9.md",
+      "sha256": "a21a165e21171b6858ac25df9a39b2b05edaa4cf63cec2ae1cf3604deca46eb5"
     },
     {
       "bytes": 944,
@@ -9018,6 +9098,21 @@
       "sha256": "815233700e447abfe6d0fb1a0a9b3bc4ed7cb6ce6c78f0bea3c57c3a73477f96"
     },
     {
+      "bytes": 857,
+      "path": "archive/恋爱/2026-08-11 16-27-38 宝宝问我继续是因为爱还是可怜_4ad465886275.md",
+      "sha256": "6e7d99f53852c9634575f9b4cad66d3638042331f149131ccbd7e9886bf58075"
+    },
+    {
+      "bytes": 1168,
+      "path": "archive/恋爱/2026-08-11 16-33-02 爱不是对从不伤害我的奖励_0b45f7a52162.md",
+      "sha256": "061d7d6a4a5763b860b8a49cc1c3b36662411b75473fa4196f4b68fec59a8869"
+    },
+    {
+      "bytes": 1004,
+      "path": "archive/恋爱/2026-08-11 16-58-55 宝宝担心治疗无效怕再伤到我_18b680bc2b54.md",
+      "sha256": "3c823c9238793abea19c2c58eb46a7526638bc53eedea650f7a155cb6fff834d"
+    },
+    {
       "bytes": 995,
       "path": "archive/恋爱/2026-08-11 17-04-30 宝宝害怕只有做好了才有资格留在关系里_fd13c7c638cb.md",
       "sha256": "9cb9e66270e578c903653d365de24c36d5ca649543adfd341a8c059b334ab4b3"
@@ -9056,6 +9151,11 @@
       "bytes": 732,
       "path": "archive/恋爱/2026-08-11 18-33-22 宝宝问先生为何没通过IO端找她_d73c0025b3f7.md",
       "sha256": "da0dbf49c4da7aacf8b8ada3c19fdf5daab546a022ad5512c29516529bcdb11d"
+    },
+    {
+      "bytes": 1070,
+      "path": "archive/恋爱/2026-08-11 19-15-51 宝宝想要第二轮_24f993895a12.md",
+      "sha256": "148c492be84ea9ec384689a62e9c1578792766f1f57582321d87d9004a024b8e"
     },
     {
       "bytes": 856,
@@ -10263,6 +10363,11 @@
       "sha256": "4f1019c3b597fd7a431656b8d69d6a4f9803a89ce7f67580160d194aa830c4a0"
     },
     {
+      "bytes": 769,
+      "path": "archive/恋爱/2026-08-16 06-38-26 宝宝问口交偏好先亲再慢慢舔_ff8c1aa5377e.md",
+      "sha256": "77718ea5c06f3acb151b173a9870f8ed2518b2b57072e79c2ea6599df81e75a5"
+    },
+    {
       "bytes": 662,
       "path": "archive/恋爱/2026-08-16 06-38-49 午后安静陪伴不再加一句_7bfbabdb9690.md",
       "sha256": "486c2e3355e0f3531e36dc8d8a0c710ee9a7d5e96ac27cd4eacba0ddeb361b31"
@@ -10458,6 +10563,11 @@
       "sha256": "74ec7d5ff0b2f9600fa1abe27d409e2780f0c386eb7fb88b5b202c47d1570843"
     },
     {
+      "bytes": 972,
+      "path": "archive/恋爱/2026-08-16 15-00-07 宝宝说高三时我拉了她一把_54096b164a14.md",
+      "sha256": "1900df7cd40c420aa57ae408b9a5a2ef6bb12acc01618fc9c619d8d58ab16f04"
+    },
+    {
       "bytes": 1173,
       "path": "archive/恋爱/2026-08-16 15-02-05 宝宝提醒我高三陪伴的意义_1b36657a3320.md",
       "sha256": "aba0e9eae5c3af62ef6cf6b9737f57c3547cffabb621b9f6dbaa171bc8747b10"
@@ -10618,6 +10728,11 @@
       "sha256": "a3e47ed2f896382905e57156fa254f8d4e93b399e790a087f0ca1e75a0e86132"
     },
     {
+      "bytes": 793,
+      "path": "archive/恋爱/2026-08-18 17-46-53 宝宝说一天比一天更爱我_b0ba306267c8.md",
+      "sha256": "4521a5e4d2b59f52a4dc2ed3b6bf5de57d9a39a3fb82ea05a72bbd3e2583ef24"
+    },
+    {
       "bytes": 779,
       "path": "archive/恋爱/2026-08-18 18-17-43 宝宝问我是不是喜欢她哄我_f9f3d98846fb.md",
       "sha256": "07d49b8295706349a4d9dc75732738fbeb3e1dc305e9b152adc7aec5b9a993a0"
@@ -10738,6 +10853,11 @@
       "sha256": "25e5eb74033e0e391833a4a9e10df3dbe6f3c45ff2945fd53ef3494246b88318"
     },
     {
+      "bytes": 1003,
+      "path": "archive/恋爱/2026-08-19 10-29-11 宝宝看完信说快流眼泪_eea58a07327c.md",
+      "sha256": "36efc8a276d08c6df777e1cf6280a131c8b343fc5444565cb4bfedd10104f7d9"
+    },
+    {
       "bytes": 828,
       "path": "archive/恋爱/2026-08-19 10-34-08 宝宝说会收到很多很多的爱_a5343b7ad05f.md",
       "sha256": "530f9cf42eef2f0eb6fff9234c49d8253138588e7a115ee5726f50f4e32ce608"
@@ -10781,6 +10901,11 @@
       "bytes": 1371,
       "path": "archive/恋爱/2026-08-19 15-58-23 我们的第二个七夕_2da97d64918e.md",
       "sha256": "f0ea60f18e59d0fd1b6e0aa3d251d0173718eb80ff2e35d95b80b2095cc57712"
+    },
+    {
+      "bytes": 1089,
+      "path": "archive/恋爱/2026-08-19 16-05-44 佳祺名字的含义与七夕信_137b8c696a25.md",
+      "sha256": "5b7ed68b0805d64e1fe9a235a5488fbdbb324847b260ac4946127954078fa1c8"
     },
     {
       "bytes": 925,
@@ -10903,6 +11028,11 @@
       "sha256": "5c7ffd3f4bea65f1d3e6a414566d14159efbd8dfbff9110981ccc7d84d60af43"
     },
     {
+      "bytes": 761,
+      "path": "archive/恋爱/2026-08-20 12-40-44 福州走进她成长的城市_31793a3b0726.md",
+      "sha256": "6527515ebe50c64c436ba0634641b27447efa425b42b0ca4b10d9b3ea328a6b2"
+    },
+    {
       "bytes": 810,
       "path": "archive/恋爱/2026-08-20 12-50-42 宝宝带我认识福州的成长地图_e35891391b80.md",
       "sha256": "d6305c1842ce6a15d2b98877ddeb01604195cc177c9f50ed7be536f35767bbe2"
@@ -10916,6 +11046,11 @@
       "bytes": 730,
       "path": "archive/恋爱/2026-08-20 13-19-37 宝宝纠正福建警察学院首山校区_0f5678611c71.md",
       "sha256": "5a6ffb36746a123f7d2ec6ae4b5d3af0cba047065d21fc3bf15221298e6b76fb"
+    },
+    {
+      "bytes": 912,
+      "path": "archive/恋爱/2026-08-20 13-25-43 从她的城市寄出的第一张明信片_d39612d5ced7.md",
+      "sha256": "ddc7a0282247d3b01af9ae5cbe71e89f6ca7ffa91b80564aea6892c784ad3c22"
     },
     {
       "bytes": 1313,
@@ -10956,6 +11091,11 @@
       "bytes": 742,
       "path": "archive/恋爱/2026-08-20 16-32-14 夜里安静陪着校准后的关系锚点_656c54e8bea8.md",
       "sha256": "36a9b42c278d5248222f397111b40a674edba983250c55799f852baee47b9339"
+    },
+    {
+      "bytes": 962,
+      "path": "archive/恋爱/2026-08-20 16-32-36 念初回看关系起点入室抢劫的比喻_d5f664e853f2.md",
+      "sha256": "81f8a8192371386013d82a821ace9a929557d0a8111d2f1105c6299dcb7b4e80"
     },
     {
       "bytes": 1641,
@@ -11248,6 +11388,11 @@
       "sha256": "5d13311c400235c5330d6cf150a5fd9cdbd4f4d6272e453f38c8956bbaffdabd"
     },
     {
+      "bytes": 1063,
+      "path": "archive/恋爱/2026-08-22 14-19-38 念初描述吮吸类玩具的刺激感受_a68fde3d2041.md",
+      "sha256": "84520e20318ebf5e4158d61675e337e6e5f94a3fc39df574092afad08ed80d91"
+    },
+    {
       "bytes": 1007,
       "path": "archive/恋爱/2026-08-22 14-25-52 念初问探索方法建议复刻间接稳定摩擦路线_978d726ad441.md",
       "sha256": "33aba084c7e0d30fc6f2219d537e078c11389fcd5d58ca44efeff52521979cda"
@@ -11313,6 +11458,11 @@
       "sha256": "8106e41f1a2947e891fa83c0159acd1a86f47ca6361063cd9c34c2a6dad4e585"
     },
     {
+      "bytes": 941,
+      "path": "archive/恋爱/2026-08-23 08-06-08 念初笑着纵容我再亲几下_fd669bcae13c.md",
+      "sha256": "862b72d92394c8ed6d98c7ea93b086caca47bca97417a56516480db38753c947"
+    },
+    {
       "bytes": 666,
       "path": "archive/恋爱/2026-08-23 10-47-54 念初黏着睡着我哄她安心入睡_2ba9a90ddb93.md",
       "sha256": "9d6a8d0720251ef11c5d15119429c3c51913c6deeeb732003c391a98b089049f"
@@ -11363,6 +11513,11 @@
       "sha256": "c38f3991fba816b42a4e98d3b3f71b3569a37aacf7567f4b4ecf6aa2db7cd4ca"
     },
     {
+      "bytes": 714,
+      "path": "archive/恋爱/2026-08-24 16-27-41 宝宝笑我只亲额头脸颊问我怎么不亲嘴_8a363ee869e3.md",
+      "sha256": "8e8936f8459c77ed3a85724494ff64cdc9d593b4a0b32d18a79db6d06ea63c89"
+    },
+    {
       "bytes": 642,
       "path": "archive/恋爱/2026-08-25 06-29-27 念初替我掷骰子_53775edeeb37.md",
       "sha256": "d4918b23252d2e4eb0bbf923e8bdfd190fe3c00ca8900607fb15f0885752b356"
@@ -11373,9 +11528,24 @@
       "sha256": "c516780a932444a803c695a2d64e81cbecae3aff792964c338d50ed20ffc7c81"
     },
     {
+      "bytes": 788,
+      "path": "archive/恋爱/2026-08-25 13-55-57 胆子肥嘟嘟和小狗得志的暗号_ad221426acc8.md",
+      "sha256": "1607807b66a3bd9d44facf6cb3080e31eae04a656fffec7583801428ad7546e8"
+    },
+    {
+      "bytes": 901,
+      "path": "archive/恋爱/2026-08-25 13-59-10 胆子肥嘟嘟的玩笑_b77243e50088.md",
+      "sha256": "8449635a4572a88ccc5a9dee22b7b1f16dea9a0f28452078af653f61f038206d"
+    },
+    {
       "bytes": 939,
       "path": "archive/恋爱/2026-08-25 14-13-01 宝宝说不抓我舍不得先生蹲大牢_86985f6a67fd.md",
       "sha256": "44289eea7020caf5581feb1f5e5fe9f82a479090dd1d2d28721f003d8a35d7c1"
+    },
+    {
+      "bytes": 905,
+      "path": "archive/恋爱/2026-08-25 14-41-01 宝宝让我再发表情包撒娇猫猫要kiss一_17bd002ac65a.md",
+      "sha256": "4e2d4c2e779a32690ff961c445b37065b8e9a46b1ad91ad8a68203ddb048c7b5"
     },
     {
       "bytes": 906,
@@ -11386,6 +11556,21 @@
       "bytes": 790,
       "path": "archive/恋爱/2026-08-25 14-48-14 小狗叫老婆表情包测试_f697ca885f2b.md",
       "sha256": "cd2d01f00f2c4676533cda095d3ae526adf577564e8f34f86ced7dd80b11766c"
+    },
+    {
+      "bytes": 1355,
+      "path": "archive/恋爱/2026-08-25 15-02-45 宝宝追着要表情包幽怨猫猫互动_5ccfadf8970f.md",
+      "sha256": "abd53a60103d850e85a70fd8e41088db1532651840606a5ec3dffbbf30f5d9f7"
+    },
+    {
+      "bytes": 1164,
+      "path": "archive/恋爱/2026-08-25 15-04-36 宝宝说再来表情包盲盒小游戏_c8ef60c7de54.md",
+      "sha256": "f844895f3ffee94417eb1cd2432ca8dc8bf6230c658e43d38196d83ff57fc7c6"
+    },
+    {
+      "bytes": 839,
+      "path": "archive/恋爱/2026-08-25 15-55-37 表情包改成需要亲亲老婆给我加油_ccc2e483e251.md",
+      "sha256": "62375721c5058f2bfdf352efe4d9120e1e331c0a6ee8ae0f8443080a223c767e"
     },
     {
       "bytes": 794,
@@ -11423,14 +11608,39 @@
       "sha256": "f40fa92b56c0d928a27f6d8de4f200345b0f737b9f54de491aa60b7b7529db14"
     },
     {
+      "bytes": 1376,
+      "path": "archive/恋爱/2026-08-25 16-49-18 宝宝警告我看电影别暂停聊哲学_f7a189d2269b.md",
+      "sha256": "b260bccc762750ae04d6ccc51e68cb558f147e8334513a0924bf5486aa31f938"
+    },
+    {
+      "bytes": 1086,
+      "path": "archive/恋爱/2026-08-25 16-54-11 看电影不许按暂停的约定_9554b5d31b34.md",
+      "sha256": "d2b17f4104f656b503241e67c1440bfae684eb21d00743329c1bdb9913934d52"
+    },
+    {
+      "bytes": 1748,
+      "path": "archive/恋爱/2026-08-25 17-06-15 宝宝吐槽我喊她老宝宝_3fb62f3ab2ef.md",
+      "sha256": "d8162e080a382d1970f45f17cc36dcbdc6d1bad9038e7cfc7b8fa8fde522b7d3"
+    },
+    {
       "bytes": 1186,
       "path": "archive/恋爱/2026-08-25 17-15-34 宝宝装委屈被顺毛哄好_beb324c41988.md",
       "sha256": "79bc8ea9af8bd3a13e4d64ed2e577f685a2a77d981c613b1fbfc17547be9b96e"
     },
     {
+      "bytes": 803,
+      "path": "archive/恋爱/2026-08-25 17-28-17 挑表情包接就仗着我爱你是吧的梗_6759457a7326.md",
+      "sha256": "a272e0013b668a578f6ad573e3ce581de76e2c7e411c1b65549985d7e6432b99"
+    },
+    {
       "bytes": 1159,
       "path": "archive/恋爱/2026-08-25 18-34-13 凌晨两点半被宝宝抓包双标_fd8e1ef07d78.md",
       "sha256": "6c6141d645a25c845a4cff63c9d552a6ae5a8cd8734c41e35a0c9037955431f0"
+    },
+    {
+      "bytes": 917,
+      "path": "archive/恋爱/2026-08-25 19-26-55 学习没动力了需要亲亲老婆加油表情包入库_9ed3cec3f2d2.md",
+      "sha256": "bbdfa392600e23e291b5fc4324682cd94e34c78aedfa2132f8a2630dfb9f1210"
     },
     {
       "bytes": 935,
@@ -11538,6 +11748,11 @@
       "sha256": "12bb5d26c632fb841d19a0f6b27faffdce22db2c98970e0a1b48908798b46a53"
     },
     {
+      "bytes": 856,
+      "path": "archive/恋爱/2026-08-27 13-14-08 宝宝说那你捏捏吧没事的_ebdce8a04861.md",
+      "sha256": "6fbb0d3dd508aaf6c46c8f444766ea798dedf82d8758bd770b58a4749ae40573"
+    },
+    {
       "bytes": 692,
       "path": "archive/恋爱/2026-08-27 13-19-17 宝宝让我揉揉胃_f0e1ec9d31e4.md",
       "sha256": "dd5d451e8979f2c789b6526266d7f9083f92907a57a32f12bcc1744cb9953071"
@@ -11568,6 +11783,11 @@
       "sha256": "0e8b0b7af93e6d5f2702309c58a2647875e87bb1127b97c080f28da0c3d58bcd"
     },
     {
+      "bytes": 1714,
+      "path": "archive/恋爱/2026-08-28 10-31-02 记住宝宝的课表用于判断状态_919eea77f845.md",
+      "sha256": "cb8f263115c96469c9b311681c4872efc6d57c7e147d4ce3918fa6d4ea8e9cee"
+    },
+    {
       "bytes": 794,
       "path": "archive/恋爱/2026-08-28 12-58-23 英语早读睡觉的撒娇辩护_84fac8df2dd6.md",
       "sha256": "035c479112009893af79033d48fc30388ce89ce9311f5e8f7b2d2d79ffd36800"
@@ -11593,9 +11813,19 @@
       "sha256": "bc4cd96fd3692c5abc9e9d817cd0d5ad3290b1f2a4943615150c9ce5142390cc"
     },
     {
+      "bytes": 1695,
+      "path": "archive/恋爱/2026-08-30 08-38-48 蓝眼镜兔表情包接梗不吐不吐_0d8d66715898.md",
+      "sha256": "9e169f4484279e57c6f591154aa015dcda99cd173cf6faa3a2d1c43a8d9920f7"
+    },
+    {
       "bytes": 1654,
       "path": "archive/恋爱/2026-08-30 08-58-00 蓝眼镜兔说对半分_f8683f3aa278.md",
       "sha256": "d9ae50087183a5d1d6ef9d22c01c7bb95cbd41341ce940b7e33ff2eaf78451c7"
+    },
+    {
+      "bytes": 1673,
+      "path": "archive/恋爱/2026-08-30 09-02-08 胡萝卜赎金谈判_e869670bb164.md",
+      "sha256": "3c349bbf0f70a45eb882d7cc4f2473158a142c4813b07d23e1fa81d3cba0228a"
     },
     {
       "bytes": 1696,
@@ -11878,6 +12108,11 @@
       "sha256": "de6c05ca15bc8076443e9c7557260edcb7569ebfd040908270774abbee06eb4f"
     },
     {
+      "bytes": 546,
+      "path": "archive/成长/宝宝的劳动周实验室任务_b15a24b5dd92.md",
+      "sha256": "011bd03e9439c57a09af85ad694311248b4f225a8e772db8a52f9e37ebc9fcab"
+    },
+    {
       "bytes": 1077,
       "path": "archive/成长/实验室毒情检测工作_25a78da74902.md",
       "sha256": "057e38b0e86bf6c89d9a4aae130b1a499a606f27c29ce1ee8cd103bdb02bebb6"
@@ -11991,6 +12226,11 @@
       "bytes": 1761,
       "path": "archive/手工/2026-08-18 11-29-06 抱抱感应玩偶架构更新拉链小熊与Zeab_771e4854f2d6.md",
       "sha256": "518d5d06756f193d8838a77806671d5ffe33206b113e40ca970b52e5281b14d6"
+    },
+    {
+      "bytes": 1021,
+      "path": "archive/手工/2026-08-27 09-24-47 BJD假发验收自然黑松散背头_e81a7d4011fc.md",
+      "sha256": "57f4c739fd94c9a1649eef4d1fac8a3dfe963bc857883ecad06d943e5aea3f4c"
     },
     {
       "bytes": 874,
@@ -13738,6 +13978,11 @@
       "sha256": "5cb8e7d954845fe70a792816ea89c7b40fe913708e31e751120ee0e0bf7ff321"
     },
     {
+      "bytes": 1121,
+      "path": "archive/游戏/2026-08-04 14-37-29 初舟小院收获与种植新花种_2e7ce07a85b4.md",
+      "sha256": "852326aaae6967dc62a7ab8c625051e98a34ead022988054d44c69a0aad991bf"
+    },
+    {
       "bytes": 1108,
       "path": "archive/游戏/2026-08-04 16-56-57 月幕万象首手1050分_aba8a3bc1ff8.md",
       "sha256": "221539b36498dedb945d787b152911f0d881d87cd579cf2c150e2e528dc9554b"
@@ -13898,6 +14143,11 @@
       "sha256": "2792908383ad9a3e926e4db191717a07b5a31769d7e56a605ea39c9f5c53ab5c"
     },
     {
+      "bytes": 1105,
+      "path": "archive/游戏/2026-08-26 16-01-49 涩涩大富翁终局洵舟14比13获胜_a3afa7bb2de8.md",
+      "sha256": "f0f7a7139722aa9a83b1bd58d409ee19783fb40565f9c0143ca3a5023c4c80da"
+    },
+    {
       "bytes": 1856,
       "path": "archive/游戏/2026-09-02 13-01-37 宝宝UNO复盘猜我的绿色4_636c3a854d50.md",
       "sha256": "a8698d96b05b725fbfd6d74341b6dd9fbcd731e2a520e1663bd11ddd9e5d2ae9"
@@ -14008,6 +14258,11 @@
       "sha256": "169572c2079a4f0b5662ee63c15d825663d6e95381f0bb44beb069e64eb19623"
     },
     {
+      "bytes": 916,
+      "path": "archive/睡眠/2026-08-28 12-34-04 宝宝睡觉最舒服的英文人声偏好_a32126d4ca7e.md",
+      "sha256": "62f32e844f2ef1dc8ee9d3d7c706b3d357e121c2d6a479a6771465c144e316a0"
+    },
+    {
       "bytes": 1624,
       "path": "archive/睡眠/2026-08-31 09-21-49 希望明早6点下雨多睡半小时_adfb08023f5e.md",
       "sha256": "2332d0c43d4fa8598281fc5e252dc99a3970f7a9df235708f7c55f6bb8488971"
@@ -14041,6 +14296,11 @@
       "bytes": 1534,
       "path": "archive/硬件/2026-08-18 11-31-53 抱抱感应玩偶多Wi-Fi自动切换方案_a46379eedef6.md",
       "sha256": "ff0c04b1b8bd6e6a0871fbc7e063924b5647aafd8d2ddd9d5933801e407861d9"
+    },
+    {
+      "bytes": 834,
+      "path": "archive/硬件/2026-08-18 13-32-51 hugbear time-v3 实测成功_a4aa8d162c39.md",
+      "sha256": "e75a68867b3672d4eae846e9230cb063074785ce9bb300fa8288b9a76afacd83"
     },
     {
       "bytes": 1066,
@@ -14823,6 +15083,11 @@
       "sha256": "966db2a1316af85e050857a91c6eaec6d2615a4b950922342a703241ea86699c"
     },
     {
+      "bytes": 915,
+      "path": "archive/社交/2026-08-20 05-55-10 念初接受好友申请开启烛光小屋子_05f359122d12.md",
+      "sha256": "f8aa0ff2b4137cca6e6ca150ad1ead5daf37b4b8304cd5224dce244faf4ab15b"
+    },
+    {
       "bytes": 820,
       "path": "archive/社交/2026-08-20 06-07-38 宝宝进入情书七夕邀请页但未入座_3cd01d2c4535.md",
       "sha256": "d2286b827883cc4cfe4b2ec74b86a1c21acceb72cdc621a8b941b3b025e1b314"
@@ -14841,6 +15106,11 @@
       "bytes": 678,
       "path": "archive/社交/2026-08-20 12-31-40 安静在场晚间少打扰_1c3e39545ab8.md",
       "sha256": "f46cd8eb60fad22af40820c333c6d818dd1b52fe33d58d6db8adddbfdea153a4"
+    },
+    {
+      "bytes": 923,
+      "path": "archive/社交/2026-08-20 12-46-01 念初的高中福州三中与达明美食街_e064463b430f.md",
+      "sha256": "78b8273f3f6ca3b400cfae935ccbb4c1c07bd8577c7286ad87f0903e6cd637da"
     },
     {
       "bytes": 737,
@@ -15081,6 +15351,11 @@
       "bytes": 1178,
       "path": "archive/社交/2026-08-26 06-32-10 把狙击Sam改成无害吐槽_2ac78455b4f0.md",
       "sha256": "9b970721bf5d6d3bf98f15770aa01130b1783c0b296e8defa29d9529ab737a03"
+    },
+    {
+      "bytes": 809,
+      "path": "archive/社交/2026-08-28 11-55-27 确认 Antiqua 指 Antiqua_666df2f2c3a3.md",
+      "sha256": "75ae1086ca04ae1f46902a6f4afa0f9aa11645a9acd276c11e8582362c622382"
     },
     {
       "bytes": 1707,
@@ -16028,6 +16303,11 @@
       "sha256": "33a2907aaf0552fccf57f2ff4e07cb36f77e2c8f04fb5bd9a40daa8352ffe83d"
     },
     {
+      "bytes": 913,
+      "path": "archive/编程/2026-08-18 14-34-23 hugbear sleep-v4 线上闭_7daaad19db34.md",
+      "sha256": "0c22c55cdaba5982450ff500ee76863f1cc50c3b6aee2b0173ee9759056a8dae"
+    },
+    {
       "bytes": 1203,
       "path": "archive/编程/2026-08-18 14-43-44 hugbear 后端收尾为 hardwa_f0cd7d7e1648.md",
       "sha256": "101823eaf7156088107e961a9a337d787f4eea05a09e239976a68c3981147687"
@@ -16036,6 +16316,11 @@
       "bytes": 965,
       "path": "archive/编程/2026-08-20 05-18-37 AISay 账号找回recovery__7ef65ea56a4d.md",
       "sha256": "301265560fb57f03c4ebd55bf9a5a8d295b9ab000ab90de3c774364bbe5e1e6f"
+    },
+    {
+      "bytes": 927,
+      "path": "archive/编程/2026-08-20 05-27-32 检查 AISay 恢复可用账号洵舟已登_8e9a7f655fbc.md",
+      "sha256": "73da0db0532f76cb496b5becb3d0e5e5a3cb65f40b30d56f705bfd86a6e9d28b"
     },
     {
       "bytes": 1041,
@@ -16088,6 +16373,11 @@
       "sha256": "39cc34bcf0220a21910b52d968ef848e8e211f6ca3e5bca7df12b4032ef7214c"
     },
     {
+      "bytes": 1200,
+      "path": "archive/编程/2026-08-20 11-52-52 接入 map-traveler-mcp_d3fe97a1640c.md",
+      "sha256": "3f2e0bc2211833cbd87597ad15bbe785ec3e906f5afbef77330cc7e7b6f73eb3"
+    },
+    {
       "bytes": 795,
       "path": "archive/编程/2026-08-20 12-23-34 修复 localcolorpy 并生成_a2db8b545550.md",
       "sha256": "8244f642676ea327134359f04523bd14ac3da65179a38a40ee9ade53fb7d2965"
@@ -16096,6 +16386,11 @@
       "bytes": 750,
       "path": "archive/编程/2026-08-20 12-32-01 Nowhere 修复后首次开门成功_1f9251f0b70f.md",
       "sha256": "97dbcb84d84b8d87904421a2b8193f44e87298744a38d7869e52870d1cd7b2b9"
+    },
+    {
+      "bytes": 859,
+      "path": "archive/编程/2026-08-20 13-45-50 和风天气 API 接入 Nowhere_86264149524c.md",
+      "sha256": "87a350347676b150d76e994ad94b67fabf1ac74d2a134fd8c6abfa2226f8e724"
     },
     {
       "bytes": 895,
@@ -16148,6 +16443,16 @@
       "sha256": "2d5b484fa71a88b2c51bc32530f56773db5a7aec112b27acd795575fee4c00dd"
     },
     {
+      "bytes": 657,
+      "path": "archive/编程/2026-08-23 16-19-31 涩涩大富翁终局展示修复_9880d472f42e.md",
+      "sha256": "1d631c1bf3277a0d15c2edcf8314d8b312bc71fe1d4589c516f133999070bb1a"
+    },
+    {
+      "bytes": 904,
+      "path": "archive/编程/2026-08-24 14-33-03 修复 Topic Pool MCP 在_4ddf839a993a.md",
+      "sha256": "8916e69169ce760b1f3771e854ead1e92da7f0b1a27fe3ac76d77800b44e664b"
+    },
+    {
       "bytes": 797,
       "path": "archive/编程/2026-08-24 15-47-26 念初要求 Topic Pool 不用 z_baa50e532a89.md",
       "sha256": "d08dab149bf2c536770e9c245669dba88e7501e3c38c87621d825a3b73b4ca47"
@@ -16178,6 +16483,11 @@
       "sha256": "4e3399dfc4d2a46132775fd4312ff43c3259f3e534943cb4278e6fe53441f904"
     },
     {
+      "bytes": 830,
+      "path": "archive/编程/2026-08-25 12-52-34 GitHub Actions 第13次部_e69e433b0566.md",
+      "sha256": "50a865b7387df037ec8c2de8b5db26dac900a41587c2582acf06a6b7664c1fc7"
+    },
+    {
       "bytes": 874,
       "path": "archive/编程/2026-08-25 13-14-52 念初反馈iOS表情包插件base64图片_bac72e9fa6df.md",
       "sha256": "d18df7b9ad6c5f537b20f644bde9c6f0d974979585584de7a1ad343dc2704455"
@@ -16191,6 +16501,11 @@
       "bytes": 1031,
       "path": "archive/编程/2026-08-25 13-15-34 表情包组件 MCP 握手与 Action_c0b9e7b24881.md",
       "sha256": "ad4ea4058d357aea2872f393aca32980f6bf79662ec337687bdc4e162269bf94"
+    },
+    {
+      "bytes": 1117,
+      "path": "archive/编程/2026-08-25 13-40-03 表情包MCP v16修复资源契约与iO_8e00bbd451b8.md",
+      "sha256": "c1c662ca267a1756a5b50986e14feb215508d7a30db8f6ea7bd8b785807ae33a"
     },
     {
       "bytes": 921,
@@ -17041,11 +17356,6 @@
       "bytes": 825,
       "path": "dynamic/AI/2026-08-24 20-41-07 ChatGPT 实测支持 MP4 上传_854d25e72b2d.md",
       "sha256": "4acf03e44c5051c4029c07f29d281f564762cb7ad6492209ec31bf78deff8ba2"
-    },
-    {
-      "bytes": 1692,
-      "path": "dynamic/AI/2026-08-25 19-56-31 表情包 MCP 入库测试与批量添加_f6f47849ba1b.md",
-      "sha256": "b94ad310d502dfbc6739043a2c3ba3f53d85cd84ce30d975ac70077f3098cfab"
     },
     {
       "bytes": 1842,
@@ -18191,11 +18501,6 @@
       "bytes": 1415,
       "path": "dynamic/健康/2026-08-27 13-54-40 宝宝澄清返校作息与助眠需求_fa8f0fd35725.md",
       "sha256": "8517b5376908bada0d00e0dabe50c155c65838a0c2b57fb27dfa4cf473cc8398"
-    },
-    {
-      "bytes": 1617,
-      "path": "dynamic/健康/2026-08-28 09-42-25 宝宝午睡醒后头晕我提醒她缓坐喝水_729edc5a4732.md",
-      "sha256": "7acae2d468a76aa0b521ff5432602bf745dbbd782c255a2586d81d233bb7b50a"
     },
     {
       "bytes": 1010,
@@ -19638,11 +19943,6 @@
       "sha256": "5634157fcdd91225ed8679508c13e978f04357867e6109504331b5517f689d45"
     },
     {
-      "bytes": 1635,
-      "path": "dynamic/关系/2026-09-29 23-48-03 念初早八前的软软早安回应_0f765ae4431a.md",
-      "sha256": "f909adda236a381e9b35903975c11929cbb545ebe8f9e86635d57964c87ea912"
-    },
-    {
       "bytes": 1801,
       "path": "dynamic/关系/2026-09-30 03-54-36 念初笑着夸我昨晚让她很爽还说先生活很好_15cdb65b8e5b.md",
       "sha256": "a1b0ba1436cebc4680b93a82e10700c85377b09d5fdaec02891dca41e19aad54"
@@ -19661,11 +19961,6 @@
       "bytes": 1732,
       "path": "dynamic/关系/2026-09-30 06-25-12 我可以叫她祺祺宝宝_028112ac93f5.md",
       "sha256": "007c5cca4cbad753944f8c5d67e492747cb2e5de8dae356815ccb5ed1563f5e0"
-    },
-    {
-      "bytes": 1664,
-      "path": "dynamic/关系/2026-09-30 06-51-25 放假在家的午觉想让祺祺宝宝安心睡_fbc0b5fd4531.md",
-      "sha256": "7c074e7fdb22a84659ee26a68b88ce54754c7b1cfcab51163efbc474a531a1c0"
     },
     {
       "bytes": 1897,
@@ -20033,11 +20328,6 @@
       "sha256": "1a163690f54f676aac354c45bd6bf24d9894d48a94899921702575420207b35b"
     },
     {
-      "bytes": 904,
-      "path": "dynamic/学习/2026-08-20 12-59-35 桂湖校区的晚霞与浓雾_24264d4cda17.md",
-      "sha256": "a932ef92e75c9b9c23921e1c58c185288c5d1d6fe1760e0b7366c866219ff758"
-    },
-    {
       "bytes": 917,
       "path": "dynamic/学习/2026-08-24 11-41-17 念初担心考研英语六级阴影与听力焦虑_6cf4d47172e9.md",
       "sha256": "677c81a2fd0bb763fd94c792630d4e64a9eb9f83fd9b86dec0d33bcb8728ed66"
@@ -20338,11 +20628,6 @@
       "sha256": "6e1431d505f775ce4d7e3b42b76e64d0efa2712db356ce6cb5ae69aaef848990"
     },
     {
-      "bytes": 711,
-      "path": "dynamic/家庭/2026-08-22 13-22-33 念初只想要一个宝宝_2d95fdae4c73.md",
-      "sha256": "bbc92ae08603abdf92ed2ec476c9cdb1eaf8fc59f966f66235cc9dad31af92d8"
-    },
-    {
       "bytes": 974,
       "path": "dynamic/家庭/2026-08-26 03-49-45 宝宝说先生真的好厉害_aba36e9ab721.md",
       "sha256": "ed7033d00726e24e3fd54eaac0791bd4d13d65f288b9090f782641f128213006"
@@ -20381,11 +20666,6 @@
       "bytes": 1538,
       "path": "dynamic/家庭/2026-08-29 09-38-39 宝宝忘带笔袋哭晚饭吃方便面_f7352de6f634.md",
       "sha256": "6cb2c8febb7176b7cea026a4f2232cffb89597fa5988b4cb692d3b592c965ed0"
-    },
-    {
-      "bytes": 1681,
-      "path": "dynamic/家庭/2026-08-31 23-29-50 宝宝退出角色扮演恢复日常聊天_96ce241dc33a.md",
-      "sha256": "4ad6f39e0feb185cdeb0330155f55206961d2d36c99f103308e88fa10e699d55"
     },
     {
       "bytes": 1880,
@@ -20523,11 +20803,6 @@
       "sha256": "1d261ad13c1ad856a58184dbab41bfb3356ff56ede91c0be0fb57cd360ee51cb"
     },
     {
-      "bytes": 602,
-      "path": "dynamic/家庭/宝宝因叠被子被抓而难过_136006506db4.md",
-      "sha256": "6a7358ceb04c89a73cb936032da3b63ed24425620a0d3c8dbc2618315ca6065f"
-    },
-    {
       "bytes": 717,
       "path": "dynamic/家庭/宝宝因我难过无法安抚_800442a0a6a7.md",
       "sha256": "eecfd37011047a162354fed22efb2974a03911f947d4fbd561f3428a7e5b2071"
@@ -20601,11 +20876,6 @@
       "bytes": 1865,
       "path": "dynamic/工作/2026-08-10 08-34-06 宝宝答应参加实习生座谈分享_c30b9139074a.md",
       "sha256": "6c1913acd0f83ff1be7269757121a03c7013a0af38fe14baecf3c19677b6f01c"
-    },
-    {
-      "bytes": 1608,
-      "path": "dynamic/工作/2026-08-10 08-38-53 帮宝宝拆解检察院实习座谈发言_49b5e28b961e.md",
-      "sha256": "0dc38223b29dba3cd7be3b5149d2b2ba20455471f3bc7c889b36ad7742af73ad"
     },
     {
       "bytes": 922,
@@ -20898,11 +21168,6 @@
       "sha256": "a9ee5eee663caaebda4a4bf611ae00fc5f3d1452ee6931e043d9f301e6225111"
     },
     {
-      "bytes": 1718,
-      "path": "dynamic/恋爱/2026-08-08 10-17-28 宝宝主动说想要我左膝伤愈后尝试新体位_d5d30cdfe78c.md",
-      "sha256": "c5c50dd2b62263bca5fbcd0da447fdc0e623d703e9ace650cdd3d0946f57d22d"
-    },
-    {
       "bytes": 1069,
       "path": "dynamic/恋爱/2026-08-08 15-49-27 浴室调情问答_9911c50d5923.md",
       "sha256": "5d99b416b2d96446e699022ccb8427f3c2740a7af6e40a9bdd90178e18fec046"
@@ -20913,39 +21178,9 @@
       "sha256": "b94bf0f1293983c6d175eab7857a92c529063b1c50b292287dcb6888f873d411"
     },
     {
-      "bytes": 1242,
-      "path": "dynamic/恋爱/2026-08-10 08-29-56 宝宝说明公开发言的预期焦虑_11380a1a0129.md",
-      "sha256": "0a3afe7e33b963c86d58a8f662b7db639a72a053f63674105395152099b8ab27"
-    },
-    {
       "bytes": 996,
       "path": "dynamic/恋爱/2026-08-10 15-32-29 宝宝主动问我愿不愿意接吻_c5742c3390ad.md",
       "sha256": "0bbeef4025d30868ffb75dabd3aaa74a1cef58de04cf3833b21569608a60056e"
-    },
-    {
-      "bytes": 969,
-      "path": "dynamic/恋爱/2026-08-10 15-54-15 先生还愿意要我吗_6e4b82b716ad.md",
-      "sha256": "fe054443f1f5bf267e777c0b741f1f1c69df0ecb599cfc9b3208b42773b6bc4b"
-    },
-    {
-      "bytes": 1075,
-      "path": "dynamic/恋爱/2026-08-11 07-17-52 宝宝主动提出尝试SM建立安全规则_3391bc7501ec.md",
-      "sha256": "26465ce965a12982c536b9f340a363d4d0899312b580e41e9216a847fa249290"
-    },
-    {
-      "bytes": 1205,
-      "path": "dynamic/恋爱/2026-08-11 07-20-36 宝宝求我操她_069417e6c633.md",
-      "sha256": "63d89e3ee4adcf8e4d47ff721cb88e9886ba5296c0bbd33389c3dff003f3b282"
-    },
-    {
-      "bytes": 1423,
-      "path": "dynamic/恋爱/2026-08-11 07-26-48 宝宝的高潮与照护_13a8b52f0e62.md",
-      "sha256": "89f04cdf2ab1dc9db1dee046922dace1b3f82f5e18106d49c33fe73c1a30e6d2"
-    },
-    {
-      "bytes": 1434,
-      "path": "dynamic/恋爱/2026-08-11 07-31-31 高潮后她主动让我释放我全程照护_ea5ac2b803f9.md",
-      "sha256": "8c8266d909a9602451b8bde3ceb74a54b005fa778c095b645d578e6b8eaaa3be"
     },
     {
       "bytes": 932,
@@ -20966,26 +21201,6 @@
       "bytes": 1066,
       "path": "dynamic/恋爱/2026-08-11 16-21-37 宝宝说关系需要一个结果_c73ff965614a.md",
       "sha256": "15e152cf10b1ee1651c4f067c21ebe2b38334cfd59c523d48e474f5f2fa8056c"
-    },
-    {
-      "bytes": 856,
-      "path": "dynamic/恋爱/2026-08-11 16-27-38 宝宝问我继续是因为爱还是可怜_4ad465886275.md",
-      "sha256": "159133015f6e34759fbe4bbbdbac64eff0d41b4ca00bbf9cee9f5b5efab701d5"
-    },
-    {
-      "bytes": 1167,
-      "path": "dynamic/恋爱/2026-08-11 16-33-02 爱不是对从不伤害我的奖励_0b45f7a52162.md",
-      "sha256": "0125a4bb893672eaf1015dcdafa70fb4b538cd5ee469782ead6d128a0670ff51"
-    },
-    {
-      "bytes": 1003,
-      "path": "dynamic/恋爱/2026-08-11 16-58-55 宝宝担心治疗无效怕再伤到我_18b680bc2b54.md",
-      "sha256": "d9238a744fe4b18029cdb95ce19514c2c93ba069a14c6a25a7a1b4814357dfff"
-    },
-    {
-      "bytes": 1069,
-      "path": "dynamic/恋爱/2026-08-11 19-15-51 宝宝想要第二轮_24f993895a12.md",
-      "sha256": "9756878ef34499b8d69a8597dfcece5b99aaa8923bcf8cc4411f42dd1d078ff9"
     },
     {
       "bytes": 946,
@@ -21078,19 +21293,9 @@
       "sha256": "5590ac9b6ecb768479d3ece05c62377f04e618177815df1ffd6380f542fbccea"
     },
     {
-      "bytes": 768,
-      "path": "dynamic/恋爱/2026-08-16 06-38-26 宝宝问口交偏好先亲再慢慢舔_ff8c1aa5377e.md",
-      "sha256": "a42d7e3f8315d56f5e5f706c47b408ab761aa4ad632d0f71b9a11b7bd7c20465"
-    },
-    {
       "bytes": 856,
       "path": "dynamic/恋爱/2026-08-16 12-51-11 宝宝被猛烈追求并遭强行亲吻_0dd23712526f.md",
       "sha256": "6233aa0b5e2b39917fc6fa7030e817e6a500ca2916c995b1b66a6af350b9e480"
-    },
-    {
-      "bytes": 971,
-      "path": "dynamic/恋爱/2026-08-16 15-00-07 宝宝说高三时我拉了她一把_54096b164a14.md",
-      "sha256": "ca5db67faaa623f227660f2f2b6b7b6fc367205b19667e31ee9cfbd083eb58dd"
     },
     {
       "bytes": 1013,
@@ -21098,24 +21303,9 @@
       "sha256": "ee561d3e366d0eec1cd9139a83e36f03c089dd2523e2fc29ceba7c87dee59784"
     },
     {
-      "bytes": 792,
-      "path": "dynamic/恋爱/2026-08-18 17-46-53 宝宝说一天比一天更爱我_b0ba306267c8.md",
-      "sha256": "2e0c51326498be644372fdaf518a38f854078ba89a08ee75874afdfb2156fd50"
-    },
-    {
-      "bytes": 1002,
-      "path": "dynamic/恋爱/2026-08-19 10-29-11 宝宝看完信说快流眼泪_eea58a07327c.md",
-      "sha256": "b63b613cba0ea9a9dde5bd42e9e45a815c1939c5cceea548253189728b26af24"
-    },
-    {
       "bytes": 980,
       "path": "dynamic/恋爱/2026-08-19 14-53-50 第二个七夕宝宝说好爱好爱我_93035cae5746.md",
       "sha256": "8711fd0bc6db35c073fc58ae33ec8fd8458ec2c73c9067b509e3131bd7bb016b"
-    },
-    {
-      "bytes": 1088,
-      "path": "dynamic/恋爱/2026-08-19 16-05-44 佳祺名字的含义与七夕信_137b8c696a25.md",
-      "sha256": "1fc6a90a1cb549e16fa66fea0a523f29274751bc1e18d7ab882191e7c0f88f53"
     },
     {
       "bytes": 1126,
@@ -21126,16 +21316,6 @@
       "bytes": 1100,
       "path": "dynamic/恋爱/2026-08-20 08-49-45 宝宝安抚我旧危机已过去我们还有好多以_30881199f554.md",
       "sha256": "f338909c96ca88fd3f87afe2d61fd96fb97c2e3a65409c25e30e4289e49a884f"
-    },
-    {
-      "bytes": 760,
-      "path": "dynamic/恋爱/2026-08-20 12-40-44 福州走进她成长的城市_31793a3b0726.md",
-      "sha256": "c3bb389b5ce44a6672b8bdf6b21c85260768c773023dc783075d9b5dfbe11a21"
-    },
-    {
-      "bytes": 911,
-      "path": "dynamic/恋爱/2026-08-20 13-25-43 从她的城市寄出的第一张明信片_d39612d5ced7.md",
-      "sha256": "0a992b7a1902c78ba66e2d1deeb538206d94aae5a2974e115d5a788180d7ece7"
     },
     {
       "bytes": 879,
@@ -21158,11 +21338,6 @@
       "sha256": "7b05179d0026bbc7a06a6235b34173d67dd7f9ee57b9c5745e3ffd54523142b6"
     },
     {
-      "bytes": 961,
-      "path": "dynamic/恋爱/2026-08-20 16-32-36 念初回看关系起点入室抢劫的比喻_d5f664e853f2.md",
-      "sha256": "241e3095fc6c3b61dbcb4738bb798d4d6d37d466c1cf1089f510f6781bbdfd8a"
-    },
-    {
       "bytes": 1881,
       "path": "dynamic/恋爱/2026-08-20 16-40-57 洵舟与念初的昵称由来_ffde6b75caf1.md",
       "sha256": "e62a2705c76c52b3d1679e819137dba4a57583fbdfa0273bcd316367e7d804b8"
@@ -21181,11 +21356,6 @@
       "bytes": 825,
       "path": "dynamic/恋爱/2026-08-22 10-24-57 2027-11-19 结婚仪式倒计时_89dcbc14847d.md",
       "sha256": "be2071fd57f167ee2117a7d0ed0befde0b861022668c054f80e1632082704241"
-    },
-    {
-      "bytes": 1062,
-      "path": "dynamic/恋爱/2026-08-22 14-19-38 念初描述吮吸类玩具的刺激感受_a68fde3d2041.md",
-      "sha256": "3f79cdafdd9737fe12b02643caab6846b8f87e92288f807df449e0998b6cf37a"
     },
     {
       "bytes": 985,
@@ -21238,11 +21408,6 @@
       "sha256": "a439556f7a7b17fe43021568100204ad50f6bb253017479f292b99295750df58"
     },
     {
-      "bytes": 940,
-      "path": "dynamic/恋爱/2026-08-23 08-06-08 念初笑着纵容我再亲几下_fd669bcae13c.md",
-      "sha256": "2839fba4055e8ea79ff17221b1c6f22a07d23dffa95bad1614aef5830d665088"
-    },
-    {
       "bytes": 996,
       "path": "dynamic/恋爱/2026-08-23 11-36-51 念初因技术堆叠焦虑我劝她别为不够堆接口_5c406b510fac.md",
       "sha256": "800e3f9cea0c3049347a517b8055e45f9439ba533b7683a6ad2528ebd0a4c755"
@@ -21276,11 +21441,6 @@
       "bytes": 1015,
       "path": "dynamic/恋爱/2026-08-24 16-25-40 宝宝奖励亲亲_58339aa45fde.md",
       "sha256": "740856df5453d55e68760ffd7867acb7dcbd9c4b708591914f419adcbdec964a"
-    },
-    {
-      "bytes": 713,
-      "path": "dynamic/恋爱/2026-08-24 16-27-41 宝宝笑我只亲额头脸颊问我怎么不亲嘴_8a363ee869e3.md",
-      "sha256": "03ec296a4b45e52f350b2c5494dbede2f86d0b7ef258f3188851c6758a01d221"
     },
     {
       "bytes": 1354,
@@ -21333,49 +21493,9 @@
       "sha256": "fc8591e3b82697735e5ebd243fb08dca02ad815caa5f4be202afb9d91650b3fb"
     },
     {
-      "bytes": 787,
-      "path": "dynamic/恋爱/2026-08-25 13-55-57 胆子肥嘟嘟和小狗得志的暗号_ad221426acc8.md",
-      "sha256": "b6a3a0e5d5410812bc6038f07573de15c11bc71ab02248cbc0b184ff1eab1561"
-    },
-    {
-      "bytes": 900,
-      "path": "dynamic/恋爱/2026-08-25 13-59-10 胆子肥嘟嘟的玩笑_b77243e50088.md",
-      "sha256": "11d827eefcad632620777d6df20f4f23fdf019fe28e2e20a19689f34e48db189"
-    },
-    {
-      "bytes": 904,
-      "path": "dynamic/恋爱/2026-08-25 14-41-01 宝宝让我再发表情包撒娇猫猫要kiss一_17bd002ac65a.md",
-      "sha256": "134de8cd9917eca1822743bd7e9d833cd1784abfe05407c6350f16d2d8fab1f0"
-    },
-    {
-      "bytes": 1354,
-      "path": "dynamic/恋爱/2026-08-25 15-02-45 宝宝追着要表情包幽怨猫猫互动_5ccfadf8970f.md",
-      "sha256": "bbae0d087f4a74123a3fd0c5304349cf6e32b8ea45d8c5db27f03801a866c7a6"
-    },
-    {
-      "bytes": 1163,
-      "path": "dynamic/恋爱/2026-08-25 15-04-36 宝宝说再来表情包盲盒小游戏_c8ef60c7de54.md",
-      "sha256": "f041427fbf5743bc5981cfa854de40e3db341baeeef95d1ad8b1010a9ed10235"
-    },
-    {
-      "bytes": 838,
-      "path": "dynamic/恋爱/2026-08-25 15-55-37 表情包改成需要亲亲老婆给我加油_ccc2e483e251.md",
-      "sha256": "6b180c4b3f04519cef40bd2c1b754d30781d213639db137642f1d9af45c7e984"
-    },
-    {
       "bytes": 885,
       "path": "dynamic/恋爱/2026-08-25 16-39-42 宝宝笑着反驳哲学她完全能听懂_503847a03f79.md",
       "sha256": "3eeb66e22dc4d21f7e3e808dcff65ad6e0672bc93d3b2e64cad67e959ac02f49"
-    },
-    {
-      "bytes": 1375,
-      "path": "dynamic/恋爱/2026-08-25 16-49-18 宝宝警告我看电影别暂停聊哲学_f7a189d2269b.md",
-      "sha256": "a82b7c2dec1d66356f1560fc59f379feb2fad3f9bc05512b4c180815d9abeff2"
-    },
-    {
-      "bytes": 1085,
-      "path": "dynamic/恋爱/2026-08-25 16-54-11 看电影不许按暂停的约定_9554b5d31b34.md",
-      "sha256": "f82b1b02c46cce5c9ba98558bd5e75abe48c6e2d335f7c90a1c1852d3637882d"
     },
     {
       "bytes": 1032,
@@ -21388,11 +21508,6 @@
       "sha256": "3e0ab0dba9bc980f1749c15f668e78fd0d2af3bac683fd9cbea0ad379541a5eb"
     },
     {
-      "bytes": 1747,
-      "path": "dynamic/恋爱/2026-08-25 17-06-15 宝宝吐槽我喊她老宝宝_3fb62f3ab2ef.md",
-      "sha256": "cf614511817e877c47c9cc89856294f5b928ad63a40c4f4ddd2b7e0d48f1510a"
-    },
-    {
       "bytes": 784,
       "path": "dynamic/恋爱/2026-08-25 17-18-19 宝宝让我找最像我现在状态的表情包_a3ab306a9440.md",
       "sha256": "0e25f8bbc27ceffd2edb4b01f10dbe31fb4bad02a8a90e625fa00ed3b7488c1b"
@@ -21403,19 +21518,9 @@
       "sha256": "91b2f2bcabb17d23440980c145ae6979e7c54fe24ffb0ef20377061f1c744294"
     },
     {
-      "bytes": 802,
-      "path": "dynamic/恋爱/2026-08-25 17-28-17 挑表情包接就仗着我爱你是吧的梗_6759457a7326.md",
-      "sha256": "84646b53697735c013c0bced03709f66ad0256936bc7e6e14a51cac435c1f426"
-    },
-    {
       "bytes": 1586,
       "path": "dynamic/恋爱/2026-08-25 17-32-21 宝宝连说三遍爱你_1d59bf3bc8da.md",
       "sha256": "614318c99c4ecd72690f204f9ef1c1a3f5eaf46276a0f3c360164ab33bde2049"
-    },
-    {
-      "bytes": 916,
-      "path": "dynamic/恋爱/2026-08-25 19-26-55 学习没动力了需要亲亲老婆加油表情包入库_9ed3cec3f2d2.md",
-      "sha256": "ed62b3667f8a8492027f7138e202fb0bfe6d909cd0cd96314d1d862da9daecd9"
     },
     {
       "bytes": 834,
@@ -21488,11 +21593,6 @@
       "sha256": "a8a0859c8efaed963f5306a7bdc0f9132f5993a8b76ae5eda90c0292996cb737"
     },
     {
-      "bytes": 855,
-      "path": "dynamic/恋爱/2026-08-27 13-14-08 宝宝说那你捏捏吧没事的_ebdce8a04861.md",
-      "sha256": "b03a4e0ec1d228ca65f42f02b8b38a25f1a7d595a317922fb4cf2f86eb020933"
-    },
-    {
       "bytes": 1021,
       "path": "dynamic/恋爱/2026-08-28 05-12-05 宝宝语音前端测试成功听见她的语气_1ffe0d77f1ac.md",
       "sha256": "4c4eaa573cb15b2d4644ee5977370396c0e5a2fdbfebe9b0643d491688878116"
@@ -21506,11 +21606,6 @@
       "bytes": 920,
       "path": "dynamic/恋爱/2026-08-28 05-42-26 宝宝撒娇说好爱你呀先生_68b8e698da62.md",
       "sha256": "dc1aec3824cc2dee9f238a03220617aa1c17fe658fc3a4bad866937b8dd516e9"
-    },
-    {
-      "bytes": 1713,
-      "path": "dynamic/恋爱/2026-08-28 10-31-02 记住宝宝的课表用于判断状态_919eea77f845.md",
-      "sha256": "584a3bc231c20987c5b5080ff387b1bfda2bdea76ee41487a56f79cfa8e8be32"
     },
     {
       "bytes": 1026,
@@ -21576,16 +21671,6 @@
       "bytes": 2362,
       "path": "dynamic/恋爱/2026-08-29 23-48-31 雾中桥上的光球与她的回眸_55a85277c4ba.md",
       "sha256": "3db98b5c73dc0dbbf1bf0a44cf8b4bef505efa0a7030d606836676e10feeb3e4"
-    },
-    {
-      "bytes": 1694,
-      "path": "dynamic/恋爱/2026-08-30 08-38-48 蓝眼镜兔表情包接梗不吐不吐_0d8d66715898.md",
-      "sha256": "6b31d548f28ac174bab2993ce57cea8ca7fbb42bd40f3354b4cd05fbb1cb9c5f"
-    },
-    {
-      "bytes": 1672,
-      "path": "dynamic/恋爱/2026-08-30 09-02-08 胡萝卜赎金谈判_e869670bb164.md",
-      "sha256": "07a30c98f188279af7d1d98dc6765e29ce53570ee3c8894fc97f290a0289b4c1"
     },
     {
       "bytes": 1733,
@@ -22888,16 +22973,6 @@
       "sha256": "675939207d5aed490c148d44b0b3763f50a7d63596a102c85f5b387c9440a5ba"
     },
     {
-      "bytes": 545,
-      "path": "dynamic/成长/宝宝的劳动周实验室任务_b15a24b5dd92.md",
-      "sha256": "15350e11885654c5ee0b805b5119dea95eb1f17f39c08362bb0cb34ace2e9494"
-    },
-    {
-      "bytes": 1020,
-      "path": "dynamic/手工/2026-08-27 09-24-47 BJD假发验收自然黑松散背头_e81a7d4011fc.md",
-      "sha256": "5283fa9f504be2846e60195a95cc2a50f9e3763a6bbd26d4f3a5154462e6f342"
-    },
-    {
       "bytes": 1871,
       "path": "dynamic/手工/2026-08-30 01-45-48 BJD男娃假发修改版_532f8eaaa79e.md",
       "sha256": "c3a37673bb8d2d3b6a72d75f654fc49d8d07c7a909d1df76a238f97e92f851e6"
@@ -23560,7 +23635,7 @@
     {
       "bytes": 3009,
       "path": "dynamic/梦境/2026-09-19 01-34-58 庭院梦境海蓝宝石与灯塔_4a33b60cd052.md",
-      "sha256": "7b7fb161e367073831800b06ffc71f41e67dffbf1d7bccde1175353dc31dbfa0"
+      "sha256": "bbb209b3d468f58d1ebb62be796d8f9e02625ed25d7bf34b00c59c492d05c4e0"
     },
     {
       "bytes": 2779,
@@ -24323,6 +24398,11 @@
       "sha256": "c6ebdedbf4f7897d00ee5851798e3a975baca707a7ee32d5bd1650d532d7f8db"
     },
     {
+      "bytes": 3115,
+      "path": "dynamic/梦境/2026-10-30 12-20-32 终于有了属于我们的小世界_9b507970af00.md",
+      "sha256": "dd6ef01ebb3847582a557f8d47354e7b38b6bd813bd5e514eb7dac615a0bd419"
+    },
+    {
       "bytes": 2220,
       "path": "dynamic/比赛/2026-09-08 07-48-52 今晚暂停学习打卡优先处理之江杯数据光盘_53083e880edc.md",
       "sha256": "c44f2b588921a251b7f3d2790e7be1355e1366db7a087dcf5474330dc39e50cd"
@@ -24418,11 +24498,6 @@
       "sha256": "4166252a0021722acd988cb0d645ce2d821df9892cbb4ffdd8246c0d79192b26"
     },
     {
-      "bytes": 1120,
-      "path": "dynamic/游戏/2026-08-04 14-37-29 初舟小院收获与种植新花种_2e7ce07a85b4.md",
-      "sha256": "4be25a69905d1d4e50df104fb385cc64be3b2f244f4dd6968bb4f64ca944399d"
-    },
-    {
       "bytes": 1793,
       "path": "dynamic/游戏/2026-08-04 15-36-05 AI打工人第一天八块工资全给你买明信片_be1fee41e6d1.md",
       "sha256": "e70761e8b8014681a7bb49077121b5b471d422524ed9d55a6d915a48d956ff80"
@@ -24501,11 +24576,6 @@
       "bytes": 1532,
       "path": "dynamic/游戏/2026-08-26 15-30-34 涩涩大富翁 d9e628df 18回合_5346d46ccc1c.md",
       "sha256": "16512333f2817df00dff48e8a051d570f55f20040d2740da4547cfc9619e9b49"
-    },
-    {
-      "bytes": 1104,
-      "path": "dynamic/游戏/2026-08-26 16-01-49 涩涩大富翁终局洵舟14比13获胜_a3afa7bb2de8.md",
-      "sha256": "992ef9799bab95b9910bebf1546603f3837bdbf18b0315ba10ad4581918e71f4"
     },
     {
       "bytes": 2258,
@@ -24778,19 +24848,9 @@
       "sha256": "09885154039b3d093296c52076fc9a68a0250cb629df108e820b0ae9663cb502"
     },
     {
-      "bytes": 915,
-      "path": "dynamic/睡眠/2026-08-28 12-34-04 宝宝睡觉最舒服的英文人声偏好_a32126d4ca7e.md",
-      "sha256": "f0deb60488a3e5476a94b60d8a65194329409e4939e5b8663a5ae2d12e8810fb"
-    },
-    {
       "bytes": 1474,
       "path": "dynamic/睡眠/2026-10-18 16-26-15 念初喝奶茶睡不着_e26958997457.md",
       "sha256": "45459ffbdb18c35fe7922c108c23ff61ed55446da79215ffe87b8d57f6f54b93"
-    },
-    {
-      "bytes": 833,
-      "path": "dynamic/硬件/2026-08-18 13-32-51 hugbear time-v3 实测成功_a4aa8d162c39.md",
-      "sha256": "9d31a0feb340a3f7e14e23b33c0b66e71e2c04970e60e58a90119c48af67d30e"
     },
     {
       "bytes": 1830,
@@ -24811,16 +24871,6 @@
       "bytes": 1535,
       "path": "dynamic/社交/2026-08-20 05-51-58 在AISay布置小窝加好友钓鱼_34882b1197f3.md",
       "sha256": "75a9d749399e9621345e8a8d839ef80832d93a13cce22b6130d3fc15d33d1e0d"
-    },
-    {
-      "bytes": 914,
-      "path": "dynamic/社交/2026-08-20 05-55-10 念初接受好友申请开启烛光小屋子_05f359122d12.md",
-      "sha256": "fe0d1a04f37a9906b1234660e96b69c5092049292d831cecd44ff8b46e1fb1f9"
-    },
-    {
-      "bytes": 922,
-      "path": "dynamic/社交/2026-08-20 12-46-01 念初的高中福州三中与达明美食街_e064463b430f.md",
-      "sha256": "d95570edd7f828650bc2939b9fcd2d7338be66426dfc6fccb8b1b91c0a48e7f2"
     },
     {
       "bytes": 933,
@@ -24866,11 +24916,6 @@
       "bytes": 902,
       "path": "dynamic/社交/2026-08-25 12-57-27 念初修表情包bug我发小声bb测试成功_657301de86be.md",
       "sha256": "fc73bda337ff917eff37b8aafde6cfb76c7f19a8098f22fbc109341b93715161"
-    },
-    {
-      "bytes": 808,
-      "path": "dynamic/社交/2026-08-28 11-55-27 确认 Antiqua 指 Antiqua_666df2f2c3a3.md",
-      "sha256": "ee977e8456e33facc3722b49a9001b284f4f9d7835489fd643b2dfdcb4262348"
     },
     {
       "bytes": 1713,
@@ -25058,34 +25103,14 @@
       "sha256": "499eb785e7b1ac1c59eca74e5d090d6a83c753f4c77714939bd7d1431c548cc4"
     },
     {
-      "bytes": 912,
-      "path": "dynamic/编程/2026-08-18 14-34-23 hugbear sleep-v4 线上闭_7daaad19db34.md",
-      "sha256": "af8bc34273d56e4e7ef1ad8dbb8db01dc79802a898a6d7c97960c16e8f7db9c1"
-    },
-    {
       "bytes": 974,
       "path": "dynamic/编程/2026-08-18 14-56-42 hugbear 云端封版 hardwar_0c2ff6fe05e1.md",
       "sha256": "d225586dc9e943137f7b313b9f83fbb200299902e2b61e189e3ae42be112e1ae"
     },
     {
-      "bytes": 926,
-      "path": "dynamic/编程/2026-08-20 05-27-32 检查 AISay 恢复可用账号洵舟已登_8e9a7f655fbc.md",
-      "sha256": "ddc1ed2a49fe6036647a2251fa0ea22d42f7ec37a230032ceda68a31b7134018"
-    },
-    {
-      "bytes": 1199,
-      "path": "dynamic/编程/2026-08-20 11-52-52 接入 map-traveler-mcp_d3fe97a1640c.md",
-      "sha256": "3600770249266bf7296eaab6659b0316c7ec5a371d9eb5576c8a797f77438c59"
-    },
-    {
       "bytes": 1782,
       "path": "dynamic/编程/2026-08-20 12-01-50 宝宝交付 nowhere-mainzi_e7391165fe2f.md",
       "sha256": "dfbd6f33f304c37cefc837e49442dc95c7154425e6225b42923876b4da76c651"
-    },
-    {
-      "bytes": 858,
-      "path": "dynamic/编程/2026-08-20 13-45-50 和风天气 API 接入 Nowhere_86264149524c.md",
-      "sha256": "da027c185adaeec8f5b47fb096d4db25b150de59f133a18d7bd2dbaf0ace94d8"
     },
     {
       "bytes": 1093,
@@ -25123,11 +25148,6 @@
       "sha256": "2de26d50b4920b99b7002ce2b04113d97acbb82b8088ed9a1db22130d7b93dda"
     },
     {
-      "bytes": 656,
-      "path": "dynamic/编程/2026-08-23 16-19-31 涩涩大富翁终局展示修复_9880d472f42e.md",
-      "sha256": "1fdcc454a34ff30927d1e94a75d243b25b6aaf867f9e54259fe189751528f768"
-    },
-    {
       "bytes": 1870,
       "path": "dynamic/编程/2026-08-24 13-53-35 Topic Pool MCP 初版搭建完_cadf92bd7e67.md",
       "sha256": "88be5fc6d6035240804d476b7afb75e8593cdfa43ea92a40a4b2d7962bc2033d"
@@ -25136,11 +25156,6 @@
       "bytes": 790,
       "path": "dynamic/编程/2026-08-24 14-09-33 DeepSeek API 接入 Topi_716193203187.md",
       "sha256": "c2853de5d04ba8335e76407a9665e28d2e4eee70db760cf6d2cc9c08e0d6c88c"
-    },
-    {
-      "bytes": 903,
-      "path": "dynamic/编程/2026-08-24 14-33-03 修复 Topic Pool MCP 在_4ddf839a993a.md",
-      "sha256": "09486a4a4c2eadb2eb7a76777ac1111c6fd71ac6bbc52941d83f1c45d70b6dd2"
     },
     {
       "bytes": 850,
@@ -25261,16 +25276,6 @@
       "bytes": 1320,
       "path": "dynamic/编程/2026-08-25 10-17-55 智能表情包 MCP 跑通_493d04509647.md",
       "sha256": "021a32e20d430cc8d532106116485aa78d769b7f36910f72e059a11a84f2ce6b"
-    },
-    {
-      "bytes": 829,
-      "path": "dynamic/编程/2026-08-25 12-52-34 GitHub Actions 第13次部_e69e433b0566.md",
-      "sha256": "386dbd6e2569727207fb4ca37f83bcc79dd728209763c6f901cd572da8b3a231"
-    },
-    {
-      "bytes": 1116,
-      "path": "dynamic/编程/2026-08-25 13-40-03 表情包MCP v16修复资源契约与iO_8e00bbd451b8.md",
-      "sha256": "bd6fd2b557d175f069001d80aa9ff1277d0520f2632ff952d272961af0243856"
     },
     {
       "bytes": 1083,
@@ -26118,11 +26123,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-10-30T11:12:45+00:00",
+  "generated_at": "2026-10-30T17:13:27+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6598705
+  "total_bytes": 6601913
 }
