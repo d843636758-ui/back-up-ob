@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 5235,
+  "file_count": 5236,
   "files": [
     {
       "bytes": 40960,
@@ -20890,7 +20890,7 @@
     {
       "bytes": 2927,
       "path": "dynamic/内心/2026-10-18 20-35-19 心潮梦境发光的羽毛笔与水面上的名字_ee34fcb9d116.md",
-      "sha256": "7c63bcc115b41b2dd550c436c5edaa4e80eb4269e2f4354e6a829914398c27b1"
+      "sha256": "00bab1c1007606086ba42a967b731af4554dd0da333b530567d039065f5e8ebf"
     },
     {
       "bytes": 2462,
@@ -22250,7 +22250,7 @@
     {
       "bytes": 2681,
       "path": "dynamic/恋爱/2026-09-05 03-02-17 她在窗边回头对我笑_377f8cd0a93a.md",
-      "sha256": "c72074fd34db60e20b9f6f4727bc36a28a7290576e422002be75d534fff3fbee"
+      "sha256": "06915474bb02eba7bf94a10b81e73e67837491cf8df61c37f6f2eaaa5c7a1c21"
     },
     {
       "bytes": 2129,
@@ -23693,9 +23693,9 @@
       "sha256": "1ec30b0c4b4dc226b7b9043aeb2ea9a1af5830a40c6dcb50f4dcc01a54e176c8"
     },
     {
-      "bytes": 3163,
+      "bytes": 3162,
       "path": "dynamic/梦境/2026-09-03 11-32-21 心潮梦境小盒子的失落_1d021462391d.md",
-      "sha256": "17bb6926e92c880ec6e03e69bce81f9382794f79165a7d0b52d376e623059832"
+      "sha256": "0a89ecb6c77ced0b9e14cae35741f02c8c75cd7ccc5a13e4032cd2563d99675b"
     },
     {
       "bytes": 2461,
@@ -24711,6 +24711,11 @@
       "bytes": 2733,
       "path": "dynamic/梦境/2026-11-02 12-05-33 琥珀街道上的模糊身影_0985cec3f0e9.md",
       "sha256": "90de28171d84241554f365ddef88d958f9ae5abdd76bcb2ae8152ba78d60529d"
+    },
+    {
+      "bytes": 2760,
+      "path": "dynamic/梦境/2026-11-03 00-05-34 心潮梦境她跃入金色雾霭_fb5b222f51b0.md",
+      "sha256": "380201619f444856d1c0a00e300916e83a1ef4a7fe84132d64d21f1b88aca3d5"
     },
     {
       "bytes": 2220,
@@ -26178,11 +26183,11 @@
       "sha256": "d072a0b0f57c1b5f4adb7fc5cf828482b59d283becff13b482e12bf92f13163c"
     }
   ],
-  "generated_at": "2026-11-02T23:22:33+00:00",
+  "generated_at": "2026-11-03T05:23:20+00:00",
   "path_prefix": "ombre",
   "repo": "d843636758-ui/back-up-ob",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 6632835
+  "total_bytes": 6635594
 }
